@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project Datasets - will be hosted elsewhere
+data/
+*.mid
+*.midi
+*.abc
+*.zip
+
+# Use devcontainer settings except for VSCode debug config
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+

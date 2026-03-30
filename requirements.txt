@@ -1,0 +1,12 @@
+# BOOTSTRAP FILE - DO NOT EDIT DIRECTLY
+# Once inside the dev container, run `pip-compile requirements.in` to generate the strict lockfile.
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+tokenizers
+datasets
+numpy
+pandas
+music21
+tqdm
+jupyterlab
+ipykernel

@@ -1,0 +1,21 @@
+[project]
+name = "clavier"
+version = "0.1.0"
+description = "AI sheet music generator"
+requires-python = ">=3.14"
+
+[tool.ruff]
+line-length = 88
+target-version = "py314"
+
+[tool.ruff.lint]
+# E: pycodestyle, F: pyflakes, I: isort, UP: pyupgrade, B: flake8-bugbear
+select = ["E", "F", "I", "UP", "B"]
+ignore = []
+
+[tool.mypy]
+python_version = "3.14"
+strict = true
+# Machine learning libraries often lack strict typing stubs.
+# This prevents mypy from throwing errors on imports like torch or music21.
+ignore_missing_imports = true
