@@ -24,8 +24,6 @@ import requests
 COMPOSER: str = "haydn"
 BULK_URL: str = "https://ifdo.ca/~seymour/kern2abc/haydn_sonatas.abc"
 
-# 1. Path Fix: Dynamically resolve the project root
-# so it always writes to the right place
 SCRIPT_DIR: str = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT: str = os.path.dirname(SCRIPT_DIR)
 OUTPUT_DIR: str = os.path.join(PROJECT_ROOT, "data", "raw", COMPOSER)

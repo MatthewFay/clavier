@@ -1,0 +1,216 @@
+X: 1
+T: from /workspace/data/raw_mid/bach/aof/can2.mid
+M: 9/16
+L: 1/16
+Q:1/4=90
+K:F % 1 flats
+V:1
+%%MIDI program 0
+A3 D_D=D EDE| \
+FEF GFG AGA| \
+B2z A2z G2z| \
+GF4E F2G|
+A2g f2A G2e| \
+d2F E2d _d2E| \
+ED_D =DEF GAB| \
+BAG A=B_d =def|
+fde e_d=d d=Bc| \
+cAB BGA AFG| \
+G2<F2GA BAG| \
+d2<_d2=de fed|
+ (3a_a=a (3_a=a_a (3=a_a=a  (3_a=a_a_g/2>a/2| \
+a2z3_d =d2e| \
+A=B_d =def2<G2| \
+Ggf ed_d2<=d2|
+d=B_d =def efd| \
+_d=de A4BG| \
+FGE FAd cBA| \
+Bdg _deA BAG|
+FGE F2d G2F| \
+EAG FED  (3D_D=D_D/2>=D/2| \
+D2z6z| \
+z8z|
+d3 A_A=A =BAB| \
+c=B_d =d_d=d ede| \
+f2z e2z d2z| \
+d_d4A =B2d|
+dc=B c2a _a2d| \
+e2g fed _d2b| \
+afd dgc cfB| \
+BAG A_de gfe|
+fed edc dc=B| \
+cde def efg| \
+fda Beg Adf| \
+G_de FAG BAd|
+def  (3A_A=A (3_A=A_A (3_GA=A| \
+A2z3=B c2A| \
+d2f fed cd=B| \
+e3 A3 z3|
+A3 efe ded| \
+cdc =BcB ABA| \
+_A2z =A2z B2=B| \
+c4cd c2=B|
+AEA cAc e2_A| \
+A2f G2e F2d| \
+E=Bd cBA _Adf| \
+edc =BA_A =AEB|
+c=BA e4Bd| \
+dca c=Bg BAf| \
+A_A=B E2z4| \
+z3 d4cd|
+edc =Bcd e_g_a| \
+aec dg=B cfA| \
+=Bed cBA BA_A| \
+A_A_G AEA =Bed|
+c=BA d4cB| \
+c2z f2z e2z| \
+d2_A =A2c  (3_A_GAG/2>E/2| \
+E2z6z|
+zDE FGF2<E2| \
+EFG ABA GAG| \
+FGF EFE DED| \
+_D2z =D2z E2z|
+F4FA  (3AGAF| \
+GFE  (3d_d=d (3_d=d_d (3=Bd=d| \
+dBg cAf BGe| \
+AGe AFd GE_d|
+dAF DEF EFD| \
+E4FG FGE| \
+F2z E2z D2z| \
+_D2z =D2z E2z|
+FED BAG _d2z| \
+zGD _D=DE A,=B,_D| \
+DG,B, CF,A, B,E,G,| \
+A,AG Fdc BAB|
+A3 D_D=D EDE| \
+FEF GFG AGA| \
+B2z A2z G2z| \
+GF4E F2G|
+A2g f2A G2e| \
+d2F E2d _d2E| \
+ED_D =DEF GAB| \
+BAG A=B_d =def|
+fde e_d=d d=Bc| \
+cAB BGA AFG| \
+F4GA BAG| \
+d2<_d2=de fed|
+ (3a_a=a (3_a=a_a (3=a_a=a  (3_a=a_a_g/2>a/2| \
+a2z3_d =d2e| \
+A=B_d =def2<G2| \
+Ggf ed_d2<=d2|
+d=B_d =def efd| \
+_d=de A4BG| \
+FGE FAd cBA| \
+Bdg _deA BAG|
+FGE F2d G2F| \
+EAG FED  (3D_D=D_D/2>=D/2| \
+D2z3B A2f| \
+GAB A_de gfe|
+a2_d =def B_ed| \
+_d=de A2z A,,2z| \
+D,,6 
+V:2
+%%MIDI program 0
+z8z| \
+z8z| \
+z8z| \
+z8z|
+A,3 D,_D,=D, E,D,E,| \
+F,E,F, G,F,G, A,G,A,| \
+B,2z A,2z G,2z| \
+G,F,4E, F,2G,|
+A,2G F2A, G,2E| \
+D2F, E,2D _D2E,| \
+E,D,_D, =D,E,F, G,A,B,| \
+B,A,G, A,=B,_D =DEF|
+FDE E_D=D D=B,C| \
+CA,B, B,G,A, A,F,G,| \
+G,2<F,2G,A, B,A,G,| \
+D2<_D2=DE FED|
+ (3A_A=A (3_A=A_A (3=A_A=A  (3_A=A_A_G/2>A/2| \
+A2z3_D =D2E| \
+A,=B,_D =DEF2<G,2| \
+G,GF ED_D2<=D2|
+D=B,_D =DEF EFD| \
+_D=DE A,4B,G,| \
+F,G,E, F,A,D CB,A,| \
+B,DG _DEA, B,A,G,|
+F,G,E, F,2D G,2F,| \
+E,A,G, F,E,D,  (3D,_D,=D,_D,/2>=D,/2| \
+D,2z6z| \
+z8z|
+D3 A,_A,=A, =B,A,B,| \
+C=B,_D =D_D=D EDE| \
+F2z E2z D2z| \
+D_D4A, =B,2D|
+DC=B, C2A _A2D| \
+E2G FED _D2B| \
+AFD DGC CFB,| \
+B,A,G, A,_DE GFE|
+FED EDC DC=B,| \
+CDE DEF EFG| \
+FDA B,EG A,DF| \
+G,_DE F,A,G, B,A,D|
+DEF  (3A,_A,=A, (3_A,=A,_A, (3_G,A,=A,| \
+A,2z3=B, C2A,| \
+B,2F FED CD=B,| \
+C3 A,3 z3|
+A,3 EFE DED| \
+CDC =B,CB, A,B,A,| \
+_A,2z =A,2z =B,2z| \
+C4CD C2=B,|
+A,E,A, CA,C E2_A,| \
+A,2F G,2E F,2D| \
+C,=B,D CB,A, _A,DF| \
+EDC =B,A,_A, =A,E,B,|
+C=B,A, E4B,D| \
+DCA C=B,G B,A,F| \
+A,_A,=B, E,2z4| \
+z3 D4CD|
+EDC =B,CD E_G_A| \
+AEC DG=B, CFA,| \
+=B,ED CB,A, B,A,_A,| \
+A,_A,_G, A,E,A, =B,ED|
+C=B,A, D4CB,| \
+C2z F2z E2z| \
+D2_A, =A,2C  (3_A,_G,A,G,/2>E,/2| \
+E,2z6z|
+zD,E, F,G,F,2<E,2| \
+E,F,G, A,B,A, G,A,G,| \
+F,G,F, E,F,E, D,E,D,| \
+B,,2z D,2z E,2z|
+F,4F,A,  (3A,G,A,F,| \
+G,F,E,  (3D_D=D (3_D=D_D (3=B,D=D| \
+DB,G CA,F B,G,E| \
+A,G,E A,F,D G,E,_D|
+DA,F, D,E,F, E,F,D,| \
+E,4F,G, F,G,E,| \
+F,2z E,2z D,2z| \
+_D,2z =D,2z E,2z|
+F,E,D, B,A,G, _D2z| \
+zG,D, _D,=D,E, A,,=B,,_D,| \
+D,G,,B,, C,F,,A,, B,,E,,G,,| \
+A,,A,G, F,DC B,A,B,|
+A,3 D,_D,=D, E,D,E,| \
+F,E,F, G,F,G, A,G,A,| \
+B,2z A,2z G,2z| \
+G,F,4E, F,2G,|
+A,2G F2A, G,2E| \
+D2F, E,2D _D2E,| \
+E,D,_D, =D,E,F, G,A,B,| \
+B,A,G, A,=B,_D =DEF|
+FDE E_D=D D=B,C| \
+CA,B, B,G,A, A,F,G,| \
+F,4G,A, B,A,G,| \
+D2<_D2=DE FED|
+ (3A_A=A (3_A=A_A (3=A_A=A  (3_A=A_A_G/2>A/2| \
+A2z3_D =D2E| \
+A,=B,_D =DEF2<G,2| \
+G,GF ED_D2<=D2|
+D=B,_D =DEF EFD| \
+_D=DE A,4B,G,| \
+F,G,E, F,A,D CB,A,| \
+B,DG _DEA, B,A,G,|
+F,G,E, F,2D G,2F,| \
+E,A,G, F,E,D, D,/2>_D,/2 (3=D,/2_D,/2=D,/2 (3_D,/2=B,,/2D,/2| \
+D,6 

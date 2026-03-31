@@ -42,8 +42,8 @@ ENV PATH="/home/$USERNAME/.local/bin:${PATH}"
 # Copy the pre-compiled lockfile from the root context
 COPY --chown=$USERNAME:$USER_GID requirements.txt /tmp/
 
-# Install exactly what is locked
-RUN pip install --user -r /tmp/requirements.txt
+RUN --mount=type=cache,target=/home/$USERNAME/.cache/pip,uid=$USER_UID,gid=$USER_GID \
+    pip install --user -r /tmp/requirements.txt
 
 # Add local user bin to PATH so installed packages are executable
 ENV PATH="/home/$USERNAME/.local/bin:${PATH}"

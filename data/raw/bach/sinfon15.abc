@@ -1,0 +1,127 @@
+X: 1
+T: from /workspace/data/raw_mid/bach/sinfon/sinfon15.mid
+M: 9/16
+L: 1/16
+Q:1/4=90
+% Last note suggests minor mode tune
+K:D % 2 sharps
+V:1
+K:C % 0 sharps
+B^FF GFF BFF| \
+^c^FF GFF cFF| \
+d/2B/2d/2^f/2b/2f/2 d/2f/2d/2B/2d/2B/2 F/2B/2F/2D/2F/2D/2| \
+B,z3B^c dcB|
+ (3B/2^A/2B/2[BA]/2A2-A/2B^c BcA| \
+B/2^F/2B/2d/2f/2d/2 B/2d/2B/2F/2B/2F/2 D/2F/2D/2B,/2D/2B,/2| \
+d8-d-| \
+dBB ^cBB eBB|
+^c8-c-| \
+^cAA BAA dAA| \
+B/2d/2B/2G/2B/2G/2 E3 e/2g/2e/2^c/2e/2c/2| \
+A/2^c/2A/2^F/2A/2F/2 D3 d/2f/2d/2B/2d/2B/2|
+G/2B/2G/2E/2G/2E/2 ^C/2E/2C/2A,/2C/2A,/2 A^FG| \
+^F3 z6| \
+z8z| \
+z8z|
+AEE ^FEE AEE| \
+BEE ^FEE BEE| \
+^c/2A/2c/2e/2a/2^f/2 ^d/2f/2d/2B/2d/2B/2 F/2B/2F/2D/2F/2D/2| \
+E3 z3 E3-|
+EEE ^FEE AEE| \
+^F8-F-| \
+^FDD EDD GDD| \
+E8-E-|
+E^CC DCC ^FCC| \
+D/2B,/2D/2^F/2D/2F/2 B/2F/2B/2d/2B/2d/2 g3| \
+^C/2A,/2C/2E/2C/2E/2 A/2E/2A/2c/2A/2c/2 ^f3| \
+B,/2G,/2B,/2D/2B,/2D/2 G/2D/2G/2B/2G/2B/2 e3-|
+e^FF GFF eFF| \
+d8-d-| \
+dBB cBB gBB| \
+^A3 ^f6|
+z/2B/2d/2^f/2b/2f/2 d/2f/2d/2B/2d/2B/2 F/2B/2F/2D/2F/2D/2| \
+d8-d-| \
+d^cc ^gcc dcc| \
+e^cc ^acd edc|
+^fge2<d2  (3d/2^c/2d/2[dc]/2[dc]/2[dc]/2[cB]/2| \
+B8-B-|B8-B|
+V:2
+%%clef treble
+K:C % 0 sharps
+z8z| \
+z8z| \
+z8z| \
+z8z|
+z8z| \
+z8z| \
+B^FF GFF BFF| \
+^G8-G|
+AEE ^FEE AEE| \
+^F8-F| \
+Gz8| \
+z8z|
+z8z| \
+DA,A, B,A,A, DA,A,| \
+EA,A, B,A,A, EA,A,| \
+^F/2D/2F/2A/2d/2A/2 ^G/2B/2G/2E/2G/2E/2 B,/2E/2B,/2G,/2B,/2G,/2|
+E,3 zA,B, ^CB,A,| \
+ (3A,/2^G,/2A,/2[A,G,]/2G,2-G,/2-[A,-G,]/2A,/2B, A,B,G,| \
+A,4B,C B,CA,| \
+zB,B, CB,B, EB,B,|
+^C8-C-| \
+^CA,A, B,A,A, DA,A,| \
+B,8-B,-| \
+B,^G,G, A,G,G, ^CG,G,|
+^A,8-A,| \
+B,z8| \
+z8z| \
+z8z|
+z8z| \
+^FB,B, DB,B, FB,B,| \
+G8-G| \
+^F3 ^A6|
+z8z| \
+B8-B-| \
+B8-B| \
+^A3 zAB ^cBA|
+B6 ^A3|
+V:3
+K:C % 0 sharps
+B,,3 zB,^C DCB,| \
+ (3B,/2^A,/2B,/2[B,A,]/2A,2-A,/2-[B,-A,]/2B,/2^C B,CA,| \
+B,3 z6| \
+z^F,F, G,F,F, B,F,F,|
+^C^F,F, G,F,F, CF,F,| \
+D/2B,/2D/2^F/2B/2F/2 D/2F/2D/2B,/2D/2B,/2 F,/2B,/2F,/2D,/2F,/2D,/2| \
+B,,3 zB,^C DCB,| \
+E3 zE,^F, ^G,F,E,|
+A,3 zA,,B,, ^C,B,,A,,| \
+D,3 zD,,E,, ^F,,E,,D,,| \
+G,,3 G,/2B,/2G,/2E,/2G,/2E,/2 ^C,/2E,/2C,/2A,,/2C,/2A,,/2| \
+^F,,3 F,/2A,/2F,/2D,/2F,/2D,/2 B,,/2D,/2B,,/2G,,/2B,,/2G,,/2|
+E,,3 E,/2G,/2E,/2^C,/2E,/2C,/2 A,,/2C,/2A,,/2^F,,/2A,,/2F,,/2| \
+D,,3 zD,,E,, ^F,,E,,D,,| \
+^C,,3 zA,,B,, C,B,,A,,| \
+D,4E,^F, E,F,D,|
+^C,3 z6| \
+E,3 z6| \
+A,,3 ^F,6| \
+G,3 zE,^F, G,F,E,|
+A,3 zA,,B,, ^C,B,,A,,| \
+D,3 zD,E, ^F,E,D,| \
+G,3 zG,^F, E,F,G,| \
+^C,3 zC,B,, ^A,,B,,C,|
+^F,,3 zF,E, D,E,F,| \
+B,,3 D,/2B,,/2D,/2^F,/2D,/2F,/2 B,/2G,/2B,/2E/2B,/2E/2| \
+A3 ^C,/2A,,/2C,/2E,/2C,/2E,/2 A,/2^F,/2A,/2D/2A,/2D/2| \
+G/2B/2G/2D/2G/2D/2 B,/2D/2B,/2G,/2B,/2G,/2 E,/2G,/2E,/2^C,/2E,/2C,/2|
+^A,,4B,,^C, ^F,,B,,A,,| \
+B,,3 z3 B,,3| \
+E,8-E,-| \
+E,8-E,|
+D,2z6z| \
+B,/2G,/2B,/2E/2B,/2G,/2 B,/2D/2B,/2G,/2B,/2G,/2 D,/2G,/2D,/2B,,/2D,/2B,,/2| \
+F,,3 z6| \
+^F,,3 zE,F, G,F,E,|
+D,2E, ^F,2E, F,2F,,| \
+B,,8-B,,-|B,,6- B,,
