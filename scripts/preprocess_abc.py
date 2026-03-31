@@ -13,7 +13,7 @@ EOS_TOKEN: str = "<|eos|>"
 def clean_abc_text(raw_abc: str, composer: str) -> str:
     """
     Strips noise, inline comments, layout instructions, backslashes,
-    converts global headers to inline brackets, removes whitespace, 
+    converts global headers to inline brackets, removes whitespace,
     applies gatekeeper checks, and packs the sequence tightly with special tokens.
     """
     lines: list[str] = raw_abc.splitlines()
@@ -59,11 +59,11 @@ def clean_abc_text(raw_abc: str, composer: str) -> str:
             music_parts.append(clean_music)
 
     # --- GATEKEEPER CHECKS ---
-    
+
     # 1. The Ghost Check: Did we actually extract any music?
     if not music_parts:
         return ""
-        
+
     # 2. The Monster Check: Count the voices.
     joined_headers: str = "".join(headers)
     voice_matches: list[str] = re.findall(r"\[V:(\d+)", joined_headers)
@@ -71,23 +71,19 @@ def clean_abc_text(raw_abc: str, composer: str) -> str:
         max_voice: int = max(int(v) for v in voice_matches)
         if max_voice > 4:
             return ""  # Drop this file, it's too complex for the V1 model
-            
+
     # 3. The Length Check: Prevent Context Window Blowouts
     joined_music: str = "".join(music_parts)
     if len(joined_music) > 3000:
         return ""
-        
+
     # --- END GATEKEEPER CHECKS ---
 
     # 4. Compile the Sequence
     composer_token: str = f"<|{composer.lower()}|>"
 
     final_sequence: str = (
-        BOS_TOKEN
-        + composer_token
-        + joined_headers
-        + joined_music
-        + EOS_TOKEN
+        BOS_TOKEN + composer_token + joined_headers + joined_music + EOS_TOKEN
     )
 
     return final_sequence
