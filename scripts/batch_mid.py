@@ -36,22 +36,19 @@ def convert_midi_to_abc(midi_path: Path) -> bool:
         # 2. The Fallback Path (Python Library)
         error_msg: str = e.stderr.strip()
 
-        tqdm.write(
-            f"\n[Warning] Strict parser failed on {midi_path.name}: {error_msg}"
-        )
+        tqdm.write(f"\n[Warning] Strict parser failed on {midi_path.name}: {error_msg}")
         tqdm.write("-> Routing to forgiving music21 fallback parser...")
 
         try:
             # Cast to Any to satisfy Pylance strict mode on untyped library boundaries
-            score: Any = cast(Any, converter.parse(midi_path)) # type: ignore
+            score: Any = cast(Any, converter.parse(midi_path))  # type: ignore
             score.write("abc", fp=abc_path)
             tqdm.write("-> Fallback successful!")
             return True
 
         except Exception as fallback_err:
             tqdm.write(
-                "-> Fallback also failed. "
-                f"File is severely corrupted: {fallback_err}"
+                f"-> Fallback also failed. File is severely corrupted: {fallback_err}"
             )
             return False
 
