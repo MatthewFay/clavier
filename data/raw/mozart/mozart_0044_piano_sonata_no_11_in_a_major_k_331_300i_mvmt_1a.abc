@@ -1,0 +1,60 @@
+X: 43
+T: Piano Sonata No. 11 in A major, K 331 (300i), mvmt. 1a
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:33
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/09/29
+%%gracespace 0 6 6
+%%humdrum-veritas 2447765801
+%%humdrum-veritas-data 4211424460
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 6/8
+N: Derived from sonata11-1a.krn
+Q: "Thema: Andante grazioso" 1/8=144
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] c>dce2e | 
+[V:2] E2EE2E & A,>B,A,C2C | 
+[V:1] B>cBd2d | 
+[V:2] E2EE2E & G,>A,G,B,2B, | 
+[V:1] A2AB2B | 
+[V:2] E2EE2E & F,2F,G,2G, | 
+[V:1] c2e/d/c2B & E2BA2G | 
+[V:2] A,2D,E,3 | 
+[V:1] c>dce2e | 
+[V:2] E2EE2E & A,>B,A,C2C | 
+[V:1] B>cBd2d | 
+[V:2] E2EE2E & G,>A,G,B,2B, | 
+[V:1] A2Bc2[FBd] | 
+[V:2] E2EE2x & F,2G,A,2D, | 
+[V:1] [E2A2c2][DEGB][C2E2A2]z :|]|:  
+[V:2] E,2E,,A,,2z :|]|:  
+[V:1] e>fef2f | 
+[V:2] A,CE A,DF | 
+[V:1] {/f/g/} a>gf fe.e | 
+[V:2] A,DF A,CE | 
+[V:1] ec.A ed.B | 
+[V:2] [A,2C2]z[G,2D2]z | 
+[V:1] x3c2B & ec.AA2G | 
+[V:2] [A,2C2][F,^D][E,3E3] | 
+[V:1] c>dce2e | 
+[V:2] E2EE2E & A,>B,A,C2C | 
+[V:1] B>cBd2d | 
+[V:2] E2EE2E & G,>A,G,B,2B, | 
+[V:1] A2Bc2[FBd] | 
+[V:2] E2EE2x & F,2G,A,2D, | 
+[V:1] [E2A2c2][EGB][G2B2][Ac] & x3E3 | 
+[V:2] E,2E,,A,,3 | 
+[V:1] [A2c2][Gd][A2e2]x & E2EE2f/g//a// | 
+[V:2] [A,,2A,2][B,,B,][C,2C2][D,D] | 
+[V:1] A2c/B/A2z & x2GA2x :|]  
+[V:2] [E,2C2][E,D][A,2C2]z :|]

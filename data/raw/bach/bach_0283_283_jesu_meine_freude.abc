@@ -1,0 +1,73 @@
+X: 282
+T: 283. Jesu, meine Freude
+N: Derived from chor283.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3611681761
+%%humdrum-veritas-data 1464967923
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] B2B2A2G2 | 
+[V:2] z GBG GF2E | 
+[V:3] z BeB e^deG | 
+[V:4] z E,G,E, Cz2B, | 
+[V:1] F4!fermata!E4 | 
+[V:2] E^D/^C/D2!fermata!EDEF | 
+[V:3] cB/A/ BA !fermata!GAGF | 
+[V:4] A,F, B,B,,!fermata!E,2z2 | 
+[V:1] B2^c2d2B2 | 
+[V:2] G/F/G z EA3G/F/ | 
+[V:3] EEz2z FdA | 
+[V:4] z E,A,G, F,D,G,2- | 
+[V:1] e4!fermata!^d4 | 
+[V:2] GA/B/A2!fermata!B2z =c | 
+[V:3] BA/G/ e/^d/e!fermata!f2z2 | 
+[V:4] G,F,/E,/=C2!fermata!B,CB,A, | 
+[V:1] efg2f3f | 
+[V:2] BA GB cAF2 | 
+[V:3] z ^de3ed2- | 
+[V:4] G,F, E,G, A,F, B,A, | 
+[V:1] !fermata!e8 :|]  
+[V:2] !fermata!B^G EAG4 :|]  
+[V:3] !fermata!d2c/B/cB4 :|]  
+[V:4] !fermata!^G,E, A,A,,E,4 :|]  
+[V:1] B2B2c2B2 | 
+[V:2] =GA AG GA AG | 
+[V:3] ef fe ed de | 
+[V:4] E,^D, D,E, E,F, =G,E, | 
+[V:1] A2A2!fermata!G4 | 
+[V:2] G2F2!fermata!GDEF | 
+[V:3] e2dc !fermata!cBcA | 
+[V:4] C,^C,=D,2!fermata!G,,4 | 
+[V:1] B2^c2d2B2 | 
+[V:2] GDG2zA2G/F/ | 
+[V:3] GB eA2G/F/d2- | 
+[V:4] zG,2F,/E,/ F,D,G,F, | 
+[V:1] e2d2^c4 | 
+[V:2] E=G FBB2^A2 | 
+[V:3] d^c de/f/ g^cfe | 
+[V:4] ^G,^A, B,=G, E,^E,F,2 | 
+[V:1] !fermata!B4B2B2 | 
+[V:2] !fermata!BFB=AG4- | 
+[V:3] !fermata!^d2z B ee/^d/e2- | 
+[V:4] !fermata!B,,4z E,G,E, | 
+[V:1] A2G2F4 | 
+[V:2] GF2E E=D/^C/D2- | 
+[V:3] e^deG cA FB | 
+[V:4] C z z B, A,F, B,A, | 
+[V:1] !fermata!E8 |]  
+[V:2] DE/D/ =C/B,/C!fermata!B,4 |]  
+[V:3] B^G EA- A^G!fermata!^G2 |]  
+[V:4] ^G,E, A,A,,!fermata!E,4 |]

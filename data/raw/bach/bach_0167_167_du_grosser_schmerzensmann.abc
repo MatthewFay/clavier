@@ -1,0 +1,89 @@
+X: 166
+T: 167. Du gro\sser Schmerzensmann
+N: Derived from chor167.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3359512400
+%%humdrum-veritas-data 1390136878
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] G [I:setbarnb 1]| 
+[V:2] E | 
+[V:3] B | 
+[V:4] E, | 
+[V:1] GGGA | 
+[V:2] DEDE/F/ | 
+[V:3] B/A/ G/A/Bc | 
+[V:4] B,,C,B,,A,, | 
+[V:1] !fermata!B2zB | 
+[V:2] !fermata!G2xG | 
+[V:3] !fermata!d2xd | 
+[V:4] !fermata!G,,2zG,/F,/ | 
+[V:1] BdG/A/B | 
+[V:2] GG/F/ E/F/G | 
+[V:3] edcd- | 
+[V:4] E,B,,C,B,,/C,/ | 
+[V:1] A2!fermata!GB | 
+[V:2] GF!fermata!DG | 
+[V:3] d/A/d/c/!fermata!Bd | 
+[V:4] D,2!fermata!G,,G, | 
+[V:1] ABGA | 
+[V:2] FF-F/E/- E/F/ | 
+[V:3] d^dBc | 
+[V:4] D,/C,/B,,E,A,, | 
+[V:1] !fermata!F2zG | 
+[V:2] !fermata!^D2xE | 
+[V:3] !fermata!B2xB | 
+[V:4] !fermata!B,,2zE,/=D,/ | 
+[V:1] GGAG | 
+[V:2] E=DE/^D/E- | 
+[V:3] cGc^c | 
+[V:4] C,/D,/C,/B,,/A,,^A,, | 
+[V:1] F2!fermata!EF | 
+[V:2] E^D!fermata!B,=D | 
+[V:3] F/BA/!fermata!GB | 
+[V:4] B,,2!fermata!E,B,,/^C,/ | 
+[V:1] FFFG | 
+[V:2] DED^C | 
+[V:3] B^c-c/B/ A/G/ | 
+[V:4] D,^A,,B,,E, | 
+[V:1] !fermata!A2zA | 
+[V:2] !fermata!D2xF | 
+[V:3] !fermata!F2xd | 
+[V:4] !fermata!D,2zD, | 
+[V:1] ABcc | 
+[V:2] FGGF | 
+[V:3] dded | 
+[V:4] D/=C/B,A,D, | 
+[V:1] !fermata!B2zB | 
+[V:2] !fermata!G2xG | 
+[V:3] !fermata!d2xd | 
+[V:4] !fermata!G,2zG,/F,/ | 
+[V:1] BdcB | 
+[V:2] GG-G/F/G | 
+[V:3] ede/d/d | 
+[V:4] E,/D,/C,/B,,/A,,G,, | 
+[V:1] !fermata!A2zA | 
+[V:2] !fermata!F2xF- | 
+[V:3] !fermata!d2xd/c/ | 
+[V:4] !fermata!D,2zD, | 
+[V:1] BAGF | 
+[V:2] F/E/F-F/E^D/ | 
+[V:3] B3-B3//A// | 
+[V:4] ^D,/^C,/D,/B,,/E,B,, | 
+[V:1] !fermata!E3 |]  
+[V:2] !fermata!B,3 |]  
+[V:3] !fermata!G3 |]  
+[V:4] !fermata!E,,3 |]

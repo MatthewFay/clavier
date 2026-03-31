@@ -1,0 +1,61 @@
+X: 286
+T: 287. Herr, ich habe mi\ssgehandelt
+N: Derived from chor287.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2068266055
+%%humdrum-veritas-data 3295815541
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] AEAB | 
+[V:2] EEED | 
+[V:3] cccB/A/ | 
+[V:4] A,,A,/G,/^F,=F, | 
+[V:1] cdB2 | 
+[V:2] EAA^G | 
+[V:3] ^GAe3/d/ | 
+[V:4] E,F,/D,/E,2 | 
+[V:1] !fermata!A2cB | 
+[V:2] !fermata!E2A^G | 
+[V:3] !fermata!c2ed | 
+[V:4] !fermata!A,,2A,B, | 
+[V:1] ABcd | 
+[V:2] AEEA | 
+[V:3] ee/d/ c/B/A | 
+[V:4] C^G,A,/=G,/F, | 
+[V:1] !fermata!e4 :|]  
+[V:2] !fermata!^G4 :|]  
+[V:3] !fermata!B4 :|]  
+[V:4] !fermata!E,4 :|]  
+[V:1] efgc | 
+[V:2] AAGA | 
+[V:3] cdd/c/c | 
+[V:4] A,=G,/F,/E,F,/E,/ | 
+[V:1] fed2 | 
+[V:2] A/_A/GG3/F/ | 
+[V:3] c/B/ccB | 
+[V:4] D,E,/F,/G,2 | 
+[V:1] !fermata!c2dd | 
+[V:2] !fermata!E2GG | 
+[V:3] !fermata!G2BB | 
+[V:4] !fermata!C,2G,/F,/ E,/D,/ | 
+[V:1] eAdc | 
+[V:2] G^F/E/ F/^G/A | 
+[V:3] c/G/dde | 
+[V:4] C,/E,/ D,/C,/B,,A,, | 
+[V:1] B2!fermata!A2 |]  
+[V:2] A^G!fermata!E2 |]  
+[V:3] e3/d/!fermata!^c2 |]  
+[V:4] E,2!fermata!A,,2 |]

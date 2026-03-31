@@ -1,0 +1,62 @@
+X: 9
+T: Mazurka in C Major, Op. 7, No. 5
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/17 12:55:00
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2004/02/21/
+%%gracespace 0 6 6
+%%humdrum-veritas 242424951
+%%humdrum-veritas-data 316328009
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from mazurka07-5.krn
+Q: "Vivo" 3/4=60
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] z3 | 
+[V:2] .[G,,G,].[G,,G,].[G,,G,] | 
+[V:1] z3 | 
+[V:2] .[G,,G,].[G,,G,].[G,,G,] | 
+[V:1] z3 | 
+[V:2] .[G,,G,].[G,,G,].[G,,G,] | 
+[V:1] z3 | 
+[V:2] .[G,,G,].[G,,G,].[G,,G,] | 
+[V:1] (3d/g/d/!accent!Gc3//e// | 
+[V:2] [G,B,F][G,CE]!accent![G,CE] | 
+[V:1] (3d/e/d/!accent!Gc3//e// | 
+[V:2] .[G,B,F][G,CE]!accent![G,CE] | 
+[V:1] ag/>e/f3//d// | 
+[V:2] [G,B,F][G,B,F][G,B,F] | 
+[V:1] c/>e/g/>b/d'3//c'// | 
+[V:2] .C,.[G,CE][G,CE] | 
+[V:1] (3d/e/d/!accent!Gc3//e// | 
+[V:2] [G,B,F].[G,CE]!accent![G,CE] | 
+[V:1] (3d/e/d/!accent!Gc3//e// | 
+[V:2] [G,B,F].[G,CE]!accent![G,CE] | 
+[V:1] ag/>e/f3//d// | 
+[V:2] [G,B,F].[G,B,F].[G,B,F] | 
+[V:1] c/>d/e/>B/d3//c// | 
+[V:2] C,.[G,CE][A,CE] | 
+[V:1] (3A/B/A/!accent!DG3//B// | 
+[V:2] [D,^F,C].[D,G,B,]!accent![D,G,B,] | 
+[V:1] (3A/B/A/DG3//B// | 
+[V:2] [D,^F,C].[D,G,B,]!accent![D,G,B,] | 
+[V:1] ed/>B/c3//A// | 
+[V:2] [D,^F,C].[D,F,C].[D,F,C] | 
+[V:1] G/>B/d/>^f/a3//g// | 
+[V:2] G,,[D,G,B,]!accent![D,G,B,] | 
+[V:1] (3A/B/A/!accent!DG3//B// | 
+[V:2] [D,^F,C].[D,G,B,]!accent![D,G,B,] | 
+[V:1] (3A/B/A/!accent!DG3//B// | 
+[V:2] [D,^F,C].[D,G,B,]!accent![D,G,B,] | 
+[V:1] ^fe/>B/c3//A// | 
+[V:2] [D,^F,C][D,F,C][D,F,C] | 
+[V:1] G/>B/d/>^f/a3//g// | 
+[V:2] G,,[D,G,B,][D,G,B,] |

@@ -1,0 +1,85 @@
+X: 168
+T: 169. Jesu, der du selbsten wohl
+N: Derived from chor169.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3052802115
+%%humdrum-veritas-data 1784661322
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: A
+[V:1] cABB | 
+[V:2] EEFE | 
+[V:3] AAAG | 
+[V:4] A,,C,D,E, | 
+[V:1] c^d!fermata!e2 | 
+[V:2] EF!fermata!G2 | 
+[V:3] AA!fermata!B2 | 
+[V:4] A,/G,/F,!fermata!E,2 | 
+[V:1] Bc=dc | 
+[V:2] GA-A/G/A | 
+[V:3] eed/B/e | 
+[V:4] E,/=D,/C,B,,A,, | 
+[V:1] B2!fermata!A2 | 
+[V:2] AG!fermata!E2 | 
+[V:3] f/d/ B/e//d//!fermata!c2 | 
+[V:4] D,E,!fermata!A,,2 | 
+[V:1] BBee | 
+[V:2] GGG^A | 
+[V:3] eee/d/c- | 
+[V:4] E,E,/D,/C,F, | 
+[V:1] dd!fermata!c2 | 
+[V:2] FF!fermata!F2 | 
+[V:3] cBB!fermata!^A | 
+[V:4] B,,/C,/D,/E,/!fermata!F,2 | 
+[V:1] BBAG | 
+[V:2] F3/E/ E/^D/E | 
+[V:3] ^d/c/Bc/A/B | 
+[V:4] B,/=A,/G,F,E, | 
+[V:1] F2!fermata!E2 | 
+[V:2] E^D!fermata!B,2 | 
+[V:3] cB/A/!fermata!G2 | 
+[V:4] A,,B,,!fermata!E,2 | 
+[V:1] AAdd | 
+[V:2] EEF/G/ A/B/- | 
+[V:3] A/B/ c/B/ A/G/ F/E/ | 
+[V:4] C,/B,,/A,,/G,,/ F,,/E,,/F,,/G,,/ | 
+[V:1] cc!fermata!B2 | 
+[V:2] B/A//G//AA!fermata!G | 
+[V:3] ee!fermata!e2 | 
+[V:4] A,,/B,,/C,/D,/!fermata!E,2 | 
+[V:1] AAAA | 
+[V:2] F=GFF | 
+[V:3] c/d/e-ed/c/ | 
+[V:4] F,/E,/D,/C,/ D,/E,/F,/E,/ | 
+[V:1] B2!fermata!E2 | 
+[V:2] F/E/F!fermata!B,2 | 
+[V:3] B/^G/ A/B//A//!fermata!G2 | 
+[V:4] ^D,/E,D,/!fermata!E,2 | 
+[V:1] edcB | 
+[V:2] C/AG/A3/G/- | 
+[V:3] A/c/d/B/ e/f/ B/e//d// | 
+[V:4] A,,B,,C,/D,/E, | 
+[V:1] AG!fermata!F2 | 
+[V:2] G/F/- F/^E/!fermata!F2 | 
+[V:3] c-c3//B//!fermata!A2 | 
+[V:4] F,C,!fermata!D,2 | 
+[V:1] BAdc | 
+[V:2] F/G/AA/G/A | 
+[V:3] d=ed/B/ c/e/ | 
+[V:4] D,/E,/D,/C,/ B,,/E,/A,,/C,/ | 
+[V:1] B2!fermata!A2 |]  
+[V:2] AG!fermata!E2 |]  
+[V:3] f/d/ B/e//d//!fermata!c2 |]  
+[V:4] D,/B,,/E,!fermata!A,,2 |]

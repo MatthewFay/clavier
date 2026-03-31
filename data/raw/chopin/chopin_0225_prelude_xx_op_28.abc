@@ -1,0 +1,49 @@
+X: 225
+T: Prelude XX	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:39
+%%abc-edited-by Leszek Kubiak
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abcx-initial-encoding-date 2019-05-11
+%%humdrum-veritas 1087859177
+%%humdrum-veritas-data 768119288
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: C
+N: Derived from 028_13-24-1a-C-020.krn
+P: 24 Preludes pour le Piano
+Q: "Largo." 1/4=44
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Eb
+[V:1] [GECG,][AECA,][G/E/]>[F/D/][ECG,E,] | 
+[V:2] x2[=B,G,]x & [C,C,,][F,,F,,,][G,,G,,,][C,G,,C,,] | 
+[V:1] [ECA,E,][F_DA,F,][E/C/]>[D/B,/][CA,E,C,] | 
+[V:2] x2[G,E,_D,]x & [A,,A,,,][_D,,_D,,,][E,,E,,,][A,,A,,,] | 
+[V:1] [D=B,F,D,][=EC_B,G,=E,]G/>F/[ECG,] | 
+[V:2] x2[CA,]x & [G,,G,,,][C,,C,,,][F,,F,,,][C,C,,] | 
+[V:1] [DC^F,][GD=B,G,]=B/>=A/[GD=B,] & x2[^FDC]x | 
+[V:2] [D,=A,,D,,][G,,G,,,][D,,D,,,][G,,G,,,] | 
+[V:1] [eGE][eAE][dD][dGD] & x2A/>^F/x | 
+[V:2] [C,C,,][CC,][=B,=B,,][_B,_B,,] | 
+[V:1] [cGC][d^FDC][=B/G/D/]>[=A/C/][GD=B,] | 
+[V:2] [=A,=A,,][_A,_A,,][G,G,,][F,F,,] | 
+[V:1] [cGC][ACA,]G/>F/[ECG,] & x2[DG,]x | 
+[V:2] [E,E,,][F,F,,][=B,,=B,,,][C,C,,] | 
+[V:1] [ECA,E,][F_DA,F,]E/>D/[CG,E,] | 
+[V:2] x2[=B,G,F,]x & [A,,A,,,][_D,,_D,,,][G,,G,,,][C,,C,,,] | 
+[V:1] [eGE][eAE][dD][dGD] & x2A/>^F/x | 
+[V:2] [C,C,,][CC,][=B,=B,,][_B,_B,,] | 
+[V:1] [cGC][d^FDC][=B/G/D/]>[=A/C/][GD=B,] | 
+[V:2] [=A,=A,,][_A,_A,,][G,G,,][F,F,,] | 
+[V:1] [cGC][ACA,]G/>F/[ECG,] & x2[DG,]x | 
+[V:2] [E,E,,][F,F,,][=B,,=B,,,][C,C,,] | 
+[V:1] [ECA,E,][F_DA,F,]E/>D/[CG,E,] | 
+[V:2] x2[=B,G,F,]x & [A,,A,,,][_D,,_D,,,][G,,G,,,][C,,C,,,] | 
+[V:1] !fermata![c4G4E4C4] |]  
+[V:2] !fermata![G,4C,4] |]

@@ -1,0 +1,276 @@
+X: 388
+T: Valse.	 Op. 64
+C: F. Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:48
+%%abc-edited-by Tomasz Sierawski
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Emilia ZiÄtek
+%%abcx-initial-encoding-date 2018-08-03
+%%humdrum-veritas 4077558729
+%%humdrum-veritas-data 2051305457
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from 064_1-1-BR-001.krn
+P: 3 Valses pour le Piano
+Q: "Molto vivace."
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Db
+[V:1] !accent!A=G/A/c/B/ | 
+[V:2] z3 | 
+[V:1] =G/A/B/A/c/B/ | 
+[V:2] z3 | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] z3 | 
+[V:1] c/B/=G/A/c/B/ | 
+[V:2] z3 | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] c/B/=G/A/c/B/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] B/c/d/e/f/g/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] b>ag/f/ | 
+[V:2] A,,[GCA,][GCA,] | 
+[V:1] f/e/!mordent!e/=d/e | 
+[V:2] E,[GCA,][GCA,] | 
+[V:1] b>ag/f/ | 
+[V:2] A,,[GC][GC] | 
+[V:1] f/!mordent!e/=d/e/f/B/ | 
+[V:2] A,[GC][GC] | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] c/B/=G/A/c/B/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] B/c/d/e/f/g/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] b>ag/f/ | 
+[V:2] A,,[GCA,][GCA,] | 
+[V:1] f/e/!mordent!e/=d/e | 
+[V:2] E,[GCA,][GCA,] | 
+[V:1] b>ag/f/ | 
+[V:2] A,,[GCA,][GCA,] | 
+[V:1] e/f/!mordent!e/=d/e/=e/ ]|:  
+[V:2] A,[GC]A,, ]|:  
+[V:1] (3f/g/f/ =e/f/a/g/ | 
+[V:2] =A,,[ECF,][ECF,] | 
+[V:1] f/g/f/=e/f/b/ | 
+[V:2] B,,[DF,][DF,] | 
+[V:1] (3a/b/a/ =g/a/c'/b/ | 
+[V:2] C,[_GEA,][GEA,] | 
+[V:1] a/b/a/=g/a/d'/ | 
+[V:2] D,[FA,]z | 
+[V:1] c'/b/a/g/f/e/ | 
+[V:2] G,[EB,]z | 
+[V:1] d/c/B/A/G/F/ | 
+[V:2] A,,[DA,F,]z | 
+[V:1] E/D/C/E/B/A/ | 
+[V:2] A,,[A,G,][CA,G,] | 
+[V:1] =G/A/B/c/d/e/ | 
+[V:2] D,[FDA,]z | 
+[V:1] (3f/g/f/ =e/f/a/g/ & z[FE][FE] | 
+[V:2] =A,3 | 
+[V:1] f/g/f/=e/f/b/ & z[FD][FD] | 
+[V:2] B,3 | 
+[V:1] (3a/b/a/ =g/a/c'/b/ & z[A_G][AG] | 
+[V:2] C3 | 
+[V:1] a/b/a/=g/a/f'/ | 
+[V:2] D[AF]z | 
+[V:1] e'/d'/c'/b/a/g/ | 
+[V:2] G,[BED]z | 
+[V:1] f/e/d/c/B/=A/ | 
+[V:2] A,,[DA,F,]z | 
+[V:1] =A/c/B/F/G/C/ |[1 
+[V:2] _A,,[_A,G,][A,G,] | 
+[V:1] Dzf :|][2 
+[V:2] D,[FA,]z :|]  
+[V:1] Dz ||  
+[V:2] D,[FA,] ||  
+[V:1] A [I:setbarnb 38]| 
+[V:2] z | 
+[V:1] A2E | 
+[V:2] A,,[CA,G,][CA,G,] | 
+[V:1] A2=E | 
+[V:2] [CA,G,][CA,G,][CA,G,] | 
+[V:1] A2F | 
+[V:2] D,[DA,][DA,] | 
+[V:1] f2f | 
+[V:2] A,,[FDA,][FDA,] | 
+[V:1] f2B | 
+[V:2] E,[GA,][GA,] | 
+[V:1] f2c | 
+[V:2] A,,[GEA,][GEA,] | 
+[V:1] e2d | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] c3// e3// d3// B3// | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] A2E | 
+[V:2] C,[A,G,][A,G,] | 
+[V:1] A2=E | 
+[V:2] A,,[A,G,][CA,G,] | 
+[V:1] A2F | 
+[V:2] D,[DA,][DA,] | 
+[V:1] f3 | 
+[V:2] =B,,[FDA,][FDA,] | 
+[V:1] !trill!c=Bc | 
+[V:2] C,[FCA,][FCA,] | 
+[V:1] a_B=g | 
+[V:2] C,,[=EC=G,]z | 
+[V:1] =A_g_A | 
+[V:2] F,,z[CF,] | 
+[V:1] fFB | 
+[V:2] z3 | 
+[V:1] A2E | 
+[V:2] C,[A,G,][A,G,] | 
+[V:1] {/a}A2=E | 
+[V:2] A,,[CA,G,][CA,G,] | 
+[V:1] {/a}A2F | 
+[V:2] D,[DA,][DA,] | 
+[V:1] {/a}f2f | 
+[V:2] A,,[FDA,][FDA,] | 
+[V:1] {/a}f2B | 
+[V:2] E,[GCA,][GCA,] | 
+[V:1] {/a}f2c | 
+[V:2] A,,[GEA,][GEA,] | 
+[V:1] {/a}edc | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] {/a}ed3/B/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] {/a}A2E | 
+[V:2] x[A,G,][A,G,] & C,3 | 
+[V:1] {/a}A2=E | 
+[V:2] A,,[CA,G,][CA,G,] | 
+[V:1] {/a}A2F | 
+[V:2] _C,[EA,F,][EA,F,] | 
+[V:1] f3 | 
+[V:2] B,,[=DA,F,][DA,F,] | 
+[V:1] f2B | 
+[V:2] E,[=GD][GD] | 
+[V:1] e2__B | 
+[V:2] z[_GD][GD] | 
+[V:1] eA=d | 
+[V:2] A,[_GC]x | 
+[V:1] fea | 
+[V:2] z3 | 
+[V:1] !trill!A3- | 
+[V:2] z3 | 
+[V:1] !trill!A3- | 
+[V:2] z3 | 
+[V:1] !trill!A3- | 
+[V:2] z3 | 
+[V:1] !trill!A3 | 
+[V:2] z3 | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] z3 | 
+[V:1] c/B/=G/A/c/B/ | 
+[V:2] z3 | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] z3 | 
+[V:1] c/B/=G/A/c/B/ | 
+[V:2] z3 | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] D,,[FDA,][FDA,] | 
+[V:1] c/B/=G/A/c/B/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] B/c/d/e/f/g/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] b>ag/f/ | 
+[V:2] A,,[GCA,][GCA,] | 
+[V:1] f/e/!mordent!e/=d/e | 
+[V:2] E,[GCA,][GCA,] | 
+[V:1] b>ag/f/ | 
+[V:2] A,,[GC][GC] | 
+[V:1] f/!mordent!e/=d/e/f/B/ | 
+[V:2] A,[GC][GC] | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] c/B/=G/A/c/B/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] =G/A/c/B/G/A/ | 
+[V:2] D,[FDA,][FDA,] | 
+[V:1] B/c/d/e/f/g/ | 
+[V:2] F,[FDA,][FDA,] | 
+[V:1] b>ag/f/ | 
+[V:2] A,,[GCA,][GCA,] | 
+[V:1] f/e/!mordent!e/=d/e | 
+[V:2] E,[GCA,][GCA,] | 
+[V:1] b>ag/f/ | 
+[V:2] A,,[GCA,][GCA,] | 
+[V:1] e/f/!trill!e/=d/e/=e/ | 
+[V:2] A,[GC]A,, | 
+[V:1] (3f/g/f/ =e/f/a/g/ | 
+[V:2] =A,,[_ECF,][ECF,] | 
+[V:1] f/g/f/=e/f/b/ | 
+[V:2] B,,[DF,][DF,] | 
+[V:1] (3a/b/a/ =g/a/c'/b/ | 
+[V:2] C,[_GEA,][GEA,] | 
+[V:1] a/b/a/=g/a/d'/ | 
+[V:2] D,[FA,]z | 
+[V:1] c'/b/a/g/f/e/ | 
+[V:2] G,[EB,]z | 
+[V:1] d/c/B/A/G/F/ | 
+[V:2] A,,[DA,F,]z | 
+[V:1] E/D/C/E/B/A/ | 
+[V:2] A,,[A,G,][CA,G,] | 
+[V:1] =G/A/B/c/d/e/ | 
+[V:2] D,[FDA,]z | 
+[V:1] (3f/g/f/ =e/f/a/g/ & z[FE][FE] | 
+[V:2] =A,3 | 
+[V:1] f/g/f/=e/f/b/ & z[FD][FD] | 
+[V:2] B,3 | 
+[V:1] (3a/b/a/ =g/a/c'/b/ & z[A_G][AG] | 
+[V:2] C3 | 
+[V:1] a/b/a/=g/a/f'/ | 
+[V:2] D[AF]z | 
+[V:1] e'/d'/c'/b/a/g/ | 
+[V:2] G,[BED]z | 
+[V:1] f/e/d/c/B/A/ | 
+[V:2] A,,[DA,F,]z | 
+[V:1] =A/c/B/F/G/C/ | 
+[V:2] A,,[A,G,][A,G,] | 
+[V:1] Dz!accent!f- | 
+[V:2] D,[FA,]z | 
+[V:1] (3f/g/f/ =e/f/a/g/ | 
+[V:2] =A,,[_ECF,][ECF,] | 
+[V:1] f/g/f/=e/f/b/ | 
+[V:2] B,,[DF,][DF,] | 
+[V:1] (3a/b/a/ =g/a/c'/b/ | 
+[V:2] C,[_GEA,][GEA,] | 
+[V:1] a/b/a/=g/a/d'/ | 
+[V:2] D,[FA,]z | 
+[V:1] c'/b/a/g/f/e/ | 
+[V:2] G,[EB,]z | 
+[V:1] d/c/B/A/G/F/ | 
+[V:2] A,,[DA,F,]z | 
+[V:1] E/D/C/E/B/A/ | 
+[V:2] A,,[A,G,][CA,G,] | 
+[V:1] =G/A/B/c/d/e/ | 
+[V:2] D,[FDA,]z | 
+[V:1] (3f/g/f/ =e/f/a/g/ & z[FE][FE] | 
+[V:2] =A,3 | 
+[V:1] f/g/f/=e/f/b/ & z[FD][FD] | 
+[V:2] B,3 | 
+[V:1] (3a/b/a/ =g/a/c'/b/ & z[A_G][AG] | 
+[V:2] C3 | 
+[V:1] a/b/a/=g/a/ f''/ | 
+[V:2] D[AF]z | 
+[V:1] e''/8d''/8c''/8b'/8a'/8g'/8f'/8e'/8 | 
+[V:2] G,,[K:clef=treble][BED]z | 
+[V:1] d'/8c'/8b/8a/8g/8f/8e/8d/8 | 
+[V:2] z3[K:clef=bass] | 
+[V:1] c/8B/8=A/8c/8B/8F/8G/8C/8 | 
+[V:2] A,,[A,G,][A,G,] | 
+[V:1] D2z |]  
+[V:2] D,,[FA,F,]z |]

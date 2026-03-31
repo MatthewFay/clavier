@@ -1,0 +1,61 @@
+X: 44
+T: Piano Sonata No. 11 in A major, K 331 (300i), mvmt. 1b
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:33
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/09/29
+%%gracespace 0 6 6
+%%humdrum-veritas 3561891822
+%%humdrum-veritas-data 3606800890
+%%linebreak <none>
+%%barnumbers 0
+%%setbarnb 19
+L: 1/16
+M: 6/8
+N: Derived from sonata11-1b.krn
+Q: "Variation I" 1/8=144
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] ^Bc z cBc ^de z efe | 
+[V:2] z2 [A,2E2] z2 z2 [C2E2] z2 | 
+[V:1] e=B z B^AB c=d z ded | 
+[V:2] z2 [G,2E2] z2 z2 [B,2E2] z2 | 
+[V:1] d=A z AGA ^AB z BAB | 
+[V:2] z2 [F,2E2] z2 z2 [G,2E2] z2 | 
+[V:1] ^BcBced c=B=AGFE | 
+[V:2] [A,4E4][D,2F,2][E,4G,4]z2 | 
+[V:1] [E4A4c4][B2d2] [^B2^d2][c2e2] z [Ac] | 
+[V:2] A,,A,A,A,A,A, A,,A,A,A,A,A, | 
+[V:1] .[E2G2=B2].[E2G2B2].[E2A2c2] [^A2c2][B2d2] z [GB] & x6E4x2 | 
+[V:2] E,,E,E,E,E,E, E,,E,E,E,E,E, | 
+[V:1] .=A2.A2 !trill!BA/B/ .c2.c2 [F2B2d2] | 
+[V:2] F,,F,F,F,G,,G, A,,A,A,A,D,,D, | 
+[V:1] [E2A2c2][E2A2c2][D2E2G2B2] [C2E2A2] z2 z2 :|]|:  
+[V:2] E,,E,E,E,E,,E, A,,,2A,,2 z2 :|]|:  
+[V:1] ^de z ede ^ef z fef | 
+[V:2] z2 [A,2C2] z2 z2 [A,2D2] z2 | 
+[V:1] ga^^fg^e^f ^d=e z .e.e.e | 
+[V:2] [A,2F2][A,2E2][A,2D2] z2 [A,2C2] z2 | 
+[V:1] ecA.e.e.e e=dG.e.e.e | 
+[V:2] [A,6C6E6][B,6D6E6] | 
+[V:1] ecAecA[A4c4][G2B2] | 
+[V:2] [C4E4][F,2A,2^D2][E,6E6] | 
+[V:1] ^Bc z cBc ^de z efe | 
+[V:2] z2 [A,2E2] z2 z2 [C2E2] z2 | 
+[V:1] e=B z B^AB c=d z ded | 
+[V:2] z2 [G,2E2] z2 z2 [B,2E2] z2 | 
+[V:1] d=A z AcB dc z ced | 
+[V:2] z2 [F,2E2][G,2E2] z2 [A,2E2][D,2B,2] | 
+[V:1] ^Bc z cd=B2< B2^Bc2 & x6G4A2 | 
+[V:2] z2 [E,2A,2][E,2G,2] A,2E,2A,,2 | 
+[V:1] [E2A2c2][E2A2c2][E2G2d2] [E2A2e2][A2e2] fg/a/ & x6x4A2 | 
+[V:2] A,,,A,,A,,A,,B,,,B,, C,,C,C,C,D,,D, | 
+[V:1] [C2E2A2][C2E2A2][D2E2G2B2] [C2E2A2] z2 z2 :|]  
+[V:2] E,,E,E,E,E,,E, A,,,2A,,2 z2 :|]

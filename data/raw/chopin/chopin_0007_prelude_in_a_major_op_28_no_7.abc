@@ -1,0 +1,56 @@
+X: 7
+T: Prelude in A Major, Op. 28, No. 7
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-copyright Copyright 2001 by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%gracespace 0 6 6
+%%humdrum-veritas 2492138600
+%%humdrum-veritas-data 2083945614
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from prelude28-07.krn
+Q: "Andantino" 1/4=108
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] E [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] c/> d/[DGB][DGB] | 
+[V:2] E,,[E,E][E,E] | 
+[V:1] [D2G2B2][df] | 
+[V:2] [E,2E2]z | 
+[V:1] [^B/^d/]> [c/e/][ca][ca] | 
+[V:2] A,,[A,E][A,E] | 
+[V:1] [c2a2][Ec] | 
+[V:2] [A,2E2]z | 
+[V:1] [C/^A/]> [D/-B/]D2- & x[Fd][Fd] | 
+[V:2] E,,[E,B,][E,B,] | 
+[V:1] D2[DG] & [F2d2]x | 
+[V:2] [E,2B,2]z | 
+[V:1] [D/G/]> [C/-=A/][Cc][Cc] | 
+[V:2] A,,,[E,A,E][E,A,E] | 
+[V:1] [C2c2]E- | 
+[V:2] [E,2A,2E2]z | 
+[V:1] [EG][DGB][DGB] & c3// d//x2 | 
+[V:2] E,,[E,E][E,E] | 
+[V:1] [D2G2B2][df] | 
+[V:2] [E,2E2]z | 
+[V:1] [^B/^d/]> [c/e/]-[c2e2] & x[ac'][ac'] | 
+[V:2] A,,[A,EA][A,EA] | 
+[V:1] [^A2c2e2^a2c'2][Ac] | 
+[V:2] [F,2C2E2F2]z | 
+[V:1] [^A/c/]> [B/-d/][Bf][=Af] | 
+[V:2] B,,,[F,D][F,B,D] | 
+[V:1] [G2f2][DG] | 
+[V:2] [E,2B,2D2]z | 
+[V:1] [D/B/]> [C/A/] {/A-}A2- & x[ca][ca] | 
+[V:2] A,,,[E,A,E][E,A,E] | 
+[V:1] [A2c2a2]z |]  
+[V:2] [A,2E2]z |]

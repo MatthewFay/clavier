@@ -1,0 +1,105 @@
+X: 202
+T: 203. O Mensch, schau Jesum Christum an
+N: Derived from chor203.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1266574093
+%%humdrum-veritas-data 2723987681
+%%
+%%barnumbers 0
+L: 1/4
+M: 3/4
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] GGG | 
+[V:2] D/C/D=B, | 
+[V:3] B/A/G3/F/ | 
+[V:4] G,,/A,,/B,,G,, | 
+[V:1] G2_E | 
+[V:2] C=B,C/A,/ | 
+[V:3] _E/F/G^F | 
+[V:4] C,/D,/_E,C, | 
+[V:1] D2D | 
+[V:2] D/C/DD | 
+[V:3] G/A/_BB | 
+[V:4] B,,/A,,/G,,G, | 
+[V:1] !fermata!A2B | 
+[V:2] !fermata!D2D | 
+[V:3] !fermata!A2G | 
+[V:4] !fermata!^F,2G,- | 
+[V:1] A2G | 
+[V:2] ^CDE | 
+[V:3] A2A | 
+[V:4] G,=F,/E,/D,/^C,/ | 
+[V:1] F2E | 
+[V:2] E/^C/D3/C/ | 
+[V:3] AB/A/ G/A/ | 
+[V:4] D,G,,A,, | 
+[V:1] !fermata!D2D | 
+[V:2] !fermata!A,2A, | 
+[V:3] !fermata!^F2^F | 
+[V:4] !fermata!D,,2D,/=C,/ | 
+[V:1] G2G | 
+[V:2] D2D | 
+[V:3] G/A/B2 | 
+[V:4] B,,G,,/A,,/B,,/C,/ | 
+[V:1] ^F2F | 
+[V:2] D_ED | 
+[V:3] A/B/cA | 
+[V:4] D,A,,/B,,/C,/A,,/ | 
+[V:1] G2G | 
+[V:2] DC/B,/C | 
+[V:3] G3/B/A/G/ | 
+[V:4] B,,_E,/D,/E, | 
+[V:1] !fermata!A2A | 
+[V:2] !fermata!^F,2^F | 
+[V:3] !fermata!d2d | 
+[V:4] !fermata!D,2D,, | 
+[V:1] A2A | 
+[V:2] ^F2F | 
+[V:3] d2d | 
+[V:4] D,/_E,/D,/C,/B,,/A,,/ | 
+[V:1] B2B | 
+[V:2] G2G | 
+[V:3] d2d | 
+[V:4] G,,/^F,,/G,,/A,,/B,,/C,/ | 
+[V:1] !fermata!A3 | 
+[V:2] G^F/E/!fermata!F | 
+[V:3] !fermata!d3 | 
+[V:4] !fermata!D,3 | 
+[V:1] d2c | 
+[V:2] ^F/G/A2- | 
+[V:3] Ad2 | 
+[V:4] D,/E,/^F,/E,/F,/D,/ | 
+[V:1] B2A | 
+[V:2] AGD | 
+[V:3] d2d- | 
+[V:4] G,/^F,/G,/A,/G,/=F,/ | 
+[V:1] GA=B | 
+[V:2] GF2 | 
+[V:3] dcd | 
+[V:4] _E,/D,/E,/F,/E,/D,/ | 
+[V:1] !fermata!c2A | 
+[V:2] !fermata!G2^F | 
+[V:3] !fermata!_e2d | 
+[V:4] !fermata!C,2D, | 
+[V:1] B2A | 
+[V:2] G=F_E | 
+[V:3] d2c | 
+[V:4] G,/G,,/A,,/B,,/C,/D,/ | 
+[V:1] G2^F | 
+[V:2] _E3/E/D | 
+[V:3] c/B/A3/c/ | 
+[V:4] _E,/D,/C,D, | 
+[V:1] !fermata!G3 |]  
+[V:2] !fermata!D3 |]  
+[V:3] !fermata!=B3 |]  
+[V:4] !fermata!G,,3 |]

@@ -1,0 +1,78 @@
+X: 69
+T: Piano Sonata no. 21 in C major, Adagio molto
+C: Ludwig van Beethoven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/11 11:42:15
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2008/02/19/
+%%gracespace 0 6 6
+%%humdrum-veritas 2178592822
+%%humdrum-veritas-data 3250321601
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 6/8
+Q: "Introduzione: Adagio molto" 1/8=80
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: F
+[V:1] z C,/>C,/ A, z A,/>A,/ ^D | 
+[V:2] [F,,,3F,,3][F,,,3F,,3] | 
+[V:1] z .[^G,=B,E].[G,B,E][G,2B,2E2]z[K:clef=treble] | 
+[V:2] z .[E,,E,].[E,,E,][E,,2E,2]z | 
+[V:1] z =B,/>B,/=G z ^C/>C/^A | 
+[V:2] [E,,3E,3][E,,3E,3] | 
+[V:1] z .[=B,^F=B].[B,FB][B,2F2B2]z | 
+[V:2] z .[^D,,=B,,^D,].[D,,B,,D,][D,,2B,,2D,2]z | 
+[V:1] z =F/>F/=B z B/>B/f- | 
+[V:2] [=D,,3=D,3][_D,,3_D,3] | 
+[V:1] x3_B2z & feg!accent!!sfz!E2z | 
+[V:2] [C,,C,][C,,C,][C,,C,][C,,2C,2]z | 
+[V:1] z [FA][Af][F2A2]z | 
+[V:2] z [D,,D,][D,,D,][D,,2D,2]z | 
+[V:1] z [B,DG] z z [G,B,E] z | 
+[V:2] [B,,,B,,] z z [C,,C,] z z | 
+[V:1] z [A,CF][A,CA][A,2C2F2][K:clef=bass]C,3//C,// | 
+[V:2] [F,,,F,,][F,,,F,,][F,,,F,,][F,,,2F,,2]z | 
+[V:1] {/C,} A,>.G,.A,/.B,/ =B,/!sfz!C!sfz!D_B,//A,// | 
+[V:2] [F,,C,]>.[E,,C,].[F,,/C,/].[G,,/C,/] [^G,,/C,/]!sfz![A,,C,]!sfz![_B,,C,]C,/ & x3z2x/ =G,,//F,,// | 
+[V:1] G,/[K:clef=treble] .^F/.G/.A/.B/ .^f/ .g/.a/.b/ z/[K:clef=bass] C,3//C,// | 
+[V:2] [E,,C,]> .[^F,C].[G,/C/].[A,/C/] .[B,/C/] .^F,,/.G,,/.A,,/.B,,/.G,,/ | 
+[V:1] {/C,} B,>.A,.B,/.C/ ^C/!sfz!D!sfz!=CD//B,// & x3z/ z !sfz!G,E,/ | 
+[V:2] E,,/[G,,C,].[^F,,/C,/].[G,,/C,/].[A,,/C,/] [A,,/C,/]!sfz![B,,C,]!sfz![E,,C,][C,,/C,/] | 
+[V:1] A,/[K:clef=treble] .^G/.A/.=B/ .c/ x< x z/ x & F,< x x/ .^g/ .a/.=b/.c'/ z/ c3//c// | 
+[V:2] [F,,C,]> .^G,.A,/.=B,/ .C/ .^G,,/.A,,/.=B,,/.C,/._B,,/ | 
+[V:1] Ff/>f/!sfz!e gB/>B/ {/B} A//^G//A//c// & F2!sfz!G- G E F | 
+[V:2] z C!sfz!C- CG,A, & A,,A,!sfz!B, E,C,F, | 
+[V:1] Ff/>f/!sfz!e gB/>B/A & F2!sfz!=G- GEF | 
+[V:2] z C!sfz!C- CG,F, & z A,!sfz!B, E,C,D, | 
+[V:1] z [B,DG] z z [G,B,E] z[K:clef=bass] | 
+[V:2] [B,,,B,,] z z [C,,C,] z z | 
+[V:1] z C,/>C,/A, z A,/>A,/^D | 
+[V:2] F,,3[F,,,2F,,2-]F,,//A,,//C,//A,,// | 
+[V:1] E.[^G,=B,E].[G,B,E] [G,B,E].=G,.G,[K:clef=treble] | 
+[V:2] E,,.[E,,E,].[E,,E,][E,,2E,2]z | 
+[V:1] z =B,/>B,/G z ^C/>C/^A | 
+[V:2] G,3[E,,2E,2]-[E,,//E,//]E,//G,//E,// & [E,,3E,3]x3 | 
+[V:1] =B.[=B,^FB].[B,FB] [B,FB]x2 | 
+[V:2] x2>x2 .=F,.F, & ^D,.[^D,,=B,,D,].[D,,B,,D,] [D,,B,,D,] =D,D, | 
+[V:1] F,=F/>F/=B- BB/>B/f- | 
+[V:2] D,2-D,//F,//_A,//F,//_D,2-D,//F,//A,//F,// | 
+[V:1] ff/>f/_a- af/>f/d'- | 
+[V:2] C,2-C,//F,//_A,//F,//=B,,2-B,,//F,//A,//F,// | 
+[V:1] d'f/>f/!sfz!f'- f'f/>f/!sfz!f'- | 
+[V:2] !sfz!_A,,2-A,,//F,//=B,//F,//G,,2-G,,//F,//B,//F,// | 
+[V:1] f'f/>f/!sfz!f'- f'/> f/f'// z// z// d//d'// z// z// =B// | 
+[V:2] !sfz!_A,,2-A,,//F,//=B,//F,// A,,//F,//B,//F,// A,,//F,//B,//F,// A,,//F,//B,//F,// | 
+[V:1] =b// z// z// F//f// z// z// D//d// z// z// =B,//=B// z// z//[K:clef=bass] F,//F// z// z// D,//D// z// z// =B,,// | 
+[V:2] G,,//F,//=B,//F,// G,,//D,//F,//D,// G,,//=B,,//D,//B,,// G,,//B,,//D,//B,,// G,,//B,,//D,//B,,// G,,//D,,//=B,,,//D,,// | 
+[V:1] =B,.[=B,,D,F,].[B,,D,F,][B,,2D,2F,2][K:clef=treble]f | 
+[V:2] G,,,.[G,,,G,,].[G,,,G,,][^G,,,2^G,,2]z | 
+[V:1] e[K:clef=bass] .[C,E,].[C,E,][C,2E,2][K:clef=treble]e | 
+[V:2] z .[A,,,A,,].[A,,,A,,][A,,,2A,,2]z | 
+[V:1] d[K:clef=bass] [D,F,A,][K:clef=treble] dg[K:clef=bass] [=B,,D,G,][K:clef=treble] !fermata!!sfz!g ||  
+[V:2] [F,,,F,,] z z [G,,,G,,] z !fermata!z ||

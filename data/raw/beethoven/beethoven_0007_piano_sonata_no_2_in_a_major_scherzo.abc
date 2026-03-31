@@ -1,0 +1,166 @@
+X: 7
+T: Piano Sonata no. 2 in A major, Scherzo
+C: Ludwig van Beethoven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/11 11:42:15
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2007/11/27
+%%gracespace 0 6 6
+%%humdrum-veritas 1041464642
+%%humdrum-veritas-data 1484232694
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: "Scherzo: Allegretto" 1/4=144
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] a//e//c'//a// [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] e'zc//A//e//c// | 
+[V:2] z[A,CE]z | 
+[V:1] azC//A,//E//C// | 
+[V:2] z[A,,C,E,A,]z | 
+[V:1] .A.[B,^DA].[B,FA] | 
+[V:2] .A,.F,.^D, | 
+[V:1] [FA][EG]x & B,2g//e//b//g// | 
+[V:2] E,E,,z | 
+[V:1] d'zG//E//B//G// | 
+[V:2] z[E,G,B,D]z | 
+[V:1] dzD//B,//E//D// | 
+[V:2] z[E,,G,,B,,E,]z | 
+[V:1] G.[DG].[DG] | 
+[V:2] z.[E,B,].[E,B,] | 
+[V:1] [DB][CA] :|]|:  
+[V:2] G,A, & A,,2 :|]|:  
+[V:1] z [I:setbarnb 9]| 
+[V:2] G,//E,//B,//G,// | 
+[V:1] z[GBe]z | 
+[V:2] EzG,//D,//B,//G,// | 
+[V:1] z[FBf]z | 
+[V:2] Dz^E,//C,//G,//E,// | 
+[V:1] z[GB^eg]z | 
+[V:2] CzC | 
+[V:1] [GB^e][Af]z | 
+[V:2] CF,A,//F,//C//A,// | 
+[V:1] z[Acf]z | 
+[V:2] FzG,//E,//C//G,// | 
+[V:1] z[Gcg]z | 
+[V:2] Ez^^F,//^D,//^A,//F,// | 
+[V:1] z[^Ac^^f^a]z | 
+[V:2] ^DzD | 
+[V:1] [^Ac^^f][Bg]z | 
+[V:2] ^DG,z | 
+[V:1] [G^d][Ge]z | 
+[V:2] B,Cz | 
+[V:1] z[^DG][C^^F] | 
+[V:2] z[^D,B,][D,^A,] | 
+[V:1] [B,G].^d.d | 
+[V:2] [G,,/G,/]^D/B,/D/G,/D/ | 
+[V:1] d2^^F | 
+[V:2] ^A,/^D/C/D/A,/D/ | 
+[V:1] G^AB | 
+[V:2] B,/^D/^A,/C/G,/B,/ | 
+[V:1] {/B}^AG!trill!^^F{/^EF} | 
+[V:2] C,/C/^D,/B,/D,/^A,/ | 
+[V:1] G.^d.d | 
+[V:2] G,/^D/B,/D/G,/D/ | 
+[V:1] ^d2^^F | 
+[V:2] ^A,/^D/C/D/A,/D/ | 
+[V:1] z.^d.d & G3 | 
+[V:2] [B,3^D3] | 
+[V:1] ^d3 & z.=A.A | 
+[V:2] [B,3F3] | 
+[V:1] z.=d.d & G3 | 
+[V:2] [E,3B,3E3] | 
+[V:1] c3 & z.=G.G | 
+[V:2] [A,3E3] | 
+[V:1] z.d.d & F3 | 
+[V:2] [D,3A,3D3] | 
+[V:1] z.d.d & [D3G3] | 
+[V:2] [B,,3E,3B,3] | 
+[V:1] z3 | 
+[V:2] z3 | 
+[V:1] zza//e//c'//a// | 
+[V:2] z3 | 
+[V:1] e'zc//A//e//c// | 
+[V:2] z[A,CE]z | 
+[V:1] azC//A,//E//C// | 
+[V:2] z[A,,C,E,A,]z | 
+[V:1] .A.[B,^DA].[B,FA] | 
+[V:2] .A,.F,.^D, | 
+[V:1] [FA][EG]x & B,2g//e//b//g// | 
+[V:2] E,E,,z | 
+[V:1] d'zG//E//B//G// | 
+[V:2] z[E,G,B,D]z | 
+[V:1] dzD//B,//E//D// | 
+[V:2] z[E,,G,,B,,E,]z | 
+[V:1] G.[DG].[DG] | 
+[V:2] z.[E,B,].[E,B,] | 
+[V:1] [DB][CA]z | 
+[V:2] G,A,C,//A,,//E,//C,// & A,,2x | 
+[V:1] z[CEAc]z | 
+[V:2] A,zF,,//D,,//A,,//F,,// | 
+[V:1] z[FAdf]z | 
+[V:2] D,zG,,//E,,//B,,//G,,// | 
+[V:1] z[GBdg]z | 
+[V:2] E,zE,, | 
+[V:1] [Aca]z :|]|:  
+[V:2] zA,,, :|]|:  
+[V:1]  [K:C] E [I:setbarnb 45]| 
+[V:2]  [K:C] z | 
+[V:1] cBA | 
+[V:2] A,/E/B,/E/C/E/ | 
+[V:1] fed & ^GAB | 
+[V:2] D/E/C/E/B,/E/ | 
+[V:1] cx2 & cBA | 
+[V:2] A,/E/B,/E/C/E/ | 
+[V:1] fed & ^GAB | 
+[V:2] D/E/C/E/B,/E/ | 
+[V:1] cx2 & cBA | 
+[V:2] A,/E/=G,/E/^F,/^D/ | 
+[V:1] =G^FE | 
+[V:2] E,/G,/^F,/A,/G,/B,/ | 
+[V:1] CB,[A,^D] | 
+[V:2] A,,/A,/B,,/G,/B,,/^F,/ | 
+[V:1] [G,E]z :|]|:  
+[V:2] E,E,, :|]|:  
+[V:1] !trill!G{/^FG} [I:setbarnb 53]| 
+[V:2] z[K:clef=treble] | 
+[V:1] edc | 
+[V:2] C/G/D/G/E/G/ | 
+[V:1] agf & Bcd | 
+[V:2] F/G/E/G/D/G/ | 
+[V:1] ex2 & edc | 
+[V:2] C/G/D/G/E/G/ | 
+[V:1] _bag & ^cde | 
+[V:2] G/A/F/A/E/A/ | 
+[V:1] fx2 & fed | 
+[V:2] D/A/C/A/B,/^G/[K:clef=bass] | 
+[V:1] cBA & z/ A/ z/ =G/ z/ F/ | 
+[V:2] A,/ z/ =G,/ z/ F,/ z/ | 
+[V:1] ^GFE & z/ E/ z/ D/ z/ C/ | 
+[V:2] E,/ z/ D,/ z/ C,/ z/ | 
+[V:1] DCB, | 
+[V:2] B,,/B,/A,,/A,/^G,,/^G,/ | 
+[V:1] [Cc]BA | 
+[V:2] [A,,/A,/]E/B,/E/C/E/ | 
+[V:1] fed & ^G3 | 
+[V:2] D/E/C/E/B,/E/ & E,3- | 
+[V:1] cBA | 
+[V:2] A,/E/B,/E/C/E/ & E,3 | 
+[V:1] [^Gf^g][Aea][Bdb] | 
+[V:2] D/E/C/E/B,/E/ & E,3- | 
+[V:1] [cc'][Bb][Aa] | 
+[V:2] A,/E/B,/E/C/E/ & E,3 | 
+[V:1] [f^gf'][eae'][dbd'] | 
+[V:2] D/E/C/E/B,/E/ & !sfz!E,3 | 
+[V:1] .[cc'].[dfbd'].[Bd^gb] | 
+[V:2] A,/A/ D,/D/E,/E/ | 
+[V:1] .[Aca]z :|]  
+[V:2] A,A,, :|]

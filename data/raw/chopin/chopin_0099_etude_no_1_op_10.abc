@@ -1,0 +1,182 @@
+X: 99
+T: Etude No. 1	 Op. 10
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:52
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Leszek Kubiak
+%%abcx-initial-encoding-date 2018-09-26
+%%humdrum-veritas 1774769317
+%%humdrum-veritas-data 1513075518
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C
+N: Derived from 010-1b-Sm-001.krn
+P: ETUDES Pour le Piano
+Q: "[quarter] = 176." 1/4=176
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] z C,G,C !accent!ECGc !accent!ecgc' !accent!e'c'g'c'' | 
+[V:2] [C,16C,,16]- | 
+[V:1] !accent!e''c''g'c' !accent!e'c'gc !accent!ecGC !accent!ECG,C, | 
+[V:2] [C,16C,,16] | 
+[V:1] z C,A,C FCAc fcac' f'c'a'c'' | 
+[V:2] [F,,16F,,,16] | 
+[V:1] e''c''a'c' e'c'ac ecAC DCA,C, | 
+[V:2] [^F,,16^F,,,16] | 
+[V:1] z B,,G,B, DB,GB dBgb d'bg'a' | 
+[V:2] [G,,8G,,,8][^F,,4^F,,,4][E,,4E,,,4] | 
+[V:1] d''a'^f'c' d'a^fc dA^FC DA,^F,C, | 
+[V:2] [D,,16D,,,16] | 
+[V:1] z C,=F,_A, DCF_A dcf_a d'c'f'_a' | 
+[V:2] [G,,16G,,,16]- | 
+[V:1] d''g'f'=b d'gfB dGFB, !accent!^DG,F,B,, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z C,G,C ECGc ecgc' e'c'g'c'' | 
+[V:2] [C,16C,,16]- | 
+[V:1] e''c''g'c' e'c'gc ecGC ECG,C, | 
+[V:2] [C,16C,,16] | 
+[V:1] z C,F,C FCFc fcfc' f'c'f'c'' | 
+[V:2] [A,,16A,,,16]- | 
+[V:1] e''c''^f'c' e'c'^fc ec^FC EC^F,C, | 
+[V:2] [A,,16A,,,16] | 
+[V:1] z C,G,C DCGc dcgc' d'c'g'c'' | 
+[V:2] [G,,16G,,,16]- | 
+[V:1] d''b'g'b d'bgB dBGB, DB,G,B,, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z D,G,D EDGd edgd' e'd'g'd'' | 
+[V:2] [C,16C,,16]- | 
+[V:1] e''c''g'c' e'c'gc ecGC ECG,C, | 
+[V:2] [C,16C,,16] | 
+[V:1] z E,CE FEce fec'e' f'e'c''e'' | 
+[V:2] [A,,16A,,,16] | 
+[V:1] f''d''b'd' f'd'bd fdBD FDB,D, | 
+[V:2] [B,,8B,,,8][A,,8A,,,8] | 
+[V:1] z D,B,D EDBd edbd' e'd'b'd'' | 
+[V:2] [^G,,16^G,,,16] | 
+[V:1] e''c''a'c' e'c'ac ecAC ECA,C, | 
+[V:2] [A,,8A,,,8][=G,,8=G,,,8] | 
+[V:1] z C,A,C ECAc ecac' e'c'a'c'' | 
+[V:2] [F,,16F,,,16]- | 
+[V:1] ^d''b'a'b ^d'baB ^dBAB, ^DB,A,B,, | 
+[V:2] [F,,16F,,,16] | 
+[V:1] z B,,A,B, EB,AB eBab e'ba'b' | 
+[V:2] [E,,16E,,,16]- | 
+[V:1] e''b'^g'b e'b^gB eB^GB, EB,^G,B,, | 
+[V:2] [E,,16E,,,16] | 
+[V:1] z E,A,^C =GEA^c gea^c' g'c'ae | 
+[V:2] [A,,16A,,,16] | 
+[V:1] g'=c'ae gcAE GCA,E, ^FCA,D, | 
+[V:2] D,12x4 & D,,16 | 
+[V:1] z D,G,C =FDGc fdgc' f'd'g'c'' | 
+[V:2] [G,,16G,,,16]- | 
+[V:1] f''b'g'd' f'bgd fBGD FB,G,D, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z C,G,_B, ECG_B ecg_b e'c'g'c'' | 
+[V:2] [C,16C,,16] | 
+[V:1] _e''_b'_e'c' e'_b_ec e_B_EC E_B,_E,C, | 
+[V:2] [_G,,16_G,,,16] | 
+[V:1] z C,_E,A, _ECEA _ecea _e'c'e'a' | 
+[V:2] [F,,16F,,,16] | 
+[V:1] _e''_a'_e'_c' e'_a_e_c e_A_E_C E_A,_E,_C, | 
+[V:2] [_C,16_C,,16] | 
+[V:1] z _B,,F,_A, D_B,F_A d_Bf_a d'_bf'_a' | 
+[V:2] _B,,,16- | 
+[V:1] d''^g'=e'_b d'^g=e_B d^GE_B, D^G,E,_B,, | 
+[V:2] [_B,,16B,,,16] | 
+[V:1] z A,,E,A, ^CA,EA ^cAea ^c'ae'a' | 
+[V:2] [A,,16A,,,16]- | 
+[V:1] ^c''a'e'a ^c'aeA ^cAEA, ^CA,E,A,, | 
+[V:2] [A,,16A,,,16] | 
+[V:1] z A,,D,^F, =CA,D^F cAd^f c'ad'^f' | 
+[V:2] D,,16 | 
+[V:1] c''=f'd'g c'fdG cFDG, !accent!B,G,D,G,, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z G,,C,E, B,G,CE BGce bgc'e' | 
+[V:2] C,,16 | 
+[V:1] b'e'c'f becF BECF, A,E,C,F,, | 
+[V:2] [F,,16F,,,16] | 
+[V:1] z F,,B,,D, A,F,B,D AFBd afbd' | 
+[V:2] B,,,16 | 
+[V:1] g'd'be gdBE Acge ac'g'e' | 
+[V:2] [E,,8E,,,8][A,,8A,,,8] | 
+[V:1] f'c'ad fcAD GBfd gbf'd' | 
+[V:2] [D,,8D,,,8][G,,8G,,,8] | 
+[V:1] e'bgc eBGC FAec fad'c' | 
+[V:2] [C,,8C,,,8][F,,8F,,,8] | 
+[V:1] d'afB dAFB, DA,F,B,,x4 | 
+[V:2] [B,,12B,,,12]B,,,4- | 
+[V:1] ^d'a^fB ^dA^FB, ^DA,^F,^D,x4 | 
+[V:2] [B,,12B,,,12]B,,,4 | 
+[V:1] z B,,E,^G, EB,E^G eBe^g e'be'^g' | 
+[V:2] [E,,16E,,,16]- | 
+[V:1] e''^g'e'b e'^geB e^GEB, FB,=G,D, | 
+[V:2] [E,,12E,,,12][D,,4D,,,4] | 
+[V:1] z C,G,C ECGc ecgc' e'c'g'c'' | 
+[V:2] [C,,16-C,,,16] | 
+[V:1] e''c''g'c' e'c'gc ecGC ECG,C, | 
+[V:2] [C,16C,,16] | 
+[V:1] z C,A,C FCAc fcac' f'c'a'c'' | 
+[V:2] [F,,16F,,,16] | 
+[V:1] e''c''a'c' e'c'ac ecAC DCA,C, | 
+[V:2] [^F,,16^F,,,16] | 
+[V:1] z B,,G,B, DB,GB dBgb d'bg'a' | 
+[V:2] [G,,8G,,,8][^F,,4^F,,,4][E,,4E,,,4] | 
+[V:1] d''a'^f'c' d'a^fc dA^FC DA,^F,C, | 
+[V:2] [D,,16D,,,16] | 
+[V:1] z C,F,_A, DCF_A dcf_a d'c'f'_a' | 
+[V:2] [G,,16G,,,16]- | 
+[V:1] d''g'f'b d'gfB dGFB, !accent!^DG,F,B,, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z C,G,C ECGc ecgc' e'c'g'c'' | 
+[V:2] [C,16C,,16]- | 
+[V:1] e''c''g'c' e'c'gc ecGC ECG,C, | 
+[V:2] [C,16C,,16] | 
+[V:1] z C,F,C FCFc fcfc' f'c'f'c'' | 
+[V:2] [A,,16A,,,16]- | 
+[V:1] e''c''^f'c' e'c'^fc _ec^FC !accent!_EC^F,C, | 
+[V:2] [A,,12A,,,12][_A,,4_A,,,4] | 
+[V:1] z C,G,C DCGc dcgc' d'c'g'c'' | 
+[V:2] [G,,16G,,,16]- | 
+[V:1] d''b'g'b d'bgB dBGB, DB,G,B,, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z C,A,C DCAc dcac' d'c'a'c'' | 
+[V:2] [^F,,16^F,,,16] | 
+[V:1] _e''c''a'c' _e'c'ac !accent!^dBAB, !accent!^DB,A,B,, | 
+[V:2] [=F,,16=F,,,16] | 
+[V:1] z B,,^G,B, EB,^GB eB^gb e'b^g'b' | 
+[V:2] [E,,16-E,,,16] | 
+[V:1] e''b'^g'b e'b^gB eB^GB, EB,^G,B,, | 
+[V:2] [E,16E,,16] | 
+[V:1] z D,A,C FDAc fdac' f'd'a'c'' | 
+[V:2] D,,16 | 
+[V:1] f''b'g'd' f'bgd fBGD FB,G,D, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z C,G,C ECGc ec_bc' g'c'be | 
+[V:2] C,,16- | 
+[V:1] ^f'c'a_e ^fcA_E =fB^GD FB,^G,D, | 
+[V:2] [C,16C,,16] | 
+[V:1] z C,G,C ECGc ecgc' e'c'gc | 
+[V:2] C,,16 | 
+[V:1] _e'a^fc _eA^FC d_A=FB, D_A,F,B,, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z _B,,E,G, _D_B,EG _d_Beg _d'_be'g' | 
+[V:2] [G,,16G,,,16]- | 
+[V:1] _d''^f'_e'a _d'^f_eA !accent!_d^F_EA, cFEA, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z _A,DF c_Adf c'_ad'f' c''f'd'a | 
+[V:2] [G,,16G,,,16]- | 
+[V:1] b'f'd'g bfdG BFDG, B,F,D,G,, | 
+[V:2] [G,,16G,,,16] | 
+[V:1] z G,,E,G, CG,EG cGeg c'ge'g' | 
+[V:2] [C,,16C,,,16]- | 
+[V:1] c''g'e'g c'geG cGEG, CG,E,G,, | 
+[V:2] [C,,16C,,,16] | 
+[V:1] !fermata!z16 |]  
+[V:2] [C,,16C,,,16] |]

@@ -1,0 +1,48 @@
+X: 19
+T: Prelude in C Minor, Op. 28, No. 20
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-copyright Copyright 2001 by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%gracespace 0 6 6
+%%humdrum-veritas 1612964934
+%%humdrum-veritas-data 2862941579
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 4/4
+N: Derived from prelude28-20.krn
+Q: "Largo" 1/4=52
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Eb
+[V:1] [G,CEG][A,CEA][G,=B,][E,G,CE] & x2[E3//G3//] [D//F//]x [I:setbarnb 2]| 
+[V:2] [C,,C,][F,,,F,,][G,,,G,,][C,,G,,C,] | 
+[V:1] [E,A,CE][F,A,_DF][_D,E,G,][C,E,A,C] & x2[C3//E3//] [B,//D//]x | 
+[V:2] [^G,,,^G,,][^C,,,^C,,][E,,,E,,][G,,,G,,] | 
+[V:1] [=D,F,=B,=D][=E,G,_B,C=E][A,/C/G/]> F/[G,C_E] | 
+[V:2] [G,,,G,,][C,,,C,,][F,,,F,,][C,,C,] | 
+[V:1] [^F,CD][G,=B,DG][CD^F][=B,DG] & x2=B3// =A//x | 
+[V:2] [D,,=A,,D,][G,,,G,,][D,,,D,,][G,,,G,,] | 
+[V:1] [EGe][EAe][Dd][DGd] & x2A3// ^F//x | 
+[V:2] [C,,C,][C,C][=B,,=B,][_B,,_B,] | 
+[V:1] [CGc][CD^Fd][D/G/=B/]> [C/=A/][=B,DG] | 
+[V:2] [=A,,=A,][^G,,^G,][=G,,=G,][F,,F,] | 
+[V:1] [CGc][A,CA][G,D][G,CE] & x2G3// F//x | 
+[V:2] [E,,E,][F,,F,][=B,,,=B,,][C,,C,] | 
+[V:1] [E,A,CE][F,A,_DF][F,G,=B,][E,G,C] & x2E3// =D//x | 
+[V:2] [^G,,,^G,,][^C,,,^C,,][=G,,,=G,,][=C,,,=C,,] | 
+[V:1] [EGe][EAe][Dd][DGd] & x2A3// ^F//x | 
+[V:2] [C,,C,][C,C][=B,,=B,][_B,,_B,] | 
+[V:1] [CGc][CD^Fd][D/G/=B/]> [C/=A/][=B,DG] | 
+[V:2] [=A,,=A,][^G,,^G,][=G,,=G,][F,,F,] | 
+[V:1] [CGc][A,CA][G,D][G,CE] & x2G3// F//x | 
+[V:2] [E,,E,][F,,F,][=B,,,=B,,][C,,C,] | 
+[V:1] [E,A,CE][F,A,_DF][F,G,=B,][E,G,C] & x2E3// =D//x | 
+[V:2] [^G,,,^G,,][^C,,,^C,,][=G,,,=G,,][=C,,,=C,,] | 
+[V:1] !fermata![C4E4G4c4] |]  
+[V:2] !fermata![C,4G,4] |]

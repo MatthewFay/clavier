@@ -1,0 +1,67 @@
+X: 252
+T: Preludium No. 23	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:24:00
+%%abc-edited-by Mateusz Mrugas
+%%abc-edited-by Emilia ZiÄtek
+%%abcx-initial-encoding-date 2019-05-27
+%%humdrum-veritas 1268131527
+%%humdrum-veritas-data 48574311
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C
+N: Derived from 028-1-BH-023.krn
+P: Vingt-quatre PRELUDES pour le Piano
+Q: "Moderato." 1/4=104
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: F
+[V:1] cAFD CFfd cAFD CFfd | 
+[V:2] [A,8C,8F,,8]z8 | 
+[V:1] cAFD CFfd cAFD CEBG | 
+[V:2] C,,4{/=B,,C,}!trill!C,4A,4G,4 & x8{/B,,C,-}C,8 | 
+[V:1] AFCA, CF[BE]G AFCA, CF[BE]G | 
+[V:2] F,,2C,F, A,2[G,2C,2] F,,2C,F, A,2[G,2C,2] | 
+[V:1] AFCA, CFB^G ABd=B cefa | 
+[V:2] F,,2C,F, A,F,D=B, C2_B^G A2 z2 | 
+[V:1] gecA Gcc'a gecA Gcc'a | 
+[V:2] !arpeggio![E8G,8C,8]z8 | 
+[V:1] gecA Gcc'a gecA G=Bfd | 
+[V:2] G,,4{/^F,G,}!trill!G,4E4D4 & x8{/F,G,-}G,8 | 
+[V:1] ecGE Gc[f=B]d ecGE Gc[fB]d | 
+[V:2] C,2G,C E2[D2G,2] C,2G,C E2[D2G,2] | 
+[V:1] ecGE Gceg c'e'd'g dgde | 
+[V:2] (3C,2G,2C2[K:clef=treble] (3E2_B2 z2z8[K:clef=bass] | 
+[V:1] c'afd cff'd' c'afd cff'd' | 
+[V:2] !arpeggio![A8C8F,8]z8 | 
+[V:1] c'afd cff'd' c'afd cebg | 
+[V:2] C,4[K:clef=treble]{/=B,C}!trill!C4A4G4 & x4x4{/B,C}C8 | 
+[V:1] afcA cf[be]g afcA cf[be]g | 
+[V:2] F,2CF A2[G2C2] F,2CF A2[G2C2] | 
+[V:1] afcA cfac' f'a'g'c' gc'ga | 
+[V:2] (3F,2C2F2 (3A2!accent!_e2 z2z8 | 
+[V:1] f'd'bg fbb'g' f'd'bg fbb'g' | 
+[V:2] (3B,2[G2F2]d2z4z8 | 
+[V:1] f'd'=bg fg=b'g' f'd'bg fg=Bg' | 
+[V:2] (3G,2F2d2z4z8 | 
+[V:1] f'd'c'a gc'c''a' f'd'c'a gc'c''a' | 
+[V:2] G14x2 & (3C2G2c2f12 | 
+[V:1] f'd'c'a gc'c''a' g'e'c'a Gc'c''g' | 
+[V:2] B16[K:clef=bass] & G8x2 x2x4 | 
+[V:1] c''a'f'd' cf'f''d'' c''a'f'd c'f'f''d'' | 
+[V:2] !arpeggio![A8C8F,8]z8 | 
+[V:1] c''a'f'd' c'f'Fd'' c''a'f'd' c'e'b'g' | 
+[V:2] C,4[K:clef=treble]!trill!C4A4G4[K:clef=bass] & x4{/=B,C}x4{/B,C}C8 | 
+[V:1] a'f'c'a fc[be]g afcA FC[BE]G | 
+[V:2] F,2CF A2[G2C2] F,,2C,F, A,2[G,2C,2] | 
+[V:1] AFCA, CF[BE]G AFCA, CF[BE]G | 
+[V:2] F,,2C,F, A,2[G,2C,2] F,,2C,F, A,2[G,2C,2] | 
+[V:1] AFCA, CFAc fac'f' a'c'f'a | 
+[V:2] F,,2>C,2 F,A,CF[K:clef=treble] A!accent!_eAF[K:clef=bass] CA,F,C, | 
+[V:1] !fermata!f''4z4z8 |]  
+[V:2] F,,4z4z8 |]

@@ -1,0 +1,74 @@
+X: 45
+T: Piano Sonata no. 13 in E\b major, Adagio
+C: Ludwig van Beethoven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/11 11:42:14
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2008/11/04
+%%gracespace 0 6 6
+%%humdrum-veritas 3321428478
+%%humdrum-veritas-data 696414925
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+Q: "Adagio" 1/4=60
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Ab
+[V:1] [E,4A,4C4]C/B,/A,/C//B,// | 
+[V:2] x4[D,2G,2] & [A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,] | 
+[V:1] [C,2E,2A,2]>[C,2E,2A,2][D,G,B,][E,_G,C] | 
+[V:2] [A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,][A,,,A,,] | 
+[V:1] x2D/C/D/E/ F/=G/A/F/ & [F,2A,2D2]A,A,A,A, | 
+[V:2] x2F,/=E,/F,/C,/ D,/_E,/F,/D,/ & [A,,,A,,][A,,,A,,] A,,A,,A,,A,, | 
+[V:1] =D3/F//E// E [A,E][G,B,E][A,CE] & A,2A,x3 | 
+[V:2] =B,,2C,x3 & A,,A,, A,, [C,E,][_B,,D,E,][A,,C,E,] | 
+[V:1] [_D2_d2]>[D2d2] [D/d/][C/c/][B,/B/][A,/A/] | 
+[V:2] [B,,E,][B,,E,][B,,E,][B,,E,][C,E,][C,E,] & G,,G,,G,,G,,A,,A,, | 
+[V:1] [A,A][G,2G2][G,G] [A,/A/]!trill![A,/A/][B,/B/][C/c/] | 
+[V:2] E,E,E,E,E,E, & D,D,D,D,C,C, | 
+[V:1] [Ee][D2d2][Bd] [B/d/][A/c/][G/=B/][A/c/] | 
+[V:2] [G,,E,][G,,E,][G,,E,][G,,E,][A,,E,][A,,E,] | 
+[V:1] [A2c2][G_B] zz2 & z =DEx3 | 
+[V:2] E,E,E, B,=A,_A, & E,,3x3 | 
+[V:1] z[B2b2][G2g2][Ee] | 
+[V:2] G,[G,B,][G,B,][G,B,][G,B,][G,B,] | 
+[V:1] [E2e2][=D=d][=E=e][Ff][_E_e] | 
+[V:2] [F,A,B,][F,A,B,][F,A,B,][G,B,][A,B,C][G,B,] | 
+[V:1] [E2e2][=D=d][Cc][B,B][=A,=A] | 
+[V:2] [F,A,B,][F,A,B,][F,A,B,][E,G,][=D,F,][C,E,] | 
+[V:1] [=D3_A3][A2A,2][GG,] & x2>[D2F2]EE | 
+[V:2] [=B,,F,][B,,F,][B,,F,] [=B,,,B,,][C,,C,][C,,C,] | 
+[V:1] [F,/C/F/][=B,=B][Cc][=E=e][Ff][=B=b][c/c'/]- | 
+[V:2] [A,,,/A,,/] z/ .[A,,C,F,].[A,,C,F,].[A,,C,F,].[A,,C,F,].[A,,C,F,] | 
+[V:1] [c/c'/][=d=d'][_e_e'][ff'][ee'][dd'][c/c'/]- | 
+[V:2] .[=A,,E,F,].[A,,E,F,].[A,,C,F,].[A,,C,F,].[A,,E,F,].[A,,E,F,] | 
+[V:1] [c/c'/][=B=b][_B_b][=A=a][Bb][cc'][B/b/]- | 
+[V:2] .[B,,E,G,].[B,,E,G,].[B,,E,G,].[B,,E,G,].[B,,=D,_A,].[B,,D,A,] | 
+[V:1] [B/b/][_A_a][Gg][Ff][Ee][=D=d][_D/_d/] | 
+[V:2] .[E,G,].[E,G,].[E,G,].[E,G,].[E,F,A,].[E,G,B,] | 
+[V:1] c4c/B/A/c//B// & C/E/A/E/ C/E/A/E/ D/G/D/G/ | 
+[V:2] [A,,E,A,][A,,E,A,][A,,E,A,][A,,E,A,][A,,D,E,G,][A,,D,E,G,] | 
+[V:1] A2>!trill!A2Bc & C/E/C/E/ C/E/C/E/ D/G/E/_G/ | 
+[V:2] [A,,C,E,A,][A,,C,E,A,][A,,C,E,A,][A,,C,E,A,][A,,D,E,G,][A,,E,_G,] | 
+[V:1] d2x2x2 & F/A/A/A/ .[D/A/d/].[C/A/c/].[D/A/d/].[E/A/e/] .[F/A/f/].[G/A/g/].[A/a/].[F/A/f/] | 
+[V:2] [D,F,][F,A,] [F,/A,/][=E,/A,/][F,/A,/][C,/A,/] [D,/A,/][_E,/A,/][F,/A,/][D,/A,/] & A,,A,,A,,A,,A,,A,, | 
+[V:1] =d3/f//e// eeee & [=D2A2][EA] A[GB][Ac] | 
+[V:2] =B,,2C, [CE][B,_DE][A,CE] & [A,,A,][A,,A,][A,,A,]x3 | 
+[V:1] [_d2_d'2]>[d2d'2] [d/d'/][c/c'/][B/b/][A/a/] | 
+[V:2] [G,B,E][G,B,E][G,B,E][G,B,E][A,CE][A,CE] | 
+[V:1] [Aa][G2g2][Gg] .[A/a/]!trill![A/a/][B/b/][c/c'/] | 
+[V:2] [DE][DE][DE][DE] [CE][K:clef=treble] [_GA] | 
+[V:1] [d/d'/]!trill![d/d'/][e/e'/][f/f'/] [f/f'/][e/e'/][=d/=d'/][e/e'/]- [e/e'/][e/e'/][d/d'/][e/e'/]- | 
+[V:2] [FA][DAd][EAc][K:clef=bass] [E,A,C][E,G,_D][E,G,B,D] | 
+[V:1] [e/e'/][A/a/] zz2x (11:8:11F/8G/8A/8B/8c/8=d/8e/8f/8g/8a/8g/8 | 
+[V:2] [A,C] [A,,C,][A,,C,][G,,B,,] z/16 B,,/16A,,/16G,,/16A,,/16B,,/16C,/16=D,/16E,/16F,/16G,/16A,/16B,/16C/16=D/16E/16 x & x4[F,,A,,][E,,G,,C,] | 
+[V:1] g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8 g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8 g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8g/8a/8 | 
+[V:2] [=D,,6F,,6B,,6] | 
+[V:1] {/g}!fermata!!trill!a2g//a//b//a//g//f//=e//f//g//f//_e//=d//^c//d//e//d//=c//B//=A//B//=B//c//G//._B2.=A2.!fermata!_A2 ||  
+[V:2] !fermata![=D,6F,6B,6]x x/ x//x2x2x2 ||

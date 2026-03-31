@@ -1,0 +1,77 @@
+X: 89
+T: Piano Sonata no. 28 in A major, Adagio
+C: Ludwig van Beethoven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/11 11:42:13
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2008/11/04/
+%%gracespace 0 6 6
+%%humdrum-veritas 1333821756
+%%humdrum-veritas-data 546874528
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/4
+Q: "Adagio ma non troppo con affetto" 1/4=60
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] E4E(3F/E/^D/Ec & B,2D2C4 | 
+[V:2] [^G,,,2^G,,2][B,,,2B,,2][A,,,4A,,4] | 
+[V:1] ^G3B/A/ A2[c2e2] & E4E2E2 | 
+[V:2] [B,,,2B,,2][D,,2D,2][C,,2C,2][A,,,2A,,2] | 
+[V:1] e2d[^ce] [F2A2d2f2][_B,F_B][=CEA] & [E2A2-][DA][EG]z4 | 
+[V:2] [F,,2F,2]>[E,,2E,2] [D,,3D,3][C,,C,] | 
+[V:1] ^G2Ac ec=B2 & [D2E2][C2E2] c/E/AG=G | 
+[V:2] [B,,,2B,,2][A,,,2A,,2]E,,4 & z4E,,,4 | 
+[V:1] [E2G2B2][F2B2g2][G2c2e2g2][c2e2g2c'2] | 
+[V:2] [E,,2E,2][D,,2D,2][C,,2C,2][_B,,,2_B,,2] | 
+[V:1] [c2f2c'2][f2c'2f'2] [f3b3d'3f'3] [D,F,B,] | 
+[V:2] [A,,,2A,,2][_A,,,2_A,,2][G,,,4G,,4] | 
+[V:1] z8 | 
+[V:2] [D,2F,2B,2][E,2G,2^C2][F,2A,2D2][G,=C][G,B,] & [G,,,6G,,6][G,,E,][F,,D,] | 
+[V:1] [G,2C2G2][A,A]>[B,B] [B,2F2B2][CEc] z & z2 F2z4 | 
+[V:2] E,2D,2 [G,,2D,2][C,,C,] z & E,,2D,,G,,z4 | 
+[V:1] z8 | 
+[V:2] G,,4G,,(3A,,/G,,/^F,,/G,,E, | 
+[V:1] G4G(3A/G/^F/ G [ege'] & D2F2 E2 z2 | 
+[V:2] G,4z4 & B,,2D,2[C,4G,4] | 
+[V:1] [B2d2b2][d2f2d'2][c2e2c'2] z2 | 
+[V:2] G,4G,(3A,/G,/^F,/G,E | 
+[V:1] g(3a/g/^f/ge'e'4 | 
+[V:2] E4G,(3A,/G,/^F,/G,E | 
+[V:1] g(3a/g/^f/ge'2< e'2g | 
+[V:2] {/B,,}E4G,(3A,/G,/^F,/G,E | 
+[V:1] g2- g/(3a//g//^f//g/e'/ e'[fc'^d'] [^FA^d] z | 
+[V:2] E^C^A,G, =A,,2 z2 & z4^F,=A,=C^D | 
+[V:1] {/=F2B2=d2} f2- f/(3g//f//e//f/d'/ d'[e_b^c'] [EG^c] z | 
+[V:2] =DB,^G,=F, =G,,2 z2 & z4=E,=G,_B,^C | 
+[V:1] ^d2- d/(3:2:6b//a//^g// a/c/c'/ c'[=dgb] [D=FB] z | 
+[V:2] =CA,^F,^D, =F,,2 z2 & z4=D,=F,^G,B, | 
+[V:1] [B2^g2b2][B2d2b2]- [Bdb][Aca].[Ece].[Ece] | 
+[V:2] D,E,^G,B, C,E,G,A, & E,,2 z2 E,,2 z2 | 
+[V:1] [E2c2e2][D2B2d2]- [DBd][C2A2c2][CAc] | 
+[V:2] B,,D,E,^G, A,,C,^D,E, & E,,2 z2 E,,2 z2 | 
+[V:1] [C4^D4^F4A4c4]-[CDFAc][CDFAc][DFA][E^G] | 
+[V:2] ^F,,A,,C,^D, ^F,A,CB, & E,,4-E,,3[E,,^G,,B,,E,] | 
+[V:1] [E,4^G,4B,4E4^G4] | 
+[V:2] [E,,4^G,,4B,,4E,4] | 
+[V:1]  [K:A] [M:6/8]{/G2E2^D2E2G2 B2G2^^F2G2B2 e2B2^A2B2e2 g2e2^d2e2g2 b2^^f2g2b2d2e2g2A2B2e2F2G2B2D2E2G2E2B,2G,2E,2 G,2B,2E2}G4=A2B4c2 & E2B,2^F2 G2E2A2- | 
+[V:2]  [K:A] [M:6/8]E,4^D,2=D,4C,2 & E,,12- | 
+[V:1] e4d2 B2 z2 A2 & A2F2B2 G2 z2 A2- | 
+[V:2] B,,4>E,4 z2 z2 & E,,4>-E,,4 z2 z2 | 
+[V:1] a4g2f4e2 & A2A4-A2A4- | 
+[V:2] F4E2D4C2 & z4z2A,6 | 
+[V:1] f4e2- e2c2B2 & A2A4-A2E2E2 | 
+[V:2] C4>-C4A,2G,2 & C,4D,2E,6 | 
+[V:1] z4e2- e2c2B2 & z6E6 | 
+[V:2] z4C2- C2A,2G,2 & z6E,6 | 
+[V:1] z4f2- [F2f2]d2c2 | 
+[V:2] z4D2- D2B,2A,2[K:clef=treble] | 
+[V:1] [A2a2]f2e2 [c2c'2]a2g2 | 
+[V:2] F2D2C2 A2F2E2 | 
+[V:1] [M:7/4](9:8:9[e/e'/]^d'/=d'/c'/b/a/g/f/e/!fermata!=d8!fermata!^d8!fermata!e8 | 
+[V:2] [M:7/4][E4G4B4d4]!fermata!z8!fermata!z8!fermata!z8 |

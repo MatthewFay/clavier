@@ -1,0 +1,118 @@
+X: 221
+T: Preludium No. 16	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:24:08
+%%abc-edited-by Leszek Kubiak
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Marta Lawrence
+%%abcx-initial-encoding-date 2019-05-01
+%%humdrum-veritas 4137105328
+%%humdrum-veritas-data 4273351021
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C
+N: Derived from 028_13-24-1a-C-016.krn
+P: 24 PRELUDES POUR le Piano.
+Q: "Presto con fuoco."
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Db
+%%postscript /mark1hd {gsave 1 0.2 0.2 setrgbcolor hd grestore}!
+%%deco head-m1hd 0 mark1hd 0 0 0 
+[V:1] (3:2:6!accent![g4=A4E4] !accent![f4A4E4] !accent![=e4A4_E4] !accent![_e4A4E4] !accent![d4A4E4] !accent![c4A4E4] | 
+[V:2] (3:2:6.[F,,4F,,,4] [C4F,4C,4] [C4F,4C,4] [C4F,4C,4] [C4F,4C,4] [C4F,4C,4] | 
+[V:1] fced F=ABc def=g =abc'd' | 
+[V:2] B,,2[D2F,2] z2 F,,2 B,,2[D2F,2] z2 F,,2 | 
+[V:1] e'f'=g'=a' b'c''d''e'' =e''f''_e''d'' c''b'a'b' | 
+[V:2] B,,2[D2F,2] z2 F,,2 B,,2[D2F,2] z2 F,,2 | 
+[V:1] _a'g'f'=e' f'_e'd'c' b=ab_a gfed | 
+[V:2] B,,2[D2F,2] z2 F,,2 B,,2[D2F,2] z2 F,,2 | 
+[V:1] cdef gabc' bagf edce | 
+[V:2] B,,2[E2G,2E,2] z2 B,,,2 B,,2[E2G,2E,2] z2 B,,,2 | 
+[V:1] g=dfe cG=Bc _dc=de fe=ef | 
+[V:2] B,,2[E2G,2E,2] z2 B,,,2 B,,2[E2G,2E,2] z2 B,,,2 | 
+[V:1] ag=ab d'c'd'=d' f'e'=e'f' =a'b'a'=g' | 
+[V:2] B,,2[E2G,2E,2] z2 B,,,2 B,,2[E2G,2E,2] z2 B,,2 | 
+[V:1] _g'f''e''e' d''c''c'b' =a'=a_a'g' gf'e'g | 
+[V:2] =A,,2[E2G,2] z2 =A,,,2 A,,2[E2G,2] z2 A,,2 | 
+[V:1] fe'd'f d'c'ec' dbac agBg | 
+[V:2] B,,2[D2F,2] z2 B,,2 D,2[F2B,2F,2] z2 D,2 | 
+[V:1] =ABcd e=efg ef=d_e c_dcB | 
+[V:2] E,2[G2=A,2] z2 E,2 D,2[F2B,2F,2] z2 D,2 | 
+[V:1] =ABcd e=efg ef=d_e c_dcB | 
+[V:2] E,2[G2=A,2] z2 E,2 D,2[F2B,2F,2] z2 D,2 | 
+[V:1] =Bc=de =ef=ga ^fgef d_edc | 
+[V:2] F,2[A2=B,2] z2 F,2 E,2[=G2C2=G,2] z2 E,2 | 
+[V:1] =Bc=de =ef=ga ^fgef d_edc | 
+[V:2] F,2[A2=B,2] z2 F,2 E,2[=G2C2=G,2] z2 E,2 | 
+[V:1] _defg ab=bc' ^c'=d'f'e' =c'=age | 
+[V:2] F,2[A2D2A,2] z2 F,2 G,2[=A2C2=A,2] z2 G,2 | 
+[V:1] defg ab=bc' d'c'e'd' _b=g=ed | 
+[V:2] F,2[A2D2A,2] z2 F,2 =E,2[=G2D2B,2] z2 E,2 | 
+[V:1] cd=de =efg=g a=ac'b _gf_e_d | 
+[V:2] _E,2[_G2C2=A,2] z2 E,2 D,2[F2B,2F,2]z4 | 
+[V:1] cB=Ac GF=EF GFBA dc_ag | 
+[V:2] F,,2 z2!arpeggio![E4=A,4F,4C,4]z8 | 
+[V:1] fced F=ABc def=g =abc'd' | 
+[V:2] [B,,2B,,,2][D2F,2D,2] z2 [F,,2F,,,2] [B,,2B,,,2][D2F,2D,2] z2 [F,,2F,,,2] | 
+[V:1] e'f'=g'=a' b'c''d''e'' =e''f''_e''d'' c''b'a'b' | 
+[V:2] [B,,2B,,,2][D2F,2D,2] z2 [F,,2F,,,2] [B,,2B,,,2][D2F,2D,2] z2 [F,,2F,,,2] | 
+[V:1] _a'g'f'=e' f'_e'd'c' b=ab_a gfed | 
+[V:2] [B,,2B,,,2][D2F,2D,2] z2 [F,,2F,,,2] [B,,2B,,,2][D2F,2D,2] z2 [F,,2F,,,2] | 
+[V:1] cdef gabc' bagf edce | 
+[V:2] [B,,2B,,,2][E2G,2E,2] z2 [F,,2F,,,2] [B,,2B,,,2][E2G,2E,2] z2 [F,,2F,,,2] | 
+[V:1] g=d_fe cG=Bc _dc=de fe=e=f | 
+[V:2] [__B,,2__B,,,2][E2G,2E,2] z2 [E,,2E,,,2] [B,,2B,,,2][E2G,2E,2] z2 [_E,,2_E,,,2] | 
+[V:1] ag=bc' _d'c'=d'e' f'e'=e'f' a'_b'a'=g' | 
+[V:2] [__B,,2__B,,,2][E2G,2E,2] z2 [E,,2E,,,2] [B,,2B,,,2][E2G,2E,2] z2 [E,,2E,,,2] | 
+[V:1] g'f''e''g' e''d''f'd'' c''e'c''b' d'b'a'c' | 
+[V:2] [A,,2A,,,2][G2C2E,2] z2 [E,,2E,,,2] [A,,2A,,,2][G2C2E,2] z2 A,,,2 | 
+[V:1] a'g'bg' f'af'e' ge'd'f bafd | 
+[V:2] A,,2[F2D2F,2] z2 A,,,2 A,,2[D2F,2] z2 A,,,2 | 
+[V:1] cde=e fga__b =ga_e_f Afed | 
+[V:2] A,,2[C2G,2E,2] z2 A,,,2 A,,2[D2_F,2] z2 A,,,2 | 
+[V:1] cde=e fga__b =gae_f Afd_c | 
+[V:2] A,,2[C2G,2E,2] z2 A,,2 D,2[D2_F,2] z2 =G,,2 | 
+[V:1] ^A=B^c=d ^d=e^f=g ^ef^d=e c=dB=A | 
+[V:2] ^F,,2[=E2^A,2^F,2] z2 ^F,,,2 F,,2[=D2=B,2F,2] z2 =F,,2 | 
+[V:1] ^G=A=Bc ^c=d=ef ^de^c=d BcBA | 
+[V:2] =E,,2[=D2^G,2!head-m1hd!=E,2] z2 =E,,,2 E,,2[=C2=A,2E,2] z2 [=E,,2=E,,,2] | 
+[V:1] ^G=A_dc BA_gf edc'b agfe | 
+[V:2] [F,,2F,,,2] z2!arpeggio![_E4F,4C,4]!arpeggio![D4F,4B,,4]!arpeggio![G4B,4E,4] | 
+[V:1] dcba gfed cBag fedc | 
+[V:2] !arpeggio![C4G,4A,,4]!arpeggio![F4A,4D,4]!arpeggio![B,4D,4G,,4]!arpeggio![E4G,4C,4] | 
+[V:1] B=A_A=G _AG_GF =G_GF=E GFE_E | 
+[V:2] [D4B,4F,4D,4]!accent![C4B,4_G,4E,4]z4G,F,=E,_E, | 
+[V:1] !accent!F=E_E=D !accent!=E_ED_D !accent!E=D_DC !accent!EDCB, | 
+[V:2] F,=E,_E,=D, =E,_E,D,_D, E,=D,_D,C, E,D,C,B,, | 
+[V:1] =A,B,CD E=EFG EF=D_E C_DCB, | 
+[V:2] E,,2[G,2=A,,2] z2 E,,2 D,,2[F,2B,,2] z2 D,,2 | 
+[V:1] =A,B,CD E=EFG EF=D_E C_DCB, | 
+[V:2] E,,2[G,2=A,,2] z2 E,,2 D,,2[F,2B,,2] z2 D,,2 | 
+[V:1] CDEF GcBC B,CDE FcBG | 
+[V:2] E,,2[G,2B,,2] z2 E,,2 F,,2[B,2D,2] z2 F,,,2 | 
+[V:1] =EFGF B=Agf _edBF EDB,F, | 
+[V:2] F,,2[=A,2E,2] z2 F,,2 B,,2[D2F,2] z2 D,,2 | 
+[V:1] =A,B,CD E=EFG EF=D_E CDCB, | 
+[V:2] E,,2[G,2=A,,2] z2 E,,2 D,,2[F,2B,,2] z2 D,,2 | 
+[V:1] =A,B,CD E=EFG EF=D_E CDCB, | 
+[V:2] E,,2[G,2=A,,2] z2 E,,2 D,,2[F,2B,,2] z2 D,,2 | 
+[V:1] _CDE_F GAB_c de_fg ab_c'd' | 
+[V:2] [G,4_C,4E,,4]z4[G4_C4G,4E,4][_F4B,4G,4D,4] | 
+[V:1] _f'e'_c'a ge_cA GE_CA, G,E,_C,A,, | 
+[V:2] E8x8 & [G,4_C,4]z4z8 | 
+[V:1] =E,,F,,B,,=A,, G,,F,,D,C, B,,A,,G,F, D,C,B,=A, | 
+[V:2] !accent!=E,,,F,,,B,,,=A,,, G,,,F,,,D,,C,, B,,,A,,,G,,F,, D,,C,,B,,=A,, | 
+[V:1] G,F,DC B,=A,GF DCB=A GFdc | 
+[V:2] G,,F,,D,C, B,,=A,,G,F, D,C,B,=A, G,F,DC | 
+[V:1] B=Agf dcb=a gfd'c' bag'f' | 
+[V:2] B,!head-m1hd!=A,GF[K:clef=treble] DCB=A GFdc BAgf | 
+[V:1] d'c'b'=a' g'f'd''c'' .f''2 z2.[f4=A4E4] | 
+[V:2] dcb=a gfd'c' f'2 z2[K:clef=bass][F,4F,,4] | 
+[V:1] [b4B4]z4z8 |]  
+[V:2] {/B,,,}!accent![D4F,4B,,4]z4z8 |]

@@ -1,0 +1,156 @@
+X: 177
+T: 4me ETUDE.	 Op. 25
+C: F. Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:29
+%%abc-edited-by JÄdrzej MrÃ³z
+%%abc-edited-by Emilia ZiÄtek
+%%abc-edited-by Emilia ZiÄtek
+%%abcx-initial-encoding-date 2018-10-02
+%%humdrum-veritas 1483472739
+%%humdrum-veritas-data 4135211679
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: C|
+N: Derived from 025_1-6-1d-BH-004.krn
+P: Douze Etudes
+Q: "Agitato." 1/2=80
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] z2 [I:setbarnb 1]| 
+[V:2] !accent!E,2 | 
+[V:1] z !wedge![eAE] z !wedge![aeA] z !wedge![adA] z !wedge![^ge^G] | 
+[V:2] !wedge!A,,!wedge![CE,] !wedge!C,!wedge![EA,] !wedge!B,,!wedge![DF,] !wedge!E,!wedge![EB,] | 
+[V:1] z !wedge![eA] z !wedge![c'ec] z !wedge![c'fc] z !wedge![bfB] | 
+[V:2] !wedge!C,!wedge![EA,] !wedge!A,,!wedge![EA,] !wedge!D,!wedge![FA,] !wedge!D,!wedge![F^G,] | 
+[V:1] z !wedge![afA] z !wedge![e'ae] z !wedge![d'ad] z !wedge![e'^ge] | 
+[V:2] !wedge!C,!wedge![FA,] !wedge!C,!wedge![EA,] !wedge!B,,!wedge![DF,] !wedge!E,,!wedge![DB,E,] | 
+[V:1] z !wedge![c'ec] z !wedge![^ge^G] z !wedge![aeA] z !wedge![c'ec] | 
+[V:2] !wedge!A,,!wedge![CE,] !wedge!B,,!wedge![DE,] !wedge!C,!wedge![EE,] !wedge!A,,!wedge![CE,] | 
+[V:1] z [beB] z [aeA] z [eBE] z [aeA] | 
+[V:2] !wedge!E,,!wedge![DE,] !wedge!A,,!wedge![CE,] !wedge!B,,!wedge![D^G,E,] !wedge!A,,!wedge![CA,E,] | 
+[V:1] z !wedge![beB] z !wedge![aeA] z !wedge![eBE] z !wedge![aeA] | 
+[V:2] !wedge!E,,[D^G,E,] !wedge!A,,!wedge![CA,E,] !wedge!B,,!wedge![DG,E,] !wedge!A,,!wedge![CA,E,] | 
+[V:1] z !wedge![beB] z !wedge![c'ec] z !wedge![gBG] z !wedge![^fBA] | 
+[V:2] !wedge!=G,,!wedge![E=G,] !wedge!A,,!wedge![EA,] !wedge!B,,!wedge![EB,] !wedge!B,,!wedge![^DB,] | 
+[V:1] z !wedge![eB^G] z !wedge![^fcA] z !wedge![=g=fB=G] z !wedge![^ged^G] | 
+[V:2] !wedge!E,!wedge![EB,] !wedge!^D,!wedge![^FC] !wedge!=D,!wedge![=FB,] !wedge!E,,!wedge![EB,] | 
+[V:1] x3!accent!a4^g & z !wedge![aecA] z !wedge![eA] z !wedge![dA] z !wedge![e^G] | 
+[V:2] !wedge!A,,!wedge![EA,] !wedge!C,!wedge![EA,] !wedge!B,,!wedge![DF,] !wedge!E,!wedge![EB,] | 
+[V:1] x3!accent!c'4b- & z !wedge![eA] z [ec] z [fc] z [fB] | 
+[V:2] !wedge!C,!wedge![EA,] !wedge!A,,!wedge![EA,] !wedge!D,!wedge![FA,] !wedge!D,!wedge![F^G,] | 
+[V:1] ba xe'2d'2e'- & z [fA] z [ae] z [ad] z [^ge] | 
+[V:2] !wedge!C,!wedge![FA,] !wedge!C,!wedge![EA,] !wedge!B,,!wedge![DF,] !wedge!E,,!wedge![DB,E,] | 
+[V:1] e'c'2b2a3 & z !wedge![ec] z !wedge![eB] z !wedge![eA] z !wedge![ec] | 
+[V:2] !wedge!A,,!wedge![CE,] !wedge!B,,!wedge![D^G,E,] !wedge!C,!wedge![EA,E,] !wedge!A,,!wedge![CE,] | 
+[V:1] xb2a2e2a & z [eB] z [eA] z [BE] z [eA] | 
+[V:2] !wedge!E,,!wedge![DE,] !wedge!A,,!wedge![CE,] !wedge!B,,!wedge![D^G,E,] !wedge!A,,!wedge![CA,E,] | 
+[V:1] xb2a2e2a & z [eB] z [eA] z [BE] z [eA] | 
+[V:2] !wedge!E,,!wedge![D^G,E,] !wedge!A,,!wedge![CA,E,] !wedge!B,,!wedge![DG,E,] !wedge!A,,!wedge![CA,E,] | 
+[V:1] xb2c'2g2^f- & z [eB] z [ec] z [BG] z [BA] | 
+[V:2] !wedge!=G,,!wedge![E=G,] !wedge!A,,!wedge![EA,] !wedge!B,,!wedge![EB,] !wedge!B,,!wedge![^DB,] | 
+[V:1] fe7 & z [BG] z !wedge![cA] z !wedge![BG] z !wedge![cA] | 
+[V:2] !wedge!E,!wedge![EB,] !wedge!A,,!wedge![EA,] !wedge!E,!wedge![EB,] !wedge!A,,!wedge![EA,] | 
+[V:1] xb2c'2g2^f & z !wedge![eB] z !wedge![ec] z !wedge![BG] z !wedge![BA] | 
+[V:2] !wedge!G,,!wedge![EG,] !wedge!A,,!wedge![EA,] !wedge!B,,!wedge![EB,] !wedge!B,,!wedge![^DB,] | 
+[V:1] xe4f3 & z !wedge![BG] z !wedge![BG] z !wedge![B^G] z !wedge![BG] | 
+[V:2] !wedge!E,!wedge![EB,G,] !wedge!^D,!wedge![EB,G,] !wedge!=D,!wedge![FB,^G,] !wedge!_D,!wedge![FB,G,] | 
+[V:1] z!accent![a2c2A2]!accent![_a2B2_A2]!accent![g_BG] z !accent![cBE] | 
+[V:2] !wedge!C,!wedge![FA,] !wedge!C,!wedge![F_A,] !wedge!C,!wedge![EG,] !wedge!C,!wedge![CG,] | 
+[V:1] z !accent![g_BG] z !accent![cBE] z !accent![gBG] z !accent![fA] | 
+[V:2] !wedge!C,!wedge![EG,] !wedge!C,!wedge![CG,] !wedge!C,!wedge![EG,] !wedge!F,!wedge![FA,] | 
+[V:1] z!accent![f2_A2F2]!accent![_f2G2_F2]!accent![_e_G_E] z !accent![AGC] | 
+[V:2] !wedge!_A,,!wedge![_DF,] !wedge!A,,!wedge![D_F,] !wedge!A,,!wedge![C_E,] !wedge!A,,!wedge![_A,E,] | 
+[V:1] x4x!accent!e2_d- & z !accent![_e_A_G] z !accent![AGC] z [AG] z [AF] | 
+[V:2] !wedge!_A,,!wedge![C_E,] !wedge!A,,!wedge![_A,E,] !wedge!A,,!wedge![CE,] !wedge!A,,!wedge![_DF,] | 
+[V:1] dc2_B2A2_e- & z [_A_E] z [A_D] z C z [A_G] | 
+[V:2] !wedge!_A,,!wedge![C_E,] !wedge!A,,!wedge![_B,_D,] !wedge!A,,!wedge![_A,C,] !wedge!A,,!wedge![_E_G,] | 
+[V:1] e_d2_B2d2c- & z [_AF] z [A_D] z [AF] z [A_E] | 
+[V:2] _A,,[_DF,] A,,[_B,_D,] A,,[DF,] A,,[C_E,] | 
+[V:1] c_e2_d2c2f- & z [_A_G] z [AF] z [A_E] z [c_G] | 
+[V:2] !wedge!_A,,!wedge![_E_G,] !wedge!A,,!wedge![_DF,] !wedge!A,,!wedge![C_E,] !wedge!=A,,!wedge![FG,] | 
+[V:1] f_e2c2e2=d- & z [c_G] z [G_E] z [_BG] z [BF] | 
+[V:2] !wedge!A,,!wedge![_E_G,] !wedge!A,,!wedge![CG,] !wedge!_B,,!wedge![EG,] !wedge!B,,!wedge![=DF,] | 
+[V:1] d_a2g2x3 & x [d_A] z [dG] z[c2_B2=E2][fAF] | 
+[V:2] !wedge!=B,,!wedge![F_A,] !wedge!B,,!wedge![FG,] !wedge!C,!wedge![CG,] !wedge!F,,!wedge![CF,] | 
+[V:1] z !accent![_ad_A] z !accent![gdG] z !accent![c_BE] z !accent![fAF] | 
+[V:2] !wedge!=B,,!wedge![F_A,] !wedge!B,,!wedge![FG,] !wedge!C,!wedge![CG,] !wedge!F,,!wedge![CF,] | 
+[V:1] z !wedge![gcG] z !wedge![_ac_A] z !wedge![_eG_E] z !wedge![dGF] | 
+[V:2] !wedge!_E,,!wedge![C_E,] !wedge!F,,[CF,] G,,[CG,] G,,[=B,G,] | 
+[V:1] z!accent!c7 & x [G_E] z [_AF] z [GE] z [AF] | 
+[V:2] !wedge!C,!wedge![CG,] !wedge!F,,[CF,] !wedge!C,!wedge![CG,] !wedge!F,,!wedge![CF,] | 
+[V:1] x7d- & z!accent![g2c2G2]!accent![_a2c2_A2]!accent![_e2G2_E2][GF] | 
+[V:2] !wedge!_E,,!wedge![C_E,] !wedge!F,,!wedge![CF,] !wedge!G,,!wedge![CG,] !wedge!G,,!wedge![B,G,] | 
+[V:1] d!accent!c7 & z [G=E] z [_AF] z [GE] z [AF] | 
+[V:2] !wedge!C,!wedge![CG,] !wedge!F,,!wedge![CF,] !wedge!C,!wedge![CG,] !wedge!F,,!wedge![CF,] | 
+[V:1] z!accent![g2c2G2]!accent![_a2c2_A2]!accent![c'2f2c2]!accent![bgd] | 
+[V:2] !wedge!_E,,[C_E,] !wedge!F,,[CF,] !wedge!_A,,[FC_A,] !wedge!G,,[GDG,] | 
+[V:1] x7=B- & z!accent![_b2e2_B2]!accent![_a2f2_A2]!accent![g_eG] z [GF] | 
+[V:2] !wedge!C,!wedge![GC] !wedge!F,!wedge![FC] !wedge!G,!wedge![_EC] !wedge!G,,!wedge![DG,] | 
+[V:1] =Bc2_d2c2=d- & z [GE] z [_AF] z [GE] z [AF] | 
+[V:2] !wedge!C,!wedge![CG,] !wedge!=B,,!wedge![_D_A,] !wedge!C,!wedge![CG,] !wedge!B,,!wedge![=DA,] | 
+[V:1] dc2_d2c2=d- & z [GE] z [_AF] z [GE] z [AF] | 
+[V:2] !wedge!C,!wedge![CG,] !wedge!=B,,!wedge![_D_A,] !wedge!C,!wedge![CG,] !wedge!B,,!wedge![=DA,] | 
+[V:1] dc2d2c2_d- & z [GE] z [_AF] z [GE] z [AF] | 
+[V:2] !wedge!C,!wedge!C !wedge!=B,,!wedge![D_A,] !wedge!C,!wedge![CG,] !wedge!B,,!wedge![_DA,] | 
+[V:1] dc2=d2^d2e- & z [GE] z [^GF] z [A^F] z [GE] | 
+[V:2] !wedge!C,!wedge![CG,] !wedge!B,,!wedge![=D^G,] !wedge!B,,!wedge![^DA,] !wedge!E,,!wedge![=DB,E,] | 
+[V:1] ee2!accent!a4^g & z [AE] z [eA] z [dA] z [e^G] | 
+[V:2] !wedge!A,,!wedge![CE,] !wedge!C,!wedge![EA,] !wedge!B,,!wedge![DF,] !wedge!E,!wedge![EB,] | 
+[V:1] x3c'4b- & z [eA] z [ec] z [fc] z [fB] | 
+[V:2] !wedge!C,!wedge![EA,] !wedge!A,,!wedge![EA,] !wedge!D,!wedge![FA,] !wedge!D,!wedge![F^G,] | 
+[V:1] bax6 & z [fA] z !accent![e'ae] z !accent![d'ad] z !accent![e'^ge] | 
+[V:2] !wedge!C,!wedge![FA,] !wedge!C,!wedge![EA,] !wedge!B,,!wedge![DF,] !wedge!E,,!wedge![DB,E,] | 
+[V:1] z !accent![c'ec] z !accent![^ge^G] z !accent![aeA] z !accent![c'ec] | 
+[V:2] !wedge!A,,!wedge![CE,] !wedge!B,,!wedge![DE,] !wedge!C,!wedge![EE,] !wedge!A,,!wedge![CE,] | 
+[V:1] z !accent![beB] z !accent![aeA] z !accent![eBE] z !accent![aeA] | 
+[V:2] !wedge!E,,!wedge![DE,] !wedge!A,,!wedge![CE,] !wedge!B,,[D^G,E,] !wedge!A,,!wedge![CA,E,] | 
+[V:1] z !accent![beB] z !accent![aeA] z !accent![eBE] z !accent![aeA] | 
+[V:2] !wedge!E,,!wedge![D^G,E,] !wedge!A,,!wedge![CA,E,] !wedge!B,,!wedge![DG,E,] !wedge!A,,!wedge![CA,E,] | 
+[V:1] z !accent![beB] z !accent![c'ec] z !accent![gBG] z !accent![^fBA] | 
+[V:2] !wedge!=G,,!wedge![E=G,] !wedge!A,,!wedge![EA,] !wedge!B,,!wedge![EB,] !wedge!B,,!wedge![^DB,] | 
+[V:1] z !accent![eB^G] z !accent![^fcA] z !accent![=g=fB=G] z !accent![^ged^G] | 
+[V:2] !wedge!E,!wedge![EB,] !wedge!^D,!wedge![^FC] !wedge!=D,!wedge![=FB,] !wedge!E,,!wedge![EB,] | 
+[V:1] x3a4^g- & z !wedge![aecA] z [eA] z [dA] z [e^G] | 
+[V:2] !wedge!A,,!wedge![EA,] !wedge!C,!wedge![EA,] !wedge!B,,!wedge![DF,] !wedge!E,!wedge![EB,] | 
+[V:1] ga2c'4b- & z [eA] z [ec] z [fc] z [fB] | 
+[V:2] !wedge!C,!wedge![EA,] !wedge!A,,!wedge![EA,] !wedge!D,!wedge![FA,] !wedge!D,!wedge![F^G,] | 
+[V:1] ba2e'2d'2e'- & z [fA] z [ac] z [ad] z [^ge] | 
+[V:2] !wedge!C,!wedge![FA,] !wedge!C,!wedge![EA,] !wedge!B,,!wedge![DF,] !wedge!E,,!wedge![DB,E,] | 
+[V:1] e'c'2b2a3 & z [ec] z [eB] z [eA] z [ec] | 
+[V:2] !wedge!A,,!wedge![CA,E,] !wedge!B,,!wedge![D^G,E,] !wedge!C,!wedge![EA,E,] !wedge!A,,!wedge![CA,E,] | 
+[V:1] xb2a2e2a- & z [eB] z [eA] z [BE] z [eA] | 
+[V:2] !wedge!E,,!wedge![DE,] !wedge!A,,!wedge![CE,] !wedge!B,,!wedge![D^G,E,] !wedge!A,,!wedge![CA,E,] | 
+[V:1] ab2a2e2!accent!=g & z [eB] z [eA] z [BE] z [_B=G] | 
+[V:2] !wedge!E,,!wedge![DE,] !wedge!A,,!wedge![CE,] !wedge!B,,!wedge![DE,] !wedge!^C,!wedge![E_B,] | 
+[V:1] x4x!accent!d2!accent!=B & z !accent![_g_B_G] z !accent![fBF] z [BF] z [^GD] | 
+[V:2] !wedge!D,!wedge![D_B,] !wedge!F,!wedge![DB,]x4 & D,4!wedge!D,,!wedge![B,F,] !wedge!E,,!wedge![=B,E,] | 
+[V:1] z!accent!A7 & x C z [FD] z [EC] z [FD] | 
+[V:2] !wedge!A,,!wedge![A,E,] !wedge!D,!wedge![A,F,] !wedge!A,,!wedge![A,E,] !wedge!D,!wedge![A,F,] | 
+[V:1] A3e2d2=B- & z[E2C2][A2E2][_B2F2][^GD]- | 
+[V:2] !wedge!A,,!wedge![A,E,] !wedge!C,,!wedge![A,E,] !wedge!D,,!wedge![_B,F,] !wedge!E,,!wedge![=B,E,] | 
+[V:1] BA7 & [GD]C z [FD] z [EC] z [FD] | 
+[V:2] !wedge!A,,!wedge![A,E,] !wedge!D,!wedge![A,F,] !wedge!A,,!wedge![A,E,] !wedge!D,!wedge![A,F,] | 
+[V:1] A3e2a2^g- & z [EC] z [AE] z [^dA] z [e^G] | 
+[V:2] !wedge!A,,!wedge![A,E,] !wedge!C,!wedge![CE,] !wedge!B,,!wedge![^FB,] !wedge!E,!wedge![EB,] | 
+[V:1] g=g2^f2=f2=B- & z [^c=G] z [d^F] z [_B=F] z [^GD] | 
+[V:2] !wedge!A,,!wedge![EA,] !wedge!D,!wedge![DA,] !wedge!D,,!wedge![_B,F,] !wedge!E,,!wedge![=B,E,] | 
+[V:1] BA2F2[d2_B2][=B^GD]- & z [EC] z D zx3 | 
+[V:2] !wedge!A,,!wedge![A,E,] !wedge!D,!wedge![A,F,] !wedge!D,,!wedge![_B,F,] !wedge!E,,!wedge![=B,E,] | 
+[V:1] [BGD][A2C2][e2A2E2][d2_B2F2][^G-D] | 
+[V:2] !wedge!F,,!wedge![A,F,] !wedge!C,,!wedge![A,C,] !wedge!D,,!wedge![_B,D,] !wedge!E,,!wedge![=B,E,] | 
+[V:1] GA4c2_B- & DC z [FD] z [EC] z [FD] | 
+[V:2] !wedge!A,,!wedge![A,E,] !wedge!D,!wedge![A,F,] !wedge!A,,!wedge![A,E,] !wedge!D,!wedge![A,F,] | 
+[V:1] BA4c2_B & z [EC] z [FD] z [EC] z [FD] | 
+[V:2] !wedge!A,,!wedge![A,E,] !wedge!D,!wedge![A,F,] !wedge!A,,!wedge![A,E,] A,,[_B,D,] | 
+[V:1] !arpeggio![_B8F8D8]- | 
+[V:2] !arpeggio![_B,8F,8-D,8A,,8-] | 
+[V:1] B4d2^c2 & [F8D8] | 
+[V:2] [F,8A,,8] | 
+[V:1] !arpeggio![A8E8^C8] |]  
+[V:2] !arpeggio![A,8E,8A,,8] |]

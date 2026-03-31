@@ -1,0 +1,62 @@
+X: 20
+T: Piano Sonata No. 6 in D major, K 284 (205b), mvmt. 3c
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:31
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/09/21
+%%gracespace 0 6 6
+%%humdrum-veritas 772181118
+%%humdrum-veritas-data 4155349835
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: C|
+N: Derived from sonata06-3c.krn
+Q: "Variation 2"
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+[V:1] z4 [I:setbarnb 1]| 
+[V:2] (3A,B,A, (3G,F,E, | 
+[V:1] {/f/g/}a2g/f/e/d/z4 | 
+[V:2] D,2z2(3DED (3=CB,A, | 
+[V:1] {/g/a/}b2a/g/f/e/z2(3[ce][df][eg] | 
+[V:2] G,2z2[K:clef=treble](3ABA (3GFE | 
+[V:1] {/f/g/}a2g/f/e/d/ {/g/a/}b2a/g/f/e/ | 
+[V:2] D2z2[G,2G2]z2 | 
+[V:1] d2c2z4 | 
+[V:2] F2E2[K:clef=bass](3A,B,A, (3G,F,E, & A,4x4 | 
+[V:1] {/d/e/}f2e/d/c/B/z4 | 
+[V:2] D,2z2(3DED (3CB,A, | 
+[V:1] {/b/c'/}d'2c'/b/a/^g/z4 | 
+[V:2] ^G,2z2[K:clef=treble]{/B/c/}d2c/B/A/^G/ | 
+[V:1] e2^e2f2.[B,2D2^G2] | 
+[V:2] z4z2[K:clef=bass].E,2 | 
+[V:1] .[C2E2A2]z2 :|]|:  
+[V:2] .A,2.A,,2 :|]|:  
+[V:1] (3A=c^d (3fa=c' [I:setbarnb 9]| 
+[V:2] z4 | 
+[V:1] [f2a2][e2^g2][e2=g2][d2f2] | 
+[V:2] {/B,/C/}^D2E/=D/C/B,/ {/A,/B,/}C2D/C/B,/^A,/ | 
+[V:1] d'/c'/b/^a/b2b/=a/g/f/g2 | 
+[V:2] B,/=A,/G,/F,/G,2G,/F,/E,/^D,/E,2[K:clef=treble] | 
+[V:1] A3.B/.c/ .d.e.f.^g | 
+[V:2] z2[E2G2][=D2F2][B,2D2] | 
+[V:1] ^g2a z {/C/D/}E2D/C/B,/A,/ | 
+[V:2] [A,2-D2][A,C] z[K:clef=bass] {/C,/D,/}E,2D,/C,/B,,/A,,/ | 
+[V:1] A2z2z4 | 
+[V:2] A,2z2[K:clef=treble](3ABA (3=GFE | 
+[V:1] {/f/g/}a2g/f/e/d/z4 | 
+[V:2] D2z2[K:clef=bass](3DED (3=CB,A, | 
+[V:1] {/g/a/}b2a/g/f/e/z4 | 
+[V:2] G,2z2[K:clef=treble]{/E/F/}G2F/E/D/C/ | 
+[V:1] a2^a2b2.[E2G2c2] | 
+[V:2] z4z2[K:clef=bass].A,2 | 
+[V:1] .[F2A2d2]z2 :|]  
+[V:2] .D2.D,2 :|]

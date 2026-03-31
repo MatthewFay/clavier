@@ -1,0 +1,62 @@
+X: 215
+T: Preludium No. 10	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:24:04
+%%abc-edited-by Leszek Kubiak
+%%abc-edited-by Zofia Niedbalska
+%%abc-edited-by Marta Lawrence
+%%abcx-initial-encoding-date 2019-04-30
+%%humdrum-veritas 2429180959
+%%humdrum-veritas-data 4139752342
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+N: Derived from 028_1-12-1a-C-010.krn
+P: 24 PRÃLUDES POUR le Piano
+Q: "X." 1/4=144
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: E
+[V:1] (3:2:6g'a'g'a'g'^^f' [I:setbarnb 1]| 
+[V:2] z4 | 
+[V:1] (3[c''g']a'g'e'd' (3[g'c']d'c'ag (3[c'f]gfed | 
+[V:2] !arpeggio![E4G,4C,4]z4!arpeggio![A,2C,2F,,2] z2 | 
+[V:1] (3[gc]dcAG (3[cF]GFED (3[GC]DCB,A, | 
+[V:2] !arpeggio![E2G,2C,2] z2 !arpeggio![A,2C,2F,,2] z2 !arpeggio![E,2G,,2C,,2] z2 | 
+[V:1] x4[^B,4D,4][^A,4C,4] & !accent!G,12 | 
+[V:2] z4G,,8 & x8G,,,4 | 
+[V:1] [^B,2D,2]>[C2E,2][D4B,4F,4]!accent![E4G,4] & G,8x4 | 
+[V:2] G,,2zG,,G,,8 & x8G,,,4 | 
+[V:1] (3[c''g']a'g'e'd' (3[g'c']d'c'ag (3[c'f]gfed | 
+[V:2] !arpeggio![E4G,4C,4]z4!arpeggio![A,2C,2F,,2] z2 | 
+[V:1] (3[gc]dcAG (3[cF]GFED (3[GC]DCB,^A, | 
+[V:2] !arpeggio![E2G,2C,2] z2 !arpeggio![A,2C,2F,,2] z2 !arpeggio![E,2G,,2C,,2] z2 | 
+[V:1] z4!accent![D8D,8] & x4B,4[^A,4^^F,4] | 
+[V:2] G,12 & z4D,,4{/^^C,,D,,}!trill!D,,4{/C,,D,,} | 
+[V:1] [B,2G,2D,2]>[C2^A,2D,2][D4B,4D,4]!accent![G4G,4] | 
+[V:2] G,,2zG,,G,,4G,,,4 | 
+[V:1] (3[c''f']g'f'=d'c' (3[f'b]c'bag (3[c'f]gf=dc | 
+[V:2] !arpeggio![A,2C,2F,,2] z2 !arpeggio![=D2F,2B,,2] z2 !arpeggio![A,2C,2F,,2] z2 | 
+[V:1] (3[fB]cBAG (3[cF]GF=DC (3[FB,]CB,A,G, | 
+[V:2] !arpeggio![=D2F,2B,,2] z2 !arpeggio![A,2C,2F,,2] z2z4 | 
+[V:1] !accent!F,12 & x4C4D4 | 
+[V:2] z4F,,4D,,4 | 
+[V:1] [^B,2G,2D,2]>[C2G,2E,2][D4F,4][E4G,4] & x4B,8 | 
+[V:2] G,,2zG,,G,,8 & x8G,,,4 | 
+[V:1] (3[c''g']a'g'e'd' (3[g'c']d'c'ag (3[c'f]gfed | 
+[V:2] !arpeggio![E4G,4C,4]z4!arpeggio![A,2C,2F,,2] z2 | 
+[V:1] (3[gc]dcAG (3[cF]GFED (3[GC]DCB,A, | 
+[V:2] !arpeggio![E2G,2C,2] z2 !arpeggio![A,2C,2F,,2] z2 !arpeggio![E,2G,,2C,,2] z2 | 
+[V:1] !accent!G,12 & x4[^B,4D,4][C4E,4] | 
+[V:2] z4G,,8 & x8G,,,4 | 
+[V:1] [D2^B,2F,2]>[E2G,2][C4E,4]!accent![A4A,4]- | 
+[V:2] G,,2zG,,C,,4z4 | 
+[V:1] A4[^B,4D,4][C4E,4] & A,12 | 
+[V:2] z4G,,8 & x8G,,,4 | 
+[V:1] [D2^B,2G,2F,2]z[EB,F,][C4E,4]z4 |]  
+[V:2] G,,2zG,,C,,4z4 |]

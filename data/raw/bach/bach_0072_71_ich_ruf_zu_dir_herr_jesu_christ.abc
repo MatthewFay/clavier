@@ -1,0 +1,81 @@
+X: 71
+T: 71. Ich ruf zu dir, Herr Jesu Christ
+N: Derived from chor071.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1693951359
+%%humdrum-veritas-data 3562753039
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] B2 [I:setbarnb 1]| 
+[V:2] F2 | 
+[V:3] B2 | 
+[V:4] ^D,2 | 
+[V:1] AG FG/A/ GF EF | 
+[V:2] E2^D2ED ED | 
+[V:3] Bc2B/A/B4- | 
+[V:4] E,4-E,F, G,F, | 
+[V:1] G3/A/A2!fermata!B2Bc | 
+[V:2] E3F!fermata!^D2E2 | 
+[V:3] BB A/G/F/E/!fermata!F2G2 | 
+[V:4] E,=D,C,2!fermata!B,,2E,2 | 
+[V:1] dc BAG2AB | 
+[V:2] =D2D2E2D2 | 
+[V:3] A2G=FE2F^G | 
+[V:4] F,2G,2C,D, C,B,, | 
+[V:1] c4!fermata!B2 :|]  
+[V:2] CE2^D!fermata!E2 :|]  
+[V:3] A=GF2!fermata!G2 :|]  
+[V:4] A,,4!fermata!E,,2 :|]  
+[V:1] d2 [I:setbarnb 5]| 
+[V:2] =DG/=F/ | 
+[V:3] G2 | 
+[V:4] B,,2 | 
+[V:1] e2dc BA GA | 
+[V:2] E2^F2F2G2 | 
+[V:3] GcBAB3c | 
+[V:4] C,2D,2^D,2E,2 | 
+[V:1] BcA2!fermata!G2B2 | 
+[V:2] GAF2!fermata!D2DE | 
+[V:3] dedc!fermata!B2G2 | 
+[V:4] =D,C,D,2!fermata!G,,2G,2 | 
+[V:1] B2B2A2GF | 
+[V:2] FA GF E^DE2 | 
+[V:3] F2E2ABc2 | 
+[V:4] ^D,2E,=D,C,2B,,A,, | 
+[V:1] F4!fermata!E4 | 
+[V:2] E2^D2!fermata!E4 | 
+[V:3] BA2G!fermata!G4 | 
+[V:4] B,,4!fermata!C,4 | 
+[V:1] G2F2E4 | 
+[V:2] E3=D- D^C/B,/C2 | 
+[V:3] A2A2B2AG | 
+[V:4] ^C,2D,2G,,2A,,2 | 
+[V:1] !fermata!D2D2G2G2 | 
+[V:2] !fermata!A,2A,2D2CD | 
+[V:3] !fermata!F2F2G=F EG | 
+[V:4] !fermata!D,2D,=C,B,,2C,B,, | 
+[V:1] A2A2!fermata!B2c2 | 
+[V:2] ECA,2!fermata!E2E2 | 
+[V:3] ce ed!fermata!^G2AG | 
+[V:4] A,,G,,=F,,2!fermata!E,,2A,,2 | 
+[V:1] B2A2GF EF | 
+[V:2] E^D E^F EDE2 | 
+[V:3] F2EBB3c | 
+[V:4] B,,2^C,^D, E,F, G,A, | 
+[V:1] G2F2!fermata!E2 |]  
+[V:2] E2^D2!fermata!B,2 |]  
+[V:3] B3A!fermata!^G2 |]  
+[V:4] B,2B,,2!fermata!E,2 |]

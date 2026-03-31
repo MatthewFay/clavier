@@ -1,0 +1,124 @@
+X: 8
+T: Prelude in F\# Minor, Op. 28, No. 8
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2008/01/15/
+%%gracespace 0 6 6
+%%humdrum-veritas 1245469409
+%%humdrum-veritas-data 377181774
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 4/4
+N: Derived from prelude28-08.krn
+Q: "Molto agitato" 1/4=100
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=bass
+K: A
+[V:1] C/c/G/B/A/F/D/d/ C/c/G/B/A/G/F/f/ F/f/^A/c/=B/G/^E/^e/ =A/a/^B/d/c/=B/G/g/ | 
+[V:2] C2>D2 C2>F2 F2>^E2 =A3G | 
+[V:3] (3A,C,F,F,,2 (3A,C,F,A,,2 (3DG,B,D,2 (3C^E,B,C,2 | 
+[V:1] C/c/G/B/A/F/D/d/ C/c/G/B/A/G/F/f/ F/f/^A/c/=B/G/^E/^e/ =A/a/^B/d/c/=B/G/g/ | 
+[V:2] C2>D2 C2>F2 F2>^E2 =A3G | 
+[V:3] (3A,C,F,F,,2 (3A,C,F,A,,2 (3DG,B,D,2 (3C^E,B,C,2 | 
+[V:1] c/c'/g/b/a/f/^d/^d'/ c/c'/^e/g/f/d/^B/^b/ =B/=b/f/a/=g/=e/c/c'/ B/b/d/f/e/c/^A/^a/ | 
+[V:2] c2>^d2 c2>^B2 =B2>c2 B3^A | 
+[V:3] (3ADFA,2 (3GDFG,2 (3=GCE=G,2 (3FCEF,2 | 
+[V:1] =A/=a/=d/=f/_e/=c/B/b/ A/a/^c/=e/=d/B/G/g/ F/^f/^A/c/=B/G/^E/^e/ D/d/^^F/=A/G/=E/C/c/ | 
+[V:2] A2>B2 A2>G2 F2>^E2 D3C | 
+[V:3] (3=F=C_E=F,2 (3FB,DF,2 (3DG,B,D,2 (3B,C,^E,C,,2 | 
+[V:1] C/c/G/B/A/F/D/d/ C/c/G/B/A/G/F/f/ F/f/^A/c/=B/G/^E/^e/ =A/=a/^B/d/c/=B/G/g/ | 
+[V:2] C2>D2 C2>F2 F2>^E2 =A3G | 
+[V:3] (3A,C,F,F,,2 (3A,C,F,A,,2 (3DG,B,D,2 (3C^E,B,C,2 | 
+[V:1] C/c/G/B/A/F/D/d/ C/c/G/B/A/G/F/f/ A/a/c/e/d/B/G/g/ c/c'/^d/f/e/=d/B/b/ | 
+[V:2] C2>D2 C2>F2 A2>G2 c3B | 
+[V:3] (3A,C,F,F,,2 (3A,C,F,A,,2 (3=FB,D=F,2 (3EG,=DE,2 | 
+[V:1] e/e'/b/d'/=c'/a/f/f'/ e/e'/g/b/a/f/^d/^d'/ =d/=d'/=g/_b/_a/=f/e/e'/ d/d'/^f/=a/=g/e/c/^c'/ | 
+[V:2] e2>f2 e2>^d2 =d2>e2 d3c | 
+[V:3] [K:clef=treble](3=cFA=C2 (3BFAB,2 (3_B=F_A_B,2 (3=AE=G=A,2 | 
+[V:1] =c/=c'/=f/_a/_g/_e/=d/d'/ c/c'/=e/=g/=f/d/B/b/ _c/_c'/_e/_g/_f/_d/_B/_b/ B/b/e/g/f/d/B/b/ | 
+[V:2] =c2>d2 c2>B2 _c2>_B2 B3B | 
+[V:3] (3_A_E_G_A,2 (3=GD=F=G,2 (3=G_D_FG,2 (3_GDF_G,2 | 
+[V:1] _B/_b/e/=g/=f/=d/=A/=a/ __B/__b/_d/_f/__e/_c/_A/_a/ A/a/^c/_e/=d/=B/=G/=g/ G/g/d/=f/e/=d/=c/=c'/ | 
+[V:2] _B2>=A2 __B2>_A2 A2>=G2 G3=c | 
+[V:3] [K:clef=bass](3=F_B,=D=F,2 (3F=B,DF,2 (3F=G,B,F,2 (3_EG,=CF,2 | 
+[V:1] =c/=c'/f/_a/=g/_e/=B/=b/ _c/_c'/e/=f/=e/_d/_B/_b/ B/b/^d/=f/=e/^c/=A/=a/ A/a/e/=g/=f/e/=d/=d'/ | 
+[V:2] =c2>=B2 _c2>_B2 B2>=A2 A3=d | 
+[V:3] (3=G=C_E=F,2 (3G_D=EF,2 (3GA,^CF,2 (3=FA,=DF,2 | 
+[V:1] d/d'/e/=g/=f/_e/=c/=c'/ c/c'/=e/g/f/=d/_B/_b/ B/b/^c/_e/=d/=c/A/a/ A/a/^c/e/=d/=B/=G/=g/ | 
+[V:2] d2>=c2 c2>_B2 B2>A2 A3=G | 
+[V:3] (3=FA,_E=F,2 (3D=F,_B,_B,,2 (3D^F,=CD,2 (3B,D,=G,=G,,2 | 
+[V:1] =G/=g/A/=c/_B/_A/=F/=f/ E/e/=A/c/=B/_A/F/f/ F/f/=A/_c/_B/_A/F/f/ _G/_g/d/=f/_e/B/=G/=g/ | 
+[V:2] =G2>=F2 E2>F2 F2>F2 _G3^F | 
+[V:3] (3_B,D,_A,_B,,2 (3B,D,A,B,,2 (3A,B,,D,_E,,2 (3_G,B,,_E,E,,2 | 
+[V:1] _G/_g/=G/_B/_A/_G/_F/_f/ F/f/=G/B/A/F/_A,/A/ _C/_c/=F/A/_G/_E/C/c/ _B,/B/=F/A/G/E/C/c/ | 
+[V:2] _G2>_F2 F2>_A,2 _C2>C2 _B,3C | 
+[V:3] (3_A,A,,_D,_F,,2 (3A,A,,D,F,,2 (3_G,_C,_E,_G,,2 (3G,C,E,G,,2 | 
+[V:1] =C/=c/=F/_A/_G/_F/C/c/ _D/_d/=F/=A/G/_F/=D/=d/ D/d/=F/_A/G/_F/D/d/ _E/_e/_B/_d/_c/G/E/e/ | 
+[V:2] =C2>C2 _D2>=D2 D2>D2 _E3E | 
+[V:3] (3_G,_B,,_F,_G,,2 (3G,B,,F,G,,2 (3F,G,,B,,_C,,2 (3_E,G,,_C,C,,2 | 
+[V:1] _E/_e/_A/_d/_c/A/E/e/ =D/=d/__B/_d/c/A/E/e/ =F/=f/_B/e/=d/B/F/f/ _G/_g/B/e/=d/B/=F/=f/ | 
+[V:2] _E2>E2 =D2>E2 =F2>F2 _G3=F | 
+[V:3] (3_A,_C,_E,=F,,2 (3A,C,E,F,,2 (3=D=F,_B,_B,,2 (3DF,B,B,,2 | 
+[V:1] _E/_e/_A/_d/_c/A/E/e/ =D/=d/=A/_d/c/_A/E/e/ =F/=f/_B/e/=d/B/F/f/ B/_b/=e/_g/=f/=d/B/b/ | 
+[V:2] _E2>E2 =D2>E2 =F2>F2 _B3B | 
+[V:3] (3_A,_C,_E,=F,,2 (3A,C,E,F,,2 (3=D=F,_B,_B,,2 (3DF,B,B,,2 | 
+[V:1] _E/_e/_A/_d/_c/A/E/e/ D/=d/A/_d/c/A/E/e/ =F/=f/_B/e/=d/B/F/f/ _G/_g/B/e/d/B/=F/=f/ | 
+[V:2] _E2>E2 =D2>E2 =F2>F2 _G3=F | 
+[V:3] (3_A,_C,_E,=F,,2 (3A,C,E,F,,2 (3=D=F,_B,_B,,2 (3DF,B,B,,2 | 
+[V:1] _E/_e/_A/_d/_c/A/E/e/ =D/=d/A/_d/c/A/E/e/ =F/=f/_B/e/=d/B/F/f/ ^E/^e/^B/d/^c/=B/C/c/ | 
+[V:2] _E2>^D2 =D2>E2 =F2>F2 ^E3C | 
+[V:3] (3_A,_C,_E,=F,,2 (3A,C,E,F,,2 (3=D=F,_B,B,,2 (3=B,^C,^E,G,,2 | 
+[V:1] C/c/G/B/A/F/D/d/ C/c/G/B/A/G/F/f/ F/f/^A/c/=B/G/^E/^e/ =A/a/^B/d/c/=B/G/g/ | 
+[V:2] C2>D2 C2>F2 F2>^E2 =A3G | 
+[V:3] (3=A,C,F,F,,2 (3A,C,F,A,,2 (3DG,B,D,2 (3C^E,B,C,2 | 
+[V:1] C/c/G/B/A/F/D/d/ C/c/G/B/A/G/F/f/ A/a/c/e/d/B/G/g/ c/c'/^d/f/e/=d/B/b/ | 
+[V:2] C2>D2 C2>F2 A2>G2 c3B | 
+[V:3] (3A,C,F,F,,2 (3A,C,F,A,,2 (3=FB,D=F,2 (3EG,=DE,2 | 
+[V:1] B/b/^d/f/e/c/^A/^a/ =d/d'/^e/=g/f/=e/c/c'/ c/c'/^e/^g/f/^d/^B/^b/ e/^e'/g/=b/=a/g/f/f'/ | 
+[V:2] B2>^A2 =d2>c2 c2>^B2 ^e3f | 
+[V:3] (3=GCE=G,2 (3F^A,=EF,2[K:clef=treble] (3=A^DF=A,2 (3^BFA^B,2 | 
+[V:1] g/g'/d'/=f'/_e'/=c'/a/a'/ g/g'/=d'/f'/e'/c'/a/a'/ g/g'/^c'/=e'/=d'/=c'/a/a'/ g/g'/^c'/e'/d'/=c'/a/a'/ | 
+[V:2] g2>a2 g2>a2 g2>a2 g3a | 
+[V:3] (3fA=c_E2 (3fAcE2 (3fA=c=D2 (3fAcD2 | 
+[V:1] a/a'/^e'/g'/f'/c'/a/a'/ g/g'/^d'/f'/=e'/c'/g/g'/ e/e'/b/=d'/c'/a/e/e'/ c/c'/g/b/a/f/c/c'/ | 
+[V:2] a2>a2 g2>g2 e2>e2 c3c | 
+[V:3] (3fAcC2 (3=eGcC2 (3cEAA,2 (3ACFF,2 | 
+[V:1] G/g/^d/f/e/c/G/g/ F/f/c/e/=d/A/F/f/ E/e/B/d/c/A/E/e/ D/d/A/c/B/=G/D/d/ | 
+[V:2] G2>G2 F2>F2 E2>E2 D3D | 
+[V:3] [K:clef=bass](3EG,CC,2 (3=DF,A,D,2 (3CE,A,A,,2 (3B,D,=G,B,,2 | 
+[V:1] C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ | 
+[V:2] C2>C2 C2>C2 C2>C2 C3C | 
+[V:3] (3A,A,,C,C,,2 (3A,A,,C,C,,2 (3G,A,,C,C,,2 (3F,A,,C,C,,2 | 
+[V:1] C/c/^^F/A/G/^F/C/c/ C/c/^^F/A/G/^F/C/c/ C/c/^^F/A/G/^E/C/c/ C/c/F/A/G/E/C/c/ | 
+[V:2] C2>C2 C2>C2 C2>C2 C3C | 
+[V:3] (3F,G,,C,C,,2 (3F,G,,C,C,,2 (3^E,G,,C,C,,2 (3E,G,,C,C,,2 | 
+[V:1] C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ | 
+[V:2] C2>C2 C2>C2 C2>C2 C3C | 
+[V:3] (3A,C,F,F,,2 (3A,C,F,F,,2 (3A,C,F,F,,2 (3A,C,F,F,,2 | 
+[V:1] D/d/^A/c/B/F/D/d/ D/d/A/c/B/F/D/d/ D/d/=A/c/B/F/D/d/ F/f/A/c/B/F/D/d/ | 
+[V:2] D2>D2 D2>D2 D2>D2 F3D | 
+[V:3] (3F,F,,B,,B,,,2 (3F,F,,B,,B,,,2 (3F,F,,B,,B,,,2 (3F,F,,B,,B,,,2 | 
+[V:1] C/c/G/B/^A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ | 
+[V:2] C2>C2 C2>C2 C2>C2 C3C | 
+[V:3] (3^A,C,F,F,,2 (3A,C,F,F,,2 (3A,C,F,F,,2 (3A,C,F,F,,2 | 
+[V:1] ^D/^d/^A/c/B/F/D/d/ D/d/A/c/B/F/D/d/ D/d/A/c/B/F/D/d/ F/f/A/c/B/F/D/d/ | 
+[V:2] ^D2>D2 D2>D2 D2>D2 F3D | 
+[V:3] (3F,F,,B,,B,,,2 (3F,F,,B,,B,,,2 (3F,F,,B,,B,,,2 (3F,F,,B,,B,,,2 | 
+[V:1] C/c/G/B/^A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ | 
+[V:2] C2>C2 C2>C2 C2>C2 C3C | 
+[V:3] (3^A,C,F,F,,2 (3A,C,F,F,,2 (3A,C,F,F,,2 (3A,C,F,F,,2 | 
+[V:1] C/c/G/B/=A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ C/c/G/B/A/F/C/c/ | 
+[V:2] C2>C2 C2>C2 C2>C2 C3C | 
+[V:3] (3=A,C,F,F,,2 (3A,C,F,F,,2 (3A,C,F,F,,2 (3A,C,F,F,,2 | 
+[V:1] z16 | 
+[V:2] [C8E8c8][D4=G4B4][B,4C4=F4] | 
+[V:3] [A,,8E,8A,8][B,,4=G,4][C,4^G,4] | 
+[V:1] z16 |]  
+[V:2] {/^E}[A,16C16F16] |]  
+[V:3] !fermata![F,,16C,16] |]

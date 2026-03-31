@@ -18,3 +18,7 @@ ipykernel
 ruff
 mypy
 pre-commit
+
+# web scraping
+beautifulsoup4
+requests

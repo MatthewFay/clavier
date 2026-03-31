@@ -1,0 +1,136 @@
+X: 47
+T: Mazurka in C Major, Op. 67, No. 3
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/17 12:55:01
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2005/02/21/
+%%gracespace 0 6 6
+%%humdrum-veritas 109566108
+%%humdrum-veritas-data 275597977
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from mazurka67-3.krn
+Q: "Allegretto" 1/4=144
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] G [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] e>^df/e/ | 
+[V:2] z[G,E][G,E] & C,3 | 
+[V:1] =d/^c/ed | 
+[V:2] z[^F,A,D][F,A,D] & C,3 | 
+[V:1] d>^ce/d/ | 
+[V:2] z[=F,_A,B,D][F,A,B,D] & C,3 | 
+[V:1] !trill!=c/z//B//dc | 
+[V:2] z[E,G,C][E,G,C] & C,3 | 
+[V:1] A>^GB/A/ | 
+[V:2] ^F,,[D,A,C]z | 
+[V:1] =G/z//c//e2- | 
+[V:2] G,,[E,G,C][E,G,C] | 
+[V:1] e/!trill!d/^c/d/e/f/ | 
+[V:2] G,,[F,G,B,][F,G,B,] | 
+[V:1] a2g | 
+[V:2] z[^F,^D][G,E] & C,3 | 
+[V:1] [Ge]>[^F^d][A/=f/][G/e/] | 
+[V:2] z[G,E][G,E] & C,3 | 
+[V:1] [^F/=d/][^E/^c/][G=e][Fd] | 
+[V:2] z[^F,A,D][F,A,D] & C,3 | 
+[V:1] [=Fd]>[E^c][G/e/][F/d/] | 
+[V:2] z[=F,_A,B,D][F,A,B,D] & C,3 | 
+[V:1] [E/=c/][^D/B/][F=d][Ec] | 
+[V:2] z[E,G,C][E,G,C] & C,3 | 
+[V:1] [FA]>[E^G][=G/B/][F/A/] | 
+[V:2] F,,[F,A,C]z | 
+[V:1] [E/G/]z//[E//c//][G2e2]- | 
+[V:2] G,,[E,C][E,C] | 
+[V:1] [G/e/][F/d/][E/^c/][F/d/][A/f/]z//[G//e//] | 
+[V:2] G,,[D,G,B,][D,G,B,] | 
+[V:1] [F/d/]z//[G//e//]!accent![Ec]G | 
+[V:2] [C,,C,][C,2G,2C2] | 
+[V:1] e>^df/e/ | 
+[V:2] z[G,E][G,E] & C,3 | 
+[V:1] =d/^c/ed | 
+[V:2] z[^F,A,D][F,A,D] & C,3 | 
+[V:1] d>^ce/d/ | 
+[V:2] z[=F,_A,B,D][F,A,B,D] & C,3 | 
+[V:1] !trill!=c/z//B//dc | 
+[V:2] z[E,G,C][E,G,C] & C,3 | 
+[V:1] A>^GB/A/ | 
+[V:2] ^F,,[D,A,C]z | 
+[V:1] =G/z//c//!accent!e2- | 
+[V:2] G,,[E,G,C][E,G,C] | 
+[V:1] e/!trill!d/^c/d/e/f/ | 
+[V:2] G,,[F,G,B,][F,G,B,] | 
+[V:1] a2g | 
+[V:2] z[^F,^D][G,E] & C,3 | 
+[V:1] [Ge]>[^F^d][A/=f/][G/e/] | 
+[V:2] z[G,E][G,E] & C,3 | 
+[V:1] [^F/=d/][^E/^c/][G=e][Fd] | 
+[V:2] z[^F,A,D][F,A,D] & C,3 | 
+[V:1] [=Fd]>[E^c][G/e/][F/d/] | 
+[V:2] z[=F,_A,B,D][F,A,B,D] & C,3 | 
+[V:1] [E/=c/][^D/B/][F=d][Ec] | 
+[V:2] z[E,G,C][E,G,C] & C,3 | 
+[V:1] [FA]>[E^G][=G/B/][F/A/] | 
+[V:2] F,,[F,A,C]z | 
+[V:1] [E/G/]z//[E//c//][G2e2]- | 
+[V:2] G,,[E,C][E,C] | 
+[V:1] [G/e/][F/d/][E/^c/][F/d/][A/f/]z//[G//e//] | 
+[V:2] G,,[D,G,B,][D,G,B,] | 
+[V:1] [F/d/]z//[G//e//]!accent![E2c2] ||  
+[V:2] [C,,C,]!accent![C,2G,2C2] ||  
+[V:1] zz/ [^F/A/][G/B/][A/c/] & D3- | 
+[V:2] zz/ C/B,/A,/ & {/D,,}D,3- | 
+[V:1] [G/B/][A/c/][Bd]!accent![G_Be] & D3 | 
+[V:2] B,/A,/G,!accent!^C & D,3 | 
+[V:1] zz/ [^F/A/][G/B/][A/c/] & D3- | 
+[V:2] zz/ =C/B,/A,/ & {/D,,}D,3- | 
+[V:1] [G/B/][^F/A/][E2G2] & D2!accent!^C | 
+[V:2] G,/A,/_B,!accent!G, & D,3 | 
+[V:1] zz/ [^F/A/][G/B/][A/c/] & D3- | 
+[V:2] zz/ =C/B,/A,/ & {/D,,}D,3- | 
+[V:1] [G/B/][A/c/][Bd]!accent![G_Be] & D3 | 
+[V:2] B,/A,/G,!accent!^C & D,3 | 
+[V:1] zz/ [^F/A/][G/B/][A/c/] & D3 | 
+[V:2] zz/ =C/B,/A,/ & {/D,,}D,3 | 
+[V:1] B/c/dG & =F3{/G} | 
+[V:2] D/A,/B,A,/G,/ | 
+[V:1] e>^df/e/ | 
+[V:2] z[G,E][G,E] & C,3 | 
+[V:1] =d/^c/ed | 
+[V:2] z[^F,A,D][F,A,D] & C,3 | 
+[V:1] d>^ce/d/ | 
+[V:2] z[=F,_A,B,D][F,A,B,D] & C,3 | 
+[V:1] !trill!=c/z//B//dc | 
+[V:2] z[E,G,C][E,G,C] & C,3 | 
+[V:1] A>^GB/A/ | 
+[V:2] ^F,,[D,A,C]z | 
+[V:1] =G/z//c//!accent!e2- | 
+[V:2] G,,[E,G,C][E,G,C] | 
+[V:1] e/!trill!d/^c/d/e/f/ | 
+[V:2] G,,[F,G,B,][F,G,B,] | 
+[V:1] a2g | 
+[V:2] z[^F,^D][G,E] & C,3 | 
+[V:1] [Ge]>[^F^d][A/=f/][G/e/] | 
+[V:2] z[G,E][G,E] & C,3 | 
+[V:1] [^F/=d/][^E/^c/][G=e][Fd] | 
+[V:2] z[^F,A,D][F,A,D] & C,3 | 
+[V:1] [=Fd]>[E^c][G/e/][F/d/] | 
+[V:2] z[=F,_A,B,D][F,A,B,D] & C,3 | 
+[V:1] [E/=c/][^D/B/]!accent![F=d][Ec] | 
+[V:2] z[E,G,C][E,G,C] & C,3 | 
+[V:1] [FA]>[E^G][=G/B/][F/A/] | 
+[V:2] F,,[F,A,C][F,A,C] | 
+[V:1] [E/G/]z//[E//c//][G2e2]- | 
+[V:2] G,,[E,C][E,C] | 
+[V:1] [G/e/][F/d/][E/^c/][F/d/][A/f/]z//[G//e//] | 
+[V:2] G,,[D,G,B,][D,G,B,] | 
+[V:1] [F/d/]z//[G//e//]!accent![E2c2] |]  
+[V:2] [C,,C,]!accent![C,2G,2C2] |]

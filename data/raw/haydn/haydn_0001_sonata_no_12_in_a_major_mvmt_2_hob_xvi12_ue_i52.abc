@@ -1,0 +1,131 @@
+X: 1
+T: Sonata No. 12 in A major, mvmt. 2 (Hob. XVI:12), UE I:5.2
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/02/22 10:41:04
+%%abc-copyright 2021 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2008/07/05
+%%gracespace 0 6 6
+%%humdrum-veritas 1111500636
+%%humdrum-veritas-data 3779014632
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from sonata12-2.krn
+Q: "TRIO.  Minore." 1/4=126
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] A(3c/B/A/e | 
+[V:2] [A,,A,]zC | 
+[V:1] (3d/e/f/B.d | 
+[V:2] B,G,E, | 
+[V:1] (3c/d/e/A{/b/} a/g//f// | 
+[V:2] A,CA, | 
+[V:1] {/e2}!trill!d2{/cd}c | 
+[V:2] B,E,A, | 
+[V:1] (3a/b/c'/ (3b/a/g/ (3f/g/a/ | 
+[V:2] zz[K:clef=treble]^D | 
+[V:1] (3g/f/e/ (3^d/c/B/e | 
+[V:2] EFG | 
+[V:1] (3a/b/c'/ (3b/a/g/ (3f/g/a/ | 
+[V:2] zz[K:clef=bass]^D, | 
+[V:1] (3g/a/b/ (3^d/e/f/e | 
+[V:2] E,F,G, | 
+[V:1] {/^d/} c/B//A//G!trill!F | 
+[V:2] A,B,B,, | 
+[V:1] E2z :|]|:  
+[V:2] .E,.B,,.E,, :|]|:  
+[V:1] E(3G/F/E/=d | 
+[V:2] [E,,2E,2]G, | 
+[V:1] (3c/d/e/G.A | 
+[V:2] A,B,C[K:clef=treble] | 
+[V:1] (3f/g/a/e.c | 
+[V:2] zcA | 
+[V:1] (3d/e/f/d.c | 
+[V:2] BGA | 
+[V:1] c/B/ (3f/e/d/ (3c/B/A/ | 
+[V:2] [D2F2]^D | 
+[V:1] {/A2}G3 | 
+[V:2] E[K:clef=bass].B,.E, | 
+[V:1] A(3c/B/A/e | 
+[V:2] [A,,A,]zC | 
+[V:1] (3d/e/f/B.d | 
+[V:2] B,G,E, | 
+[V:1] (3c/d/e/A{/b/} a/g//f// | 
+[V:2] A,CA, | 
+[V:1] e!trill!d{/cd}c | 
+[V:2] B,E,A, | 
+[V:1] f(3d'/c'/b/ (3a/g/f/ | 
+[V:2] [D,2D2]z | 
+[V:1] (3e/f/g/ (3a/g/f/ (3e/d/c/ | 
+[V:2] [C,2C2]z | 
+[V:1] (3B/d/f/A!trill!G{/FG} | 
+[V:2] [D,D][E,C][E,B,] | 
+[V:1] A2z :|]  
+[V:2] A,.E,.A,, :|]  
+[V:1]  [K:C] [M:3/4]z/cBA/ | 
+[V:2]  [K:C] [M:3/4]zEF- & A,3 | 
+[V:1] z/Bbe/ | 
+[V:2] F^DE & ^G,3 | 
+[V:1] z/BAG/ | 
+[V:2] z^DE- & =G,3 | 
+[V:1] z/Aad/ | 
+[V:2] E^C=D & ^F,3 | 
+[V:1] z/AGF/ | 
+[V:2] z^CD & =F,3 | 
+[V:1] z/Ggc/ | 
+[V:2] zB,=C & E,3 | 
+[V:1] z/gG_B/ | 
+[V:2] zB,C- & E,3 | 
+[V:1] A/aAc/ | 
+[V:2] C^CD- & F,3 | 
+[V:1] =B/bBd/ | 
+[V:2] D^DE- & G,3 | 
+[V:1] c/c'ce/ | 
+[V:2] EE=F- & A,3 | 
+[V:1] d/d'd=f/- | 
+[V:2] F^FG & B,3 | 
+[V:1] f/eBc/- | 
+[V:2] CDE | 
+[V:1] c/dcB/ | 
+[V:2] [=F,=F][G,E][G,D] | 
+[V:1] {/B2}c3 :|]|:  
+[V:2] CG,C, :|]|:  
+[V:1] z/egd/- | 
+[V:2] CE_B, | 
+[V:1] d/^c_BA/- | 
+[V:2] A,GF | 
+[V:1] A/GFE/- | 
+[V:2] ED^C | 
+[V:1] E/FED/ | 
+[V:2] DA,F, | 
+[V:1] z/FED/ | 
+[V:2] z^G,A, & D,3 | 
+[V:1] z/EDC/ | 
+[V:2] z^G,A, & C,3 | 
+[V:1] z/DB,/ C/D/ | 
+[V:2] z^G,A, & B,,2A,, | 
+[V:1] {/C2}B,2z | 
+[V:2] E,E,,z | 
+[V:1] z/cBA/ | 
+[V:2] zEF- & A,3 | 
+[V:1] z/Bbe/ | 
+[V:2] F^DE & ^G,3 | 
+[V:1] z/_bg^c/ | 
+[V:2] z^CE & =G,3 | 
+[V:1] z/afd/ | 
+[V:2] zA,D & F,3 | 
+[V:1] z/^g=bd/- | 
+[V:2] zB,^G, & E,3 | 
+[V:1] d/c^GA/- | 
+[V:2] A,B,C | 
+[V:1] A/BA^G/ | 
+[V:2] [D,D][E,C][E,B,] | 
+[V:1] A2z :|]  
+[V:2] A,E,A,, :|]

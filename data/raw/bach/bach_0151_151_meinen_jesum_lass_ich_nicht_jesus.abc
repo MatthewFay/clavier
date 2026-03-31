@@ -1,0 +1,57 @@
+X: 150
+T: 151. Meinen Jesum la\ss ich nicht, Jesus
+N: Derived from chor151.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2855754807
+%%humdrum-veritas-data 221591811
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] B2B2B2d2 | 
+[V:2] G2GAG2G2- | 
+[V:3] d2efe2d2 | 
+[V:4] G,F,E,^D, E,=D, C,B,, | 
+[V:1] c2c2!fermata!B4 | 
+[V:2] GF/E/F2!fermata!G4 | 
+[V:3] ec Ad!fermata!d4 | 
+[V:4] A,,2D,2!fermata!G,,4 | 
+[V:1] B2B2A2B2 | 
+[V:2] G2G2-GFG2 | 
+[V:3] d2d2d2d2 | 
+[V:4] G,,A,, B,,C,D,2G,2- | 
+[V:1] c2B2A4 | 
+[V:2] A2-AG- GF/E/F2 | 
+[V:3] edd2eA dc | 
+[V:4] G,F, G,B,,C,2D,2 | 
+[V:1] !fermata!G8 :|]  
+[V:2] !fermata!D8 :|]  
+[V:3] !fermata!B8 :|]  
+[V:4] !fermata!G,,8 :|]  
+[V:1] B2B2A2A2 | 
+[V:2] G2G2G2F2- | 
+[V:3] d2d2d3c | 
+[V:4] G,,A,, B,,C, D,E,F,^D, | 
+[V:1] G2G2!fermata!F4 | 
+[V:2] F2E2!fermata!^D4 | 
+[V:3] B2B2!fermata!B4 | 
+[V:4] E,F,G,A,!fermata!B,4 | 
+[V:1] e2d2c2B2 | 
+[V:2] EFG2-GFG2- | 
+[V:3] gad2ecd2 | 
+[V:4] C,C2B, A,,A,2G, | 
+[V:1] A2A2!fermata!G4 |]  
+[V:2] GF/E/F2!fermata!D4 |]  
+[V:3] eA dc!fermata!B4 |]  
+[V:4] C,2D,2!fermata!G,,4 |]

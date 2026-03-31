@@ -1,0 +1,77 @@
+X: 24
+T: 24. Valet will ich dir geben
+N: Derived from chor024.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1716583267
+%%humdrum-veritas-data 3198207062
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: D
+[V:1] D [I:setbarnb 1]| 
+[V:2] A, | 
+[V:3] F/E/ | 
+[V:4] D,/C,/ | 
+[V:1] AABc | 
+[V:2] DDDG- | 
+[V:3] F/G/A/F/GG/A/ | 
+[V:4] D,/E,/F,/D,/ G,/F,/E, | 
+[V:1] d2!fermata!df | 
+[V:2] GF/E/!fermata!FA/B/ | 
+[V:3] BA/G/!fermata!Aa | 
+[V:4] B,,/C,/D,!fermata!D,,D | 
+[V:1] eddc | 
+[V:2] cBBA | 
+[V:3] gf=fe | 
+[V:4] ^A,B,/=A,/^G,A, | 
+[V:1] !fermata!d3 :|]  
+[V:2] !fermata!A3 :|]  
+[V:3] !fermata!^f3 :|]  
+[V:4] !fermata!D,3 :|]  
+[V:1] d/e/ [I:setbarnb 5]| 
+[V:2] A | 
+[V:3] f/g/ | 
+[V:4] D, | 
+[V:1] ffe3/d/ | 
+[V:2] dd/c/ B/^G/ A/B/ | 
+[V:3] ade/d/c/B/ | 
+[V:4] D/C/B,/A,/ ^G,/E,/F,/G,/ | 
+[V:1] c/B/c!fermata!Ac | 
+[V:2] E/F/^G!fermata!FA- | 
+[V:3] A^G!fermata!cf/e/ | 
+[V:4] A,/^G,/ F,/^E,/!fermata!F,F, | 
+[V:1] dcBB | 
+[V:2] A/^G/A-AG | 
+[V:3] dee/f/ e/d/ | 
+[V:4] B,/B,,/ C,/D,/ E,/D,/ E,/E,,/ | 
+[V:1] !fermata!A3A | 
+[V:2] !fermata!E3E | 
+[V:3] !fermata!c3A | 
+[V:4] !fermata!A,,3C, | 
+[V:1] F/G/ABA | 
+[V:2] DDD/E/F | 
+[V:3] Ad/=c/ B/c/ d/=c/ | 
+[V:4] D,/E,/ F,/D,/G,F,/E,/ | 
+[V:1] AG/F/!fermata!FA | 
+[V:2] FE!fermata!^D=D | 
+[V:3] B2!fermata!B=c | 
+[V:4] ^D,E,!fermata!B,,F,, | 
+[V:1] GFEE | 
+[V:2] DD-DC | 
+[V:3] BBBA/G/ | 
+[V:4] G,,/A,,/B,,/A,,/ G,,/E,,/A,, | 
+[V:1] !fermata!D3 |]  
+[V:2] !fermata!A,3 |]  
+[V:3] !fermata!F3 |]  
+[V:4] !fermata!D,,3 |]

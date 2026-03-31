@@ -1,0 +1,77 @@
+X: 123
+T: 123. Helft mir Gotts G\"ute preisen
+N: Derived from chor123.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2050956641
+%%humdrum-veritas-data 1481322905
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] A2 [I:setbarnb 1]| 
+[V:2] ED | 
+[V:3] cB | 
+[V:4] A,,2 | 
+[V:1] A2B2c2d2 | 
+[V:2] EF ED CE A^F | 
+[V:3] cd cB Ac BA | 
+[V:4] A,2^G,2A,2^F,2 | 
+[V:1] Bc- cB/c/!fermata!d2e2 | 
+[V:2] DG EA!fermata!^G2BG | 
+[V:3] Be c=f e!fermata!dB2 | 
+[V:4] =G,A,- A,G,/A,/!fermata!B,2^G,2 | 
+[V:1] dc BAc2BA | 
+[V:2] E3A AB^G2 | 
+[V:3] AB cd ef Bd | 
+[V:4] A,2F,2E,D,E,2 | 
+[V:1] !fermata!A6 :|]  
+[V:2] !fermata!E6 :|]  
+[V:3] !fermata!c6 :|]  
+[V:4] !fermata!A,,6 :|]  
+[V:1] e2 [I:setbarnb 5]| 
+[V:2] A=G | 
+[V:3] c2 | 
+[V:4] A,,2 | 
+[V:1] d2c2B2A2 | 
+[V:2] ^F^GA2AG Ad | 
+[V:3] cB e=f Be eA | 
+[V:4] B,,2C,D,E,2F,2 | 
+[V:1] !fermata!B6B2 | 
+[V:2] !fermata!^G6G2 | 
+[V:3] !fermata!e6e2 | 
+[V:4] !fermata!E,6E,2 | 
+[V:1] c2d2e2e2 | 
+[V:2] A2=G2G2cB | 
+[V:3] e2d2cde2 | 
+[V:4] A,B, CB, CB, A,G, | 
+[V:1] dc Bc!fermata!B2B2 | 
+[V:2] AG^F2!fermata!G2B2 | 
+[V:3] A2d2!fermata!d2e2 | 
+[V:4] ^F,E,D,2!fermata!G,2^G,2 | 
+[V:1] c2d2e2e2 | 
+[V:2] A2G2G2G2 | 
+[V:3] e2B2c2B2 | 
+[V:4] A,=G, =F,G, F,E, D,C, | 
+[V:1] dc Bc!fermata!B2e2 | 
+[V:2] ^F^GA2!fermata!G2cB | 
+[V:3] Ae dA!fermata!e2A2 | 
+[V:4] D,E, =F,D,!fermata!E,2C,2 | 
+[V:1] dc BAc2BA | 
+[V:2] A2^GA A^FG2 | 
+[V:3] de =fde2d^c | 
+[V:4] F,E, D,F, E,D,E,2 | 
+[V:1] !fermata!A6 |]  
+[V:2] !fermata!E6 |]  
+[V:3] !fermata!^c6 |]  
+[V:4] !fermata!A,,6 |]

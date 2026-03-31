@@ -1,0 +1,69 @@
+X: 3
+T: Ach Gott, vom Himmel sieh darein / 3. Ach Gott, vom Himmel sieh darein / Cantata BWV 153: Schau, lieber Gott, wie meine Feind
+N: Derived from chor003.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3525827021
+%%humdrum-veritas-data 2860151601
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] B [I:setbarnb 1]| 
+[V:2] ^G | 
+[V:3] e | 
+[V:4] E, | 
+[V:1] cBAe | 
+[V:2] A^GAG/A/ | 
+[V:3] eded/c/ | 
+[V:4] A,B,CB,/A,/ | 
+[V:1] e/d/c!fermata!Bd | 
+[V:2] BE/F/!fermata!^GG | 
+[V:3] Bc/d/!fermata!e=f | 
+[V:4] ^G,A,!fermata!E,B,, | 
+[V:1] cBAB/c//d// | 
+[V:2] A^GA/=G/=F | 
+[V:3] ee/d/cd | 
+[V:4] C,/D,/E,=F,E,/D,/ | 
+[V:1] cB!fermata!A :|]  
+[V:2] E2!fermata!E :|]  
+[V:3] ^G/A^G/!fermata!c :|]  
+[V:4] E,2!fermata!A,, :|]  
+[V:1] A [I:setbarnb 5]| 
+[V:2] D | 
+[V:3] A | 
+[V:4] F, | 
+[V:1] B/A/GFE/F/ | 
+[V:2] D/^D/EDE/D/ | 
+[V:3] G/A/BBB/A/ | 
+[V:4] G,/F,/E,B,/A,/ G,/F,/ | 
+[V:1] GA!fermata!BG | 
+[V:2] E/G/ F/E/!fermata!^DB, | 
+[V:3] Bc!fermata!Fe/=d/ | 
+[V:4] E,/D,/C,!fermata!B,,E, | 
+[V:1] A/B/cBc/B/ | 
+[V:2] A,A^GA | 
+[V:3] c/d/eee/d/ | 
+[V:4] =F,C,/D,/E,A,,/B,,/ | 
+[V:1] A^G!fermata!AA | 
+[V:2] EE!fermata!EE | 
+[V:3] cB!fermata!cc | 
+[V:4] C,/D,/E,!fermata!A,,A, | 
+[V:1] ecde | 
+[V:2] EE=FG | 
+[V:3] BAA_B | 
+[V:4] ^G,A,/=G,/ =F,/E,/ D,/^C,/ | 
+[V:1] dc!fermata!B |]  
+[V:2] ^F/^G/A!fermata!E |]  
+[V:3] A/E/^F!fermata!^G |]  
+[V:4] D,^D,!fermata!E, |]

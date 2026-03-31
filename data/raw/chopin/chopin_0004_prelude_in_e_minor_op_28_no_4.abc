@@ -1,0 +1,74 @@
+X: 4
+T: Prelude in E Minor, Op. 28, No. 4
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-copyright Copyright 2001 by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%gracespace 0 6 6
+%%humdrum-veritas 723143429
+%%humdrum-veritas-data 4153936033
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 2/2
+N: Derived from prelude28-04.krn
+Q: "Largo" 1/4=72
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: G
+[V:1] B,3/ B/ [I:setbarnb 1]| 
+[V:2] z2 | 
+[V:1] B6c2 | 
+[V:2] [G,B,E] [G,B,E] [G,B,E] [G,B,E] [G,B,E] [G,B,E] [G,B,E] [G,B,E] | 
+[V:1] B6c2 | 
+[V:2] [F,A,E] [F,A,E] [F,A,E] [F,A,E] [F,A,_E] [F,A,E] [F,A,E] [F,A,E] | 
+[V:1] B6c2 | 
+[V:2] [=F,A,_E] [F,A,E] [F,A,E] [F,A,E] [F,A,D] [F,A,D] [F,^G,D] [F,G,D] | 
+[V:1] B6_B2 | 
+[V:2] [E,^G,D] [E,G,D] [E,G,D] [E,G,D] [E,=G,D] [E,G,D] [E,G,^C] [E,G,C] | 
+[V:1] A6=B2 | 
+[V:2] [E,G,=C] [E,G,C] [E,G,C] [E,G,C] [E,F,C] [E,F,C] [E,F,C] [E,F,C] | 
+[V:1] A6B2 | 
+[V:2] [E,F,C] [E,F,C] [E,F,C] [E,F,C] [^D,F,C] [D,F,C] [D,F,C] [D,F,C] | 
+[V:1] A6B3/ A/ | 
+[V:2] [=D,F,C] [D,F,C] [D,F,C] [D,F,C] [D,F,C] [D,F,C] [D,F,C] [D,F,C] | 
+[V:1] A6^G2- | 
+[V:2] [D,=F,C] [D,F,C] [D,F,C] [D,F,C] [D,F,B,] [D,F,B,] [D,F,B,] [D,F,B,] | 
+[V:1] G2A B d c E A | 
+[V:2] [C,E,B,] [C,E,B,] [C,E,A,] [C,E,A,] [C,E,A,] [C,E,A,] [C,E,A,] [C,E,A,] | 
+[V:1] F6A2 | 
+[V:2] [B,,E,A,] [B,,E,A,] [B,,^D,A,] [B,,D,A,] [C,E,A,] [C,E,A,] [C,E,A,] [C,E,A,] | 
+[V:1] F6{/B}A2 | 
+[V:2] [B,,^D,A,] [B,,D,A,] [B,,D,A,] [B,,D,A,] [C,E,A,] [C,E,A,] [C,E,A,] [C,E,A,] | 
+[V:1] G F C B, ^D F (3=d c B | 
+[V:2] [B,,2^D,2A,2]z2z4 | 
+[V:1] B6c2 | 
+[V:2] [G,B,E] [G,B,E] [G,B,E] [G,B,E] [G,B,E] [G,B,E] [G,B,E] [G,B,E] | 
+[V:1] B6c2 | 
+[V:2] [F,A,E] [F,A,E] [F,A,E] [F,A,E] [=F,A,_E] [F,A,E] [F,A,E] [F,A,E] | 
+[V:1] B6c2 | 
+[V:2] [=F,_A,_E] [F,A,E] [F,A,D] [F,A,D] [=E,^G,D] [E,G,D] [E,G,D] [E,G,D] | 
+[V:1] B> ^A~A2g2f3/ e/ | 
+[V:2] [E,=G,D] [E,G,D] [E,G,^C] [E,G,C] [^C,E,^A,] [C,E,A,] [=C,E,=A,] [C,E,A,] | 
+[V:1] e ^d c' d d e g B | 
+[V:2] [B,,,B,,] [A,CFA] [A,CFA] [A,CFA] [G,B,^DF] [G,B,E] [G,B,E] [G,B,E] | 
+[V:1] =d c (3e E AF3A | 
+[V:2] [A,CE] [A,CE] A,, [E,F,C] [B,,E,B,] [B,,E,B,] [C,E,A,] [C,E,A,] | 
+[V:1] F6{/B}A2 | 
+[V:2] [B,,E,B,] [B,,E,B,] [B,,E,B,] [B,,E,B,] [C,E,A,] [C,E,A,] [C,E,A,] [C,E,A,] | 
+[V:1] F6-F3/ E/ | 
+[V:2] [B,,E,B,] [B,,E,B,] [B,,E,B,] [B,,E,B,] [B,,^D,B,] [B,,D,B,] [B,,D,A,] [B,,D,A,] | 
+[V:1] E6F2 | 
+[V:2] [C,G,] [C,G,] [C,G,] [C,G,] [C,_B,] [C,B,] [C,E,A,] [C,E,A,] | 
+[V:1] E6F2 | 
+[V:2] [=B,,E,A,] [B,,E,A,] [B,,E,^G,] [B,,E,G,] [B,,E,=G,] [B,,E,G,] [B,,E,G,] [B,,E,G,] | 
+[V:1] E4!fermata!z4[K:clef=bass] | 
+[V:2] [_B,,4C,4G,4]!fermata!z4 | 
+[V:1] [E,4F,4=B,4E4][^D,4F,4B,4^D,4] | 
+[V:2] [=B,,,4=B,,4][=B,,,4F,,4=B,,4] | 
+[V:1] [E,8G,8B,8E8] |]  
+[V:2] [E,,,8E,,8] |]

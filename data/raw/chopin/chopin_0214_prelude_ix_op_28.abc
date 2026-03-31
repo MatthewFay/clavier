@@ -1,0 +1,48 @@
+X: 214
+T: Prelude IX.	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:27
+%%abc-edited-by Mateusz Mrugas
+%%abc-edited-by Emilia ZiÄtek
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abcx-initial-encoding-date 2020-01-29
+%%humdrum-veritas 1253153302
+%%humdrum-veritas-data 2094471298
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: C
+N: Derived from 028_1-12-1a-C-009.krn
+P: 24 PrÃ©ludes pour le Piano
+Q: "Largo."
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] B,2B,>B,B,2C2 & (3[G,E,]B,,[G,E,] (3[F,D,]B,,[F,D,] (3[G,E,]B,,[G,E,] (3[A,E,]C,[A,E,] | 
+[V:2] E,,2B,,,2E,,2A,,7//G,,// | 
+[V:1] C2D>DD2D2 & (3[A,F,]C,[A,F,] (3[A,F,]C,[A,F,] (3[B,F,]D,[B,F,] (3[B,G,]D,[B,G,] | 
+[V:2] F,,4B,,,2B,,7//B,,// | 
+[V:1] E2E>EE2D3/D/ & (3[B,G,]E,[B,G,] (3[CF,]E,[CF,] (3[B,F,]E,[B,F,] (3[B,F,]D,[B,F,] | 
+[V:2] C,,2A,,>>A,,B,,,2{/^A,,,B,,,}!trill!B,,,2{/A,,,B,,,} | 
+[V:1] D2D>CC2C3/B,/ & (3[B,G,]E,[B,G,] (3[^A,F,]E,[A,F,] (3[=A,F,]C,[A,F,] (3[A,F,]B,,[A,F,] | 
+[V:2] C,,2F,,>>F,,D,,2{/^^C,,D,,}!trill!D,,2{/.^C,,.D,,.E,,.F,,} | 
+[V:1] B,2B,>B,B,2B,3/B,/ & (3[G,E,]B,,[G,E,] (3[F,D,]B,,[F,D,] (3[=G,=D,]B,,[G,D,] (3[G,D,]B,,[G,D,] | 
+[V:2] E,,2B,,,2=G,,,2=G,,7//=F,,// | 
+[V:1] =C2=D2E2E3/E/ & (3=G,=C,G, (3[_B,G,]=D,[B,G,] (3[B,G,]E,[B,G,] (3[CG,]E,[CG,] | 
+[V:2] E,,2=D,,2=C,,2[=C,7//C,,7//][_B,,//_B,,,//] | 
+[V:1] =E2E>E=F2=G2 & (3[^CA,]E,[CA,] (3[C_B,]E,[CB,] (3[_DB,]=F,[DB,] (3[DB,]=G,[DB,] | 
+[V:2] [A,,2A,,,2][=G,,=G,,,]>>[G,,G,,,][=F,,2=F,,,2][_F,,2_F,,,2] | 
+[V:1] _A_E E>_D C>_C =B,3/B,/ & (3[=C_A,]_E,[CA,] (3[C=G,]E,[B,G,] (3A,E,A, (3[^G,^D,]B,,[=A,D,] | 
+[V:2] [_E,,4_E,,,4]_A,,,2=B,,,2 | 
+[V:1] B,2B,>>B,B,2=C2 & (3[G,E,]B,,[G,E,] (3[F,D,]B,,[F,D,] (3[G,E,]B,,[G,E,] (3[A,E,]=C,[A,E,] | 
+[V:2] [E,,2E,,,2]B,,,2E,,2[A,,7//A,,,7//][A,,//A,,,//] | 
+[V:1] =C2C>>CC2=D3/D/ & (3[A,=F,]=C,[A,F,] (3[=G,E,]C,[G,E,] (3[A,F,]C,[A,F,] (3[_B,F,]=D,[B,F,] | 
+[V:2] [=F,,2=F,,,2][=C,,2=C,,,2][F,,2F,,,2][_B,,7//_B,,,7//][B,,//B,,,//] | 
+[V:1] =D2D>>DD2^D7//E// & (3[_B,=G,]=D,[B,G,] (3[A,^F,]=D,[A,F,] (3[=B,G,]=D,[B,G,] (3[B,F,]^D,[B,F,] | 
+[V:2] [=G,,2=G,,,2][=D,,2=D,,,2][=G,,2=G,,,2][B,,7//B,,,7//][B,,//B,,,//] | 
+[V:1] E2E>>E!fermata![E4B,4G,4E,4] & (3[B,^G,]E,[B,G,] (3[B,G,]E,[B,G,]x4 |]  
+[V:2] !arpeggio![E,,4-E,,,4][E,,4B,,,4E,,,4] & x2B,,,2-x4 |]

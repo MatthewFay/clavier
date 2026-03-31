@@ -1,0 +1,69 @@
+X: 30
+T: 30. Jesus Christus, unser Heiland
+N: Derived from chor030.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1287775680
+%%humdrum-veritas-data 3630370700
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] E2B2B2A2 | 
+[V:2] B,2B,2E^DE2 | 
+[V:3] G2F2G2FE | 
+[V:4] E,3D,C,4 | 
+[V:1] B2EFG2G2 | 
+[V:2] ^D2EDE2E2 | 
+[V:3] F2BAB2e^d | 
+[V:4] B,,A, G,F, E,D, C,B,, | 
+[V:1] G2F2!fermata!E4 | 
+[V:2] E3^D!fermata!B,4 | 
+[V:3] ^c2FB/A/!fermata!G4 | 
+[V:4] ^A,,2B,,2!fermata!E,,4 | 
+[V:1] G2G2G2E2 | 
+[V:2] E2E2=D2C2 | 
+[V:3] B2=c2G2G2 | 
+[V:4] E,D,=C,2B,,2C,2- | 
+[V:1] G2A2B2A2 | 
+[V:2] D2EFG3F- | 
+[V:3] GA/B/c2de/d/ c/B/c | 
+[V:4] C,B,,A,,2G,,2A,,2 | 
+[V:1] G2F2!fermata!E4 | 
+[V:2] FE2^D!fermata!B,4 | 
+[V:3] B2B3/A/!fermata!G4 | 
+[V:4] B,,4!fermata!E,4 | 
+[V:1] G2G2G2E2 | 
+[V:2] E2GFE2C2 | 
+[V:3] Bc=d2c2G2 | 
+[V:4] E,2B,,2C,D, E,D, | 
+[V:1] G2A2B2A2 | 
+[V:2] ED EFG3F | 
+[V:3] G2c2d2d3/c/ | 
+[V:4] C,B,,A,,2G,,2D,2 | 
+[V:1] !fermata!G4z2d2 | 
+[V:2] !fermata!D4x2G=F | 
+[V:3] !fermata!B4x2d2 | 
+[V:4] !fermata!G,,4z2B,,2 | 
+[V:1] e2dc BA GA | 
+[V:2] E2^F2G^D E=D- | 
+[V:3] cBA2Gc BA | 
+[V:4] C,2D,2E,3F, | 
+[V:1] B2A2G2F2 | 
+[V:2] DG- GF- FE- E^D | 
+[V:3] Gd eBB2cB/A/ | 
+[V:4] G,B,, ^C,^D, E,G,, A,,B,, | 
+[V:1] !fermata!E6z2 |]  
+[V:2] !fermata!B,6x2 |]  
+[V:3] !fermata!^G6x2 |]  
+[V:4] !fermata!E,,6z2 |]

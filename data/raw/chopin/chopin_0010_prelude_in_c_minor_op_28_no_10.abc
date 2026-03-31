@@ -1,0 +1,60 @@
+X: 10
+T: Prelude in C\# Minor, Op. 28, No. 10
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2004/12/22/
+%%gracespace 0 6 6
+%%humdrum-veritas 1449366813
+%%humdrum-veritas-data 3946598286
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+N: Derived from prelude28-10.krn
+Q: "Allegro molto" 1/4=126
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: E
+[V:1] (3:2:6!accent!g'a'g'a'g'^^f' [I:setbarnb 1]| 
+[V:2] z4 | 
+[V:1] (3[g'c'']a'g'!beambr1!e'd' (3[c'g']d'c'ag (3[fc']gfed | 
+[V:2] [C,4G,4E4]z4[F,,2C,2A,2] z2 | 
+[V:1] (3[cg]dc!beambr1!AG (3[Fc]GF!beambr1!ED (3[CG]DC!beambr1!B,A,[K:clef=bass] | 
+[V:2] [C,2G,2E2] z2 [F,,2C,2A,2] z2 [C,,2G,,2E,2] z2 | 
+[V:1] !accent!G,12- & z4[D,4^B,4][C,4^A,4] | 
+[V:2] z4G,,8 & z8G,,,4 | 
+[V:1] G,8z4[K:clef=treble] & [D,2^B,2]z[E,C][F,4B,4D4]!accent![G,4E4] | 
+[V:2] G,,2zG,,G,,8 & z8G,,,4 | 
+[V:1] (3[gc']ag!beambr1!ed (3[cg]dc!beambr1!AG (3[fc']gf!beambr1!ed | 
+[V:2] [C,4G,4E4]z4[F,,2C,2A,2] z2 | 
+[V:1] (3[c'g']d'c'!beambr1!ag (3[fc']gf!beambr1!ed (3[CG]DC!beambr1!B,^A,[K:clef=bass] | 
+[V:2] [C,2G,2E2] z2 [F,,2C,2A,2] z2 [C,,2G,,2E,2] z2 | 
+[V:1] z4!accent![D,8D8] & G,4B,4[^^F,4^A,4] | 
+[V:2] z4D,,4{/^^C,,2D,,2 E,,2}D,,4 | 
+[V:1] [G,2B,2]z[^A,C][B,4D4]z4[K:clef=treble] & D,2zD,D,4!accent![G,4G4] | 
+[V:2] G,,2zG,,G,,4!accent!G,,,4 | 
+[V:1] (3[fc']gf=dc (3[Bf]cBAG (3[fc']gf!beambr1!=dc | 
+[V:2] [F,,2C,2A,2] z2 [B,,2F,2=D2] z2 [F,,2C,2A,2] z2 | 
+[V:1] (3[bf']c'bag (3[fc']gf!beambr1!=DC (3[B,F]CB,!beambr1!A,G,[K:clef=bass] | 
+[V:2] [B,,2F,2=D2] z2 [F,,2C,2A,2] z2z4 | 
+[V:1] z4C4D4 & F,4A,8 | 
+[V:2] z4C,8 & z4F,,4D,,4 | 
+[V:1] [G,2^B,2]z[G,C][B,4-D4]!accent![B,4E4][K:clef=treble] & D,2zE,F,4^^G,4 | 
+[V:2] .G,,2zG,,G,,8 & z8G,,,4 | 
+[V:1] (3[gc']ag!beambr1!ed (3[cg]dc!beambr1!AG (3[fc']gfed | 
+[V:2] [C,4G,4E4]z4[F,,2C,2A,2] z2 | 
+[V:1] (3[cg]dc!beambr1!AG (3[Fc]GFED (3[CG]DCB,A,[K:clef=bass] | 
+[V:2] [C,2G,2E2] z2 [F,,2C,2A,2] z2 [C,,2G,,2E,2] z2 | 
+[V:1] !accent!G,12 & z4[D,4^B,4][E,4C4] | 
+[V:2] z4G,,8 & z8G,,,4 | 
+[V:1] z8A4- & [F,2^B,2D2]z[G,E][E,4C4]A,4- | 
+[V:2] G,,2zG,,C,,4z4 | 
+[V:1] A4[D,4^B,4][E,4C4] & A,12 | 
+[V:2] z4G,,8 & z8G,,,4 | 
+[V:1] [F,2G,2^B,2D2]z[G,B,E][E,4C4]z4 |]  
+[V:2] G,,2zG,,C,,4z4 |]

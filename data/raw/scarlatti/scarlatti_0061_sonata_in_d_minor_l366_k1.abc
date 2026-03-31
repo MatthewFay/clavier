@@ -1,0 +1,85 @@
+X: 61
+T: Sonata in D minor, L.366, K.1
+C: Domenico Scarlatti
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/06/28 10:15:41
+%%abc-copyright 2021 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Heinz Roggenkemper
+%%abcx-initial-encoding-date 2020/12/22
+%%humdrum-veritas 1553027518
+%%humdrum-veritas-data 891408152
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C
+N: Derived from L366K001.krn
+Q: "Allegro ([quarter]=112)" 1/4=112
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: F
+[V:1] defg aA^cAd6e2 | 
+[V:2] z8DEFG AA,^CA, | 
+[V:1] fdge afed ^c2a2 {/a//}!trill!a4 | 
+[V:2] D2E2F2G2 .A2.A2.A2.A2 | 
+[V:1] agfe d=cBA B2g2 {/g//}!trill!g4 | 
+[V:2] .[F2A2].[F2A2].[F2A2]F2 .G,2.[G2B2].[G2B2].[G2B2] | 
+[V:1] gfed cBAG A2f2 {/f//}!trill!f4 | 
+[V:2] .[E2G2].[E2G2].[E2G2]E2 .F,2.[F2A2].[F2A2].[F2A2] | 
+[V:1] fedc BAGF G2e2 {/e//}!trill!e4 | 
+[V:2] .[D2F2].[D2F2].[D2F2]D2 .E,2.[E2G2].[E2G2].[E2G2] | 
+[V:1] ed^c=B AGFE FDGE AFED | 
+[V:2] .[A,2E2].[A,2E2].[A,2E2]A,2 .[D,2D2]E,2F,2G,2 | 
+[V:1] ^CA,D=B, ECFD GEAF =BG^cA | 
+[V:2] .A,2.=B,2.^C2.D2[K:clef=treble] .E2.F2.G2.A2 | 
+[V:1] d=Be^c fdgea4!trill!g4{/fg} | 
+[V:2] .=B2.^c2.d2.e2 fd_BG ecAc | 
+[V:1] a4!trill!g4{/f/g/}a4!trill!g4{/f/g/} | 
+[V:2] fdBG e^cAc fdBG ecAc | 
+[V:1] fdge afed ^cAd=B eGFE | 
+[V:2] .[D2d2]E2F2G2 .[A,2A2]=B,2^C2A,2[K:clef=bass] | 
+[V:1] FDGE AFED ^CA,D=B, ECFD | 
+[V:2] .[D,2D2]E,2F,2G,2 .A,2.=B,2.^C2.D2 | 
+[V:1] GGFE F2{/G//}!trill!G3/F//G// AEFD E^CF2 | 
+[V:2] E,ED^C .D2._B,2!accent!A,,4z2 D=B, | 
+[V:1] E2D2 ^C z z2z4z4 :|]|:  
+[V:2] ^CA,=B,^G, A,E,^C,E,!mordent!A,,4z4 :|]|:  
+[V:1] A=B^cd ecfde6A2 | 
+[V:2] z8A,=B,^CD ECFD | 
+[V:1] =BG^cA dBec ^fdge a=c_BA | 
+[V:2] G2[K:clef=treble].A2.=B2^c2 .[D2d2]E2^F2D2[K:clef=bass] | 
+[V:1] BGcA dBAG ^FDGE ACB,A, | 
+[V:2] [G,2G2]A,2B,2C2 .[D,2D2]E,2^F,2D,2 | 
+[V:1] B,G,CA, DB,EC =FDGE AFBG | 
+[V:2] .G,2.A,2.B,2.C2 .D2E2.F2.G2 | 
+[V:1] c4!trill!B4{/A/B/}c4!trill!B4{/AB} | 
+[V:2] AFDB, GECE AFDB, GECE | 
+[V:1] c2.[f2a2] .B2.[e2g2] AFcA fcaf | 
+[V:2] AFDB, GECE .F2.F,2 .F,2.F,,2 | 
+[V:1] egce GcBA BGdB gdbg | 
+[V:2] .C,2.C2 .C2.^F2 .G2.G,2 .G,2.G,,2 | 
+[V:1] fadf Adc!arpeggio!=B cAec aec'a | 
+[V:2] .D,2.D2.D2.^G2 .A2.A,2.A,2.A,,2 | 
+[V:1] ^g=beg =Bd^cB c2a2 {/a//}!trill!a4 | 
+[V:2] .E,2.E,,2.E,,2.E,,2 .A,,2.A2.A2.A2 | 
+[V:1] agfe d=c_BA B2g2 {/g//-}!trill!g4 | 
+[V:2] .F,,2.[F2A2].[F2A2]F2 .G,,2.[G2B2].[G2B2].[G2B2] | 
+[V:1] gfed cBAG A2f2 {/f//}!trill!f4 | 
+[V:2] .E,,2.[E2G2].[E2G2]E2 .F,,2.[F2A2].[F2A2].[F2A2] | 
+[V:1] fedc BAGF G2e2 {/e//-}!trill!e4 | 
+[V:2] .D,,2.[D2F2].[D2F2]D2 .E,,2.[E2G2].[E2G2].[E2G2] | 
+[V:1] ed^c=B AGFE!accent!d4z4 & x8FDGE AF_BG | 
+[V:2] .A,,2.[A,2E2].[A,2E2]A,2 .D2.E2.F2.G2 | 
+[V:1] !accent!d4z4!accent!d4z4 & FDGE AFBG FDGE AFBG | 
+[V:2] .D2.E2.F2.G2 .D2.E2.F2.G2 | 
+[V:1] .A2.[d2f2] .G2.[^c2e2] .A2.[d2f2] .G2.[c2e2] | 
+[V:2] FEB,G, E^CA,C FDB,G, ECA,C | 
+[V:1] .A2.[d2f2] .G2.[^c2e2] d2 z2z4 & x8FDGE AF=BG | 
+[V:2] FDB,G, E^CA,C .[D,2D2]E,2F,2G,2 | 
+[V:1] ^cAde fdec dA_BG AFB2 | 
+[V:2] A,2G,2A,2.A,,2!accent!D,4z2 GE | 
+[V:1] A2G2 F z z2z4z4 :|]  
+[V:2] GDE^C DA,F,A,!mordent!D,4z4 :|]

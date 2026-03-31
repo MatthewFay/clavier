@@ -1,0 +1,85 @@
+X: 142
+T: 142. Schwing dich auf zu deinem Gott
+N: Derived from chor142.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3398787517
+%%humdrum-veritas-data 320585935
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] dAde | 
+[V:2] AABB | 
+[V:3] fefg | 
+[V:4] DCB,G, | 
+[V:1] fd!fermata!e2 | 
+[V:2] AG!fermata!G2 | 
+[V:3] cd!fermata!c2 | 
+[V:4] A,=B,!fermata!C2 | 
+[V:1] ccc_B/A/ | 
+[V:2] AA/G/FF/E/ | 
+[V:3] efA/G/F | 
+[V:4] A,/G,/F,/E,/D,3/C,/ | 
+[V:1] G2!fermata!A2 | 
+[V:2] D/^C/D!fermata!C2 | 
+[V:3] FE/D/!fermata!E2 | 
+[V:4] B,,2!fermata!A,,2 | 
+[V:1] dAde | 
+[V:2] AAG/=F/E | 
+[V:3] Ad/=c/B=B | 
+[V:4] F,^F,G,^G, | 
+[V:1] fd!fermata!e2 | 
+[V:2] A/=G/F!fermata!E2 | 
+[V:3] ^cd/c/!fermata!=B2 | 
+[V:4] A,_B,/A,/!fermata!^G,2 | 
+[V:1] cccB/A/ | 
+[V:2] EAAG/A/ | 
+[V:3] c/d/_edd | 
+[V:4] A,=G,^F,G,/=F,/ | 
+[V:1] G2!fermata!A2 | 
+[V:2] Bc!fermata!^F2 | 
+[V:3] d/B/ A/G/!fermata!d2 | 
+[V:4] _E,2!fermata!D,2 | 
+[V:1] ff=ee | 
+[V:2] AGGA | 
+[V:3] ddcc | 
+[V:4] D/C/=B,/G,/ C/_B,/A,/G,/ | 
+[V:1] de!fermata!^c2 | 
+[V:2] AE!fermata!A2 | 
+[V:3] c/=B//A//=B!fermata!e2 | 
+[V:4] ^F,^G,!fermata!A,2 | 
+[V:1] A=B^cd | 
+[V:2] EAGA | 
+[V:3] ^cdef | 
+[V:4] =G,=F,E,D, | 
+[V:1] d^c!fermata!d2 | 
+[V:2] A3/G/!fermata!F2 | 
+[V:3] e2!fermata!d2 | 
+[V:4] A,A,,!fermata!B,,2 | 
+[V:1] ffee | 
+[V:2] AGGG | 
+[V:3] =cdc/B/A | 
+[V:4] A,,=B,,C,^C, | 
+[V:1] de!fermata!^c2 | 
+[V:2] FG!fermata!E2 | 
+[V:3] AB!fermata!A2 | 
+[V:4] D,G,,!fermata!G,2 | 
+[V:1] A=B^cd | 
+[V:2] FFED/E/ | 
+[V:3] ddGA/B/ | 
+[V:4] F,E,/D,/E,F,/G,/ | 
+[V:1] d^c!fermata!d2 |]  
+[V:2] F/E//D//E!fermata!^F2 |]  
+[V:3] A2!fermata!A2 |]  
+[V:4] A,A,,!fermata!D,2 |]

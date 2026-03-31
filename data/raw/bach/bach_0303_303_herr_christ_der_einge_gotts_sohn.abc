@@ -1,0 +1,69 @@
+X: 302
+T: 303. Herr Christ, der ein'ge Gotts Sohn
+N: Derived from chor303.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1818158802
+%%humdrum-veritas-data 3934902780
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] F [I:setbarnb 1]| 
+[V:2] C | 
+[V:3] A | 
+[V:4] F, | 
+[V:1] F/G/AGF | 
+[V:2] D/E/FED | 
+[V:3] Bcc/B/A | 
+[V:4] B,,F,C,D, | 
+[V:1] E2!fermata!DA | 
+[V:2] D^C!fermata!D^F | 
+[V:3] BA/G/!fermata!Fd | 
+[V:4] G,,A,,!fermata!D,D, | 
+[V:1] BGAG | 
+[V:2] G/=F/EFE | 
+[V:3] d=ccc/B/ | 
+[V:4] G,,/A,,/B,,A,,/F,,/C, | 
+[V:1] !fermata!F3 :|]  
+[V:2] !fermata!C3 :|]  
+[V:3] !fermata!A3 :|]  
+[V:4] !fermata!F,,3 :|]  
+[V:1] F/G/ [I:setbarnb 5]| 
+[V:2] C | 
+[V:3] A | 
+[V:4] F,/E,/ | 
+[V:1] AABB | 
+[V:2] F^FGG | 
+[V:3] dddd | 
+[V:4] D,C,B,,/A,,/G,, | 
+[V:1] c2!fermata!Gc | 
+[V:2] G=F!fermata!EG | 
+[V:3] c2!fermata!cc | 
+[V:4] A,,3/B,,/!fermata!C,E, | 
+[V:1] AAG=F | 
+[V:2] F_EDD | 
+[V:3] ccB=B | 
+[V:4] F,^F,G,^G, | 
+[V:1] E2!fermata!DA | 
+[V:2] D^C!fermata!D^F | 
+[V:3] E/F/G!fermata!F=c | 
+[V:4] A,A,,!fermata!B,,A,, | 
+[V:1] BGAG | 
+[V:2] G/=F/EFE | 
+[V:3] dccc/B/ | 
+[V:4] G,,/A,,/B,,A,,/B,,/C, | 
+[V:1] !fermata!F3 |]  
+[V:2] !fermata!C3 |]  
+[V:3] !fermata!A3 |]  
+[V:4] !fermata!F,,3 |]

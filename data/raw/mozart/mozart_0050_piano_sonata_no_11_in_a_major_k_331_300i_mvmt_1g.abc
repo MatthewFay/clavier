@@ -1,0 +1,78 @@
+X: 49
+T: Piano Sonata No. 11 in A major, K 331 (300i), mvmt. 1g
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:31
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/09/29
+%%gracespace 0 6 6
+%%humdrum-veritas 332231583
+%%humdrum-veritas-data 2974973281
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C
+N: Derived from sonata11-1g.krn
+Q: "Variation V: Allegro"
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] .c2{/d//}cB c2.d2 f2e2.d2.c2 | 
+[V:2] A,2E2B,2E2 C2E2A,2E2 | 
+[V:1] .B2{/c//}B^A B2.c2 e2d2.c2.B2 | 
+[V:2] G,2E2A,2E2 B,2E2D2E2 | 
+[V:1] G2=A2 z2 ^A2 z2 B2 z2 ^B2 | 
+[V:2] C2E2C2E2 G,2E2G,2E2 | 
+[V:1] {/d//} .c2.c2{/e//}.d2.d2c4=B2 z2 | 
+[V:2] x8A,4G,2 z2 & A,2E2D,2B,4<E,4z2 | 
+[V:1] cAEA cAdB ecec fedc | 
+[V:2] [A,,,4C,,4E,,4A,,4]z4[K:clef=treble][A,4C4E4A4]z4[K:clef=bass] | 
+[V:1] BGEG BGcA dBdB edcB | 
+[V:2] [E,,4G,,4B,,4E,4]z4[E,4G,4B,4E4]z4 | 
+[V:1] AcBA BdcB ceae faBd | 
+[V:2] F,,2F,2G,,2G,2 A,2C2D2G,2 | 
+[V:1] ceAc BdGB AECEA4 :|]|:  
+[V:2] A,2F,2D,2E,2A,,4A,,,4 :|]|:  
+[V:1] ABcd efga gf^ef efef | 
+[V:2] A,2E2C2E2 A,2F2D2F2 | 
+[V:1] agag bagf f=e^de dede | 
+[V:2] A,2F2D2F2 A,2E2C2E2 | 
+[V:1] eac'b agfe =dgba gfed | 
+[V:2] [A,,4C,4E,4A,4]z4[B,,4D,4G,4B,4]z4 | 
+[V:1] ceag fedc BAGF E z z2 | 
+[V:2] [C,4E,4A,4C4][D,4F,4B,4D4][E,4G,4B,4E4]z DCB, | 
+[V:1] .c2{/d//}cB c2.d2 f2e2.d2.c2 | 
+[V:2] A,2E2B,2E2 C2E2A,2E2 | 
+[V:1] .B2{/c//}B^A B2.c2 e2d2.c2.B2 | 
+[V:2] G,2E2A,2E2 B,2E2G,2E2 | 
+[V:1] G2=A2 z2 B2 z2 {/^B//} c2 z2 {/e//} d2 | 
+[V:2] F,2E2G,2E2 A,2E2D,2B,2 | 
+[V:1] x8B2^B2 c2 z2 & z2 {/d//} c2 z2 {/c//} =B2G4A2 z2 | 
+[V:2] E,2A,2E,2G,2[A,4-D4E4-][A,2C2E2] z2 | 
+[V:1] cAec dBfd ecae gfed | 
+[V:2] A,,C,E,A, B,,D,G,B, C,E,A,C D,F,B,D | 
+[V:1] ceAc BdGB AECEA4 :|]  
+[V:2] E,A,CE E,,G,,B,,E, A,,C,E,A,A,,4 :|]  
+[V:1] ceAc BdGB ABcd efga | 
+[V:2] E,A,CE E,G,B,D [A,2C2][C2E2][C2E2][C2E2] | 
+[V:1] gf^ef ba.g.f f=e^de Acea | 
+[V:2] A,2[D2F2][D2F2][D2F2] A,2[C2E2][C2E2][C2E2] | 
+[V:1] gf^ef ba.g.f2< =e2.e {/f/e/^d/}e4 | 
+[V:2] A,2[D2F2][D2F2][D2F2][A,4C4E4]z4 | 
+[V:1] z2 z .=d {/e/d/c/}d4z2 z .c {/d/c/B/}c4 | 
+[V:2] [D,4B,4]z4[E,4A,4]z4 | 
+[V:1] z2 z .B {/c/B/^A/}B4z e^de fede | 
+[V:2] [D,4G,4]z4[C,4A,4]z4 | 
+[V:1] z =dcd edcd z c^Bc dcBc | 
+[V:2] [D,4B,4]z4[E,4A,4]z4 | 
+[V:1] z =B^AB cBAB =A2 cA edBG | 
+[V:2] [E,4G,4]z4A,4z4 | 
+[V:1] A4[G4B4e4][A2c2e2a2] cA edBG | 
+[V:2] z4[E,4G,4B,4E4][A,,4C,4E,4A,4]z4 | 
+[V:1] A4[G4B4e4][A4c4e4a4]z4 |]  
+[V:2] z4[E,4G,4B,4E4][A,,4C,4E,4A,4]z4 |]

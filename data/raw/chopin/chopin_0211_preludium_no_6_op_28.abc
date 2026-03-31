@@ -1,0 +1,76 @@
+X: 211
+T: Preludium No. 6	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:44
+%%abc-edited-by Leszek Kubiak
+%%abc-edited-by Zofia Niedbalska
+%%abc-edited-by Marta Lawrence
+%%abcx-initial-encoding-date 2019-04-30
+%%humdrum-veritas 299321417
+%%humdrum-veritas-data 3829934221
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+N: Derived from 028_1-12-1a-C-006.krn
+P: 24 PRÃLUDES POUR le Piano
+Q: "Lento assai." 1/4=48
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+[V:1] !accent!BB !accent!BB !accent!BB & [F2D2]F2F2 | 
+[V:2] B,,/D,/F,/B,/D2C3/D/ | 
+[V:1] BB BB BB & [F2D2][F2D2][F2D2] | 
+[V:2] B,2>F,2D,C, | 
+[V:1] BB dd dd & [F2D2]B2B2 | 
+[V:2] B,,/F,/B,/D/F2E3/F/ | 
+[V:1] dd dd dd & [B2F2][B2F2][B2F2] | 
+[V:2] D2>B,2F,D, | 
+[V:1] dd dd dd & [B2G2]B2B2 | 
+[V:2] G,,/D,/B,/D/G2F2 | 
+[V:1] dd cc [c^A][dB] & [B2^G2][B2G2]=G2 | 
+[V:2] F2^E2=ED | 
+[V:1] e2>f2 e/d/{/d}c/B/ & [^A=G][BG] [AG][cF] [BF]F | 
+[V:2] C{/E}DC^A,B,D, | 
+[V:1] [^A^^FC][B^GD][dBD][cAC]z2 | 
+[V:2] E,^E,F,2D,C, | 
+[V:1] BB BB BB & [F2D2]F2F2 | 
+[V:2] B,,/D,/F,/B,/D2C3/D/ | 
+[V:1] BB BB BB & [F2D2][F2D2][F2D2] | 
+[V:2] B,2>F,2D,B,, | 
+[V:1] BB BB BB & [G2D2]G2G2 | 
+[V:2] G,,/D,/G,/B,/D2E=F | 
+[V:1] =cc cc cc & G2[G2E2][G2E2] | 
+[V:2] E2>=C2G,=C, | 
+[V:1] =cc cc cc & [G2E2]G2[G2E2] | 
+[V:2] =C,,/G,,/E,/G,/E2C,,/G,,/E,/G,/ | 
+[V:1] =cc cc BB & G2G2G2 | 
+[V:2] E4z2 | 
+[V:1] ^AA AA BB & [G2C2][F2C2][F2D2] | 
+[V:2] E,2>F,2 E,/D,/C,/B,,/ | 
+[V:1] BB ^AA BB & [G2C2][G2C2][G2D2] | 
+[V:2] E,2>F,2 E,/D,/C,/B,,/ | 
+[V:1] BB BB ^AA & [G2D2][F2C2][E2C2] | 
+[V:2] A,,/G,,/D,,/E,,/F,,4 | 
+[V:1] ^AA BB BB & [E2C2][D2B,2][G2D2] | 
+[V:2] G,,4G,2 | 
+[V:1] BB ^AA BB & [G2C2][G2C2][F2D2] | 
+[V:2] E,2>F,2 E,/D,/C,/B,,/ | 
+[V:1] BB ^AA BB & [G2C2][G2C2][G2D2] | 
+[V:2] E,2>F,2 E,/D,/C,/B,,/ | 
+[V:1] BB BB ^AA & [G2D2][F2C2][F2C2] | 
+[V:2] A,,/G,,/D,,/E,,/F,,4 | 
+[V:1] BB BB !accent!=AA & [F2D2][F2D2][F2D2] | 
+[V:2] B,,,6- | 
+[V:1] FF FF FF & D2x4 | 
+[V:2] B,,,/B,,/F,/B,/D2C3/D/ | 
+[V:1] FF FF FF & D2D2D2 | 
+[V:2] B,2>F,2D,C, | 
+[V:1] FFz2FF & D2x2D2 | 
+[V:2] B,,6- | 
+[V:1] FFz2z2 & D2x2x2 |]  
+[V:2] B,,2z2z2 |]

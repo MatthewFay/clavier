@@ -1,0 +1,69 @@
+X: 364
+T: 365. Jesu meiner Seelen Wonne
+N: Derived from chor365.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3417662839
+%%humdrum-veritas-data 1907274569
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: A
+[V:1] cdee | 
+[V:2] AAGA | 
+[V:3] efe/d/c | 
+[V:4] A,F,C,F, | 
+[V:1] dcB!fermata!B | 
+[V:2] A/G/AG!fermata!G | 
+[V:3] dee!fermata!e | 
+[V:4] B,,C,/D,/E,!fermata!E, | 
+[V:1] cde/d/c | 
+[V:2] AAB3/A/ | 
+[V:3] efe3/f//=g// | 
+[V:4] A,/G,/F,G,A, | 
+[V:1] BB!fermata!A2 :|]  
+[V:2] A^G!fermata!E2 :|]  
+[V:3] fe/d/!fermata!c2 :|]  
+[V:4] D,E,!fermata!A,,2 :|]  
+[V:1] Bcdd | 
+[V:2] G^ABB | 
+[V:3] eeff | 
+[V:4] E,D,/C,/ B,,/C,/ D,/E,/ | 
+[V:1] cc!fermata!B2 | 
+[V:2] B^A!fermata!F2 | 
+[V:3] f/=g/ f/e/!fermata!d2 | 
+[V:4] F,F,!fermata!B,,2 | 
+[V:1] deff | 
+[V:2] FAA3/B//=c// | 
+[V:3] dcdd | 
+[V:4] B,A,/=G,/ F,/E,/D, | 
+[V:1] ee!fermata!d2 | 
+[V:2] BA/=G/!fermata!F2 | 
+[V:3] d^c!fermata!A2 | 
+[V:4] =G,A,!fermata!D,2 | 
+[V:1] cdee | 
+[V:2] EAE/F/=G | 
+[V:3] AABc- | 
+[V:4] A,/^G,/F,=G,^A,, | 
+[V:1] dcB!fermata!B | 
+[V:2] F/^G/ E/F/G!fermata!G | 
+[V:3] c/BA/e!fermata!e | 
+[V:4] B,,C,/D,/E,!fermata!E, | 
+[V:1] cde/d/c | 
+[V:2] AAB/G/A | 
+[V:3] efee | 
+[V:4] A,,/A,/ G,/F,/ G,/E,/ A,/A,,/ | 
+[V:1] BB!fermata!A2 |]  
+[V:2] AG!fermata!E2 |]  
+[V:3] fe/d/!fermata!c2 |]  
+[V:4] D,/B,,/E,!fermata!A,,2 |]

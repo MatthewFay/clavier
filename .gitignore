@@ -13,11 +13,11 @@ venv/
 .ipynb_checkpoints
 
 # Project Datasets - will be hosted elsewhere
-data/
-*.mid
-*.midi
-*.abc
-*.zip
+# data/
+# *.mid
+# *.midi
+# *.abc
+# *.zip
 
 # Use devcontainer settings except for VSCode debug config
 .vscode/*

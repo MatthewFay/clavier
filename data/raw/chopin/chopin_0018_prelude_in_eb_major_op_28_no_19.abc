@@ -1,0 +1,166 @@
+X: 18
+T: Prelude in E\b Major, Op. 28, No. 19
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-copyright Copyright 2008 by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%gracespace 0 6 6
+%%humdrum-veritas 3331427284
+%%humdrum-veritas-data 729889642
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+N: Derived from prelude28-19.krn
+Q: "Vivace" 1/4=160
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Eb
+[V:1] B2 [I:setbarnb 1]| 
+[V:2] z2 | 
+[V:1] (3BB,G (3eEB (3gGe | 
+[V:2] (3E,,G,B,, (3E,,G,B,, (3E,,B,B,, | 
+[V:1] (3bBg (3e'eb (3g'eb | 
+[V:2] (3E,,EG, (3B,,GB, (3E,BB, | 
+[V:1] (3f'da (3e'ea (3c'ca | 
+[V:2] (3E,=B=B, (3E,cC (3E,AD | 
+[V:1] (3c'cg (3bBe (3gGB | 
+[V:2] (3E,GE (3B,GE (3E,EG, | 
+[V:1] (3eE=A (3dDA (3eEA | 
+[V:2] (3F,,CF, (3C,CF, (3F,,CF, | 
+[V:1] (3gGB (3fFB (3dDF | 
+[V:2] (3B,,EF, (3D,DF, (3B,,B,F, | 
+[V:1] (3eE=A (3dDA (3eEA | 
+[V:2] (3F,,CF, (3C,=B,F, (3F,,CF, | 
+[V:1] (3gGc (3fFA (3cCF | 
+[V:2] (3B,,EA, (3F,DA, (3B,,A,D, | 
+[V:1] (3BB,G (3eEB (3gGe | 
+[V:2] (3E,,G,B,, (3E,,G,B,, (3E,,B,B,, | 
+[V:1] (3bBg (3e'eb (3g'eb | 
+[V:2] (3E,,EG, (3B,,GB, (3E,BB, | 
+[V:1] (3f'da (3e'ea (3c'ca | 
+[V:2] (3E,=B=B, (3E,cC (3E,AD | 
+[V:1] (3c'cg (3bBe (3gGe | 
+[V:2] (3E,GE (3B,GE (3C,EG, | 
+[V:1] (3_g_Ge (3fFe (3^f^Fe | 
+[V:2] (3_C,E=A, (3E,EA, (3C,EA, | 
+[V:1] (3gGd (3=a=Ad (3bBd | 
+[V:2] (3B,,DG, (3=A,,D^F, (3G,,DG, | 
+[V:1] (3c'cf (3d'df (3=a=Af | 
+[V:2] (3F,,BE (3F,BE (3CFE | 
+[V:1] (3c'cf (3bBf (3fFB | 
+[V:2] (3B,,EF, (3B,,DF, (3B,,_DF, | 
+[V:1] (3fF_c (3eEB (3f_DA | 
+[V:2] (3A,,_CF, (3_D,CF, (3_D,,CF, | 
+[V:1] (3a_DB (3_gDB (3_dDB | 
+[V:2] (3_G,,B,_G, (3_D,B,G, (3G,,B,D, | 
+[V:1] (3f_D_c (3eDB (3fDA | 
+[V:2] (3_D,,_CF, (3A,,CF, (3D,,CF, | 
+[V:1] (3a_DB (3_gDB (3fDB | 
+[V:2] (3_G,,B,_G, (3_D,B,G, (3G,,B,D, | 
+[V:1] (3_f_DB (3b_F_d (3_d'B=e | 
+[V:2] (3_G,,B,_D, (3G,,_D_G, (3G,,=EB, | 
+[V:1] (3=d'Bf (3e'Bg (3=b^Gd | 
+[V:2] (3F,,FB, (3F,GB, (3F,F=B, | 
+[V:1] (3c'=Ae (3d'Af (3=aFc | 
+[V:2] (3F,FC (3F,FE (3F,E=A, | 
+[V:1] (3c'Fe (3bFd (3fFB | 
+[V:2] (3B,,EF, (3B,,DF, (3B,,_DF, | 
+[V:1] (3fF_c (3eEB (3f_DA | 
+[V:2] (3A,,_CF, (3_D,CF, (3_D,,CF, | 
+[V:1] (3a_DB (3_gDB (3_dDB | 
+[V:2] (3_G,,B,_G, (3_D,B,G, (3G,,B,D, | 
+[V:1] (3f_D_c (3eDB (3fDA | 
+[V:2] (3_D,,_CF, (3A,,CF, (3D,,CF, | 
+[V:1] (3a_DB (3_gDB (3fDB | 
+[V:2] (3_G,,B,_G, (3_D,B,G, (3G,,B,D, | 
+[V:1] (3=e^CB (3g=E^c (3^f_E=c | 
+[V:2] (3=G,,B,=E, (3B,,^CE, (3=A,,=C_E, | 
+[V:1] (3=a^Fe (3^g=Fd (3=b^G=f | 
+[V:2] (3C,E^F, (3=B,,D=F, (3D,F^G, | 
+[V:1] (3b=G=e (3_d'Bg (3c'=A^f | 
+[V:2] (3^C,=EG, (3=E,GB, (3^D,^F=A, | 
+[V:1] (3e'c=a (3=d'_c_a !accent!f' z | 
+[V:2] (3^F,=AC (3=F,_A_C !accent!B, z | 
+[V:1] (3BB,G (3eEB (3gGe | 
+[V:2] (3E,,G,B,, (3E,,G,B,, (3E,,B,B,, | 
+[V:1] (3bBg (3e'eb (3g'eb | 
+[V:2] (3E,,EG, (3B,,GB, (3E,BB, | 
+[V:1] (3f'da (3e'ea (3c'ca | 
+[V:2] (3E,=B=B, (3E,cC (3E,AD | 
+[V:1] (3c'cg (3bBe (3gGB | 
+[V:2] (3E,GE (3B,GE (3E,EG, | 
+[V:1] (3eE=A (3dDA (3eEA | 
+[V:2] (3F,,CF, (3C,CF, (3F,,CF, | 
+[V:1] (3gGB (3fFB (3dDF | 
+[V:2] (3B,,EF, (3D,DF, (3B,,B,F, | 
+[V:1] (3eE=A (3dDA (3eEA | 
+[V:2] (3F,,CF, (3C,=B,F, (3F,,CF, | 
+[V:1] (3gGc (3fFA (3cCF | 
+[V:2] (3B,,EA, (3F,DA, (3B,,A,D, | 
+[V:1] (3BB,G (3eEB (3gGe | 
+[V:2] (3E,,G,B,, (3E,,G,B,, (3E,,B,B,, | 
+[V:1] (3bBg (3e'eb (3g'eb | 
+[V:2] (3E,,EG, (3B,,GB, (3E,BB, | 
+[V:1] (3_g'e=a (3f'd_a (3=e'^cg | 
+[V:2] (3=A,,C_G, (3=B,,DA, (3^C,=EB, | 
+[V:1] (3e'c_g (3d'=Bf (3_d'_d=g | 
+[V:2] (3E,_GC (3F,AD (3G,B=E | 
+[V:1] (3c'cf (3d'cf (3e'cf | 
+[V:2] (3A,AF (3CAF (3A,AF[K:clef=treble] | 
+[V:1] (3f'fc' (3g'gc' (3f'fc' | 
+[V:2] (3F,eA (3EeA (3A,eA[K:clef=bass] | 
+[V:1] (3c'cf (3d'df (3c'cf | 
+[V:2] (3A,,[K:clef=treble]AF (3CAF (3F,AE[K:clef=bass] | 
+[V:1] (3fFc (3gFc (3dDB | 
+[V:2] (3B,,EA, (3F,DA, (3B,,B,A, | 
+[V:1] (3eEB (3bGe (3_c'Ge | 
+[V:2] (3E,,G,B,, (3E,,B,B,, (3E,,G,B,, | 
+[V:1] (3bAd (3__bAd (3aAd | 
+[V:2] (3E,,A,B,, (3E,,B,B,, (3E,,B,B,, | 
+[V:1] (3gGe (3bGe (3c'Ge | 
+[V:2] (3E,,B,B,, (3E,,B,B,, (3E,,B,B,, | 
+[V:1] (3bAd (3__bAd (3aAd | 
+[V:2] (3E,,A,B,, (3E,,B,B,, (3E,,B,B,, | 
+[V:1] (3gGe (3bBg (3e'eb | 
+[V:2] (3E,,B,B,, (3E,,B,B,, (3G,,B,E, | 
+[V:1] (3g'd=b (3f'dg (3e'cg | 
+[V:2] (3G,,F=B, (3D,FB, (3C,EG, | 
+[V:1] (3e'c_g (3d'=B^f (3c'cf | 
+[V:2] (3=A,,E_G, (3E,E^F, (3A,,EF, | 
+[V:1] (3c'Af (3bGc (3aFd | 
+[V:2] (3B,,DA, (3F,DA, (3B,,B,A, | 
+[V:1] (3gEe (3bGe (3_c'Ge | 
+[V:2] (3E,,G,B,, (3E,,B,B,, (3E,,G,B,, | 
+[V:1] (3bAd (3__bAd (3aAd | 
+[V:2] (3E,,A,B,, (3E,,B,B,, (3E,,B,B,, | 
+[V:1] (3gGe (3bGe (3c'Ge | 
+[V:2] (3E,,B,B,, (3E,,B,B,, (3E,,B,B,, | 
+[V:1] (3bAd (3__bAd (3aAd | 
+[V:2] (3E,,A,B,, (3E,,B,B,, (3E,,B,B,, | 
+[V:1] (3gGe (3bBg (3e'eb | 
+[V:2] (3E,,B,B,, (3E,,B,B,, (3G,,B,E, | 
+[V:1] (3g'd=b (3f'db (3=e'db | 
+[V:2] (3G,,,=B,F, (3G,,B,F, (3^G,,B,=E, | 
+[V:1] (3=e'^c=a (3_e'=ca (3c'=Ae | 
+[V:2] (3=A,,^C=E, (3A,,=CF, (3A,,E^F, | 
+[V:1] (3c'=Ae (3bBe (3dDB | 
+[V:2] (3B,,E^F, (3B,,EG, (3B,,,A,B,, | 
+[V:1] (3eEB (3bEB (3eEB | 
+[V:2] (3E,,G,B,, (3E,,B,B,, (3E,,G,B,, | 
+[V:1] (3=aEB (3eEB (3_aEB | 
+[V:2] (3E,,B,B,, (3E,,G,B,, (3E,,B,B,, | 
+[V:1] (3eEB (3gEB (3eEB | 
+[V:2] (3E,,G,B,, (3E,,B,B,, (3E,,G,B,, | 
+[V:1] (3^fEB (3eEB (3gEB | 
+[V:2] (3E,,B,B,, (3E,,G,B,, (3E,,B,B,, | 
+[V:1] e2z2z2 | 
+[V:2] E,,2z2z2[K:clef=treble] | 
+[V:1] !accent![e2b2e'2]z2z2 | 
+[V:2] !accent![G2B2e2g2]z2z2[K:clef=bass] | 
+[V:1] !accent![G,6B,6E6G6] |]  
+[V:2] !accent![E,,6B,,6E,6] |]

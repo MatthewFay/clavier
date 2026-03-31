@@ -1,0 +1,85 @@
+X: 321
+T: 322. Wenn mein St\"undlein vorhanden ist
+N: Derived from chor322.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3795021382
+%%humdrum-veritas-data 882353035
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] G [I:setbarnb 1]| 
+[V:2] D | 
+[V:3] B/A/ | 
+[V:4] G,,/A,,/ | 
+[V:1] DEFG | 
+[V:2] DCCD | 
+[V:3] GGAB | 
+[V:4] B,,_B,,A,,G,, | 
+[V:1] AB!fermata!GB/c/ | 
+[V:2] DD!fermata!ED | 
+[V:3] cB!fermata!cB | 
+[V:4] F,,G,,!fermata!C,G, | 
+[V:1] ddB/c/d | 
+[V:2] D/E/FG=F | 
+[V:3] AAG/A/B- | 
+[V:4] F,/E,/D,E,B,, | 
+[V:1] c2!fermata!BB | 
+[V:2] E^F!fermata!DD | 
+[V:3] BA!fermata!GB | 
+[V:4] C,D,!fermata!G,,G, | 
+[V:1] cBAG/A/ | 
+[V:2] D3/E/FG/F/ | 
+[V:3] ABBB | 
+[V:4] F,G,^D,E,/F,/ | 
+[V:1] BB/A/!fermata!GB/c/ | 
+[V:2] E^D!fermata!EE | 
+[V:3] BB!fermata!BG | 
+[V:4] G,/A,/B,!fermata!E,E, | 
+[V:1] ddBd | 
+[V:2] =DAGB- | 
+[V:3] A/B/ c/d/ d/e/=f | 
+[V:4] =F,^F,G,^G, | 
+[V:1] c2!fermata!BB | 
+[V:2] BA!fermata!GG | 
+[V:3] e^f!fermata!dd | 
+[V:4] A,D,!fermata!=G,G,/F,/ | 
+[V:1] cBAG/A/ | 
+[V:2] GGF/E/D | 
+[V:3] cddd/c/ | 
+[V:4] E,D,C,B,,/A,,/ | 
+[V:1] BB!fermata!GA | 
+[V:2] DD!fermata!EE/F/- | 
+[V:3] B/A/G!fermata!cc | 
+[V:4] G,,/A,,/B,,!fermata!C,A, | 
+[V:1] BBEF | 
+[V:2] F/E//F// G/F/E-E/D/ | 
+[V:3] BB-B/A/ A/B//c// | 
+[V:4] G,/F,/ E,/D,/^C,D, | 
+[V:1] G/F/E!fermata!DD | 
+[V:2] D-D/^C/!fermata!A,D | 
+[V:3] B/A/G!fermata!FF/A/ | 
+[V:4] G,,A,,!fermata!D,D,/=C,/ | 
+[V:1] GABA/B/ | 
+[V:2] DDGG | 
+[V:3] BAGe/d/ | 
+[V:4] B,,/A,,/ G,,/F,,/ E,,/D,/ C,/B,,/ | 
+[V:1] cBA2 | 
+[V:2] F/A/- A/G/GF | 
+[V:3] c/d/ded/c/ | 
+[V:4] A,,/F,,/ G,,/B,,/ C,/A,,/ D,/D,,/ | 
+[V:1] !fermata!G3 |]  
+[V:2] !fermata!D3 |]  
+[V:3] !fermata!B3 |]  
+[V:4] !fermata!G,,3 |]

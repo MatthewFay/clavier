@@ -1,0 +1,61 @@
+X: 167
+T: 168. Heut ist, o Mensch, ein gro\sser Trauertag
+N: Derived from chor168.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 585146634
+%%humdrum-veritas-data 2092559412
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] D [I:setbarnb 1]| 
+[V:2] B, | 
+[V:3] G | 
+[V:4] G,, | 
+[V:1] FG!fermata!AB | 
+[V:2] A,/FE/!fermata!FD/E/ | 
+[V:3] F/A/d/c/!fermata!cG | 
+[V:4] D,B,,/C,/!fermata!F,G, | 
+[V:1] AGcB | 
+[V:2] ^FG-G/A/- A/G/ | 
+[V:3] A//B//cB//A// G/d/d | 
+[V:4] D,E,-E,/^F,/G, | 
+[V:1] !fermata!A2zd | 
+[V:2] !fermata!^F2xB- | 
+[V:3] !fermata!d2x=f- | 
+[V:4] !fermata!D,2zB,, | 
+[V:1] cBAG | 
+[V:2] B/A/- A/G/- G/F/- F/_E/- | 
+[V:3] f3//_e//d-d3//c//B- | 
+[V:4] F,G,D,_E, | 
+[V:1] FGF_E | 
+[V:2] E/D/ _E/D/ C/B,/ C/A,/ | 
+[V:3] BBF2 | 
+[V:4] B,,/A,,/G,,A,,/G,,/A,,/F,,/ | 
+[V:1] !fermata!D2zA | 
+[V:2] !fermata!B,2xC | 
+[V:3] !fermata!F2xF | 
+[V:4] !fermata!B,,2zF,/_E,/ | 
+[V:1] Bc!fermata!dd | 
+[V:2] D/F/ G/A/!fermata!BG/F/ | 
+[V:3] f_e!fermata!fd | 
+[V:4] D,C,!fermata!B,,=B,, | 
+[V:1] cG/A/BA | 
+[V:2] _E/F/G-G3/^F/ | 
+[V:3] Gcd-d/c/ | 
+[V:4] C,/D,/_E,_B,,/C,/D, | 
+[V:1] !fermata!G3 |]  
+[V:2] !fermata!D3 |]  
+[V:3] !fermata!=B3 |]  
+[V:4] !fermata!G,,3 |]

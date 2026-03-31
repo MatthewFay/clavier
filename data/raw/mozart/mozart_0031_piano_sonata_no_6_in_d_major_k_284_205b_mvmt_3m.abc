@@ -1,0 +1,104 @@
+X: 30
+T: Piano Sonata No. 6 in D major, K 284 (205b), mvmt. 3m
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:31
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/09/23
+%%gracespace 0 6 6
+%%humdrum-veritas 3846183561
+%%humdrum-veritas-data 2049184622
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/4
+N: Derived from sonata06-3m.krn
+Q: "Variation 12: Allegro" 1/4=120
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+[V:1] a2c2 [I:setbarnb 1]| 
+[V:2] z4[K:clef=treble] | 
+[V:1] e2<d2d4d4 | 
+[V:2] D2F2A2F2D2F2 | 
+[V:1] e4g4c2A2 | 
+[V:2] C2G2A2G2E2G2 | 
+[V:1] f4a4b2g2 | 
+[V:2] D2A2F2D2[G,2G2]E2 | 
+[V:1] f4e4a2c2 | 
+[V:2] D4C4z4[K:clef=bass] & A,8x4 | 
+[V:1] e2<d2d4d4 | 
+[V:2] F,2A,2D2A,2=F,2A,2 | 
+[V:1] !arpeggio![d4^g4d'4]z2 z d2<e2f | 
+[V:2] [E,4^G,4B,4]z4z4 | 
+[V:1] e4z2 z d2<B2^G | 
+[V:2] z4[E,4^G,4B,4D4]z4 | 
+[V:1] A4z2 z ^g2<a2c | 
+[V:2] z4[A,4C4]z4 | 
+[V:1] d2fad'4z2 d2 | 
+[V:2] D,DCD B,,B,^A,B, F,,F,E,F, | 
+[V:1] e2ge b2ge c2eA | 
+[V:2] G,,G,F,G, E,,E,^D,E, =A,,A,^G,A, | 
+[V:1] a2fdd'4z2 [e2g2] | 
+[V:2] F,,F,E,F, B,,B,^A,B, =G,,G,F,G, | 
+[V:1] [d4f4][c4e4]z4 | 
+[V:2] =A,,A,^G,A, A,,A,=G,,=G, F,,F,E,,E, | 
+[V:1] d2fad'4z2 d2 | 
+[V:2] F,,F,E,F, D,DC,C B,,B,A,,A, | 
+[V:1] d2^gbd'4z2 d2 | 
+[V:2] ^G,,^G,F,G, B,,B,A,,A, G,,G,E,,E, | 
+[V:1] c4e4[B,4D4^G4] | 
+[V:2] A,,A,^G,A, C,,C,B,,C, E,,E,^D,E, | 
+[V:1] [C4E4A4]z4a2f2 | 
+[V:2] A,,A,E,C,A,,4z4[K:clef=treble] | 
+[V:1] ^d2e2 ^a2b2 c2=d2 | 
+[V:2] [A2=c2][^G2B2]z4[=G2_B2][F2A2][K:clef=bass] | 
+[V:1] z2[d4d'4][c4c'4][B2b2]- | 
+[V:2] [=B,,4=B,4][A,,4A,4][G,,4G,4] | 
+[V:1] [B2b2][A4a4][G4g4][F2f2] | 
+[V:2] [F,4F4][E,4E4][D,4D4] | 
+[V:1] a8-a2g/f/e/f/ & A12 | 
+[V:2] F8-F2E/D/C/E/ & A,12 | 
+[V:1] e2 z2z4a2c2 | 
+[V:2] C2 z2z4z4 | 
+[V:1] e2<d2d4d4 | 
+[V:2] F,2A,2D2A,2F,2A,2 | 
+[V:1] [d4e4b4]z2 z e2<f2g | 
+[V:2] [G,4B,4D4]z4z4 | 
+[V:1] a4z2 z g2<e2c | 
+[V:2] z4[A,4C4]z4 | 
+[V:1] d4z2 z A2<d2f | 
+[V:2] z4[D,4A,4D4]z4 | 
+[V:1] [f2a2][e2g2] [^d2=c'2][e2b2] [e2g2][=d2f2] | 
+[V:2] ^D,^DE,E A,AG,G C,C=D,=D | 
+[V:1] [^c2_b2][d2a2] dd'c'd' =c=c'=bc' | 
+[V:2] G,GF,Fz4[F,4D4] | 
+[V:1] _B_bab Aa^ga ^Ggfg | 
+[V:2] D12 & G,4A,4_B,4 | 
+[V:1] a4[K:clef=bass]A,,4_B,,4 | 
+[V:2] C4x8 & A,4A,,,4_B,,,4 | 
+[V:1] ^G,,4A,,4[K:clef=treble]A3c | 
+[V:2] ^G,,,4A,,,4z4 | 
+[V:1] d2^fad'4z2 d2 | 
+[V:2] D,DCD =B,,=B,^A,B, F,,F,E,F, | 
+[V:1] e2ge b2ge c2eA | 
+[V:2] G,,G,F,G, E,,E,^D,E, =A,,A,^G,A, | 
+[V:1] a2fdb4[E4A4c4] | 
+[V:2] F,,F,E,F, =G,,=G,F,G, A,,A,^G,A, | 
+[V:1] d2^gd' e2ac' c2eb | 
+[V:2] B,,B,A,B, A,,A,^G,A, =G,,=G,F,G, | 
+[V:1] d2fa!arpeggio![B4e4=g4]!arpeggio![A4c4e4] | 
+[V:2] F,,F,E,F, G,,G,F,G, A,,A,G,A, | 
+[V:1] d2^gd' e2ac' c2eb | 
+[V:2] B,,B,A,B, A,,A,^G,A, =G,,=G,F,G, | 
+[V:1] d2fa!arpeggio![B4e4=g4]!arpeggio![A4c4e4] | 
+[V:2] F,,F,E,F, G,,G,F,G, A,,A,G,A, | 
+[V:1] Ddcd Ff^ef Aa^ga | 
+[V:2] D,,D,C,D, F,,F,^E,F, A,,A,^G,A, | 
+[V:1] !arpeggio![d4f4a4d'4]z4 |]  
+[V:2] !arpeggio![D,4F,4A,4D4]z4 |]

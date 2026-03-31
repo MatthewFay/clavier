@@ -1,0 +1,127 @@
+X: 24
+T: Piano Sonata no. 7 in D major, Minuetto
+C: Ludwig van Beethoven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/11 11:42:09
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2005/08/26/
+%%gracespace 0 6 6
+%%humdrum-veritas 1851463661
+%%humdrum-veritas-data 1571091647
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+Q: "Minuetto: Allegro" 1/4=132
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+[V:1] A- [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] Afe & F3 | 
+[V:2] [D,3A,3] | 
+[V:1] dce & G3 | 
+[V:2] [E,3A,3] | 
+[V:1] d3- & A3 | 
+[V:2] [F,3A,3] | 
+[V:1] dAB & F3 | 
+[V:2] [D,3A,3] | 
+[V:1] AG.A & E2C | 
+[V:2] A,3 & C,2A,, | 
+[V:1] [EG][DF].[EG] & A,2B, | 
+[V:2] D,2G,, | 
+[V:1] [D3F3] & A,3 | 
+[V:2] A,,2A,- | 
+[V:1] [CE]zB- | 
+[V:2] A,G,F, | 
+[V:1] Bgf & G3 | 
+[V:2] [E,3G,3B,3] | 
+[V:1] e^df & A3 | 
+[V:2] [B,3^D3] & [F,3A,3] | 
+[V:1] e3- & B3 | 
+[V:2] [B,3E3] & G,3 | 
+[V:1] eBc & G3 | 
+[V:2] [A,3C3] & [E,3G,3] | 
+[V:1] cd.A & A2F | 
+[V:2] [F,2A,2D2]D, | 
+[V:1] AG.E & C2[G,C] | 
+[V:2] A,2A,, | 
+[V:1] [C3E3]
+[V:2] G,3 & D,,2A,, | 
+[V:2] F,z & [D,,D,]z :|]|:  
+[V:2] F,,, & z | 
+[V:2] F,,2^E,,/F,,/ & z3 | 
+[V:2] G,,/F,,/=E,,/D,,/C,,/F,,/ & z3 | 
+[V:2] B,2^A,/B,/ & .D,,.B,,,z | 
+[V:2] C/B,/zz & z=A,/^G,/F,/B,/ | 
+[V:2] .^G,.E,z & e2^d/e/ | 
+[V:2] z3[K:clef=treble] & f/e/=d/c/B/e/ | 
+[V:2] A2^G/A/ & .c.a.a | 
+[V:2] B/A/=G/F/G/E/ & .a.a.a | 
+[V:2] [D3F3] & a3- | 
+[V:2] dce & [E3G3] | 
+[V:2] dcB & [F3-A3] | 
+[V:2] A^A.B & F2^D | 
+[V:2] =A=G.A & E2C | 
+[V:2] GF.G & D2G, | 
+[V:2] z[K:clef=bass]A,,A,- & [d2f2]e | 
+[V:2] A,G,F, & zzB- | 
+[V:2] [E,3G,3B,3] & Bgf | 
+[V:2] [B,3^D3] & [F,3A,3] | 
+[V:2] [B,3=D3][K:clef=treble] & G,3 | 
+[V:2] [A,3=C3D3F3] & gfa | 
+[V:2] [B,3D3G3] & g2d'- | 
+[V:2] [_B,3D3E3^G3] & d'c'e' | 
+[V:2] [A,2C2][=B,D] & d'c'b | 
+[V:2] [C2E2][DF][K:clef=bass] & agf | 
+[V:2] G,2^G, & [Ge][F^d][B=d] | 
+[V:2] A,2A,, & BA.A | 
+[V:2] zzA,, & D,,3- | 
+[V:2] A,,F,E, & D,,zz | 
+[V:2] D,3 & E,,3- | 
+[V:2] C,3 & E,,3 | 
+[V:2] zzA,, & D,,3- | 
+[V:2] A,,F,E, & D,,zz | 
+[V:2] [E,,3-D,3] & zz[A,GA] | 
+[V:2] [E,,3C,3] & G2G | 
+[V:2] [D,,3D,3] & F2F | 
+[V:2] [E,,3C,3] & =G2G | 
+[V:2] [D,,3-C,3] & [A,3-G3A3-] | 
+[V:2] [D,,D,]z & [A,FA]z :|]  
+[V:1]  [K:G] 
+[V:2]  [K:G] [K:clef=bass][M:3/4].D,, & (3G,/B,/D/ | 
+[V:2] .G,,z[K:clef=treble].d & (3G,/B,/D/ (3G,/B,/D/ (3G,/B,/D/ | 
+[V:2] .gz[K:clef=bass].G,, & (3G,/B,/D/ (3G,/B,/D/ (3G,/B,/D/ | 
+[V:2] G,,F,,.A,, & (3A,/C/D/ (3A,/C/D/ (3A,/C/D/ | 
+[V:2] .D,,z.D,, & (3A,/C/D/ (3A,/C/D/ (3A,/C/D/ | 
+[V:2] .C,z[K:clef=treble].d & (3F,/A,/D/ (3F,/A,/D/ (3F,/A,/D/ | 
+[V:2] .c'z[K:clef=bass].C, & (3F,/A,/D/ (3F,/A,/D/ (3F,/A,/D/ | 
+[V:2] C,B,,.D, & (3G,/B,/D/ (3G,/B,/D/ (3G,/B,/D/ | 
+[V:2] .G,,z.B,,, & (3G,/B,/D/ (3G,/B,/D/ (3F,/B,/^D/ | 
+[V:2] .B,,z[K:clef=treble].B & (3F,/B,/^D/ (3F,/B,/D/ (3F,/B,/D/ | 
+[V:2] .bz[K:clef=bass].E,, & (3F,/B,/^D/ (3F,/B,/D/ (3G,/B,/E/ | 
+[V:2] .E,z[K:clef=treble].e & (3G,/B,/E/ (3G,/B,/E/ (3G,/B,/E/ | 
+[V:2] .e'z[K:clef=bass].A,,, & (3G,/B,/E/ (3G,/B,/E/ (3G,/^C/E/ | 
+[V:2] [A,,3E,3G,3]- & (3G/^c/e/ g/f/.e/.d/ | 
+[V:2] [A,,3E,3G,3] & .^c/.B/.A/.G/.F/.E/ | 
+[V:2] [D,F,]zz & D/A/G/F/E/D/ | 
+[V:2] zz.D,, & =C/E/D/C/B,/A,/ | 
+[V:2] .G,,z[K:clef=treble]d & (3G,/B,/D/ (3G,/B,/D/ (3G,/B,/D/ | 
+[V:2] .gz[K:clef=bass].G,, & (3G,/B,/D/ (3G,/B,/D/ (3G,/B,/D/ | 
+[V:2] G,,F,,.A,, & (3A,/C/D/ (3A,/C/D/ (3A,/C/D/ | 
+[V:2] .D,,zD,, & (3A,/C/D/ (3A,/C/D/ (3A,/C/D/ | 
+[V:2] .C,z[K:clef=treble]d & (3F,/A,/D/ (3F,/A,/D/ (3F,/A,/D/ | 
+[V:2] .c'z[K:clef=bass].C, & (3F,/A,/D/ (3F,/A,/D/ (3F,/A,/D/ | 
+[V:2] C,B,,.D, & (3G,/B,/D/ (3G,/B,/D/ (3G,/B,/D/ | 
+[V:2] .G,,zB,,, & (3G,/B,/D/ (3G,/B,/D/ (3F,/B,/^D/ | 
+[V:2] .B,,z[K:clef=treble]B & (3F,/B,/^D/ (3F,/B,/D/ (3F,/B,/D/ | 
+[V:2] .bz[K:clef=bass]E,, & (3F,/B,/^D/ (3F,/B,/D/ (3G,/B,/E/ | 
+[V:2] E,z[K:clef=treble]e & (3G,/B,/E/ (3G,/B,/E/ (3G,/B,/E/ | 
+[V:2] .e'z[K:clef=bass]A,,, & (3G,/B,/E/ (3G,/B,/E/ (3G,/^C/E/ | 
+[V:2] .A,,zA,, & (3^C/E/G/ (3C/E/G/ (3C/E/G/ | 
+[V:2] .A,z[K:clef=treble]A & (3^C/E/G/ (3C/E/G/ (3C/E/G/ | 
+[V:2] .azz & (3^C/E/G/zz | 
+[V:2] zz & zz |

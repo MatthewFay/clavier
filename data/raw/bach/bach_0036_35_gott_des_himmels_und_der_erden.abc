@@ -1,0 +1,53 @@
+X: 35
+T: 35. Gott des Himmels und der Erden
+N: Derived from chor035.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 498724749
+%%humdrum-veritas-data 780761807
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: A
+[V:1] A2B2cde2 | 
+[V:2] E2E2A2AG- | 
+[V:3] c2B2AB cd | 
+[V:4] A,2G,2F,2C,B,, | 
+[V:1] A2G2F2!fermata!E2 | 
+[V:2] GF2E- E^D!fermata!B,2 | 
+[V:3] eBB2B3/A/!fermata!G2 | 
+[V:4] C,^D,E,2B,,2!fermata!E,2 | 
+[V:1] F2G2A2B2 | 
+[V:2] DCB,2E2E2 | 
+[V:3] =Bc deA2E2 | 
+[V:4] B,,2B,C/D/ CB, A,G, | 
+[V:1] cdB2!fermata!A4 :|]  
+[V:2] EFE2!fermata!E4 :|]  
+[V:3] A3G!fermata!c4 :|]  
+[V:4] A,D,E,2!fermata!A,,4 :|]  
+[V:1] c2c2B2c2 | 
+[V:2] A2A2EFG2 | 
+[V:3] e2e^d ed cB | 
+[V:4] A,G,F,2G,F,E,2 | 
+[V:1] d2cB BA!fermata!B2 | 
+[V:2] F2EF GF!fermata!G2 | 
+[V:3] AB c^de2!fermata!e2 | 
+[V:4] F,G,A,2E,2!fermata!E,2 | 
+[V:1] F2G2A2B2 | 
+[V:2] C=DE2-ED/C/F2 | 
+[V:3] ^ABB2A2A2 | 
+[V:4] E,=D,C,B,, C,F,E,D, | 
+[V:1] cdB2AG!fermata!A2 |]  
+[V:2] E2E2ED!fermata!E2 |]  
+[V:3] AB Gd cB!fermata!c2 |]  
+[V:4] E,2E,2A,,2!fermata!A,,2 |]

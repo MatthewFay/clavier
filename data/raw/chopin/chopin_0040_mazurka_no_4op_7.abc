@@ -1,0 +1,113 @@
+X: 40
+T: Mazurka No. 4.	Op. 7
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:46
+%%abc-edited-by Tomasz Sierawski
+%%abc-edited-by Jacek Iwaszko
+%%abcx-initial-encoding-date 2017-08-11
+%%humdrum-veritas 3269536572
+%%humdrum-veritas-data 2828137036
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from 007-1-W-004.krn
+P: Second Set of Mazurkas
+Q: "[half] = 63." 3/4=63
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Ab
+[V:1] E/ [I:setbarnb 1]| 
+[V:2] z/ | 
+[V:1] (3A/B/A/ G/A/B/c/ | 
+[V:2] [EA,]!accent![_FDA,][FDA,] | 
+[V:1] (3d/e/d/ c/d/e | 
+[V:2] !accent![_FB,G,][ECA,][EB,G,] | 
+[V:1] !wedge!a/z//d// c/e/A/=A/ | 
+[V:2] [=F/D/A,/F,/] z/[EA,E,][ECE,] | 
+[V:1] B/d/F/G/!accent!_A- | 
+[V:2] [EDE,][EDE,]!accent![ECA,] | 
+[V:1] (3A/B/A/ G/A/B/c/ | 
+[V:2] [ECA,]!accent![_FDA,][FDA,] | 
+[V:1] (3!accent!d/e/d/ c/d/=d/e/ | 
+[V:2] !accent![_FB,G,][ECA,][EB,G,] | 
+[V:1] {/e/} !wedge!a/z//d// c/e/A/=A/ | 
+[V:2] [=F/D/A,/F,/] z/[EA,E,][ECE,] | 
+[V:1] B/d/F/G/ A/ z// =B// ]|:  
+[V:2] [EDE,][EDE,][ECA,] ]|:  
+[V:1] c!wedge!c'/z//b//!accent!a- | 
+[V:2] C,[=ECG,][FCF,] | 
+[V:1] a/g/{/b/}a/g/!accent!=d | 
+[V:2] [F=B,G,][FB,G,][FB,G,] | 
+[V:1] !wedge!c/c/c'/z//b//!accent!a- | 
+[V:2] .[ECA,][=ECG,][FCF,] | 
+[V:1] a/g/{/b/}!wedge!a/z//g//!accent!=d | 
+[V:2] [F=B,G,][FB,G,][FB,G,] | 
+[V:1] c!accent!_d/>f/!accent!c | 
+[V:2] [ECA,]!accent![_DA,F,][=DA,F,] | 
+[V:1] =B/z//G//B/=d/!accent!c- | 
+[V:2] [F=DG,][FDG,][EC] | 
+[V:1] c!accent!_d/>f/!accent!c- | 
+[V:2] [ECA,]!accent![_DA,F,][=DA,F,] | 
+[V:1] c>B!accent!c3//B// | 
+[V:2] [=DB,G,][EB,G,][_F_DG,] | 
+[V:1] (3A/B/A/ G/A/B/c/ | 
+[V:2] [ECA,]!accent![_FDA,][FDA,] | 
+[V:1] (3!accent!d/e/d/ c/d/!accent!e | 
+[V:2] !accent![_FB,G,][ECA,][EB,G,] | 
+[V:1] !wedge!a/z//d// c/e/A/=A/ | 
+[V:2] [=F/D/A,/F,/] z/[EA,E,][ECE,] | 
+[V:1] B/d/F/G/!accent!A- | 
+[V:2] [EDE,][EDE,][ECA,] | 
+[V:1] (3A/B/A/ G/z//A//B/c/ | 
+[V:2] [ECA,]!accent![_FDA,][FDA,] | 
+[V:1] (3d/e/d/ .c/z//d//{/d/}=d/e/ | 
+[V:2] !accent![_FB,G,][ECA,][EB,G,] | 
+[V:1] {/e/} !wedge!a/z//d// c/e/A/=A/ | 
+[V:2] [=F/D/A,/F,/] z/[EA,E,][ECE,] | 
+[V:1] B/d/F/G/!accent!A :|]  
+[V:2] [EDE,][EDE,][ECA,] :|]  
+[V:1] _g/f/e/f/d & _GGF | 
+[V:2] [CA,D,][CA,D,]!accent![DA,D,] | 
+[V:1] B/e/B/c/A & =G_GG | 
+[V:2] [EB,D,][E=A,D,]!accent![E_A,D,] | 
+[V:1] _g/f/e/f/d & _GGF | 
+[V:2] [CA,D,][CA,D,]!accent![DA,D,] | 
+[V:1] B/e/A/c/d & =G_GF | 
+[V:2] [EB,D,][EA,D,]!accent![DA,D,] | 
+[V:1] ._g/.f/.e/.f/.d/.A/ & _GGF | 
+[V:2] [CA,D,][CA,D,][DA,D,] | 
+[V:1] .B/.e/.B/.c/.A/.a/ & =G_GG | 
+[V:2] [EB,D,][E=A,D,][E_A,D,] | 
+[V:1] ._g/.f/.e/.f/.d/.A/ & _GGF | 
+[V:2] [CA,D,][CA,D,][DA,D,] | 
+[V:1] .B/.e/.A/.c/d & =G_GF ||  
+[V:2] [EB,D,][EA,D,][A,D,] ||  
+[V:1] [=e/^c/][=d/=B/][c=A]!accent![^fA^F] & =E2x | 
+[V:2] [=A,2=A,,2][A,=D,] | 
+[V:1] [=e2^c2][c=A] & =E3 | 
+[V:2] !accent![=A,3=A,,3] | 
+[V:1] [=e/^c/][=d/=B/][c=A]!arpeggio![^fA^F] & =E2x | 
+[V:2] =A,2[A,=D,] | 
+[V:1] =e3 & !fermata![^c2=A2]!accent!_B ||  
+[V:2] !fermata![=A,2=A,,2]!accent![_DG,] ||  
+[V:1] (3A/B/A/ G/A/B/c/ | 
+[V:2] [ECA,][_FDA,][FDA,] | 
+[V:1] (3d/e/d/ c/d/!accent!e | 
+[V:2] [_FB,G,][ECA,][EB,G,] | 
+[V:1] !wedge!a/z//d// c/e/A/=A/ | 
+[V:2] !wedge![=F/D/A,/F,/] z/[EA,E,][ECE,] | 
+[V:1] B/d/F/G/!accent!_A- | 
+[V:2] [EDE,][EDE,][ECA,] | 
+[V:1] (3A/B/A/ G/A/B/c/ | 
+[V:2] [ECA,][_FDA,][FDA,] | 
+[V:1] (3!accent!d/e/d/ .c/z//d//{/d/}=d/e/ | 
+[V:2] [_FB,G,][ECA,][EB,G,] | 
+[V:1] {/e/} !wedge!a/ !fermata!z// _d// c/e/A/=A/ | 
+[V:2] !wedge![=F/D/A,/F,/] !fermata!z// x//[EA,E,][ECE,] | 
+[V:1] B/d/F/G/A |]  
+[V:2] [EDE,][EDE,][ECA,] |]

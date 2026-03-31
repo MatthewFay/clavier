@@ -1,0 +1,62 @@
+X: 22
+T: Piano Sonata No. 6 in D major, K 284 (205b), mvmt. 3e
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:31
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/09/21
+%%gracespace 0 6 6
+%%humdrum-veritas 2811035080
+%%humdrum-veritas-data 354037847
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C|
+N: Derived from sonata06-3e.krn
+Q: "Variation 4" 1/2=60
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+[V:1] z4A4 [I:setbarnb 1]| 
+[V:2] A,,,4z4 | 
+[V:1] !arpeggio!d8x8 & !arpeggio![F4A4]x4[d4f4][F4d4] | 
+[V:2] D,F,A,D CDCD B,,D,F,B, ^A,B,A,B, | 
+[V:1] [B4g4]>e4.c4.A4 | 
+[V:2] G,,B,,E,G, F,G,F,G, A,,C,E,A, ^G,A,G,A, | 
+[V:1] afdA ^GAGA b=gdB ^ABAB | 
+[V:2] F,A,DF ^EFEF =G,B,DG FGFG | 
+[V:1] d4c4z4=A4 | 
+[V:2] F4=E4A,,,4z4 & A,8x8 | 
+[V:1] !arpeggio!d8x8 & !arpeggio![F4A4]x4[d4f4][F4d4] | 
+[V:2] D,F,A,D CDCD B,,D,F,B, ^A,B,A,B, | 
+[V:1] [b4d'4]>[^g4b4].[B4d4g4].[^G4B4d4] | 
+[V:2] ^G,,B,,D,^G, F,G,F,G, E,,G,,B,,E, ^D,E,D,E, | 
+[V:1] ecAE ^DEDE f=dAF dB^GE | 
+[V:2] C,E,A,C ^B,CB,C =D,F,A,D E,,^G,,=B,,E, | 
+[V:1] !arpeggio![C4E4A4]z4 :|]|:  
+[V:2] A,,4A,4 :|]|:  
+[V:1] z4a4- & x4=c4 [I:setbarnb 9]| 
+[V:2] A,,,4[K:clef=treble]A=GFE | 
+[V:1] a4=g8f4 & B8A8 | 
+[V:2] ^DCDB, EFGE CB,CA, =DEFD | 
+[V:1] d'2>^a2 b2>f2 g2>d2 e3B | 
+[V:2] B^ABF GFGD EDEB,[K:clef=bass] CB,C^G, | 
+[V:1] c4[A8e8g8][d4f4]{/ef} | 
+[V:2] A,=G,F,E, D,C,B,,A,, D,C,D,E, F,E,F,G,[K:clef=treble] | 
+[V:1] [c4e4]z4Acea ^gaga | 
+[V:2] A,CEA ^GAGAA,4z4 | 
+[V:1] A4z4z4A4 | 
+[V:2] z4[K:clef=bass]A,4A,,,4z4 | 
+[V:1] !arpeggio!d8x8 & !arpeggio![F4A4]x4[d4f4][F4d4] | 
+[V:2] D,F,A,D CDCD B,,D,F,B, ^A,B,A,B, | 
+[V:1] [B4g4]>e4.c4.A4 | 
+[V:2] G,,B,,E,G, F,G,F,G, A,,C,E,A, ^G,A,G,A, | 
+[V:1] afdA ^GAGA b=gdB gecA | 
+[V:2] F,A,DF ^EFEF =G,B,DG A,,C,=E,A, | 
+[V:1] [F4A4d4]z4 :|]  
+[V:2] D4D,4 :|]

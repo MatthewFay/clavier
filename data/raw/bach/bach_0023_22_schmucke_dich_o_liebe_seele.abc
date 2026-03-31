@@ -1,0 +1,81 @@
+X: 22
+T: 22. Schm\"ucke dich, o liebe Seele
+N: Derived from chor022.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2045395148
+%%humdrum-veritas-data 3577376863
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Eb
+[V:1] GFEF | 
+[V:2] EDCB, | 
+[V:3] BB/A/GF | 
+[V:4] E,B,,C,D, | 
+[V:1] G/A/BA2 | 
+[V:2] B,EED | 
+[V:3] E/F/GF/E/F | 
+[V:4] E,G,,/A,,/B,,2 | 
+[V:1] !fermata!G2BG | 
+[V:2] !fermata!E2FE | 
+[V:3] !fermata!E2BB | 
+[V:4] !fermata!E,,2D,E, | 
+[V:1] AG/F/ E/F/G | 
+[V:2] EE/D/ C/D/E | 
+[V:3] cBcB | 
+[V:4] C,/D,/E,A,,G,,/A,,/ | 
+[V:1] F2!fermata!E2 :|]  
+[V:2] ED!fermata!B,2 :|]  
+[V:3] B/A//G//A!fermata!G2 :|]  
+[V:4] B,,2!fermata!E,,2 :|]  
+[V:1] Bc/d/ee | 
+[V:2] GFE/F/G | 
+[V:3] e=A/=B/cc | 
+[V:4] E,D,C,/D,/E,/F,/ | 
+[V:1] d/c/ B/c/c2 | 
+[V:2] GDGF/E/ | 
+[V:3] _B/=A/BB=A | 
+[V:4] G,3/F,/E,F, | 
+[V:1] !fermata!B2Bc/d/ | 
+[V:2] !fermata!D2EE/F/ | 
+[V:3] !fermata!B2G_A | 
+[V:4] !fermata!B,,2E,A,, | 
+[V:1] eed/c/ B/c/ | 
+[V:2] GGFF/G/ | 
+[V:3] B/=A/ B/c/ d/e/ f/B/ | 
+[V:4] G,,/F,,/ G,,/=A,,/ B,,/C,/ D,/E,/ | 
+[V:1] c2!fermata!B2 | 
+[V:2] F/E//D//E!fermata!D2 | 
+[V:3] B=A!fermata!B2 | 
+[V:4] F,F,,!fermata!B,,2 | 
+[V:1] FGAA | 
+[V:2] DED/E/F | 
+[V:3] BBA/G/F | 
+[V:4] B,_A,/G,/F,E,/D,/ | 
+[V:1] G/B/ A/G/F!fermata!F | 
+[V:2] E/G/ F/E/D!fermata!D | 
+[V:3] Bcd/c/!fermata!B | 
+[V:4] E,A,,B,,!fermata!B,, | 
+[V:1] BGAG/F/ | 
+[V:2] DE-E/D/ E/D/ | 
+[V:3] BBAB | 
+[V:4] G,,C,F,,G,, | 
+[V:1] E/F/GF2 | 
+[V:2] C/D/EED | 
+[V:3] cBB/A//G//A | 
+[V:4] A,,G,,/A,,/B,,2 | 
+[V:1] !fermata!E4 |]  
+[V:2] !fermata!B,4 |]  
+[V:3] !fermata!G4 |]  
+[V:4] !fermata!E,,4 |]

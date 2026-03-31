@@ -1,0 +1,100 @@
+X: 5
+T: Prelude in D Major, Op. 28, No. 5
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2004/12/22/
+%%gracespace 0 6 6
+%%humdrum-veritas 3368541691
+%%humdrum-veritas-data 1582631354
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/8
+N: Derived from prelude28-05.krn
+Q: "Allegro molto" 3/8=80
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+[V:1] BAC!accent!Be!accent!A | 
+[V:2] z2 G,A,,G,E | 
+[V:1] C!accent!_Be!accent!AC!accent!=B | 
+[V:2] G,A,,G,EG,A,, | 
+[V:1] e!accent!AC!accent!_Be!accent!A | 
+[V:2] G,EG,A,,G,E | 
+[V:1] C!accent!=Be!accent!ACF | 
+[V:2] G,A,,G,EG,A, | 
+[V:1] DA,^A,B,[CF]E | 
+[V:2] D,,F,G,G,,A,,G, | 
+[V:1] DdFA[^Gc]B | 
+[V:2] F,B,,DF,E,D | 
+[V:1] EA^EF[^Gc]B | 
+[V:2] CA,DD,E,D | 
+[V:1] AeEA[^D=c]B | 
+[V:2] C=CF,A,,B,,A, | 
+[V:1] B,E=CE[^DG]F | 
+[V:2] G,E,,A,,A,B,,A, | 
+[V:1] EeGB[^Ad]c | 
+[V:2] G,E,EG,F,E | 
+[V:1] BFGB[^Ad]c | 
+[V:2] DB,,E,EF,E | 
+[V:1] Bb^gdcB | 
+[V:2] D^E,B,^GCD | 
+[V:1] ^AfB^g^E^a | 
+[V:2] CF,DB,,CC, | 
+[V:1] ^AfB^g^E^a | 
+[V:2] F,,CDB,,CC, | 
+[V:1] ^AfB^g^E^a | 
+[V:2] F,,CDB,,CC, | 
+[V:1] ^AfB^g^E=a | 
+[V:2] F,,CDB,,CC, | 
+[V:1] fFC!accent!Be!accent!A | 
+[V:2] F,,=A,G,A,,G,E | 
+[V:1] C!accent!_Be!accent!AC!accent!=B | 
+[V:2] G,A,,G,EG,A,, | 
+[V:1] e!accent!AC!accent!_Be!accent!A | 
+[V:2] G,EG,A,,G,E | 
+[V:1] C!accent!=Be!accent!ACF | 
+[V:2] G,A,,G,EG,A, | 
+[V:1] DA,^A,B,[CG]F | 
+[V:2] D,,F,G,G,,A,,A, | 
+[V:1] DdFA[^G=c]B | 
+[V:2] F,B,,D=F,E,D | 
+[V:1] EA=FA[^G=c]B | 
+[V:2] =CA,DD,E,D | 
+[V:1] AeEF[^D=c]B | 
+[V:2] C=CF,A,,B,,A, | 
+[V:1] B,E=CE[^DG]F | 
+[V:2] G,E,,A,,A,B,,A, | 
+[V:1] EeGB[^Ad]c | 
+[V:2] G,E,EG,F,E | 
+[V:1] BFGB[^Ad]c | 
+[V:2] DB,,E,EF,E | 
+[V:1] Bb^gdcB | 
+[V:2] D^E,B,^GCD | 
+[V:1] =AdGeCf | 
+[V:2] F,D_B,G,,A,A,, | 
+[V:1] FdGeCf | 
+[V:2] D,,A,_B,G,,A,A,, | 
+[V:1] FdGeCf | 
+[V:2] D,,A,_B,G,,A,A,, | 
+[V:1] FdGeCf | 
+[V:2] D,,A,_B,G,,A,A,, | 
+[V:1] FdD!accent!_Bd!accent!A | 
+[V:2] D,,A,,A,A,,D,,A,, | 
+[V:1] D!accent!Gd!accent!FD!accent!_B | 
+[V:2] A,A,,D,,A,,A,A,, | 
+[V:1] d!accent!ADGd!accent!F | 
+[V:2] D,,A,,A,A,,D,,A,, | 
+[V:1] D!accent!_BdA!accent!Dd | 
+[V:2] .A,A,,D,,A,,A,A,, | 
+[V:1] .f'2 z2 z2 | 
+[V:2] .D,,2 z2 z2 | 
+[V:1] .[G2e2a2] z2 z2 | 
+[V:2] .[A,,2E,2C2] z2 z2 | 
+[V:1] .[F2d2f2] z2 !fermata!z2 |]  
+[V:2] {/D,,} .[D,2A,2D2] z2 !fermata!z2 |]

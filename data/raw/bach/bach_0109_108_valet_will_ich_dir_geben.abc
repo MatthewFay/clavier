@@ -1,0 +1,77 @@
+X: 108
+T: 108. Valet will ich dir geben
+N: Derived from chor108.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2148031395
+%%humdrum-veritas-data 1469372340
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Eb
+[V:1] E [I:setbarnb 1]| 
+[V:2] B, | 
+[V:3] G | 
+[V:4] E, | 
+[V:1] BBcd | 
+[V:2] EGAG | 
+[V:3] Beed | 
+[V:4] G,E,A,=B,, | 
+[V:1] e2!fermata!eg | 
+[V:2] G2!fermata!Gc | 
+[V:3] c2!fermata!ce | 
+[V:4] C,2!fermata!C,C | 
+[V:1] feed | 
+[V:2] cAGF | 
+[V:3] ccBB | 
+[V:4] A,F,B,B,, | 
+[V:1] !fermata!e3 :|]  
+[V:2] !fermata!G3 :|]  
+[V:3] !fermata!B3 :|]  
+[V:4] !fermata!E,3 :|]  
+[V:1] e/f/ [I:setbarnb 5]| 
+[V:2] G/A/ | 
+[V:3] B | 
+[V:4] E, | 
+[V:1] ggfe | 
+[V:2] Bcc=A | 
+[V:3] eeff | 
+[V:4] E/D/ C/B,/=A,F, | 
+[V:1] d/c/d!fermata!Bd | 
+[V:2] B/=A/B!fermata!FB | 
+[V:3] f/e/f!fermata!df | 
+[V:4] B,2!fermata!B,,_A, | 
+[V:1] edcc | 
+[V:2] BBB=A | 
+[V:3] efgf/e/ | 
+[V:4] G,F,E,F, | 
+[V:1] !fermata!B3B | 
+[V:2] !fermata!F3F | 
+[V:3] !fermata!d3B | 
+[V:4] !fermata!B,,3D, | 
+[V:1] G/A/BcB | 
+[V:2] E/F/GAG | 
+[V:3] Bee_d | 
+[V:4] E,_D,C,/=D,/=E, | 
+[V:1] BA!fermata!GB | 
+[V:2] GF!fermata!EE | 
+[V:3] c2!fermata!cG | 
+[V:4] F,2!fermata!C,_D, | 
+[V:1] AGFF | 
+[V:2] EEED | 
+[V:3] ABcB/A/ | 
+[V:4] C,B,,A,,B,, | 
+[V:1] !fermata!E3 |]  
+[V:2] !fermata!B,3 |]  
+[V:3] !fermata!G3 |]  
+[V:4] !fermata!E,,3 |]

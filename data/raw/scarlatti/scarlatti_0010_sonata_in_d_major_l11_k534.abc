@@ -1,0 +1,95 @@
+X: 10
+T: Sonata in D major, L.11, K.534
+C: Domenico Scarlatti
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/06/28 10:15:41
+%%abc-copyright 2021 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Kelly Leistikow and Craig Stuart Sapp
+%%abcx-initial-encoding-date 2005/06/26
+%%humdrum-veritas 3892636128
+%%humdrum-veritas-data 3169968948
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 4/4
+N: Derived from L011K534.krn
+Q: "Cantabile ([quarter]=100)" 1/4=100
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+%%postscript /mark1hd {gsave 1 0.2 0.2 setrgbcolor hd grestore}!
+%%deco head-m1hd 0 mark1hd 0 0 0 
+[V:1] z8 | 
+[V:2] !mordent!D,2-D,/E,//F,//G,//A,//B,//C//D2!trill!C3/B,//C// | 
+[V:1] D2-D/E//F//G//A//B//c//d2!trill!c3/B//c// | 
+[V:2] D2B,2G,2A,2 | 
+[V:1] {/e} dc {/c} BA {/A/} GF/G/ {/B} AE | 
+[V:2] D,2D4C2 | 
+[V:1] z2d2-dBc^d & DEF^GA4 | 
+[V:2] B,2B,2A,2F,2 | 
+[V:1] [!head-m1hd!^G3/e3/]^d//c//B2z4 | 
+[V:2] E,2-E,/F,//^G,//A,//B,//C//^D//E2!trill!D3/C//D// | 
+[V:1] E2-E/F//^G//A//B//c//^d//e2!trill!d3/c//d// | 
+[V:2] E2C2A,2B,2 | 
+[V:1] {/f} e^d {/=d} cB {/B/} A^G/A/ {/c/} B.A/.G/ | 
+[V:2] E,2E4=D2- & E,8- | 
+[V:1] {/F/}E2>e2 =fd {/d} =cB | 
+[V:2] D2=C2D2E2 & E,4D,2E,2 | 
+[V:1] {/B/}A4e=c {/c} BA | 
+[V:2] =FD=CB,A,2x2 & =F,2E,D,=C,2[D,2A,2B,2] | 
+[V:1] !mordent!^G-G//F//G//A//B2!mordent!B-B//A//B//c//d2 | 
+[V:2] [E,2B,2]!mordent!B,-B,//A,//B,//C//D2!mordent!^G,-G,//F,//G,//A,// | 
+[V:1] !mordent!d-d//c//d//e//f2-fe {/f} ed | 
+[V:2] B,2!mordent!D,-D,//C,//D,//E,/8F,/8^G,2E,2 | 
+[V:1] {/e} dc {/d} cB {/c} BA {/B} A^G | 
+[V:2] [A,,2A,2][D,2A,2B,2][E,2A,2C2][E,2A,2B,2] | 
+[V:1] !mordent!A2!mordent!A2!mordent!A2!mordent![A2!head-m1hd!=f2] | 
+[V:2] A,=G=FE DFED & A,8 | 
+[V:1] x2e2{/e//} dcBA & ed {/d//} =cBA4 | 
+[V:2] E4E2D2 & =CB,A,G,=F,4 | 
+[V:1] !mordent!^G-G//F//G//A//B2!mordent!B-B//A//B//c//d2 | 
+[V:2] [E,2E2]!mordent!B,-B,//A,//B,//C//D2!mordent!^G,-G,//F,//G,//A,// | 
+[V:1] !mordent!d-d//c//d//e//f2-fe {/f} ed | 
+[V:2] B,2!mordent!D,-D,//C,//D,//E,/8F,/8^G,2E,2 | 
+[V:1] {/e} dc {/d} cB {/c} BA {/B} A^G | 
+[V:2] [A,,2A,2][D,2A,2B,2][E,2A,2C2][E,2A,2B,2] | 
+[V:1] Aa {/^g/} f{/e/}d {/d/} cB/A< !trill!BA//B// | 
+[V:2] [F,2A,2D2][D,2A,2B,2]E,2E,,2 | 
+[V:1] A8 :|]|:  
+[V:2] A,,,8 :|]|:  
+[V:1] A2-A/B//c//d//e//=f//g// .a[_Bg][Af][Ge] | 
+[V:2] A,,,2A,,,2A,,,2A,,,2 | 
+[V:1] [=Fd][E=c][D_B][=CA] [_B,G][A,F][G,E][=F,D] | 
+[V:2] A,,,2A,,,2A,,,2A,,,2 | 
+[V:1] D=B,^C2z4 & E,2x2z4 | 
+[V:2] A,,,2A,,/B,,//C,//D,//E,//F,//G,//A,2!trill!G,3/F,//G,// | 
+[V:1] D2-D/E//F//G//A//B//c// {/e} d=c {/d} cB | 
+[V:2] F,2F,2[=F,2D2][F,2D2] | 
+[V:1] =c {/=f/}e2d/c/ _B {/e/}d2c/B/ | 
+[V:2] [E,2=C2][E,2C2][D,2_B,2][D,2B,2] | 
+[V:1] Aa2{/g/} =f- fe/g/ {/^f/} ed | 
+[V:2] x2A,4G,2 & [^C,2A,2]D,2_B,,4 | 
+[V:1] !mordent!c-c//B//c//d//e2!mordent!e-e//d//e//f//g2 | 
+[V:2] [A,,2A,2]!mordent!E-E//D//E//F//G2!mordent!C-C//B,//C//D// | 
+[V:1] !mordent!g-g//f//g//a//b2-ba {/b} ag | 
+[V:2] E2!mordent!G,G,//F,//G,//A,/8B,/8C2A,2 | 
+[V:1] {/g} gf {/g} fe {/f} ed {/e} dc | 
+[V:2] [D,2D2][G,2D2E2][A,2D2F2][A,2D2E2][K:clef=treble] | 
+[V:1] !mordent!d2!mordent!d2!mordent!d2!mordent![!head-m1hd!d2_b2] | 
+[V:2] D=c_BA GBAG & D8 | 
+[V:1] x2a2{/a//} g=fed & ag {/g//} fed4 | 
+[V:2] A4-A2G2 & =FED=C_B,4 | 
+[V:1] !mordent!c-c//B//c//d//e2!mordent!e-e//d//e//f//g2 | 
+[V:2] [A,2A2][K:clef=bass]!mordent!E-E//D//E//F//G2!mordent!C-C//B,//C//D// | 
+[V:1] !mordent!gg//f//g//a//b2-ba {/b} ag | 
+[V:2] E2!mordent!G,G,//F,//G,//A,/8B,/8C2A,2 | 
+[V:1] {/a} gf {/g} fe {/f} ed {/e} dc | 
+[V:2] [D,2D2][G,2D2E2][A,2D2F2][A,2D2E2] | 
+[V:1] dd' {/c'/} b{/a/}g {/g/} fe/d< !trill!ed//e// | 
+[V:2] [B,2D2G2][G,2D2E2]A,2A,,2 | 
+[V:1] d8 :|]  
+[V:2] D,,8 :|]

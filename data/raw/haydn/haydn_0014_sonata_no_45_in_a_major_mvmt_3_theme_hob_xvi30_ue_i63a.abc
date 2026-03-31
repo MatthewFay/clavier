@@ -1,0 +1,56 @@
+X: 14
+T: Sonata No. 45 in A major, mvmt. 3, Theme (Hob. XVI:30), UE I:6.3a
+C: Franz Joseph Haydn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/02/22 10:41:04
+%%abc-copyright 2021 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2008/07/03/
+%%gracespace 0 6 6
+%%humdrum-veritas 317710767
+%%humdrum-veritas-data 270986915
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from sonata45-3a.krn
+Q: "Tema con variazioni: Tempo di Menuetto." 1/4=112
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] c/>d/e!wedge!e | 
+[V:2] A,,zz | 
+[V:1] {/f}e!wedge!^dz | 
+[V:2] zB,A, | 
+[V:1] !turn!B/>c/=d!wedge!d | 
+[V:2] G,zz | 
+[V:1] {/c/e/}dcz | 
+[V:2] zA,A,, | 
+[V:1] {/b/} a/g//f//f-f/e//d// | 
+[V:2] zz[K:clef=treble]G | 
+[V:1] {/d/} c/B//A//A-A//G//F//E// | 
+[V:2] AzD | 
+[V:1] E/>e/dc | 
+[V:2] C[K:clef=bass]G,A, | 
+[V:1] {/d}c!wedge!Bz :|]|:  
+[V:2] E,2!wedge!E,, :|]|:  
+[V:1] B/>c/dd | 
+[V:2] z!wedge!G,!wedge!E, | 
+[V:1] {/c/e/}d!wedge!cz | 
+[V:2] z!wedge!A,!wedge!A,, | 
+[V:1] e//f//e//f//=g!wedge!g | 
+[V:2] z!wedge!C!wedge!A, | 
+[V:1] {/f/=g/a/}g!wedge!fz | 
+[V:2] z!wedge!D!wedge!D, | 
+[V:1] {/e'/} d'/c'//b//b3/c'//a// | 
+[V:2] zz^D | 
+[V:1] {/a/} g/f//e//d-d//c//B//A// | 
+[V:2] EG,A, | 
+[V:1] B/>c/A!trill!G{/FG} | 
+[V:2] DCB, & D,E,2 | 
+[V:1] GA2 :|]  
+[V:2] !wedge!A,!wedge!E,!wedge!A,, :|]

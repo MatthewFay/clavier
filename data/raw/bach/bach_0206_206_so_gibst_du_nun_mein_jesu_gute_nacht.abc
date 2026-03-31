@@ -1,0 +1,85 @@
+X: 205
+T: 206. So gibst du nun, mein Jesu, gute Nacht
+N: Derived from chor206.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 649235064
+%%humdrum-veritas-data 4076605765
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] B [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] d | 
+[V:4] G, | 
+[V:1] d3/c/!fermata!Bd | 
+[V:2] A/G/A!fermata!GG | 
+[V:3] dd!fermata!dB | 
+[V:4] ^F,3/F,/!fermata!G,G,/=F,/ | 
+[V:1] cBBA | 
+[V:2] GF_E/D/E | 
+[V:3] cdGF/_E/ | 
+[V:4] _E,D,C,3/C,/ | 
+[V:1] !fermata!B2zd | 
+[V:2] !fermata!D2xF | 
+[V:3] !fermata!F2xB | 
+[V:4] !fermata!B,,2zB, | 
+[V:1] f3/_e/!fermata!dd/c/ | 
+[V:2] F3/F/!fermata!FD | 
+[V:3] c/B/c!fermata!BA | 
+[V:4] A,3/A,/!fermata!B,^F, | 
+[V:1] B/A/GA3/G/ | 
+[V:2] DG/F/G_E | 
+[V:3] G/A/B_e/d/c/B/ | 
+[V:4] G,/=F,/ _E,/D,/C,C, | 
+[V:1] ^F!fermata!DzA | 
+[V:2] D!fermata!A,xF | 
+[V:3] A!fermata!^Fxd | 
+[V:4] D,!fermata!D,,zD, | 
+[V:1] c3/B/AB | 
+[V:2] G/F/GF/A/ G/F/ | 
+[V:3] cccd | 
+[V:4] E,3/E,/F,F,, | 
+[V:1] BAG3/G/ | 
+[V:2] EF-F-F/E/ | 
+[V:3] GA/B/c3/c/ | 
+[V:4] C,F,C,3/C,/ | 
+[V:1] !fermata!A2zA | 
+[V:2] !fermata!F2xF | 
+[V:3] !fermata!c2xc | 
+[V:4] !fermata!F,,2zF,/_E,/ | 
+[V:1] Bc!fermata!dd/e//f// | 
+[V:2] FF!fermata!FF | 
+[V:3] dc!fermata!Bd | 
+[V:4] D,/C,/B,,/A,,/!fermata!B,,B,,/A,,/ | 
+[V:1] e3/d/^cd | 
+[V:2] B/A/=BAA | 
+[V:3] g/f/eef | 
+[V:4] G,,^G,,A,,D, | 
+[V:1] d3/^c/!fermata!d^F | 
+[V:2] AA!fermata!AD | 
+[V:3] e/d/e!fermata!^fA | 
+[V:4] A,,2!fermata!D,D,/=C,/ | 
+[V:1] GA!fermata!BG/A//B// | 
+[V:2] DD!fermata!DG/=F/ | 
+[V:3] BA!fermata!GB | 
+[V:4] B,,/A,,/G,,/^F,,/!fermata!G,,_E,/D,/ | 
+[V:1] A3/G/^FG | 
+[V:2] _E/D/=EDD | 
+[V:3] c/B/AAB | 
+[V:4] C,^C,D,/=C,/ B,,/G,,/ | 
+[V:1] G3/^F/!fermata!G |]  
+[V:2] DD!fermata!D |]  
+[V:3] A/G/A!fermata!=B |]  
+[V:4] D,2!fermata!G,, |]

@@ -1,0 +1,72 @@
+X: 4
+T: Mazurka in E\b Minor, Op. 6, No. 4
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/17 12:55:00
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2005/03/02/
+%%gracespace 0 6 6
+%%humdrum-veritas 3235370355
+%%humdrum-veritas-data 2481835739
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from mazurka06-4.krn
+Q: "Presto ma non troppo" 3/4=76
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Gb
+[V:1] B- [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] B/e/!accent!dc/B/ & G!accent!=G2 | 
+[V:2] zB,C/D/ & E,,E,2- | 
+[V:1] A/c/F!accent!B- | 
+[V:2] C/A,/=DB, & E,3- | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] EB,E/D/ & E,3 | 
+[V:1] A/F/=D!accent!E- | 
+[V:2] C<A,G, & E,3 | 
+[V:1] [G/B/]e/dc/B/ & E=G2 | 
+[V:2] zB,C/D/ & E,3 | 
+[V:1] A<c!accent!B & zF2 | 
+[V:2] C/A,/=DB, & E,3 | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] E2E/D/ & E,E,2- | 
+[V:1] A<F!accent!E- ]|:  
+[V:2] C/A,/=Dz & E,3 ]|:  
+[V:1] B(3=c/d/c/ B/c/ & [E3G3] | 
+[V:2] zA,2- & E,2A,, | 
+[V:1] e/d/A!accent!B & F_F2 | 
+[V:2] A,A,G,- & D,2G,, | 
+[V:1] d/c/GA & E3 | 
+[V:2] G,G,F,- & C,2F,, | 
+[V:1] c/B/F!accent!E & =D2z | 
+[V:2] B,,2[E,-G,] & F,A,z | 
+[V:1] B(3=c/d/c/ B/c/ & G3 | 
+[V:2] EA,2- & E,2A,, | 
+[V:1] e/z//d// A/B/A/B/ & F_F2 | 
+[V:2] [A,D]G,2- & D,2G,, | 
+[V:1] d/c/ G/A/G/A/ & E3 | 
+[V:2] [G,C]F,2- & C,2F,, | 
+[V:1] c/z//B//F!accent!E & =D2!accent!E | 
+[V:2] F,A,z & B,,2[E,-G,] | 
+[V:1] B/e/dc/B/ & G=G2 | 
+[V:2] B,2C/D/ & E,!accent!E,2- | 
+[V:1] A/c/F!accent!B- | 
+[V:2] C/A,/=DB, & E,3- | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] EB,E/D/ & E,3- | 
+[V:1] A/F/=D!accent!E- | 
+[V:2] C<A,G, & E,3 | 
+[V:1] [G/B/]e/!accent!dc/B/ & E=G2 | 
+[V:2] zB,C/D/ & E,3- | 
+[V:1] A<c!accent!B- & zF2 | 
+[V:2] C<A,B,- & E,3 | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] B,3 & zE,E/D/ | 
+[V:1] A<F!accent!!fermata!E :|]  
+[V:2] C/A,/=D!fermata!z :|]

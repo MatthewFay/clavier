@@ -1,0 +1,69 @@
+X: 170
+T: 171. Schaut, ihr S\"under
+N: Derived from chor171.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 116318291
+%%humdrum-veritas-data 4157606268
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] GAB!fermata!G | 
+[V:2] DDD!fermata!D | 
+[V:3] BAG!fermata!B | 
+[V:4] G,3/^F,/G,!fermata!G,, | 
+[V:1] zdcB | 
+[V:2] xG3/^F/G- | 
+[V:3] xBcd | 
+[V:4] zG,,A,,B,,/C,/ | 
+[V:1] AG!fermata!A2 | 
+[V:2] G/^F/ G/G,/!fermata!D2 | 
+[V:3] d3/c/!fermata!^F2 | 
+[V:4] D,_E,!fermata!D,2 | 
+[V:1] Bcd!fermata!B | 
+[V:2] =FFF!fermata!F | 
+[V:3] dcB!fermata!d | 
+[V:4] D,/B,,A,,/B,,!fermata!B, | 
+[V:1] zd_ed | 
+[V:2] xB-B/=A/B | 
+[V:3] xf_ef | 
+[V:4] zB,/_A,/G,F, | 
+[V:1] cc!fermata!B2 | 
+[V:2] BA!fermata!F2 | 
+[V:3] gf/_e/!fermata!d2 | 
+[V:4] =E,F,!fermata!B,,2 | 
+[V:1] dcB!fermata!G | 
+[V:2] F3/^F/G!fermata!D | 
+[V:3] Bcd!fermata!B | 
+[V:4] B,,/B,A,/G,!fermata!G,, | 
+[V:1] zccB | 
+[V:2] xG3/=F//=E//F- | 
+[V:3] xc/B/A3/G/ | 
+[V:4] z=E,F,D, | 
+[V:1] AG!fermata!F2 | 
+[V:2] FE!fermata!C2 | 
+[V:3] A/B/ c/B/!fermata!A2 | 
+[V:4] C,C,!fermata!F,,2 | 
+[V:1] Bcd!fermata!B | 
+[V:2] GAB/_A/!fermata!G | 
+[V:3] dff!fermata!_e | 
+[V:4] G,F,/_E,/ D,/B,,/!fermata!E, | 
+[V:1] zdcG/=A/ | 
+[V:2] xGGG- | 
+[V:3] xf_eB/c/ | 
+[V:4] z=B,,C,/D,/_E, | 
+[V:1] BA!fermata!G2 |]  
+[V:2] G^F!fermata!D2 |]  
+[V:3] d3/c/!fermata!=B2 |]  
+[V:4] D,D,,!fermata!G,,2 |]

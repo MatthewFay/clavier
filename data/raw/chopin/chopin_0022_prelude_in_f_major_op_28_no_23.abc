@@ -1,0 +1,66 @@
+X: 22
+T: Prelude in F Major, Op. 28, No. 23
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-copyright Copyright 2001 by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%gracespace 0 6 6
+%%humdrum-veritas 3836708484
+%%humdrum-veritas-data 3453026929
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 4/4
+N: Derived from prelude28-23.krn
+Q: "Moderato" 1/4=108
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: F
+[V:1] c A F D C F f d c A F D C F f d [I:setbarnb 2]| 
+[V:2] !arpeggio![F,,8C,8A,8]z8 | 
+[V:1] c A F D C F f d c A F D C E B G | 
+[V:2] C,,4{/=B,, C, D,2}!trill!C,4{/B,, C,}C,8 & x8A,4G,4 | 
+[V:1] A F C A, C F [EB] G A F C A, C F [EB] G | 
+[V:2] F,,2 C, F, A,2 [C,2G,2] F,,2 C, F, A,2 [C,2G,2] | 
+[V:1] A F C A, C F B ^G A B d =B c e f a | 
+[V:2] F,,2 C, F, A, F, D =B, C2 B ^G A2 z2 | 
+[V:1] =g e c A G c c' a g e c A G c c' a | 
+[V:2] !arpeggio![C,8=G,8E8]z8 | 
+[V:1] g e c A G c c' a g e c A G =B f d | 
+[V:2] .G,,4{/^F, G, A,2}!trill!G,4{/F, G,}G,8 & x8E4D4 | 
+[V:1] e c G E G c [=Bf] d e c G E G c [Bf] d | 
+[V:2] C,2 G, C E2 [G,2D2] C,2 G, C E2 [G,2D2] | 
+[V:1] e c G E G c e g c' e' d' g d g d e | 
+[V:2] (3C,2 G,2 C2 (3E2 B2 z2z8 | 
+[V:1] c' a f d c f f' d' c' a f d c f f' d' | 
+[V:2] !arpeggio![F,8C8A8]z8 | 
+[V:1] c' a f d c f f' d' c' a f d c e b g | 
+[V:2] .C,4{/=B, C D2}!trill!C4{/B, C}C8 & x8A4G4 | 
+[V:1] a f c A c f [eb] g a f c A c f [eb] g | 
+[V:2] F,2 C F A2 [C2G2] F,2 C F A2 [C2G2] | 
+[V:1] a f c A c f a c' f' a' g' c' g c' g a | 
+[V:2] (3F,2 C2 F2 (3A2 _e2 z2z8 | 
+[V:1] f' d' b g f b b' g' f' d' b g f b b' g' | 
+[V:2] (3B,2 [F2G2] d2z4z8 | 
+[V:1] f' d' =b g f g =b' g' f' d' b g f g b' g' | 
+[V:2] (3G,2 F2 d2z4z8 | 
+[V:1] f' d' c' a g c' c'' a' f' d' c' a g c' c'' a' | 
+[V:2] (3C2 G2 c2f12- & (3:2:1x2G12(3:2:2x2 x2 | 
+[V:1] f' d' c' a g c' c'' a' g' e' c' a g c' c'' g' | 
+[V:2] !arpeggio!C4e12 & !arpeggio![G8B8]a2 z2z4 | 
+[V:1] c'' a' f' d' c' f' f'' d'' c'' a' f' d' c' f' f'' d'' | 
+[V:2] !arpeggio![F,8C8A8]z8 | 
+[V:1] c'' a' f' d' c' f' f'' d'' c'' a' f' d' c' e' b' g' | 
+[V:2] .A4{/=B, C}!trill!C4{/B, C}C8 & x8A4G4 | 
+[V:1] a' f' c' a f c [eb] g a f c A F C [EB] G | 
+[V:2] F,2 C F A2 [C2G2] F,,2 C, F, A,2 [C,2G,2] | 
+[V:1] A F C A, C F [EB] G A F C A, C F [EB] G | 
+[V:2] F,,2 C, F, A,2 [C,2G,2] F,,2 C, F, A,2 [C,2G,2] | 
+[V:1] A F C A, C F A c f a c' f' a' c' f' a [I:setbarnb 32]| 
+[V:2] F,,2> C,2 F, A, C F A _e A F C A, F, C, | 
+[V:1] !fermata!f''4z4z8 |]  
+[V:2] !fermata!F,,4z4z8 |]

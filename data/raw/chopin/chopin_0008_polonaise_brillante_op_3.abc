@@ -1,0 +1,241 @@
+X: 8
+T: Polonaise Brillante Op. 3
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:28
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abcx-initial-encoding-date 2019-11-12
+%%humdrum-veritas 2611510414
+%%humdrum-veritas-data 2713379211
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C
+N: Derived from 003-1-Sm-violoncello.krn
+P: Polonaise Brillante pour Piano et Violoncello.
+Q: "con espirito."
+K: C clef=bass
+z16 | 
+z8z4[K:clef=tenor]G,4 | 
+E2F/E/^D/E/!accent!^F2G2 C2=D/C/B,/C/!accent!^D2E2 | 
+A,6{/C} _B,>A,A,4z4 | 
+z16 | 
+[K:clef=bass]z8z4[K:clef=tenor]A,4 | 
+F2G/F/E/F/^G2A2 D2E/D/^C/D/^F3G | 
+G4[K:clef=treble]G/A/G/^F/G/A/B/c/ {/c}G4F4[K:clef=tenor] | 
+E8!accent!_E8 | 
+D4>B,4C4{/DCB,C} D2E2 | 
+!wedge!G2 z2F4-F2E2D2C2 | 
+D6FED4E2F2 | 
+G4A2G2F4G3D | 
+E4F2E2 (5:4:5DEDCD E3B, | 
+C2[K:clef=treble]c4B2 B2A2G2^F2 | 
+[K:clef=tenor]!accent!G4E2A2F4G2F2 | 
+E8_E8 | 
+D4>B,4C4{/DCB,C} D2E2 | 
+G2 z2!accent!F4-F2E2 (3E2D2C2 | 
+!accent!E8D4E2F2 | 
+G4A2G2F4G4 | 
+E4F2>E2D4G,4 | 
+G4(3E2D2C2D4(3E2D2C2 | 
+D8z4[K:clef=bass]G,,2F,,2 | 
+_E,,2 z2!accent!_E,4-E,F,E,D, E,G,CD | 
+_E2!accent!C4!accent!G,4_E,2D,2C,2 | 
+F,,2 z2!accent!F,4-F,G,F,=E, F,_A,D_E | 
+F2!accent!D4!accent!_A,4!accent!F,2!accent!_E,2!accent!D,2 | 
+G,,2 z2!accent!G,4-G,_A,G,^F, G,_B,_D=E | 
+[K:clef=treble]G4_B4[K:clef=bass]!trill!G,,8 | 
+_A,,8_D,4F,4 | 
+_A,4_A,,8G,,A,,_B,,A,, | 
+G,,2 D,2G,A,B,2- B,A,G,2 ^F,G,A,2 | 
+D,2E,^F, G,>A,B,2- B,2A,^G, A,B,C^C | 
+!trill!D16 | 
+B,4D4E4D2C2 | 
+B,4-B,CB,A,B,CA,D {/D}!fermata!G,8!fermata!z8 [I:setbarnb 37]| 
+[M:3/4]z12 | 
+z4z4[K:clef=tenor]z2 G2 | 
+G6EF GAG^F | 
+G2 CDE6FE | 
+!wedge!D2!accent!G,4A,B, CDEF | 
+!accent!ED!mordent!D^C !accent!ED!mordent!DC D2 EF | 
+G6EF GAG^F | 
+G2 CDE6FE | 
+D2A,4A,B, CDED | 
+CB,A,B,D4C2 z2[K:clef=bass] | 
+C,,4z4x4 | 
+.C,4.C,4.C,4 | 
+G,,4z4C,4 | 
+.G,,4.G,,4.G,,4 | 
+C,4z4z4 | 
+C,4C,4A,,4 | 
+F,,4z4F,,4 | 
+G,,4z2 G,,2!wedge!C,2 z2[K:clef=tenor] | 
+D4-D2^CD !wedge!E2DE | 
+!wedge!F2FED4!trill!E4{/DE} | 
+F4-F2EF G2FG | 
+A4>A4!wedge!B2B2 | 
+^G2E2A4B2B2 | 
+^G2E2!accent!A8- | 
+A4!accent!A,2!accent!B,2!accent!C2!accent!D2 | 
+B,8^F2^G2 | 
+E8B,2A,2 | 
+^G,2B,2E4^F2^G2 | 
+E8B,4 | 
+E,12- | 
+E,4z4z4 | 
+Z4 | 
+[K:clef=bass]z4z4E,4 | 
+E,12- | 
+E,6^D,E, F,E,D,E, | 
+^G,2 ^D,E,B,2 D,E,E2 z2 | 
+{/=G,,D,B,}G12-[K:clef=tenor] | 
+G4.G4.G4 | 
+G6EF GAG^F | 
+G2 CD!accent!E6=FE | 
+!wedge!D2!accent!G,4A,B, CDEF | 
+ED!trill!D^C ED!trill!DC D2 EF | 
+G6EF GAG^F | 
+G2 CD!accent!E6FE | 
+D2 A,2[K:clef=treble]c2 BA GFED[K:clef=tenor] | 
+CB,A,B,!accent!D4C2 z2[K:clef=bass] | 
+.C,,4z4z4 | 
+.C,4.C,4.C,4 | 
+.G,,4z4.C,4 | 
+.G,,4.G,,4.G,,4 | 
+C,4z4C,4 | 
+.C,4.C,4.A,,4 | 
+F,,4z4F,,4 | 
+G,,4>G,,4C,2 z2 | 
+A,4G,4C4 | 
+C,8D,2E,2 | 
+F,4E,2F,2C3_B, | 
+A,4G,4A,4 | 
+_B,4A,4D4 | 
+D,8E,2^F,2 | 
+G,4>G,4A,2_B,2 | 
+_B,8C,4 | 
+C,6D,E, F,2^F,2 | 
+G,4_B,2>A,2 G,F,E,D, | 
+C,2D,E, .F,2.E,2.F,2.^F,2 | 
+G,A,_B,=B,C6_B,2 | 
+A,4>A,4 _B,2=A,2 | 
+A,2!accent!^G,4G,2A,2=G,2 | 
+G,2!accent!^F,4F,2 G,A,!accent!_B,G, | 
+F,E,D,E,!accent!G,4F,2 z2 | 
+C,2C,4B,,4_B,,2- | 
+B,,2A,,4_A,,4G,,2 | 
+C,,2 z2z4z4 | 
+F,8^F,4 | 
+G,8^G,4 | 
+A,8E,4 | 
+F,8G,4 | 
+C,4E,4A,4 | 
+G,4z4G,,4 | 
+C,4E,4A,4 | 
+G,8G,,4 | 
+C,4F,,4G,,4 | 
+_A,,4G,,4^G,,4 | 
+A,,4^G,,4A,,4 | 
+_B,,4A,,4=B,,4 | 
+C,4!accent!_B,8- | 
+B,4!accent!G,8- | 
+G,4!accent!E,8- | 
+E,4_D,8 | 
+C,4C2 z2z4 | 
+_D,4C2 z2z4 | 
+=D,4C z E,2C z E,2- | 
+E,2G,4_B,2D2C2 | 
+A,4G,4C4 | 
+C,8D,2E,2 | 
+F,4E,2F,2C3_B, | 
+A,4G,4A,4 | 
+_B,4A,4D4 | 
+D,8E,2^F,2 | 
+G,8A,2_B,2 | 
+_B,8C,4 | 
+C,6D,E, F,2^F,2 | 
+G,4B,2>A,2 G,F,E,D, | 
+C,2D,E, F,2.E,2.F,2.^F,2 | 
+G,A,_B,=B,C6_B,2- | 
+B,4!accent!A,4^G,A, _B,A, | 
+!wedge!A,2^G,4G,2 A,2=B,2 | 
+^G,2E,4<A,4B,2 | 
+^G,2E,2A,4B,2 B,2 | 
+[K:clef=tenor]B,8^F2^G2 | 
+!accent!E8B,2A,2 | 
+^G,2>B,2E4^F2^G2 | 
+E8B,4 | 
+E,12- | 
+E,4z4z4 | 
+Z4 | 
+[K:clef=bass]z4z4E,4 | 
+E,12- | 
+E,6^D,E, F,E,D,E, | 
+^G,^D,E, B,D,E, E2 z2 [I:setbarnb 162]| 
+{/=G,,D,B,}G12-[K:clef=tenor] | 
+G4.G4.G4 | 
+G6EF GAG^F | 
+!wedge!G2CDE6FE | 
+!wedge!D2!accent!G,4A,B, CDEF | 
+ED!mordent!D^C ED!mordent!DC !wedge!D2 EF | 
+G6EF GA!mordent!Gz/^F/ | 
+!wedge!G2CD!accent!E6FE | 
+D2 !accent!A,2- A,B,A,B, CDED | 
+CB,A,B,!accent!D4C2 z2[K:clef=bass] | 
+C,,4z4z4 | 
+.C,4.C,4.C,4 | 
+G,,4z4C,4 | 
+G,,4G,,4G,,4 | 
+C,4z4z4 | 
+C,4C,4A,,4 | 
+F,,4z4F,,4 | 
+G,,8G,,4 | 
+A,,12 | 
+_A,,4z4[C4_E,4G,,4] | 
+[C4=E,4G,,4]z4z4 | 
+[K:clef=tenor]E8D2C2 | 
+G,4>C4E2G2 | 
+A4>G4F2D2 | 
+e8d4 | 
+E8D2C2 | 
+G,4>C4E2G2 | 
+A4>G4F2D2 | 
+e8d4 | 
+E2G4A2G2D2 | 
+E2G4.A2.G2D2 | 
+E2 z2z4z4 | 
+z12 | 
+z2_E4F2E2_B,2 | 
+C2_E4F2E2!accent!_B2 | 
+c12- | 
+c2c4c4c2 | 
+=e2 z2z4z4 | 
+z12 | 
+E8D2C2 | 
+G,4>C4E2G2 | 
+A4>G4F2D2 | 
+!accent!e8d4 | 
+E8D2C2 | 
+G,4>C4E2G2 | 
+A4>G4F2D2 | 
+e8d4 | 
+E2G4A2G2D2 | 
+E2G4A2G2D2 | 
+E2 z2z4z4 | 
+z12 | 
+!accent!^G4A4c4 | 
+c4!trill!B8{/AB} | 
+c2 z2[K:clef=bass] F,,2[A,D,A,,][A,D,] G,,2[B,F,][B,F,] | 
+A,,2[CE,][CE,] F,,2[A,D,A,,][A,D,] G,,2[B,F,][B,F,] | 
+C,,2[CE,G,,][CE,] F,,2[A,D,A,,][A,D,] G,,2[B,F,][B,F,] | 
+A,,2[CE,][CE,] F,,2[A,D,A,,][A,D,] G,,2[B,F,][B,F,] | 
+C,,4[K:clef=tenor]G4G4G2- [I:setbarnb 219]| 
+G2[K:clef=treble]g4g4g2 | 
+[K:clef=bass][E,12C,,12] | 
+[C12E,12] | 
+[K:clef=tenor][E12C12] | 
+[G12E12] | 
+[c2E2] z2[K:clef=bass] [C2E,2G,,2C,,2] z2 [E2G,2C,2] z2 | 
+!fermata![C,12C,,12] |]

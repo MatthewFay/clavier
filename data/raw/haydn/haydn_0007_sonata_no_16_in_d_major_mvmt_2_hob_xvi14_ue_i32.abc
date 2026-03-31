@@ -1,0 +1,134 @@
+X: 7
+T: Sonata No. 16 in D major, mvmt. 2 (Hob. XVI:14), UE I:3.2
+C: Franz Joseph Haydn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/02/22 10:41:04
+%%abc-copyright 2021 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/03/05
+%%gracespace 0 6 6
+%%humdrum-veritas 694334337
+%%humdrum-veritas-data 744309454
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+N: Derived from sonata16-2.krn
+Q: "TRIO." 1/4=108
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+[V:1] A,2D2-D3/F/ | 
+[V:2] z2F,2D,2 | 
+[V:1] F>GC4 | 
+[V:2] E,2A,2G,2 | 
+[V:1] z/ D/E/F/ G/A/B/c/ d/e/f/d/ | 
+[V:2] F,4D,2 | 
+[V:1] A2!trill!G2F2 | 
+[V:2] E,2C2D2 | 
+[V:1] !wedge!dd- d/f/e/d/ d/c/B/A/ | 
+[V:2] F,2^G,2A,2 | 
+[V:1] !wedge!dd- d/f/e/d/ d/c/B/A/ | 
+[V:2] F,2^G,2A,2 | 
+[V:1] ^G/A/F/D/C2!trill!B,2{/A,B,} | 
+[V:2] D,2E,2E,,2 | 
+[V:1] A,4z2 :|]|:  
+[V:2] A,,2E,,2A,,,2 :|]|:  
+[V:1] a6- | 
+[V:2] z2[K:clef=treble]A,/C/E/A/ B,/D/E/A/ | 
+[V:1] a2AB/c/ d/e/f/^g/ | 
+[V:2] C2z2z2 | 
+[V:1] a6- | 
+[V:2] z2A,/C/E/A/ B,/D/E/A/ | 
+[V:1] a2A/B/c/d/ e/f/=g/a/ | 
+[V:2] C2z2z2 | 
+[V:1] f/d/c/d/ a/f/e/d/ b/g/f/e/ | 
+[V:2] D2F2G2 | 
+[V:1] {/d2}c4z2 | 
+[V:2] A2E2A,2[K:clef=bass] | 
+[V:1] A,2D2-D3/F/ | 
+[V:2] z2F,2D,2 | 
+[V:1] F>GC4 | 
+[V:2] E,2A,2G,2 | 
+[V:1] z/ D/E/F/ G/A/B/c/ d/e/f/d/ | 
+[V:2] F,4D,2 | 
+[V:1] A2!trill!G2F2 | 
+[V:2] E,2C2D2 | 
+[V:1] !wedge!gg- g/b/a/g/ g/f/e/d/ | 
+[V:2] B,2C2D2 | 
+[V:1] !wedge!gg- g/b/a/g/ g/f/e/d/ | 
+[V:2] B,2C2D2 | 
+[V:1] c/d/B/G/F2!trill!E2{/DE} | 
+[V:2] G,2A,2A,,2 | 
+[V:1] D4z2 :|]  
+[V:2] D,2A,,2D,,2 :|]  
+[V:1]  [K:F] [M:3/4]z dfed^c | 
+[V:2]  [K:F] [K:clef=treble][M:3/4]z FAGFE & D6- | 
+[V:1] !wedge!d!wedge!A!trill!B2A2 | 
+[V:2] F2G2F2[K:clef=bass] & D2D4 | 
+[V:1] [G6e6] | 
+[V:2] z DED^CA, | 
+[V:1] [F6d6] | 
+[V:2] z ^CD=CB,A, | 
+[V:1] z [eg] z [df] z [E^c] | 
+[V:2] G,2A,2A,,2 | 
+[V:1] {/[G2e2]}[F4d4]z2 | 
+[V:2] D,2A,,2D,,2[K:clef=treble] | 
+[V:1] z fgfef | 
+[V:2] z ABAGA & F6- | 
+[V:1] zb2g2e | 
+[V:2] d2B2G2 & F6 | 
+[V:1] z fgfef | 
+[V:2] z ABAGA & F6- | 
+[V:1] zb2g2e | 
+[V:2] d2B2G2 & F6 | 
+[V:1] !wedge!f!wedge!c'!trill!_e4{/de} | 
+[V:2] A2[K:clef=bass]z !wedge![F,A,]!wedge![G,B,]!wedge![A,C] & F2x4 | 
+[V:1] !wedge!d!wedge![bd']!wedge![ac']!wedge![gb]!wedge![fa]!wedge![=eg] | 
+[V:2] [B,2D2]C2C,2 | 
+[V:1] !wedge!f!wedge!c'!trill!_e4{/de} | 
+[V:2] F,2z !wedge![F,A,]!wedge![G,B,]!wedge![A,C] | 
+[V:1] !wedge!d!wedge![bd']!wedge![ac']!wedge![gb]!wedge![fa]!wedge![=eg] | 
+[V:2] [B,2D2]C2C,2 | 
+[V:1] f4z2 :|]|:  
+[V:2] F,2C,2F,,2 :|]|:  
+[V:1] z FAGFE | 
+[V:2] z A,CB,A,G, & F,6- | 
+[V:1] !wedge!F!wedge!C!trill!_E2D2 | 
+[V:2] A,2C2B,2 & F,2^F,2G,2 | 
+[V:1] z GBAG^F | 
+[V:2] z B,DCB,A, & G,6- | 
+[V:1] !wedge!G!wedge!D!trill!=F2=E2 | 
+[V:2] B,2D2C2[K:clef=treble] & G,2^G,2A,2 | 
+[V:1] z aba^ga | 
+[V:2] z FGFEF & A,6 | 
+[V:1] z =gag^fg | 
+[V:2] z EFE^DE & A,6 | 
+[V:1] z =fed^cd | 
+[V:2] =D2G4 & B,6 | 
+[V:1] ^c2z2z2 | 
+[V:2] !wedge!AA,AGFE | 
+[V:1] z dfed^c | 
+[V:2] z FAGFE & D6- | 
+[V:1] !wedge!d!wedge!A!trill!B2A2 | 
+[V:2] F2G2F2[K:clef=bass] & D2D4 | 
+[V:1] [B6g6] | 
+[V:2] z DED^CA, | 
+[V:1] [A6f6] | 
+[V:2] z ^CD=CB,A, | 
+[V:1] z [eg] z [df] z [E^c] | 
+[V:2] G,2A,2A,,2 | 
+[V:1] !wedge![Fd]!wedge!a!trill!=c4{/Bc} | 
+[V:2] D,2z !wedge![D,^F,]!wedge![E,G,]!wedge![F,A,] | 
+[V:1] !wedge!B!wedge![gb]!wedge![fa]!wedge![eg]!wedge![df]!wedge![^ce] | 
+[V:2] G,2A,2A,,2 | 
+[V:1] !wedge!d!wedge!a!trill!=c4{/Bc} | 
+[V:2] D,2z !wedge![D,^F,]!wedge![E,G,]!wedge![F,A,] | 
+[V:1] !wedge!B!wedge![gb]!wedge![fa]!wedge![eg]!wedge![df]!wedge![^ce] | 
+[V:2] G,2A,2A,,2 | 
+[V:1] d2z2z2 :|]  
+[V:2] D,2A,,2D,,2 :|]

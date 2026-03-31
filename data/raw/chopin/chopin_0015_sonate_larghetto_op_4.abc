@@ -1,0 +1,107 @@
+X: 15
+T: Sonate. Larghetto.	 Op. 4
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:50
+%%abc-edited-by Zofia Niedbalska
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abcx-initial-encoding-date 2019-09-05
+%%humdrum-veritas 3084135383
+%%humdrum-veritas-data 2004957714
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 5/4
+N: Derived from 004-1-HAc-003.krn
+P: Grande Sonate pour le Pianoforte
+Q: "([quarter] = 72.)" 1/4=72
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Ab
+[V:1] .[C2A,2E,2].[C2A,2E,2]!accent![=B,2A,2F,2=D,2].[C2A,2E,2].[C2A,2E,2] | 
+[V:2] A,,4<A,,4A,,2 | 
+[V:1] .[C2A,2E,2].[C2A,2E,2]!accent![=B,2A,2F,2=D,2].[C2A,2E,2].[C2A,2E,2] | 
+[V:2] [A,,2A,,,2][A,,2A,,,2]A,,2A,,2[A,,2A,,,2] | 
+[V:1] .[C2A,2E,2].[E2C2].[A2E2C2].[c2E2].[B2F2] | 
+[V:2] x2[A,2E,2][A,2E,2]A,4 & A,,2A,,2A,,2C,2D,2 | 
+[V:1] [B2E2D2][A2E2C2]z2.E2.E2 | 
+[V:2] G,2x2z2z2z2 & E,2[A,2E,2A,,2]x6 | 
+[V:1] CA Ec Aec4 & x6ceba- | 
+[V:2] z2z2z2.E,2.E,2 | 
+[V:1] a2g2f2e3d & [e4d4-]d4cB | 
+[V:2] E,,B,, E,G, B,E GE3 | 
+[V:1] [cA]E CA Ec Ae ba & x7e3 | 
+[V:2] [EA,] z.E,2.E,2.E,2E,2- | 
+[V:1] a2g2f2e3d & [e4d4-]d4cB | 
+[V:2] E,2x4x4 & E,,B,, E,G, B,E GE3 | 
+[V:1] [cA] zc2c4-c_c & E xA2A2A2A2- | 
+[V:2] A,A,, C,E, A,C EC FE | 
+[V:1] B2.B2.B2.B2.B2 & A2A8 | 
+[V:2] =DB,,, F,,B,, =D,F, B,D GF | 
+[V:1] [B2G2][e2G2][B2G2]A=d gf & x6A4 | 
+[V:2] x6F4 & !wedge!EE,, B,,E, G,B,_C2B,2 | 
+[V:1] .e2.B2.B2A=d gf & G2G2G2A4 | 
+[V:2] x6F4 & !wedge!EE,, B,,E, G,B,_C2B,2 | 
+[V:1] .[e2G2].[e2G2].[e2G2].[e2_d2B2G2].[e2d2B2E2] | 
+[V:2] EE,, B,,E, G,B, EB, G,E, | 
+[V:1] .[e2c2A2E2].[c2A2E2]!accent![=B2A2=D2].[c2A2E2].[c2A2E2] | 
+[V:2] x6xE,3 & A,,E, [CA,]E, F,[=B,A,] A,,E, [CA,]E, | 
+[V:1] !accent![ec]>>[c'a][e2c2]!accent![=d2=B2A2-=D2].[e2c2A2E2][e2c2A2E2] | 
+[V:2] x6xE,3 & A,,E, [CA,]E, F,[=B,A,] A,,E, [CA,]E, | 
+[V:1] x2[g2e2]{/g} f>ee2[c2A2E2] & !arpeggio![b2e2d2B2E2]d2d2c2x2 | 
+[V:2] G,,E,B,E,B,2x2[CA,]E, & x4G,,E, A,,E,x2 | 
+[V:1] B2{/c} B>=A B>c_A2A2 & [G_D]E [GD]E [GD]EC2[E2C2] | 
+[V:2] z!accent!E,2!accent!E,2!accent!E,x4 & E,,6A,,E,A,E, | 
+[V:1] .[A2F2].[B2_F2].[c2E2].[d2F2][c2E2] | 
+[V:2] D,A, G,D, C,A,- A,A, A,A,- & D,2>D,2C,2D,2A,,2 | 
+[V:1] [A2=F2][B2_F2][c2E2][d2F2D2]B3/c/ & x8[G2E2D2] | 
+[V:2] A,A, =G,D, C,A, B,B, B,B, & D,2>D,2C,2B,,2E,2 | 
+[V:1] [A2E2C2][AE] z[K:clef=bass]E,,2A,,,2A,,, z[K:clef=treble] | 
+[V:2] A,,E, [CA,]E, [DG,]E, A,,E, [CA,]E, | 
+[V:1] E3F/G/ A//B//c//d//e//f//g//a// {/ga} !wedge!b z!accent!e2 | 
+[V:2] x4>_F,4E,2 & A,,E, [CA,]E, [CA,]E, _F,[DG,] E,[DG,] | 
+[V:1] E xx8 & E/e/E/A/ c/e/a/c'/ e'/a'/d''/c''/ {/g'a'} !wedge!b' z!accent!e'2 | 
+[V:2] x4>_F,4E,2 & A,,E, [CA,]E, [CA,]E, _F,[DG,] E,[DG,] | 
+[V:1] c'2-(3c'cb a/c/g/f/ (3:2:6efdd'gf | 
+[V:2] A,,E, A,C F,A, B,,F, B,D | 
+[V:1] (5:4:5ee'bc'a (3gff' (5:4:5c'd'fc'b | 
+[V:2] C,E, A,C D,F, B,D F,B, | 
+[V:1] (3agg' (5:4:5d'e'bc'g (3b2 a2 a'2 | 
+[V:2] E,G, CE G,C F,A, CF[K:clef=treble] | 
+[V:1] b4-x2b4 & bb' g'e' [d'b][c'a] ge =d_d | 
+[V:2] G,B,EG Ae- e zz2[K:clef=bass] & x4A2E xx2 | 
+[V:1] [b4_g4][a2f2][a4_f4] & (3z Be (3d_cB z A (9:8:9z/ A/_c/d/c/d/c/__B/A/ | 
+[V:2] _G,,D,_G,D D,,D !wedge!_F,,_C, _F,_C | 
+[V:1] [_g2e2][e2__B2][e2=A2][=d2B2][eBE][fBF] & z_G2G2F3x2 | 
+[V:2] z ._C.C.C.C.Cx4 & {/_C,,}_C,4x2B,A,_G,=D, | 
+[V:1] _ge d_c2B =AG/A/B2 & B2>x2x6 | 
+[V:2] z2E2D2C2B,2 & E,4=E,2F,2_G,2 | 
+[V:1] [B8=E8^C8][B2G2=E2] | 
+[V:2] G,^F, G,=A, B,A, G,=E, ^C,B,, | 
+[V:1] B8B2 & _F6_E4 | 
+[V:2] G,,G, ^F,G, B,A, G,=F, _E,G,, | 
+[V:1] .[c2A2E2C2].[c2A2E2]!accent![=B2A2-=D2].[c2A2E2].[c2-A2E2] | 
+[V:2] x4F,2x4 & A,,E, [CA,]E, F,[=B,A,] A,,E, [CA,]E, | 
+[V:1] x2c''>a' =b'3/a' x> c'ae/ & x2x/ e'/c'/ x =d'/=b/x2x3/ c | 
+[V:2] x4F,2x4 & A,,E, [CA,]E, F,[=B,A,] A,,E, [CA,]E, | 
+[V:1] x6e=d _dc & G/[e/d/]c'/z//b// G/[e/d/]a/z//g// E/[d/B/]f/z//[e//d//] (3cE=B (3_BEA | 
+[V:2] E,,E,x2B,2x2x2 & x2B,E, G,,E, A,,E, [CA,]E, | 
+[V:1] (5:4:15D/G/c/B/E/ D/G/c/B/E/ D/G/d/E/c/ (3:2:5AEA x c2 & (5:4:13x/ G/ x/ B/ x G/ x/ B/ x G/ d/x/c/x4 | 
+[V:2] E,,E,x2E,,E,x4 & x2B,E,E,,2A,,E, A,C | 
+[V:1] !accent!!arpeggio!e2c2A3/c//B//A3B & !accent!!arpeggio![c2A2_G2][A2G2]!accent!G2F2_F2 | 
+[V:2] A,,E, [CA,]E, [CA,]E, D,A, DA, | 
+[V:1] .c2.A x[K:clef=bass].E,,2.A,,,2.A,,, z[K:clef=treble] & E2E zx6 | 
+[V:2] A,,E, [CA,]E, [DG,]E, A,,E, [CA,]E, | 
+[V:1] c4.B2.B2.B2 & D2D2x6 | 
+[V:2] D,,3-(7:4:21D,,/8E,,/8F,,/8G,,/8=A,,/8B,,/8C,/8D,/8E,/8F,/8G,/8=A,/8B,/8C/8 D=E,F,CB,D,D,, | 
+[V:1] !accent!B4.A2.A2.A2 & C2C2x6 | 
+[V:2] E,,3-E,,//F,,//G,,//A,,//B,,//C,//D,//E,//F,//G,//A,//B,//x2E,2- & x6Cz/=D,/ (3E,_B,A, | 
+[V:1] .A2.G2.G2!accent!G4 & DE DE DE DE DE | 
+[V:2] [E,2E,,2-]E,,/F,,/G,,/A,,/ B,,/C,/D,/=D,/ E,/=E,/G,/F,/ _E,/D,/B,,/E,/ | 
+[V:1] A2.[C2A,2E,2]!accent![=B,2A,2F,2=D,2].[C2A,2E,2].[C2A,2E,2] | 
+[V:2] C2A,,2A,,2A,,2[A,,2A,,,2] & A,,4<A,,,4x2 | 
+[V:1] !fermata!!arpeggio![A2E2C2A,2E,2]z2z2z2z2 |]  
+[V:2] !fermata!!arpeggio![A,,2A,,,2]z2z2z2z2 |]

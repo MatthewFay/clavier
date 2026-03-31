@@ -1,0 +1,95 @@
+X: 270
+T: Mazurka No. 2.	 Op. 33
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:57
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Jacek Iwaszko
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Tomasz Sierawski
+%%abc-edited-by Tomasz Sierawski
+%%humdrum-veritas 3467282554
+%%humdrum-veritas-data 352412514
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from 033-1a-Sm-002.krn
+P: Quatre Mazurkas
+Q: "Semplice."
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] !accent!G [I:setbarnb 1]| 
+[V:2] z[K:clef=treble] | 
+[V:1] xe3/d/ & [dBF][B2F2] | 
+[V:2] z!accent!G2- & G,2G, | 
+[V:1] {/d} c/>B/c3/^c/ & EE2 | 
+[V:2] GG2- & C2G, | 
+[V:1] d/>^d/e3/d/ & F[B2F2] | 
+[V:2] GG2- & B,zG, | 
+[V:1] {/d} c/>B/c2 & EE2 | 
+[V:2] GG2[K:clef=bass] & C2C | 
+[V:1] Bc3/B/ & [^GD]!accent![G2D2] | 
+[V:2] xE2- & E,2E, | 
+[V:1] {/B} A/>^G/A3/B/ & [G^C][=G2C2] | 
+[V:2] EE2 & A,2A, | 
+[V:1] c/>^c/e3/{/de} d/ & ^F!accent![=c2F2] | 
+[V:2] x[K:clef=treble]A2[K:clef=bass] & D,xD | 
+[V:1] ^c/z//d//x2 & [BF][g2B2G2F2_d02] | 
+[V:2] G,zG, | 
+[V:1] xe3/d/ & [dBF]!accent![B2F2] | 
+[V:2] G,,[K:clef=treble]G2- & x2G, | 
+[V:1] {/cd} c/>B/c3/^c/ & E!accent!E2 | 
+[V:2] GG2- & C2G, | 
+[V:1] d/>^d/e3/d/ & F!accent![B2F2] | 
+[V:2] GG2- & B,zG, | 
+[V:1] {/cd} c/>B/c2 & EE2 | 
+[V:2] GG2[K:clef=bass] & C2C | 
+[V:1] xB3/A/ & [AFC][F2C2] | 
+[V:2] xD2- & D,2D, | 
+[V:1] {/GA} G/>^F/G3/A/ & [FB,][=F2B,2] | 
+[V:2] D!accent!D2 & G,2G, | 
+[V:1] B/z//c//e3/d/ & [GF][B2F2] | 
+[V:2] G,,[K:clef=treble]G2[K:clef=bass] & x2G, | 
+[V:1] B/z//c//x{/c}c' :|]  
+[V:2] C,2[G,E] :|]  
+[V:1] [K:clef=treble]!accent!c- | 
+[V:2] [K:clef=bass]z | 
+[V:1]  [K:Ab] c/B/A_F | 
+[V:2]  [K:Ab] D,,[DA,_F,][DA,F,] | 
+[V:1] =D/E/GA | 
+[V:2] E,,[CA,E,][CA,E,] | 
+[V:1] =A/B/cd | 
+[V:2] E,,[K:clef=treble][GED][GED] | 
+[V:1] !accent!=d2e- | 
+[V:2] z[AF=B,][AEC][K:clef=bass] & A,3 | 
+[V:1] e/=e<f_e/ | 
+[V:2] E,[GED][GED] | 
+[V:1] d/c< {/ce}dc/ | 
+[V:2] x[AEC]x & A,2E, | 
+[V:1] [=B/=D/][cE]<[_dF][c/E/] | 
+[V:2] E,,[DG,E,][DG,E,] | 
+[V:1] [B/D/][A/C/] {/c}[BD][AC] | 
+[V:2] A,,[A,E,][A,E,] | 
+[V:1] [c/E/][d/F/][FD][GB,] | 
+[V:2] E,,[B,E,]E, | 
+[V:1] [=D/=B,/][E/C/][GD][AC] | 
+[V:2] A,,[B,E,][A,E,] | 
+[V:1] [=A/^F/][B/G/][c_A][dB] | 
+[V:2] E,,[K:clef=treble][GED][GED] | 
+[V:1] !accent![=d2=B2][ec] | 
+[V:2] z[AF=B,][AEC][K:clef=bass] & A,2x | 
+[V:1] e/=e/x2 & c{/g}[f3/d3/][e/c/] | 
+[V:2] E,[GD][GD] | 
+[V:1] [d/B/][c/A/] {/e}[dB][cA] | 
+[V:2] x[EC]E, & A,2x | 
+[V:1] [=B/=D/][cE]<[_dF][c/E/] | 
+[V:2] E,,[DG,E,][DG,E,] | 
+[V:1] [_B/_D/][AC]< {/Ac}[BD][A/C/] | 
+[V:2] A,,[A,E,][A,E,] | 
+[V:1]  [K:C] {/B,2F2B2}de3/d/ & [BF]!accent![B2F2] |]  
+[V:2]  [K:C] G,,[K:clef=treble]G2 & x2G, |]

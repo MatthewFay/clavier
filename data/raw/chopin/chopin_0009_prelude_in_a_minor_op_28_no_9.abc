@@ -1,0 +1,46 @@
+X: 9
+T: Prelude in A Minor, Op. 28, No. 9
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2004/12/22/
+%%gracespace 0 6 6
+%%humdrum-veritas 3647843540
+%%humdrum-veritas-data 2221230219
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 4/4
+N: Derived from prelude28-09.krn
+Q: "Largo" 1/8=72
+%%staves {1 2}
+V: 1 clef=bass
+V: 2 clef=bass
+K: E
+[V:1] B,2B,>B,B,2C2 & (3[E,G,]B,,[E,G,] (3[D,F,]B,,[D,F,] (3[E,G,]B,,[E,G,] (3[E,A,]C,[E,A,] | 
+[V:2] E,,2B,,,2E,,2A,,7//G,,// | 
+[V:1] C2D>DD2D2 & (3[F,A,]C,[F,A,] (3[F,A,]C,[F,A,] (3[F,B,]D,[F,B,] (3[G,B,]D,[G,B,] | 
+[V:2] F,,4B,,,2B,,7//B,,// | 
+[V:1] E2E>EE2D3/D/ & (3[G,B,]E,[G,B,] (3[F,C]E,[F,C] (3[F,B,]E,B, (3[F,B,]D,[F,B,] | 
+[V:2] C,,2A,,>>A,,B,,,2B,,,2 | 
+[V:1] D2D>CC2C3/B,/ & (3[G,B,]E,[G,B,] (3[F,^A,]E,[F,A,] (3[F,=A,]C,[F,A,] (3[F,A,]B,,[F,A,] | 
+[V:2] C,,2F,,>>F,,D,,2D,,2 | 
+[V:1] G,2B,>B,B,2B,3/B,/ & (3[C,E,]B,,[E,G,] (3[D,F,]B,,[D,F,] (3[=D,=G,]B,,[D,G,] (3[D,G,]B,,[D,G,] | 
+[V:2] E,,2B,,,2=G,,,2=G,,7//=F,,// | 
+[V:1] =C2=D2E2E3/E/ & (3=G,=C,G, (3[G,_B,]=D,[G,B,] (3[G,B,]E,[G,B,] (3[G,C]E,[G,C] | 
+[V:2] E,,2=D,,2=C,,2[C,,7//=C,7//][_B,,,//_B,,//] | 
+[V:1] E2E>E=F2=G2 & (3[A,C]E,[A,C] (3[_B,C]E,[B,C] (3[B,_D]=F,[B,D] (3[B,D]=G,[B,D] | 
+[V:2] [A,,,2A,,2][=G,,,=G,,]>>[G,,,G,,][=F,,,2=F,,2][_F,,,2_F,,2] | 
+[V:1] _A_E E>_D C>_C =B,3/B,/ & (3[_A,=C]_E,[A,C] (3[=G,C]E,[G,_B,] (3A,E,A, (3[D,^G,]B,,[D,A,] | 
+[V:2] [_E,,,4_E,,4]_A,,,2=B,,,2 | 
+[V:1] B,2B,>>B,B,2=C2 & (3[E,G,]B,,[E,G,] (3[D,F,]B,,[D,F,] (3[E,G,]B,,[E,G,] (3[E,A,]=C,[E,A,] | 
+[V:2] [E,,,2E,,2]B,,,2E,,2[A,,,7//A,,7//][A,,,//A,,//] | 
+[V:1] =C2C>>CC2=D3/D/ & (3[=F,A,]=C,[F,A,] (3[E,=G,]C,[E,G,] (3[F,A,]C,[F,A,] (3[F,_B,]=D,[F,B,] | 
+[V:2] [=F,,,2=F,,2][=C,,,2=C,,2][F,,,2F,,2][_B,,,7//_B,,7//][B,,,//B,,//] | 
+[V:1] =D2D>>DD2.^D7//E// & (3[=G,_B,]=D,[G,B,] (3[F,A,]D,[F,A,] (3[G,=B,]D,[G,B,] (3[F,B,]^D,[F,B,] | 
+[V:2] [=G,,,2=G,,2][=D,,,2=D,,2][G,,,2G,,2][=B,,,7//=B,,7//][B,,,//B,,//] | 
+[V:1] E2E>>Ez4 & (3[G,B,]E,[G,B,] (3[G,B,]E,[G,B,]!fermata![E,4G,4B,4E4] |]  
+[V:2] [E,,,4E,,4-]E,,4 & z2B,,,2-!fermata![E,,,4B,,,4] |]

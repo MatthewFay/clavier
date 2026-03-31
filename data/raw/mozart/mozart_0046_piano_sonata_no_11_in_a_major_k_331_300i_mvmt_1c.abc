@@ -1,0 +1,61 @@
+X: 45
+T: Piano Sonata No. 11 in A major, K 331 (300i), mvmt. 1c
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:33
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/09/29
+%%gracespace 0 6 6
+%%humdrum-veritas 3522028074
+%%humdrum-veritas-data 3333641360
+%%linebreak <none>
+%%barnumbers 0
+%%setbarnb 37
+L: 1/16
+M: 6/8
+N: Derived from sonata11-1c.krn
+Q: "Variation II" 1/8=144
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] .c2.c2 !trill!dc/d/ e2 z2 f/e/d/c/ | 
+[V:2] (3A,^DE (3A,DE (3B,DE (3CDE (3CDE (3A,DE | 
+[V:1] B2.B2 !trill!cB/c/ d2 z2 e/d/c/B/ | 
+[V:2] (3G,^DE (3G,DE (3A,DE (3B,DE (3B,DE (3G,DE | 
+[V:1] A2.A2 !trill!AG/A/ B2.B2 !trill!BA/B/ | 
+[V:2] (3F,^DE (3F,DE (3F,DE (3G,=DE (3G,DE (3G,DE | 
+[V:1] x4e>dc4B2 & c2.c2 B2A4G2 | 
+[V:2] (3A,CE (3A,CE (3D,F,B, (3E,A,C (3E,A,C (3E,G,B, | 
+[V:1] (3cAE (3cAE (3dBE (3ecE (3ecE f/e/d/c/ | 
+[V:2] A,,2{/G,//}A,2 z2 A,,2{/G,//}A,2 z2 | 
+[V:1] (3BGE (3BGE (3cAE (3dBE (3dBE e/d/c/B/ | 
+[V:2] E,,2{/^D,//}E,2 z2 E,,2{/D,//}E,2 z2 | 
+[V:1] (3AEC (3AEC (3BED (3cAE (3cAE (3dBF | 
+[V:2] F,,2{/^E,//}F,2{/^^F,//}G,2 A,,2{/G,//}A,2{/C,//}D,2 | 
+[V:1] (3cAE (3cAE (3BGD (3AEC A,2 z2 :|]|:  
+[V:2] E,,2{/^D,//}E,2{/D,//}E,2 A,,,2{/G,,//}A,,2 z2 :|]|:  
+[V:1] .e2.d2.e2 .f2 z2 !mordent!f/e/f/g/ | 
+[V:2] [K:clef=treble](3A,CE (3A,B,D (3A,CE (3A,DF (3A,DF (3A,DF | 
+[V:1] a2.g2.f2 .e2 z2 !mordent!c/B/c/d/ | 
+[V:2] (3A,FA (3A,EG (3A,DF (3A,CE (3A,CE (3A,CE | 
+[V:1] e2c2 z z/ .A/ e2d2 z z/ .B/ | 
+[V:2] (3A,CE (3A,CE (3A,CE (3B,DE (3B,DE (3B,DE | 
+[V:1] e2c2.A2[A4c4][G2B2] | 
+[V:2] (3A,CE (3A,CE[K:clef=bass] (3F,A,^D[E,6E6] | 
+[V:1] .c2.c2 !trill!dc/d/ e2 z2 f/e/d/c/ | 
+[V:2] (3A,^DE (3A,DE (3B,DE (3CDE (3CDE (3A,DE | 
+[V:1] B2.B2 !trill!cB/c/ d2 z2 e/d/c/B/ | 
+[V:2] (3G,^DE (3G,DE (3A,DE (3B,DE (3B,DE (3G,DE | 
+[V:1] A2.A2 !trill!BA/B/ c2.c2 !trill!dc/d/ | 
+[V:2] (3F,^DE (3F,DE (3G,=DE (3A,CE (3A,CE (3D,F,B, | 
+[V:1] x4>B4^B2c2 & c2.c2 !trill!BA/B/G4A2 | 
+[V:2] x6D4C2 & (3E,A,C (3E,A,C (3E,G,D[A,6E6] | 
+[V:1] (3cAE (3cAE (3dGE (3ecA (3ecA (3fBA | 
+[V:2] A,,2{/G,//}A,2{/^A,//}B,2 C,2{/^B,//}C2{/C//}D2 | 
+[V:1] (3cAE (3cAE (3BGD (3AEC A,2 z2 :|]  
+[V:2] E,,2{/^D,//}E,2{/D,//}E,2 A,,,2{/G,,//}A,,2 z2 :|]

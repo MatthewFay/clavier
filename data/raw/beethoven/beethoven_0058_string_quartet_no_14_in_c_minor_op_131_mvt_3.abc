@@ -1,0 +1,68 @@
+X: 58
+T: String Quartet No. 14 in C\# Minor, Op. 131 mvt 3
+C: Ludwig van Beethoven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/27 10:01:15
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2004/09/09/
+%%gracespace 0 6 6
+%%humdrum-veritas 1794667383
+%%humdrum-veritas-data 1915653971
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 4/4
+N: Derived from quartet14-3.krn
+Q: "Allegro moderato - Adagio" 1/4=120
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=alto
+V: 4 clef=bass
+K: A
+[V:1] z2.F2.c2z2 | 
+[V:2] z2.F2.F2z2 | 
+[V:3] z2.D2.C2z2 | 
+[V:4] z2.B,2.^A,2z2 | 
+[V:1] z F/G/ .^A.Bc2z2 | 
+[V:2] z4z C/D/ .E.F | 
+[V:3] z8 | 
+[V:4] z8 | 
+[V:1] z8 | 
+[V:2] =G2z2z4 | 
+[V:3] z .=G,.E,.D,.C,2z2 | 
+[V:4] z4z .E,.C,.F, | 
+[V:1] z2.F2.d2z2 | 
+[V:2] z2.B,2.FD/E/ .F.^A, | 
+[V:3] z2.D2.F,2z2 | 
+[V:4] .D,2.B,2.B,,2z2 | 
+[V:1] z B/c/ .d.e fz2z | 
+[V:2] B,2z2z F/^A/ .B.F | 
+[V:3] z8 | 
+[V:4] z8 | 
+[V:1] z4z zz2 | 
+[V:2] D2z2z zz2 | 
+[V:3] z4.DG,/A,/ .B,.D, | 
+[V:4] z B,/C/ .D.F, B, zz2 | 
+[V:1] z2B2A2f3/e/ | 
+[V:2] z2G2C2F2 | 
+[V:3] C,6C2 | 
+[V:4] z2^E,,2F,,2A,,2 | 
+[V:1] e^d- d//c//B//c//d//c//d//e// f//e//f//g//a//b//a//g// f//g//f//e//d//e//d//c// | 
+[V:2] [B,2F2][FA] zz4 | 
+[V:3] [F,2A,2][F,2A,2]-[F,4A,4] | 
+[V:4] B,,2B,, zz4 | 
+[V:1] B//c//B//_B//A//G//F//E// ^D//C//=B,//D//F//A//=B//^d// f//a//c'//b//b be- | 
+[V:2] z4z ^DEE- | 
+[V:3] [F,4A,4]-[F,A,]F,B,B, | 
+[V:4] z4z A,,G,,G, | 
+[V:1] ec^de eB3- | 
+[V:2] E2<F2-FGF[FA] | 
+[V:3] CE2<-E2-E^D2 | 
+[V:4] A,2<^A,2A,B,3 | 
+[V:1] Bz2zz2z z |]  
+[V:2] GB,G,D B,z[Ee] z |]  
+[V:3] =DzzG, D,A,[G,B,] z |]  
+[V:4] E,E,,=F,,4E,, z |]

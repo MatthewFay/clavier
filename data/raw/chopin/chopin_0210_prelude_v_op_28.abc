@@ -1,0 +1,102 @@
+X: 210
+T: Prelude V	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:56
+%%abc-edited-by Leszek Kubiak
+%%abc-edited-by Emilia ZiÄtek
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abcx-initial-encoding-date 2019-05-11
+%%humdrum-veritas 1329174194
+%%humdrum-veritas-data 3695301670
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/8
+N: Derived from 028_1-12-1a-C-005.krn
+P: 24 Preludes pour le Piano
+Q: "All. molto." 3/8=69
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: D
+[V:1] BACBeA & x3 B2A2 | 
+[V:2] z2 G,A,,G,E | 
+[V:1] C_BeAC=B & x_B2A2 =B2 | 
+[V:2] G,A,,G,EG,A,, | 
+[V:1] eAC_BeA & xA2_B2 A2 | 
+[V:2] G,EG,A,,G,E | 
+[V:1] C=BeACF & x=B2A2 x | 
+[V:2] G,A,,G,EG,A, | 
+[V:1] DA,^A,B,[FC]E | 
+[V:2] D,,F,G,G,,A,,G, | 
+[V:1] DdFA[c^G]B | 
+[V:2] F,B,,DF,E,D | 
+[V:1] EA^EF[c^G]B | 
+[V:2] CA,DD,E,D | 
+[V:1] AeEA[=c^D]B | 
+[V:2] C=CF,A,,B,,A, | 
+[V:1] B,E=CE[G^D]F | 
+[V:2] G,E,,A,,A,B,,A, | 
+[V:1] EeGB[d^A]c | 
+[V:2] G,E,EG,F,E | 
+[V:1] BFGB[d^A]c | 
+[V:2] DB,,E,EF,E | 
+[V:1] Bb^gdcB | 
+[V:2] D^E,B,^GCD | 
+[V:1] ^AfB^g^E^a | 
+[V:2] CF,DB,,CC, | 
+[V:1] ^AfB^g^E^a | 
+[V:2] F,,CDB,,CC, | 
+[V:1] ^AfB^g^E^a | 
+[V:2] F,,CDB,,CC, | 
+[V:1] ^AfB^g^E=a | 
+[V:2] F,,CDB,,CC, | 
+[V:1] fFCBeA & x3 B2A2 | 
+[V:2] F,,A,G,A,,G,E | 
+[V:1] C_BeAC=B & x_B2A2 =B2 | 
+[V:2] G,A,,G,EG,A,, | 
+[V:1] eAC_BeA & xA2_B2 A2 | 
+[V:2] G,EG,A,,G,E | 
+[V:1] C=BeACF & x=B2A2 x | 
+[V:2] G,A,,G,EG,A, | 
+[V:1] DA,^A,B,[GC]F | 
+[V:2] D,,F,G,G,,A,,A, | 
+[V:1] DdFA[=c^G]B | 
+[V:2] F,B,,D=F,E,D | 
+[V:1] EA=FA[=c^G]B | 
+[V:2] =CA,DD,E,D | 
+[V:1] AeEA[=c^D]B | 
+[V:2] C=CF,A,,B,,A, | 
+[V:1] B,E=CE[G^D]F | 
+[V:2] G,E,,A,,A,B,,A, | 
+[V:1] EeGB[d^A]c | 
+[V:2] G,E,EG,F,E | 
+[V:1] BFGB[d^A]c | 
+[V:2] DB,,E,EF,E | 
+[V:1] Bb^gdcB | 
+[V:2] D^E,B,^GCD | 
+[V:1] AdGeCf | 
+[V:2] F,D_B,G,,A,A,, | 
+[V:1] FdGeCf | 
+[V:2] D,,A,_B,G,,A,A,, | 
+[V:1] FdGeCf | 
+[V:2] D,,A,_B,G,,A,A,, | 
+[V:1] FdGeCf | 
+[V:2] D,,A,_B,G,,A,A,, | 
+[V:1] FdD_BdA & x3 _B2A2 | 
+[V:2] D,,A,,A,A,,D,,A,, | 
+[V:1] DGdFD_B & xG2F2 _B2 | 
+[V:2] A,A,,D,,A,,A,A,, | 
+[V:1] dADGdF & xA2G2 F2 | 
+[V:2] D,,A,,A,A,,D,,A,, | 
+[V:1] D_BdADd & xx4x | 
+[V:2] A,A,,D,,A,,A,A,, | 
+[V:1] f'2z4 | 
+[V:2] D,,2z4 | 
+[V:1] !arpeggio![a2e2G2]z4 | 
+[V:2] !arpeggio![C2E,2A,,2]z4 | 
+[V:1] [f2d2F2]!fermata!z4 |]  
+[V:2] {/D,,} [D2A,2D,2]!fermata!z4 |]

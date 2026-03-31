@@ -1,0 +1,73 @@
+X: 22
+T: Mazourka No. 4.	 Op. 6
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:56
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Jacek Iwaszko
+%%abcx-initial-encoding-date 2017-08-29
+%%humdrum-veritas 417975657
+%%humdrum-veritas-data 1823939724
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from 006-1b-Sm-004.krn
+P: Cinq Mazurkas
+Q: "Presto ma non troppo." 3/4=76
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Gb
+[V:1] B- [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] x!accent!B,C/D/ & E,,E,2- | 
+[V:1] A/c/F!accent!B | 
+[V:2] C/A,/=DB, & E,3- | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] EB,E/D/ & E,3- | 
+[V:1] A/F/=D!accent!E- | 
+[V:2] C/A,/xG, & x<A,x | 
+[V:1] xdc/B/ & [B/G/]e/=G2 | 
+[V:2] xB,C/D/ & E,3- | 
+[V:1] A<c!accent!B- & xF2 | 
+[V:2] C/A,/=D2 & x2B,- | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] E2E- & B,3 | 
+[V:1] A<F!accent!E- & x=Dx ]|:  
+[V:2] Ex2 & C/A,/x2 ]|:  
+[V:1] B(3=c/d/c/ B/c/ & [G2E2]x | 
+[V:2] xA,2- & E,2A,, | 
+[V:1] e/d/A!accent!!trill!B{/!mordent!AB} & F_F2 | 
+[V:2] A,A,G,- & D,2G,, | 
+[V:1] d/c/G!trill!A{/GA} & E3 | 
+[V:2] G,G,F,- & C,2F,, | 
+[V:1] c/B/F!accent!E & =D2x | 
+[V:2] F,A,G, & B,,2E,- | 
+[V:1] B(3=c/d/c/ B/c/ & G3 | 
+[V:2] EA,2- & E,2A,, | 
+[V:1] e/z//d// A/B/A/B/ & F_F2 | 
+[V:2] {/D,}[DA,]G,2- & D,2G,, | 
+[V:1] d/c/ G/A/G/A/ & E3 | 
+[V:2] {/C,}[CG,]F,2- & C,2F,, | 
+[V:1] c/z//B//F!accent!E & =D2x | 
+[V:2] F,A,G, & B,,2E,- | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] B,2C/D/ & E,!accent!E,2- | 
+[V:1] A/c/F!accent!B | 
+[V:2] C/A,/=DB, & E,3- | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] EB,E/D/ & E,3- | 
+[V:1] A/F/=D!accent!E- | 
+[V:2] C/A,/x2 & x<A,G, | 
+[V:1] x!accent!dx & [B/G/]e/=G2 | 
+[V:2] xB,C/D/ & E,3- | 
+[V:1] A<c!accent!B- & xF2 | 
+[V:2] C/A,/=D2 & x<A,B,- | 
+[V:1] B/e/!accent!dc/B/ & G=G2 | 
+[V:2] E2E & B,3 | 
+[V:1] A<F!accent!!fermata!E & x=Dx :|]  
+[V:2] C/A,/x2 & Ex2 :|]

@@ -1,0 +1,102 @@
+X: 52
+T: Mazurka in F Minor, Op. 68, No. 4
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/17 12:55:01
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2005/03/04/
+%%gracespace 0 6 6
+%%humdrum-veritas 1451958040
+%%humdrum-veritas-data 3251457251
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from mazurka68-4.krn
+Q: "Andantino" 1/4=126
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Ab
+[V:1] c-c/d/ d/c/ ||  
+[V:2] z[A,CF][A,CF] ||  
+[V:1] !trill!=B/^A/Bg | 
+[V:2] z[G,=DF][G,_DF] | 
+[V:1] _B-B/c/ c/B/ | 
+[V:2] z[_G,D_F][G,CE] | 
+[V:1] !trill!=A/^G/Af | 
+[V:2] z[F,CE][F,_CE] | 
+[V:1] _A-A/_B/ B/A/ | 
+[V:2] z[F,=B,=D][=E,B,D] | 
+[V:1] !trill!G/^F/Gd | 
+[V:2] z[=E,_B,_D][=F,B,=F] | 
+[V:1] c-c/B/A/G/ & z=EE | 
+[V:2] z[G,B,D][C,B,] | 
+[V:1] B/A/F/G/A/=B/ | 
+[V:2] zF,,[F,A,D] | 
+[V:1] c-c/d/=B/d/ | 
+[V:2] z[F,A,C][A,CF] | 
+[V:1] c/^A/=B/_a/g/B/ | 
+[V:2] z[G,=DF][G,_DF] | 
+[V:1] _B-B/c/ c/B/ | 
+[V:2] z[G,D_F][_G,DF] | 
+[V:1] B/^G/=A/_g/f/A/ | 
+[V:2] z[F,CE][F,_CE] | 
+[V:1] _A-A/_c/B/A/ | 
+[V:2] z[F,_CE][_F,C__E] | 
+[V:1] G^G/=A/^A/=B/ | 
+[V:2] z[_F,B,=D][=E,^G,D] | 
+[V:1] ^c/=d/^d/=e/=a/^g/ | 
+[V:2] =A,,[=E,^C]z | 
+[V:1] ^f/=e/=d/^G/=A/=B/ | 
+[V:2] =A,,[^F,=D][=E,D] | 
+[V:1] ^c/=d/^d/=e/=a/^g/ | 
+[V:2] =A,,[=E,^C][E,C] | 
+[V:1] ^f/=e/=d/^G/=A/=B/ | 
+[V:2] =A,,[^F,=D][=E,D] | 
+[V:1] ^c=B/=c/f/=e/ | 
+[V:2] =A,,z[=F,=CE] | 
+[V:1] e/=d/_d/=E/F/G/ | 
+[V:2] B,,[F,D][C,=E,B,] | 
+[V:1] A/B/=B/c/f/=e/ | 
+[V:2] F,,[C,A,]z | 
+[V:1] e/=d/_d/=E/F/{/A}G/ | 
+[V:2] z[D,A,][C,B,] | 
+[V:1] !trill!F/=E/F2 | 
+[V:2] F,,[C,A,][_C,A,] | 
+[V:1] B2c/G/ | 
+[V:2] E,,[E,G,D][E,G,D] | 
+[V:1] A/C/E/A/=B/c/ | 
+[V:2] A,,[E,A,C][=D,F,C] | 
+[V:1] =de/g/f/=B/ | 
+[V:2] G,,[G,F][G,=DF] | 
+[V:1] c2G | 
+[V:2] C,[G,CE][G,CE] | 
+[V:1] !accent!=d2e/=B/ | 
+[V:2] G,,[G,=B,F][G,F] | 
+[V:1] !trill!c=B/c/=d/e/ | 
+[V:2] C,[G,CE][G,CE] | 
+[V:1] xxg/a/ & f=e/f/c- | 
+[V:2] A,,[A,CF]=D,, | 
+[V:1] g3- & c/=B/=e/^d/=d/^c/ | 
+[V:2] G,,zz[K:clef=treble] | 
+[V:1] g^f/g/=b/=a/ & =ccc- | 
+[V:2] z[=D=A][D^F] | 
+[V:1] =d=f2- & c=B/c/=e/d/ | 
+[V:2] z=D/=E/G/F/ & xG,G, | 
+[V:1] f=e/f/=a/g/ & _BBB- | 
+[V:2] _D[CF]=E | 
+[V:1] c_e2- & B=A/B/=d/c/ | 
+[V:2] _EC/=D/F/E/ & xF,F, | 
+[V:1] e=d/e/g/f/ & _AAA- | 
+[V:2] _C[B,E][B,=D][K:clef=bass] | 
+[V:1] B_d2 & AG/^F/G- | 
+[V:2] zB,B, & x_F,/E,/E, | 
+[V:1] =Ac2 & G^F/^E/F- | 
+[V:2] C=A,A, & E,E,/=D,/D, | 
+[V:1] ^G=B2 & F=F/=E/F- | 
+[V:2] =B,_A,A, & =D,D,_D, | 
+[V:1] c-c/d/ d/c/ & Fzz ||  
+[V:2] C,[A,CF][A,CF] ||

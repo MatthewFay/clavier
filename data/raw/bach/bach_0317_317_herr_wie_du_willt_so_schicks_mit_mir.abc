@@ -1,0 +1,77 @@
+X: 316
+T: 317. Herr, wie du willt, so schick's mit mir
+N: Derived from chor317.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 46156014
+%%humdrum-veritas-data 2096677100
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] c [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] C, | 
+[V:1] Bcdd | 
+[V:2] G3/^F/G^G | 
+[V:3] dcBB | 
+[V:4] G,A,G,/=F,/E, | 
+[V:1] cd!fermata!ef | 
+[V:2] E/C/=G!fermata!GG | 
+[V:3] c/f/B!fermata!cd | 
+[V:4] A,G,!fermata!CB, | 
+[V:1] edcB/A/ | 
+[V:2] GG/F/EF/E/ | 
+[V:3] cBc/e/d | 
+[V:4] CG,A,/G,/F,- | 
+[V:1] Bcd2 | 
+[V:2] DGAG/=F/ | 
+[V:3] gc2B | 
+[V:4] F,E,^F,G, | 
+[V:1] !fermata!c3 :|]  
+[V:2] !fermata!E3 :|]  
+[V:3] !fermata!G3 :|]  
+[V:4] !fermata!C,3 :|]  
+[V:1] c [I:setbarnb 6]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] C | 
+[V:1] d/e/fe/d/c | 
+[V:2] GABA | 
+[V:3] dcBe | 
+[V:4] B,A,^G,A,/=G,/ | 
+[V:1] d/c/B!fermata!AB | 
+[V:2] A3/G/!fermata!^FF | 
+[V:3] dd!fermata!dB | 
+[V:4] ^F,G,!fermata!D,^D, | 
+[V:1] GGde | 
+[V:2] EE/^F/GE | 
+[V:3] BB/c/=dA | 
+[V:4] E,/^F,/ G,/A,/B,^C | 
+[V:1] f/e/d!fermata!c=g | 
+[V:2] DE!fermata!E=G | 
+[V:3] AB!fermata!Ad | 
+[V:4] D^G,!fermata!A,B, | 
+[V:1] ef/e/d3/c/ | 
+[V:2] GF/G/ A/F/ G/A/ | 
+[V:3] cc/B/Ae | 
+[V:4] C/B,/ A,/G,/ F,/=D,/ E,/F,/ | 
+[V:1] Bcd2 | 
+[V:2] GGG3/F/ | 
+[V:3] dccB | 
+[V:4] G,/F,/ E,/C,/G,,2 | 
+[V:1] !fermata!c3 |]  
+[V:2] !fermata!E3 |]  
+[V:3] !fermata!G3 |]  
+[V:4] !fermata!C,3 |]

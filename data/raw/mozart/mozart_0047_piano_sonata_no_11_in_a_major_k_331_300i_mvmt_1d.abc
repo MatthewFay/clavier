@@ -1,0 +1,60 @@
+X: 46
+T: Piano Sonata No. 11 in A major, K 331 (300i), mvmt. 1d
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:31
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/09/29
+%%gracespace 0 6 6
+%%humdrum-veritas 4008294401
+%%humdrum-veritas-data 1294402721
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 6/8
+N: Derived from sonata11-1d.krn
+Q: "Variation III" 1/8=144
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] cBABcd e^dfe=dc | 
+[V:2] A,ECEA,E A,ECEA,E | 
+[V:1] BA^GABc d^ced=cB | 
+[V:2] E,EB,EE,E E,EB,EE,E | 
+[V:1] Ae^decA ^Gefe=dB | 
+[V:2] A,ECEA,E B,EDEB,E | 
+[V:1] BA^GABc[A4c4][G2B2] | 
+[V:2] CEB,EA,E E,E^DEE,E | 
+[V:1] [cc'][Bb][Aa][Bb][cc'][dd'] [ee'][^d^d'][ff'][ee'][=d=d'][cc'] | 
+[V:2] A,ECEA,E A,ECEA,E | 
+[V:1] [Bb][Aa][^G^g][Aa][Bb][cc'] [dd'][^c^c'][ee'][dd'][=c=c'][Bb] | 
+[V:2] E,EB,EE,E E,EB,EE,E | 
+[V:1] [Aa][^G^g][Aa][cc'][Bb][dd'] [cc'][Bb][cc'][ee'][dd'][ff'] | 
+[V:2] A,ECE^G,E A,ECEF,D | 
+[V:1] [ee'][^d^d'][ee'][Ee][^F^f][^G^g][A4a4]z2 :|]|:  
+[V:2] E,CA,CE,B, .A,,.C,.E,.A,A,,2 :|]|:  
+[V:1] A^GAa^g=g gfefef | 
+[V:2] C4^C2D6 & A,6A,6 | 
+[V:1] a^gagaf fe^dede | 
+[V:2] FEFEFD D=CB,CB,C & A,6A,6 | 
+[V:1] e=dcBAe fdBA^GB | 
+[V:2] CDEDC2 B,CDEF2 & A,6^G,A,B,CD2 | 
+[V:1] x6{/B/c/d/}c4B2 & BAcBdcA4^G2 | 
+[V:2] E2E2E2x6 & C2^G,2A,2^D,4E,2 | 
+[V:1] cBABcd e^dfe=dc | 
+[V:2] A,ECEA,E A,ECEA,E | 
+[V:1] BA^GABc d^ced=cB | 
+[V:2] E,EB,EE,E E,EB,EE,E | 
+[V:1] A^GAcBd cBcedf | 
+[V:2] A,ECE^G,E A,ECEF,D | 
+[V:1] e^deE^F^G AGAECE | 
+[V:2] E,CA,CE,B,[A,,4A,4]z2 | 
+[V:1] [Aa][^G^g][Aa][cc'][Bb][dd'] [cc'][Bb][cc'][ee'][de'][ff'] | 
+[V:2] A,,E,C,E,^G,,E, A,,E,C,E,F,,D, | 
+[V:1] [ee'][^d^d'][ee'][Ee][^F^f][^G^g][A4a4]z2 :|]  
+[V:2] E,,C,A,,C,E,,B,, .A,,,.C,,.E,,.A,,A,,,2 :|]

@@ -1,0 +1,90 @@
+X: 232
+T: No. 3.	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:24:05
+%%abc-edited-by Marta Lawrence
+%%abc-edited-by Emilia ZiÄtek
+%%abc-edited-by JÄdrzej MrÃ³z
+%%abcx-initial-encoding-date data edycji 2019-05-22
+%%humdrum-veritas 127215053
+%%humdrum-veritas-data 1278509545
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C|
+N: Derived from 028-1-BH-003.krn
+P: Vingt - quatre | PRÃLUDES | pour le Piano
+Q: "Vivace." 1/2=72
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: G
+[V:1] z16 | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] z16 | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] !accent!D4>z4[B6G6]z [ec] | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] [d12B12]z2 z [c'e] | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] [b16d16] | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] [g8B8]z8 | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] f15e & [^c16A16G16] | 
+[V:2] A,,E,A,B, ^CB,A,F EDCB, A,B,CE, | 
+[V:1] !arpeggio!a8x8 & !arpeggio![d4F4]z4z8 | 
+[V:2] D,,A,,D,E, F,E,D,B, A,G,F,E, D,E,F,B,, | 
+[V:1] f15e & [^c16A16G16] | 
+[V:2] A,,E,A,B, ^CB,A,F EDCB, A,B,CE, | 
+[V:1] !arpeggio!a8x8 & !arpeggio![=c4F4]z4z8 | 
+[V:2] D,,A,,D,E, F,E,D,B, A,G,F,E, D,E,F,A,, | 
+[V:1] z4z2 z [c'a][e6c6]z [dc] | 
+[V:2] D,,A,,D,E, F,E,D,B, A,G,F,E, D,E,F,A,, | 
+[V:1] D4>z4[B6G6]z [ec] | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] [d12B12]z2 z [c'e] | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] [b16d16] | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] [g8B8]z8 | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] =f8f7f & B16 | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] =f4>>{/fg} f4e7^d & B16 | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,G,, | 
+[V:1] !arpeggio![e16c16G16E16]- | 
+[V:2] C,,G,,C,D, E,D,C,A, G,=F,E,D, C,D,E,G,, | 
+[V:1] [e16c16G16E16] | 
+[V:2] C,,G,,C,D, E,D,C,A, G,=F,E,D, C,D,E,G,, | 
+[V:1] c8c7c & [G16E16] | 
+[V:2] C,,G,,C,D, E,D,C,A, G,=F,E,D, C,D,E,G,, | 
+[V:1] c15B & [G16E16] | 
+[V:2] C,,G,,C,D, E,D,C,A, G,=F,E,D, C,D,E,G,, | 
+[V:1] [B16G16E16] | 
+[V:2] C,,G,,C,D, E,D,C,A, G,^F,E,D, C,D,E,G,, | 
+[V:1] A15B & [G16E16] | 
+[V:2] C,,G,,C,D, E,D,C,A, G,F,E,D, C,D,E,G,, | 
+[V:1] !arpeggio![G16D16] & !arpeggio!A,4z4z8 | 
+[V:2] D,,A,,C,D, E,D,C,B, A,G,E,D, C,D,E,A,, | 
+[V:1] F15G & [D16C16] | 
+[V:2] D,,A,,D,E, F,E,D,B, A,G,F,E, D,E,F,A,, | 
+[V:1] [G16D16B,16] | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] z16 | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] B,DGA BAGe dcBA GABD | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] B,DGA BAGe dcBA GABD | 
+[V:2] G,,D,G,A, B,A,G,E DCB,A, G,A,B,D, | 
+[V:1] B,DGA GABD B,DGA GABD | 
+[V:2] G,,D,G,A, G,A,B,D, G,,D,G,A, G,A,B,D, | 
+[V:1] B,DGA GABd gabd' g'a'b'd'' | 
+[V:2] G,,D,G,A, G,A,B,D[K:clef=treble] GABd gabd' | 
+[V:1] b'4z4!arpeggio![B8G8D8B,8] | 
+[V:2] b4[K:clef=bass]z4!arpeggio![G,8D,8G,,8] | 
+[V:1] !fermata!!arpeggio![B8G8D8B,8] |]  
+[V:2] !arpeggio![G,8D,8G,,8] |]

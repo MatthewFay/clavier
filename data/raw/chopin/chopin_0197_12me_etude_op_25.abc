@@ -1,0 +1,190 @@
+X: 197
+T: 12me ETUDE.	 Op. 25
+C: F. Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:39
+%%abc-edited-by Emilia ZiÄtek
+%%abc-edited-by Antoni SzymaÅski
+%%abc-edited-by Tomasz Sierawski
+%%abcx-initial-encoding-date 2018-11-07
+%%humdrum-veritas 4113210038
+%%humdrum-veritas-data 2005195785
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C
+N: Derived from 025_7-12-1a-BH-012.krn
+P: Douze ETUDES pour le Piano
+Q: "Allegro molto con fuoco." 1/4=160
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Eb
+[V:1] !accent!E,G,EE Geeg !accent!e'gee GEEG, | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,, | 
+[V:1] !accent!D,A,DD Adda !accent!d'add ADDA, | 
+[V:2] C,,F,,C,C, F,CCF cFCC F,C,C,F,, | 
+[V:1] !accent!F,CFF cffc' !accent!f'c'ff cFFC | 
+[V:2] C,,A,,C,C, A,CCA cACC A,C,C,A,, | 
+[V:1] !accent!E,G,EE Geeg !accent!e'gee GEEG, | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,, | 
+[V:1] !accent!D,A,DD Adda !accent!d'add ADDA, | 
+[V:2] C,,F,,C,C, F,CCF cFCC F,C,C,F,, | 
+[V:1] !accent!E,A,EE Aeea !accent!e'aee AEEA, | 
+[V:2] C,,F,,=B,,C, F,=B,CF =BFCB, F,C,B,,F,, | 
+[V:1] !accent!C,E,CC EcEC EBEC EAEC & x4x2< c2 x2< B2 x A3 | 
+[V:2] C,,G,,C,C, G,CG,C, G,CG,C, G,CG,C, | 
+[V:1] DGD=B, _DGD_B, CFC=A, =B,FB,_A, & x2< G2 x2< G2 x2< F2 x F3 | 
+[V:2] G,=B,G,C, G,_B,G,C, F,=A,F,C, F,_A,F,C, | 
+[V:1] !accent!E,G,EE Geeg !accent!e'gee GEEG, | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,, | 
+[V:1] !accent!D,A,DD Adda !accent!d'add ADDA, | 
+[V:2] C,,F,,C,C, F,CCF cFCC F,C,C,F,, | 
+[V:1] !accent!F,CFF cffc' !accent!f'c'ff cFFC | 
+[V:2] C,,A,,C,C, A,CCA cACC A,C,C,A,, | 
+[V:1] !accent!=E,C=EE c=eec' !accent!=e'c'ee cEEC | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,, | 
+[V:1] !accent!_A,_DAA _daa_d' a'd'aa dAAD | 
+[V:2] G,,_D,F,F, _DFFd !accent!fdFF DF,F,D, | 
+[V:1] !accent!G,=B,GG =Bgg=b !accent!g'bgg BGGB, | 
+[V:2] G,,=D,F,G, DFGd fdGF DG,D,G,, | 
+[V:1] !accent!=E,G,=EE G=eeg =e'e'g'=e'' g'e'e'g | 
+[V:2] C,,G,,C,C, G,CCG[K:clef=treble] ccgc' gccG[K:clef=bass] | 
+[V:1] =eeG=E !accent!EG,=E,G, D,G,!accent!DG, F,G,!accent!GG, & x4E4x4x4 | 
+[V:2] CCG,C, C,G,,C,,G,, !accent!=B,,G,,C,,G,, !accent!D,G,,C,,G,, | 
+[V:1] !accent!=E,G,=EE G=eeg =e'e'g'=e'' g'e'e'g & x3 E2 x3x8 | 
+[V:2] C,,G,,C,C, G,CCG[K:clef=treble] ccgc' gccG[K:clef=bass] | 
+[V:1] =eeG=E EG,=E,G, !accent!D,G,DG, !accent!C,G,CG, & x4x4x2D4C2 | 
+[V:2] CCG,C, C,G,,C,,G,, =B,,G,,C,,G,, =A,,G,,C,,G,, | 
+[V:1] !accent!D,G,DD Gddg d'd'g'd'' g'd'd'g & x3 D2 x3x8 | 
+[V:2] C,,G,,=B,,C, G,=B,CG[K:clef=treble] =Bcg=b gcBG[K:clef=bass] | 
+[V:1] ddGD !accent!DG,D,G, !accent!C,F,CF, !accent!C,F,=A,F, & x4D4x2C4=A,2 | 
+[V:2] C=B,G,C, =B,,G,,C,,G,, =A,,F,,C,,F,, A,,F,,C,,F,, | 
+[V:1] !accent!C,F,CC Fccf !accent!c'fcc FCCF, | 
+[V:2] C,,_A,,C,C, A,CCA cACC A,C,C,A,, | 
+[V:1] !accent!C,=E,CC =Ecc=e !accent!c'ecc ECCE, | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,, | 
+[V:1] !accent!C,_E,CC Ecce c'c'e'c'' e'c'c'e | 
+[V:2] A,,,E,,A,,A,, E,A,A,E[K:clef=treble] AAea eAAE[K:clef=bass] | 
+[V:1] ccEC !accent!CE,C,E, !accent!B,,E,!accent!B,E, !accent!_D,E,!accent!EE, & x4C4x8 | 
+[V:2] A,A,E,A,, A,,E,,A,,,E,, G,,E,,A,,,E,, B,,E,,A,,,E,, | 
+[V:1] !accent!C,E,CC Ecce c'c'e'c'' e'c'c'e & x3 C2 x3x8 | 
+[V:2] A,,,E,,A,,A,, E,A,A,E[K:clef=treble] AAea eAAE[K:clef=bass] | 
+[V:1] ccEC !accent!CE,C,E, !accent!B,,E,B,E, !accent!A,,E,A,E, & x4C4x4x4 | 
+[V:2] A,A,E,A,, A,,E,,A,,,E,, G,,E,,A,,,E,, F,,E,,A,,,E,, | 
+[V:1] !accent!B,,E,B,B, EBBe bbe'b' e'bbe & x3B,2x11 | 
+[V:2] A,,,E,,G,,A,, E,G,A,E[K:clef=treble] GAeg eAGE[K:clef=bass] | 
+[V:1] BBEB, B,E,B,,E, !accent!A,,_D,A,D, !accent!A,,D,F,D, & x4B,4x2x4F,2 | 
+[V:2] A,G,E,A,, G,,E,,A,,,E,, F,,_D,,A,,,D,, F,,D,,A,,,_D, | 
+[V:1] !accent!A,,_D,A,A, _DAA_d !accent!adAA DA,A,D, | 
+[V:2] A,,,_G,,A,,A,, _F,A,A,_F AFA,A, F,A,,A,,_F,, | 
+[V:1] !accent!A,,C,A,A, CACA, !accent!^F,,C,^F,F, C^FCF, | 
+[V:2] A,,,E,,A,,A,, E,A,E,A,, A,,,D,,A,,A,, D,A,D,A,, | 
+[V:1] !accent!G,,=B,,G,G, =B,GG=B !accent!gBGG B,G,G,B,, | 
+[V:2] G,,,D,,G,,G,, D,G,G,D GDG,G, D,G,,G,,D,, | 
+[V:1] !accent!A,,C,A,A, CAAc !accent!acAA CA,A,C, | 
+[V:2] G,,,E,,G,,G,, E,G,G,E !accent!GEG,G, E,G,,G,,E,, | 
+[V:1] !accent!C,F,CC Fccf !accent!c'fcc FCCF, | 
+[V:2] G,,,D,,A,,A,, D,A,A,D ADA,A, D,A,,A,,D,, | 
+[V:1] !accent!=B,,F,=B,B, F=BBf !accent!=bfBB FB,B,F, | 
+[V:2] G,,,D,,G,,G,, D,G,G,D GDG,G, D,G,,G,,D,, | 
+[V:1] !accent!=B,,F,=B,B, F=BBf !accent!=bfBB FB,B,F, | 
+[V:2] G,,,D,,G,,G,, D,G,G,D GDG,G, D,G,,G,,D,, | 
+[V:1] !accent!C,F,CC Fccf !accent!c'fcc FCCF, | 
+[V:2] A,,,F,,A,,A,, F,A,A,F AFA,A, F,A,,A,,F,, | 
+[V:1] !accent!E,^F,EE ^Fee^f !accent!e'fee FEEF, | 
+[V:2] =A,,,^F,,=A,,A,, F,=A,A,F =AFA,A, F,A,,A,,F,, | 
+[V:1] !accent!D,G,DD Gddg !accent!d'gdd GDDA, | 
+[V:2] B,,,G,,B,,B,, G,B,B,G BGB,B, G,B,,B,,G,, | 
+[V:1] !accent!D,A,DD Adda !accent!d'add ADDA, | 
+[V:2] =B,,,F,,=B,,B,, F,=B,B,F =BFB,B, F,B,,B,,F,, | 
+[V:1] !accent!E,A,EE Aeea !accent!e'aee AEEA, | 
+[V:2] C,,F,,C,C, F,CCF cFCC F,C,C,F,, | 
+[V:1] G,CGG cggc' !accent!g'c'gg cGGC | 
+[V:2] E,,A,,E,E, A,EEA eAEE A,E,E,A,, | 
+[V:1] !accent!F,CFF cffc' !accent!f'=bff =BFF=B, | 
+[V:2] D,,A,,D,D, A,DDA dADD A,D,D,A,, | 
+[V:1] !accent!A,=B,AA =Baa=b !accent!a'baa BAA=B, | 
+[V:2] G,,D,F,G, DFGd fdGF DG,F,D, | 
+[V:1] !accent!G,=B,GG =Bgg=b !accent!g'bgg BGGB, | 
+[V:2] G,,D,F,G, DFGd fdGF DG,F,D, | 
+[V:1] !accent!G,,=B,,G,G, =B,GB,G, !accent!G,,C,G,G, CGCG, | 
+[V:2] G,,,D,,G,,G,, D,G,D,G,, A,,,C,,A,,A,, C,A,C,A,, | 
+[V:1] !accent!G,,^C,G,G, ^CGCG, !accent!G,,C,G,C, !accent!G,,D,G,D, | 
+[V:2] =A,,,^C,,=A,,A,, ^C,=A,C,A,, _B,,,C,,B,,C,, =B,,,D,,=B,,D,, | 
+[V:1] !accent!E,G,EE Geeg !accent!e'gee GEEG, | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,, | 
+[V:1] !accent!D,A,DD Adda !accent!d'add ADDA, | 
+[V:2] C,,F,,C,C, F,CCF cFCC F,C,C,F,, | 
+[V:1] !accent!F,CFF cffc' !accent!f'c'ff cFFC | 
+[V:2] C,,A,,C,C, A,CCA cACC A,C,C,A,, | 
+[V:1] !accent!E,G,EE Geeg !accent!e'gee GEEG, | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,, | 
+[V:1] !accent!D,A,DD Adda !accent!d'add ADDA, | 
+[V:2] C,,F,,C,C, F,CCF cFCC F,C,C,F,, | 
+[V:1] !accent!E,A,EE Aeea !accent!e'aee AEEA, | 
+[V:2] C,,F,,=B,,C, F,=B,CF =BFCB, F,C,B,,F,, | 
+[V:1] !accent!C,E,CC EcEC EBEC EAEC & x4x2< c2 x2< B2 x A3 | 
+[V:2] C,,G,,C,C, G,CG,C, G,CG,C, G,CG,C, | 
+[V:1] DGD=B, _DGD_B, CFC=A, =B,FB,_A, & x2< G2 x2< G2 x2< F2 x F3 | 
+[V:2] G,=B,G,C, G,_B,G,C, F,=A,F,C, F,_A,F,C, | 
+[V:1] !accent!E,G,EE Geeg !accent!e'gee GEEG, | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,, | 
+[V:1] !accent!D,A,DD Adda !accent!d'add ADDA, | 
+[V:2] C,,F,,C,C, F,CCF cFCC F,C,C,F,, | 
+[V:1] !accent!=E,B,=EE B=eeb !accent!=e'bee BEEB,- | 
+[V:2] C,,G,,C,C, G,CCG cGCC G,C,C,G,,- | 
+[V:1] [B,F,]_A,FF Affa !accent!f'aff AFFA, | 
+[V:2] [G,,_D,,]_A,,_D,D, A,_DDA _dADD A,D,D,A,, | 
+[V:1] !accent!F,A,FF Affa !accent!f'aff AFFA, | 
+[V:2] _D,,A,,_D,D, A,_DDA _dADD A,D,D,A,, | 
+[V:1] !accent!=E,B,=EE B=eeb =e'bee BEEB, | 
+[V:2] _D,,G,,_D,D, G,_DDG _dGDD G,D,D,G,, | 
+[V:1] !accent!F,=B,FF =Bff=b !accent!f'bff BFFB, | 
+[V:2] _D,,_A,,_D,D, A,_DDA _dADD A,D,D,A,,- | 
+[V:1] !accent!G,=B,GG =BgBG !accent!A,B,AA BaBA | 
+[V:2] [A,,=D,,]G,,D,D, G,DG,D, D,,F,,D,D, F,DF,D, | 
+[V:1] !accent!G,CGG cggc' !accent!g'c'gg cGGC | 
+[V:2] E,,C,E,E, CEEc ecEE CE,E,C, | 
+[V:1] !accent!CGcc gc'c'g' !accent!c''g'c'c' gccG | 
+[V:2] =E,,C,=E,E,[K:clef=treble] C=EEc =ecEE[K:clef=bass] C_E,E,C, | 
+[V:1] !accent!B,CBB cbcB !accent!A,CAA cacA | 
+[V:2] F,,C,F,F, CFCF, F,,C,F,F, CFCF, | 
+[V:1] !accent!F,A,FF AfAF !accent!D,A,DD AdAD | 
+[V:2] F,,C,F,F, CFCF, F,,C,F,F, CFCF, | 
+[V:1] !accent!G,CGG cggc' !accent!g'c'gg cGGC | 
+[V:2] G,,E,G,G, EGGe geGG EG,G,E, | 
+[V:1] A,CAA caac' a'c'aa cAAC | 
+[V:2] G,,E,G,G, EGGe geGG EG,G,E, | 
+[V:1] !accent!A,=B,AA =Baa=b !accent!a'baa BAA=B, | 
+[V:2] G,,D,F,G, DFGd fdGF DG,F,D, | 
+[V:1] !accent!G,=B,GG =Bgg=b !accent!g'bgg BGGB, | 
+[V:2] G,,D,F,G, DFGd fdGF DG,D,G,, | 
+[V:1] !accent!=E,G,=EE G=eeg =e'e'g'=e'' g'e'e'g | 
+[V:2] C,,G,,C,C, G,CCG[K:clef=treble] ccgc' gccG[K:clef=bass] | 
+[V:1] =eeG=E !accent!EA,=E,G, !accent!D,G,!accent!DG, !accent!F,G,!accent!GG, & x4E4x8 | 
+[V:2] CCG,C, C,G,,C,,G,, =B,,G,,C,,G,, D,G,,C,,G,, | 
+[V:1] !accent!=E,G,=EE G=eeg =e'e'g'=e'' g'e'e'g | 
+[V:2] C,,G,,C,C, G,CCG[K:clef=treble] ccgc' gccG[K:clef=bass] | 
+[V:1] =eeG=E !accent!EG,=E,G, !accent!D,G,DG, !accent!C,G,CG, & x10D4C2 | 
+[V:2] CCG,C, C,G,,C,,G,, =B,,G,,C,,G,, =A,,G,,C,,G,, | 
+[V:1] !accent!D,G,DD Gddg d'd'g'd'' g'd'd'g & x3 D2 x3x8 | 
+[V:2] C,,G,,=B,,C, G,=B,CG[K:clef=treble] =Bcg=b gcBG[K:clef=bass] | 
+[V:1] ddGD !accent!DG,D,G, !accent!C,F,CF, !accent!C,F,=A,F, & x4D4x2C4=A,2 | 
+[V:2] C=B,G,C, =B,,G,,C,,G,, =A,,F,,C,,F,, A,,F,,C,,F,, | 
+[V:1] !accent!C,F,CC Fccf c'c'f'c'' f'c'c'f | 
+[V:2] C,,_A,,C,C, A,CCA[K:clef=treble] ccac' accA[K:clef=bass] | 
+[V:1] ccFC !accent!CF,C,F, !accent!C,F,CF, !accent!C,F,=DF, & x4C4x2C4=D2 | 
+[V:2] CCA,C, C,A,,C,,A,, C,,A,,C,A,, C,,A,,C,A,, | 
+[V:1] !accent!C,F,CC Fccf c'c'f'c'' f'c'c'f | 
+[V:2] C,,A,,C,C, A,CCA[K:clef=treble] ccac' accA[K:clef=bass] | 
+[V:1] ccFC !accent!CF,C,F, !accent!C,F,CF, !accent!C,F,=DF, & x4C4x2C4=D2 | 
+[V:2] CCA,C, C,A,,C,,A,, C,,A,,C,A,, C,,A,,C,A,, | 
+[V:1] =E,G,=EG, E,G,EG, E,G,EG, E,G,EG, | 
+[V:2] C,,G,,C,G,, !accent!G,,,G,,C,G,, !accent!C,,G,,C,G,, !accent!G,,,G,,C,G,, | 
+[V:1] =E,G,=EG, E,G,EG, E,G,EG, E,G,EG, | 
+[V:2] C,,G,,C,G,, !accent!G,,,G,,C,G,, !accent!C,,G,,C,G,, !accent!G,,,G,,C,G,, | 
+[V:1] =E,4z4!accent!!fermata![=e8c8G8=E8] |]  
+[V:2] [C,,4C,,,4]z4!fermata![C8G,8C,8] |]

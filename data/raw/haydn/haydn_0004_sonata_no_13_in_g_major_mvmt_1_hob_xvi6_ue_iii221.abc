@@ -1,0 +1,122 @@
+X: 4
+T: Sonata No. 13 in G major, mvmt. 1 (Hob. XVI:6), UE III:22.1
+C: Franz Joseph Haydn
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/02/22 10:41:03
+%%abc-copyright 2021 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2008/07/10
+%%gracespace 0 6 6
+%%humdrum-veritas 4264648475
+%%humdrum-veritas-data 3514538445
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 4/4
+N: Derived from sonata13-1.krn
+Q: "Allgero." 1/4=80
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: G
+[V:1] (3dBG [I:setbarnb 1]| 
+[V:2] z2 | 
+[V:1] !wedge!g2!wedge!d2!wedge!d2!wedge!d2 c/B/c/d/e2- e2Ac | 
+[V:2] z2 G,2B,2G,2 A,2>C2 F,2F2 | 
+[V:1] cBed cBAG (3FGA!wedge!G2 z2 (3DB,G, | 
+[V:2] G2CD E2C2 !wedge!D2!wedge!G,2z4 | 
+[V:1] !wedge!G2!wedge!G2!wedge!G2!wedge!G2 F/E/F/G/ A/G/A/B/=c4 | 
+[V:2] z2 G,,>A,, B,,2^C,2D,4z> D,E,3/F,/ | 
+[V:1] (3BAG (3dcB (3gfe (3dcB B2A2 z2 [f3/a3/][f/a/] | 
+[V:2] G,4z2[K:clef=treble] G2 G2F2z4 & x4x2 D2D4x4 | 
+[V:1] [fa]>[eg][df]>f f>ed>[fa] [fa]>[eg][df]>f f>ed3/d/ | 
+[V:2] z2 z> A A>GF2 z2 z> A A>GF2 & x2 x> DD4x2 x> DD4 | 
+[V:1] ^d!wedge!e!wedge!e!wedge!ee4{/^CEG A^ce}g4-g/f/e/=d/c/B/A/G/ | 
+[V:2] [^C2G2][C2G2][C2G2][C2G2]z4[K:clef=bass]A,2^C2 | 
+[V:1] F/A/B/^c/d/e/f/g/a4-a>^ab>^c' d'>df3/=a/ | 
+[V:2] D4z2 !wedge![F,,2F,2][G,,4G,4]z2 !wedge![^G,,2^G,2] | 
+[V:1] {/=g//} fe/f/e2 a2>!wedge!A2 ^G/F/G/A/B/A/B/^c/ d3!wedge!D | 
+[V:2] !wedge!A,2!wedge!A,,2 z A,/B,/^C!wedge!A, !wedge!E2!wedge!E,2 z E,/F,/^G,!wedge!E, | 
+[V:1] ^C/B,/C/D/E/D/E/F/ =G2>!wedge!G,2 F,!accent!C2D G,!accent!C2D | 
+[V:2] !wedge!A,2!wedge!A,,2 z A,,/B,,/^C,!wedge!A,, !wedge!D,2!wedge!D,,2 !wedge!E,,2!wedge!E,2 | 
+[V:1] A,^C2D !wedge!B,E/F/G!wedge!E {/D}^C4a4 | 
+[V:2] !wedge!F,2!wedge!F,,2 !wedge!G,2!wedge!E,2 !wedge!A,2!wedge!A,,2 [A,^C][A,C][A,C][A,C] | 
+[V:1] !trill!^g4{/a}!trill!=g4{/g}!trill!f4{/f}!trill!=f4{/e/f/} | 
+[V:2] [A,D][A,D][A,D][A,D] [A,E][A,E][A,E][A,E] [A,D][A,D][A,D][A,D] [^G,D][G,D][G,D][G,D] | 
+[V:1] e2!wedge!a2!trill!=f4{/e/f/} !wedge!e2 z> d A2!trill!B2 {/A/B/} | 
+[V:2] [A,^C][A,C][A,C][A,C] [^G,D][G,D][G,D][G,D] !wedge![A,2C2] z2 (3^F,A,D (3=G,B,D | 
+[V:1] (3:2:6!wedge!Aag^fed A2!trill!B2 {/A/B/} (3:2:6!wedge!Aagfed (3:2:6!wedge!Bbagfe | 
+[V:2] !wedge!F,2 z2 (3F,A,D (3G,B,D !wedge!F,2 z2 !wedge![G,,2G,2] z2 | 
+[V:1] (3:2:6fgadge!trill!e4{/d/e/}d4a3(3g/=f/e/ | 
+[V:2] z2 !wedge![B,,2B,2]!wedge![G,,2G,2]!wedge![A,,2A,2] !wedge!D,2!wedge!D,,2[K:clef=treble] (3^CEA (3CEA | 
+[V:1] =f2e2 a3(3g/=f/e/ f2e2 a3(3g/f/e/ | 
+[V:2] (3D=FA (3^CEA (3CEA (3CEA (3DFA (3CEA (3CEA (3CEA | 
+[V:1] =f2d>e f>ef>^g !wedge!a2 z> d A2!trill!B2 {/A/B/} | 
+[V:2] (3D=FA (3DFA (3DFA (3DFA !wedge!A,2[K:clef=bass] z2 (3^F,A,D (3G,B,D | 
+[V:1] (3:2:6!wedge!Aag^fed A2!trill!B2 {/A/B/} (3:2:6!wedge!Aagfed (3:2:6!wedge!Bbagfe | 
+[V:2] !wedge!F,2 z2 (3F,A,D (3G,B,D !wedge!F,2 z2 !wedge![G,,2G,2] z2 | 
+[V:1] (3:2:6fad'dge!trill!e4{/d/e/}d4z2 :|]|:  
+[V:2] z2 !wedge![B,,,2B,,2]!wedge![G,,,2G,,2]!wedge![A,,,2A,,2] !wedge!D,2!wedge!A,,2!wedge!D,,2 :|]|:  
+[V:1] (3afd [I:setbarnb 19]| 
+[V:2] z2 | 
+[V:1] !wedge!d'2!wedge!a2!wedge!a2!wedge!a2 g/f/g/a/b2- b2eg | 
+[V:2] z2[K:clef=treble] D2F2D2 E2>G2 ^C2^c2 | 
+[V:1] gfba gfed (3^cde!wedge!d2 z2 (3dBG | 
+[V:2] d2GA !wedge!B2!wedge!G2 !wedge!A2!wedge!D2z4[K:clef=bass] | 
+[V:1] !wedge!g2!wedge!g2!wedge!g2!wedge!g2!trill!=f4-f3e/d/ | 
+[V:2] (3G,B,D (3G,B,D (3G,B,D (3G,B,D (3^G,B,D (3G,B,D (3G,B,D (3G,B,D | 
+[V:1] =c2 z E z ^F z ^G A2c2!wedge!c2!wedge!c2 | 
+[V:2] A,2 !wedge![C,2C2]!wedge![D,2D2]!wedge![E,2E2] (3A,CE (3A,CE (3=G,CE (3G,CE | 
+[V:1] !trill!c3B/c/ a2c2 !trill!B3A/B/ g2B2 | 
+[V:2] (3F,A,D (3F,A,D (3F,A,D (3F,A,D (3G,B,D (3G,B,D (3E,G,C (3E,G,C | 
+[V:1] !trill!A3G/A/ f2A2 G2>e2 B2!trill!c2 {/B/c/} | 
+[V:2] (3F,A,C (3F,A,C (3^D,F,B, (3D,F,B, (3E,G,B, (3E,G,B, (3G,B,E (3A,CE | 
+[V:1] (3:2:6!wedge!Bbagfe B2!trill!c2 {/B/c/} (3:2:6!wedge!Bbagfe {/FAc ^dfa}c'4 | 
+[V:2] G,4(3G,B,E (3A,CEG,4z4 | 
+[V:1] b2a/g/f/e/!trill!f4{/e/f/}e4z4 | 
+[V:2] z2 !wedge![G,,2G,2]!wedge![A,,2A,2]!wedge![B,,2B,2][K:clef=treble] z [EG][EG][EG] [EG][EG][EG][EG] | 
+[V:1] g2-g/=f/e/d/ !wedge!c2 z2 g2-g/f/e/d/ !wedge!c2 z2 | 
+[V:2] [EG][EG][EG][EG] [EG][EG][EG][EG] [EG][EG][EG][EG] [EG][EG][EG][EG] | 
+[V:1] g2-g/=f/e/d/ !wedge!c2!wedge!c2 !trill!c3B/c/ a2!wedge!c2 | 
+[V:2] [EG][EG][EG][EG] [EG][EG][EG][EG] [D^F][DF][DF][DF] [DF][DF][DF][DF] | 
+[V:1] !trill!B3A/B/ g2B2 !trill!c3B/c/ (3:2:6agfedc | 
+[V:2] [DG][DG][DG][DG] [DG][DG][DG][DG] [DF][DF][DF][DF] [DF][DF][DF][DF] | 
+[V:1] !trill!B3A/B/ (3:2:6gfedcB B2!wedge!A2 z2 [b3/d'3/][b/d'/] | 
+[V:2] [DG][DG][DG][DG] [DG][DG][DG][DG] G2F2z4[K:clef=bass] & x8D4x4 | 
+[V:1] [bd']>[ac'][gb]>b b>ag>[bd'] [bd']>[ac'][gb]>b b>ag3/g/ | 
+[V:2] z2 z> D D>CB,2 z2 z> D D>CB,2 & x2 x> G,G,4x2 x> G,G,4 | 
+[V:1] ^g!wedge!a!wedge!a!wedge!aa4{/FAc dfa}c'4-c'/b/a/=g/f/e/d/c/ | 
+[V:2] !wedge![F,2C2]!wedge![F,2C2]!wedge![F,2C2]!wedge![F,2C2]z4!wedge![D,,2D,2]!wedge![F,,2F,2] | 
+[V:1] B/d/e/f/g/a/b/c'/ d'!wedge!dd^d ef/^g/a/g/a/b/ c'!wedge!cc^c | 
+[V:2] [G,,4G,4]z2 !wedge![B,,2B,2][C,4C4]z2 !wedge![A,,2A,2] | 
+[V:1] =de/f/=g/f/g/a/ b!wedge!B!wedge!BB =cd/e/f/e/f/g/ a!wedge!AA^A | 
+[V:2] [B,,4B,4]z2 !wedge![G,,2G,2][A,,4A,4]z2 !wedge![F,,2F,2] | 
+[V:1] Bc/d/e/d/e/f/ gB!wedge!B!wedge!B B2Af g/f/g/a/b!wedge!B | 
+[V:2] [G,,4G,4]z2[K:clef=treble] G2 G2F2 z2 G2 & x4x2 ^C2D4x2 C2 | 
+[V:1] B2A2 a2>!wedge!=c2 B/A/B/c/d/c/d/e/ d3!wedge!G | 
+[V:2] G2F2 z D/E/F!wedge!D !wedge!G2!wedge!G,2[K:clef=bass] z G,/A,/B,!wedge!G, & D4x4x4x4 | 
+[V:1] F/E/F/G/A/G/A/B/ c2>!wedge!C2 B,/A,/B,/C/D/C/D/E/ D3!wedge!G, | 
+[V:2] !wedge!D2!wedge!D,2 z D,/E,/F,!wedge!D, !wedge!G,2!wedge!G,,2 z G,,/A,,/B,,!wedge!G,, | 
+[V:1] F,/E,/F,/G,/A,/G,/A,/B,/ C2>!wedge!C2 B,F2G CF2G | 
+[V:2] D,2!wedge!D,,2 z D,/E,/F,!wedge!D, !wedge!G,2!wedge!G,,2 !wedge!A,,2!wedge!A,2 | 
+[V:1] DF2G !wedge!EA/B/c!wedge!A {/G}F4d4 | 
+[V:2] !wedge!B,2!wedge!B,,2 !wedge!C,2!wedge!A,,2 !wedge!D,2!wedge!D,,2 [D,F,][D,F,][D,F,][D,F,] | 
+[V:1] !trill!^c4{/c}!trill!=c4{/c}!trill!B4{/c}!trill!_B4{/A/=B/} | 
+[V:2] [D,G,][D,G,][D,G,][D,G,] [D,A,][D,A,][D,A,][D,A,] [D,G,][D,G,][D,G,][D,G,] [^C,G,][C,G,][C,G,][C,G,] | 
+[V:1] A2!wedge!d2!trill!_B4{/A/B/} !wedge!A2 z> G D2!trill!E2 {/E/F/} | 
+[V:2] [D,F,][D,F,][D,F,][D,F,] [^C,G,][C,G,][C,G,][C,G,] !wedge![D,2F,2] z2 (3=B,,D,G, (3=C,E,G, | 
+[V:1] (3:2:6!wedge!DdcBAG D2!trill!E2 {/D/E/} (3:2:6!wedge!DdcBAG (3:2:6EedcBA | 
+[V:2] !wedge!B,,2 z2 (3B,,D,G, (3C,E,G, !wedge!B,,2 z2 !wedge![C,,2C,2] z2 | 
+[V:1] (3:2:6BcdGcA!trill!A4{/G/A/} G2 z2 d'3(3c'/_b/a/ | 
+[V:2] z2 !wedge![E,,2E,2]!wedge![C,,2C,2]!wedge![D,,2D,2] !wedge!G,,2!wedge!G,,,2 (3F,A,D (3F,A,D | 
+[V:1] _b2a2 d'3(3c'/b/a/ b2a2 d'3(3c'/b/a/ | 
+[V:2] (3G,_B,D (3F,A,D (3F,A,D (3F,A,D (3G,B,D (3F,A,D (3F,A,D (3F,A,D | 
+[V:1] _b2g>a b>ab>^c' !wedge!d'2 z> G D2!trill!E2 {/D/E/} | 
+[V:2] (3G,_B,D (3G,B,D (3G,B,D (3G,B,D !wedge!D,2 z2 (3=B,,D,G, (3C,E,G, | 
+[V:1] (3:2:6!wedge!Ddc=BAG D2!trill!E2 {/D/E/} (3:2:6!wedge!DdcBAG (3:2:6!wedge!EedcBA | 
+[V:2] !wedge!B,,2 z2 (3B,,D,G, (3C,E,G, !wedge!B,,2 z2 !wedge![C,,2C,2] z2 | 
+[V:1] (3:2:6BdgGcA!trill!A4{/G/A/}G4z2 :|]  
+[V:2] z2 !wedge![E,,2E,2]!wedge![C,,2C,2]!wedge![D,,2D,2] !wedge!G,,2!wedge!D,,2!wedge!G,,,2 :|]

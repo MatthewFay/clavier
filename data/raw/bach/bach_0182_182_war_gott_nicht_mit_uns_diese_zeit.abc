@@ -1,0 +1,69 @@
+X: 181
+T: 182. W\"ar Gott nicht mit uns diese Zeit
+N: Derived from chor182.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2840058176
+%%humdrum-veritas-data 1026840569
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Bb
+[V:1] GA [I:setbarnb 1]| 
+[V:2] D2 | 
+[V:3] Bc | 
+[V:4] G,,2 | 
+[V:1] B2=B2c2d2 | 
+[V:2] G2G2G2G2 | 
+[V:3] d2d2e2d2 | 
+[V:4] G,_A, G,F, E,D, C,=B,, | 
+[V:1] c2=B2!fermata!c2c2 | 
+[V:2] E2D2!fermata!C2GA | 
+[V:3] Gg2f!fermata!e2e2 | 
+[V:4] C,E,G,2!fermata!C,2C,2 | 
+[V:1] _BA GA Bcd2 | 
+[V:2] _BB, B,C DE FG | 
+[V:3] f2g2fe dB | 
+[V:4] D,2E,2D,C,B,,E,- | 
+[V:1] cBc2!fermata!B2 :|]  
+[V:2] AB2A!fermata!F2 :|]  
+[V:3] f2gf/e/!fermata!d2 :|]  
+[V:4] E,D,E,F,!fermata!B,,2 :|]  
+[V:1] c2 [I:setbarnb 5]| 
+[V:2] FE | 
+[V:3] c2- | 
+[V:4] A,,2 | 
+[V:1] d2cBA2B2 | 
+[V:2] D=E FGC2F2 | 
+[V:3] cB AGF3G | 
+[V:4] B,,C, D,=E, F,_E,D,2 | 
+[V:1] cBA2!fermata!G2G2 | 
+[V:2] _E2A,D!fermata!D2D2 | 
+[V:3] AG2^F!fermata!B2=B2 | 
+[V:4] C,2D,2!fermata!G,,2G,F, | 
+[V:1] c2=B2c2dc | 
+[V:2] G_A GFE2D^F | 
+[V:3] c2d2GA _BA | 
+[V:4] E,2D,2C,2G,,2 | 
+[V:1] BAG2!fermata!F2F2 | 
+[V:2] GD2^C!fermata!D2D2 | 
+[V:3] GA BA!fermata!A2B2 | 
+[V:4] G,F, =E,A,,!fermata!D,2B,A, | 
+[V:1] B2c2d2cB | 
+[V:2] D2G2^FDG2- | 
+[V:3] BAG2AB/c/d2- | 
+[V:4] G,F, _E,D, =C,B,, A,,G,, | 
+[V:1] AGA2!fermata!G2 |]  
+[V:2] G2^F2!fermata!D2 |]  
+[V:3] d3c!fermata!=B2 |]  
+[V:4] D,4!fermata!G,,2 |]

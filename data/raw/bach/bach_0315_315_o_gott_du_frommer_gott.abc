@@ -1,0 +1,77 @@
+X: 314
+T: 315. O Gott, du frommer Gott
+N: Derived from chor315.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1649300708
+%%humdrum-veritas-data 1588743180
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] B2 [I:setbarnb 1]| 
+[V:2] G2 | 
+[V:3] GA | 
+[V:4] E,2- | 
+[V:1] B2e2d2c/B/c | 
+[V:2] F2GFG2F2 | 
+[V:3] B3A Bed2 | 
+[V:4] E,D,2C, B,,C,D,2 | 
+[V:1] !fermata!B6Bc | 
+[V:2] !fermata!G6G2 | 
+[V:3] !fermata!d6dc | 
+[V:4] !fermata!G,,6G,,A,, | 
+[V:1] d2G2A2B2 | 
+[V:2] GF EF/G/F2G2- | 
+[V:3] BAG2d2d2 | 
+[V:4] B,,2C,2-C,B,, A,,G,, | 
+[V:1] A4!fermata!G2 :|]  
+[V:2] GEF2!fermata!D2 :|]  
+[V:3] d3c!fermata!B2 :|]  
+[V:4] D,4!fermata!G,,2 :|]  
+[V:1] A2 [I:setbarnb 5]| 
+[V:2] E2 | 
+[V:3] ^c2 | 
+[V:4] G,2- | 
+[V:1] A2B2ce dc | 
+[V:2] D2F2G2A2 | 
+[V:3] d2d2=cB Ad | 
+[V:4] G,F,E,D,E,2F,2 | 
+[V:1] !fermata!B6B2 | 
+[V:2] !fermata!G6GF | 
+[V:3] !fermata!d6d2 | 
+[V:4] !fermata!G,6G,,2 | 
+[V:1] A2de/f/e2d^c | 
+[V:2] ED/^C/D2GB AG | 
+[V:3] ^cA GF Bg fe | 
+[V:4] G,F, B,A, G,E,A,2 | 
+[V:1] !fermata!d6d2 | 
+[V:2] !fermata!F6A2 | 
+[V:3] !fermata!d6f2 | 
+[V:4] !fermata!D,6D=C | 
+[V:1] d2B2c2d2 | 
+[V:2] G2G2G2G2 | 
+[V:3] g2d2e2=f2 | 
+[V:4] B,A,G,=F, E,D,C,B,, | 
+[V:1] !fermata!e6A2 | 
+[V:2] !fermata!G6^F2 | 
+[V:3] !fermata!e6d2 | 
+[V:4] !fermata!C,6D,2 | 
+[V:1] Bc/d/ cBB2AG | 
+[V:2] G2G2G2F2 | 
+[V:3] d2ded2c2 | 
+[V:4] G,,A,, B,,C,D,2D,2 | 
+[V:1] !fermata!G6 |]  
+[V:2] !fermata!D6 |]  
+[V:3] !fermata!B6 |]  
+[V:4] !fermata!G,,6 |]

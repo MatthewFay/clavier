@@ -1,0 +1,220 @@
+X: 491
+T: Wojak	 Op. 74
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:57
+%%abc-edited-by JÄdrzej MrÃ³z
+%%abcx-initial-encoding-date 2020-01-28
+%%humdrum-veritas 3670136465
+%%humdrum-veritas-data 2130284277
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 6/8
+N: Derived from 074-1-Sam-010.krn
+P: 16 | Polnische Lieder | von Witwicki, Zaleski Mickiewicz etc. | fÃ¼r eine Singstimme | mit Begleitung des Pianoforte
+Q: "Meno mosso. [quarter-dot] = 120."
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=bass
+K: Ab
+[V:1] z6 | 
+[V:2] [BE]>[BE][BE] [cA]>[BE][AC] | 
+[V:3] z6 | 
+[V:1] z6 | 
+[V:2] {/[BE]}!accent!e6 | 
+[V:3] z6 | 
+[V:1] z6 | 
+[V:2] [BE]>[BE][BE] [cA]>[BE][AC] | 
+[V:3] z6 | 
+[V:1] z6 | 
+[V:2] {/[BE]}!accent!e6 | 
+[V:3] z6 | 
+[V:1] z6 | 
+[V:2] [BE]>[BE][BE] [cA]>[BE][AC] | 
+[V:3] z6 | 
+[V:1] z6 | 
+[V:2] [BE]>[BE][BE] [cA]>[BE][AC] | 
+[V:3] z6 | 
+[V:1] z6 | 
+[V:2] [BGED]z[BGED] [BGED]z[BGED] | 
+[V:3] [B,E,]z[B,E,] [B,E,]z[B,E,] | 
+[V:1] z6 ||  
+[V:2] [BGED]z[=BGED][c2G2E2D2][_BGED] ||  
+[V:3] [E,E,,]z[E,E,,] [E,E,,][E,E,,][E,E,,] ||  
+[V:1] z6 | 
+[V:2] [A2C2]E CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CE/E/E [AC]Ec | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] [BD]Ee[e2c2E2]E | 
+[V:3] A,,G,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CE/E/E [AC]Ec | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 ||  
+[V:2] [BD]Ec [BD]Ec ||  
+[V:3] A,,G,E, A,,G,E, ||  
+[V:1] A2AG2F | 
+[V:2] [AC]Ec [AD]Fd | 
+[V:3] A,,A,E, D,A,F, | 
+[V:1] B2BA2G | 
+[V:2] [BD]Fd [BE]Ge | 
+[V:3] B,,B,F, E,B,G, | 
+[V:1] c2cB2A | 
+[V:2] [cE]Ge [cF]Af | 
+[V:3] C,CG, F,CA, | 
+[V:1] !fermata!d3z2z | 
+[V:2] [_f3B3A3_F3]z2z | 
+[V:3] [D3A,3_F,3B,,3]z2z | 
+[V:1] B2Bc2c | 
+[V:2] z [eBG]E z [cA_G]E | 
+[V:3] E,2zA,2z | 
+[V:1] d2Fc2B | 
+[V:2] z [dAF]D z [dB_F]D | 
+[V:3] D,2zD,2z | 
+[V:1] AG A=A2B | 
+[V:2] z [cAE]C z [BGE]B, | 
+[V:3] E,2zE,2z | 
+[V:1] f6 | 
+[V:2] z [BAF][BAF] [BAF][BAF][BAF] | 
+[V:3] [=D,=D,,][B,D,][B,D,] [B,D,][B,D,][B,D,] | 
+[V:1] B2Bc2c | 
+[V:2] z [BGE]_D z [cA_G]E | 
+[V:3] E,2zA,,2z | 
+[V:1] d2Fc2B | 
+[V:2] z [dAF]D z [dA_F]D | 
+[V:3] D,3D,3 | 
+[V:1] AG Ac2B | 
+[V:2] z [cAE]C z [cGE]D | 
+[V:3] E,3E,3 | 
+[V:1] e6 | 
+[V:2] [AEC][AEC][AEC] [=A^FC][AFC][AFC] | 
+[V:3] E,E,E, E,E,E, | 
+[V:1] f2e dc B | 
+[V:2] [BGED][BGED][BGED] [BGED][BGED][BGED] | 
+[V:3] [E,E,,][E,E,,][E,E,,] [E,E,,][E,E,,][E,E,,] | 
+[V:1] A3z2z | 
+[V:2] [A2C2]E CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CE/E/E [AC]Ec | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] [BD]Ee[e2c2E2]E | 
+[V:3] A,,G,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CE/E/E [AC]Ec | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 |]  
+[V:2] [BD]Ec [BD]Ec |]  
+[V:3] A,,G,E, A,,G,E, |]  
+[V:1] A2AG2F [I:setbarnb 39]| 
+[V:2] [AC]Ec [AD]Fd | 
+[V:3] A,,A,E, D,A,F, | 
+[V:1] B2BA2G | 
+[V:2] [BD]Fd [BE]Ge | 
+[V:3] B,,B,F, E,B,G, | 
+[V:1] c2cB2A | 
+[V:2] [cE]Ge [cF]Af | 
+[V:3] C,CG, F,CA, | 
+[V:1] !fermata!d3z2z | 
+[V:2] !fermata![_f3B3A3_F3]z2z | 
+[V:3] !fermata![D3A,3_F,3B,,3]z2z | 
+[V:1] c B !fermata!zc2c | 
+[V:2] [d2B2G2D2]!fermata!z[c2G2C2]z | 
+[V:3] [E,2E,,2]!fermata!z[=E,2=E,,2]z | 
+[V:1] c2cc2c | 
+[V:2] [c=AF]C[cAF] [cAF]C[cAF] | 
+[V:3] F,,=A,C, F,,A,C, | 
+[V:1] c2cc2c | 
+[V:2] [c=AF]C[cAF] [cAF]C[cAF] | 
+[V:3] F,,=A,C, F,,A,C, | 
+[V:1] !accent!f6 | 
+[V:2] [c=AF]C[cAF] [cAF]C[cAF] | 
+[V:3] F,,=A,C, F,,A,C, | 
+[V:1] c2cc2c | 
+[V:2] [c=AF]C[cAF] [cAF]C[cAF] | 
+[V:3] F,,=A,C, F,,A,C, | 
+[V:1] !accent!f6- | 
+[V:2] [c=AF]C[cAF] [cAF]C[cAF] | 
+[V:3] F,,=A,C, F,,A,C, | 
+[V:1] f6 | 
+[V:2] [c_AF]C[cAF] [=dBA]=D[dBA] | 
+[V:3] F,,_A,C, F,,A,B,, | 
+[V:1] f2e e_d B | 
+[V:2] [ecA]E[ecA] [e_dBG]E[edBG] | 
+[V:3] E,,CE, E,,DE, | 
+[V:1] A3z2z | 
+[V:2] [A2C2]E CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CE/E/E [AC]Ec | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] [BD]Ee[e2c2E2]E | 
+[V:3] A,,G,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CFE CE/E/E | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] CE/E/E [AC]Ec | 
+[V:3] A,,A,E, A,,A,E, | 
+[V:1] z6 | 
+[V:2] [B_F]G_f[f2F2][GD] | 
+[V:3] A,,G,_F, A,,B,F, | 
+[V:1] z6 | 
+[V:2] [AC]E_f[f2_F2][GD] | 
+[V:3] A,,A,E, A,,B,_F, | 
+[V:1] z6 | 
+[V:2] [AC]E_f[f2_F2][GD] | 
+[V:3] A,,A,E, A,,B,_F, | 
+[V:1] z6 | 
+[V:2] [AC]E_f[f2_F2][GD] | 
+[V:3] A,,A,E, A,,B,_F, | 
+[V:1] z6 | 
+[V:2] [AC]E_f[f2_F2][GD] | 
+[V:3] A,,A,E, A,,B,_F, | 
+[V:1] z6 | 
+[V:2] [AC]Ec [AD]_Fd | 
+[V:3] A,,A,E, D,A,_F, | 
+[V:1] z6 | 
+[V:2] [AC]Ec [AD]_Fd | 
+[V:3] A,,A,E, D,A,_F, | 
+[V:1] z6 | 
+[V:2] [AC]Ec [AD]_Fd | 
+[V:3] A,,A,E, D,A,_F, | 
+[V:1] z6 | 
+[V:2] [AC]Ec [AD]_Fd | 
+[V:3] A,,A,E, D,A,_F, | 
+[V:1] z6 |]  
+[V:2] [a6e6c6A6] |]  
+[V:3] [A,,6A,,,6] |]

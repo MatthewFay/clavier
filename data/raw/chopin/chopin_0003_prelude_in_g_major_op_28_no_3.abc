@@ -1,0 +1,89 @@
+X: 3
+T: Prelude in G Major, Op. 28, No. 3
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-copyright Copyright 2001 by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by 4 March 2001
+%%gracespace 0 6 6
+%%humdrum-veritas 283812230
+%%humdrum-veritas-data 2984642630
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 2/2
+N: Derived from prelude28-03.krn
+Q: "Vivace" 1/2=72
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: G
+[V:1] z16 [I:setbarnb 2]| 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] z16 | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] D4>z4[G6B6]z [ce] | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] [B12d12]z2 z [ec'] | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] [d16b16] | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] [B8g8]z8 | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] [G16A16^c16] & f15e | 
+[V:2] A,, E, A, B, ^C B, A, F E D C B, A, B, C E, | 
+[V:1] !arpeggio![F4d4]z4z8 & !arpeggio!a8x8 | 
+[V:2] D,, A,, D, E, F, E, D, B, A, G, F, E, D, E, F, B,, | 
+[V:1] [G16A16^c16] & f15e | 
+[V:2] A,, E, A, B, ^C B, A, F E D C B, A, B, C E, | 
+[V:1] !arpeggio![F4=c4]z4z8 & !arpeggio!a8x8 | 
+[V:2] D,, A,, D, E, F, E, D, B, A, G, F, E, D, E, F, A,, | 
+[V:1] z4z2 z [ac'][c6e6]z [cd] | 
+[V:2] D,, A,, D, E, F, E, D, B, A, G, F, E, D, E, F, A,, | 
+[V:1] D4>z4[G6B6]z [ce] | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] [B12d12]z2 z [ec'] | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] [d16b16] | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] [B8g8]z8 | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] B16 & =f8f7f | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] B16 & =f4>>{/f g} f4e7^d | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, G,, | 
+[V:1] !arpeggio![E16G16]- & !arpeggio![c16e16]- | 
+[V:2] C,, G,, C, D, E, D, C, A, G, =F, E, D, C, D, E, G,, | 
+[V:1] [E16G16] & [c16e16] | 
+[V:2] C,, G,, C, D, E, D, C, A, G, =F, E, D, C, D, E, G,, | 
+[V:1] [E16G16] & c8c7c | 
+[V:2] C,, G,, C, D, E, D, C, A, G, =F, E, D, C, D, E, G,, | 
+[V:1] [E16G16] & c15B | 
+[V:2] C,, G,, C, D, E, D, C, A, G, =F, E, D, C, D, E, G,, | 
+[V:1] [E16G16]- & B16 | 
+[V:2] C,, G,, C, D, E, D, C, A, G, =F, E, D, C, D, E, G,, | 
+[V:1] [E16G16] & A15B | 
+[V:2] C,, G,, C, D, E, D, C, A, G, =F, E, D, C, D, E, G,, | 
+[V:1] !arpeggio!A,4z4z8 & !arpeggio![D16G16] | 
+[V:2] D,, A,, D, E, F, E, D, B, A, G, F, E, D, E, F, A,, | 
+[V:1] [C16D16] & F15G | 
+[V:2] D,, A,, D, E, F, E, D, B, A, G, F, E, D, E, F, A,, | 
+[V:1] [B,16D16] & G16 | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] z16 | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] B, D G A B A G e d c B A G A B D | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] B, D G A B A G e d c B A G A B D | 
+[V:2] G,, D, G, A, B, A, G, E D C B, A, G, A, B, D, | 
+[V:1] B, D G A G A B D B, D G A G A B D | 
+[V:2] G,, D, G, A, B, A, G, E G,, D, G, A, G, A, B, D, | 
+[V:1] B, D G A G A B d g a b d' g' a' b' d'' | 
+[V:2] G,, D, G, A, G, A, B, D[K:clef=treble] G A B d g a b d' | 
+[V:1] b'4z4!arpeggio![B,8D8G8B8] | 
+[V:2] b4z4[K:clef=bass]!arpeggio![G,,8D,8G,8] | 
+[V:1] !arpeggio![B,16D16G16B16] |]  
+[V:2] !arpeggio![G,,16D,16G,16] |]

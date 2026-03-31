@@ -1,0 +1,65 @@
+X: 54
+T: 54. Lobt Gott, ihr Christen allzugleich
+N: Derived from chor054.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 36680321
+%%humdrum-veritas-data 1452228877
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] G [I:setbarnb 1]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] G, | 
+[V:1] dddd | 
+[V:2] D/E/FGG | 
+[V:3] Ad/c/ B/c/d | 
+[V:4] F,D,G,/A,/B, | 
+[V:1] ed/c/!fermata!BA | 
+[V:2] GF!fermata!GA | 
+[V:3] c/B/ A/d/!fermata!dd | 
+[V:4] C,D,!fermata!G,F, | 
+[V:1] B/^c/dee | 
+[V:2] GFE/F/G | 
+[V:3] GAB^c | 
+[V:4] E,D,G,A, | 
+[V:1] !fermata!d2zd | 
+[V:2] !fermata!F2xA | 
+[V:3] !fermata!A2xd/=c/ | 
+[V:4] !fermata!D,2zF, | 
+[V:1] dddB/c/ | 
+[V:2] GFGG | 
+[V:3] Bcde | 
+[V:4] G,A,B,E, | 
+[V:1] dc/B/!fermata!Ad | 
+[V:2] GA/G/!fermata!FF | 
+[V:3] de!fermata!AB | 
+[V:4] B,,C,!fermata!D,B,, | 
+[V:1] cBAA | 
+[V:2] G/AG/- G/E/F | 
+[V:3] B/A/B/c/dc | 
+[V:4] E,/F,/G,D,^D, | 
+[V:1] G/A/B/c/!fermata!dd | 
+[V:2] G2!fermata!FG | 
+[V:3] Be!fermata!dB | 
+[V:4] E,/F,/G,/A,/!fermata!B,G, | 
+[V:1] cB/A/BA | 
+[V:2] GGGF | 
+[V:3] c/d/edd/c/ | 
+[V:4] E,D,/C,/D,D, | 
+[V:1] !fermata!G3 |]  
+[V:2] !fermata!D3 |]  
+[V:3] !fermata!B3 |]  
+[V:4] !fermata!G,,3 |]

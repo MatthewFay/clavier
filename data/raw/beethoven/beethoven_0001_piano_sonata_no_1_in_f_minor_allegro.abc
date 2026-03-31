@@ -1,0 +1,330 @@
+X: 1
+T: Piano Sonata no. 1 in F minor, Allegro
+C: Ludwig van Beethoven
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/11 11:42:08
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2004/04/05
+%%gracespace 0 6 6
+%%humdrum-veritas 3939872025
+%%humdrum-veritas-data 3984992677
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 2/2
+Q: "Allegro" 1/2=120
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Ab
+[V:1] .C [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] .F.A.c.f | 
+[V:2] z4 | 
+[V:1] a3/(3g//f//=e//.fz | 
+[V:2] z[F,A,C][F,A,C][F,A,C] | 
+[V:1] .G.c.=e.g | 
+[V:2] [=E,G,B,C]zz2 | 
+[V:1] b3/(3a//g//f//.gz | 
+[V:2] z[=E,G,B,C][E,G,B,C][E,G,B,C] | 
+[V:1] {/c}!sfz!a3/(3g//f//=e//.fz | 
+[V:2] z[F,A,C][F,A,C][F,A,C] | 
+[V:1] {/c}!sfz!b3/(3a//g//f//.gz | 
+[V:2] z[G,B,=E][G,B,E][G,B,E] | 
+[V:1] !arpeggio![c2f2a2c'2]b/a/g/f/ | 
+[V:2] z[A,CF]z[B,DG] | 
+[V:1] {/=efg}f=e!fermata!zz | 
+[V:2] z[CG]!fermata!z.G,, | 
+[V:1] z4 | 
+[V:2] .C,._E,.G,.C | 
+[V:1] z4 | 
+[V:2] E3/(3=D//C//=B,//.C.C | 
+[V:1] zz/ (3e//_d//c//.d.d & A4- | 
+[V:2] [C4F4] | 
+[V:1] d4- & A3/(3B//A//G//.A.A | 
+[V:2] [B,4F4] | 
+[V:1] d3/(3e//d//c//.d.d & G4 | 
+[V:2] [B,4E4] | 
+[V:1] zz/ (3d//c//=B//.c.c & A4 | 
+[V:2] [A,4E4] | 
+[V:1] cB2A & F4 | 
+[V:2] D2=D2 | 
+[V:1] .Gedc- | 
+[V:2] Ezz[CE] | 
+[V:1] cB2A | 
+[V:2] [D2F2][=D2F2] | 
+[V:1] G[Ee][_D_d][Cc]- | 
+[V:2] Ezz[C,E,] | 
+[V:1] [Cc][B,2B2][A,A] | 
+[V:2] [D,2F,2][=D,2F,2] | 
+[V:1] [G,G]zz_f | 
+[V:2] E,/E/E,/E/ E,/E/E,/E/ | 
+[V:1] edBG | 
+[V:2] E,/E/E,/E/ E,/E/E,/E/ | 
+[V:1] !sfz!_F>E.A_f | 
+[V:2] !sfz!D2Cx & E,E,E,/E/E,/E/ | 
+[V:1] edBG | 
+[V:2] E,/E/E,/E/ E,/E/E,/E/ | 
+[V:1] !sfz!_F>E.A_f | 
+[V:2] !sfz!D2Cx & E,E,E,/E/E,/E/ | 
+[V:1] edBG | 
+[V:2] E,/E/E,/E/ D/E/D/E/ | 
+[V:1] z/ G/B/A/ z/ =A/c/B/ | 
+[V:2] C/E/C/E/ G,/E/G,/E/ | 
+[V:1] z/ =B/d/c/ z/ =d/a/d/ | 
+[V:2] A,/E/A,/E/ F,/=D/A,/D/ | 
+[V:1] ezz/ =d/a/d/ | 
+[V:2] E,/E/G,/E/ F,/=D/A,/D/ | 
+[V:1] ezz/ g/_f'/g/ | 
+[V:2] E,/E/G,/E/ _D,/B,/_F,/B,/ | 
+[V:1] azz/ g/_f'/g/ | 
+[V:2] C,/A,/E,/A,/ D,/B,/_F,/B,/ | 
+[V:1] z/ g/b/a/ z/ =a/c'/b/ | 
+[V:2] C,/A,/E,/A,/ G,,/G,/E,/G,/ | 
+[V:1] z/ =b/d'/c'/ z/ c'/e'/d'/ | 
+[V:2] A,,/A,/E,/A,/ B,,/B,/E,/B,/ | 
+[V:1] z/ =d'/f'/e'/ _d'/c'/b/a/ | 
+[V:2] C,!sfz!E,2A, | 
+[V:1] g/f/e/d/ c/B/A/G/ | 
+[V:2] D,!sfz!F,2B, | 
+[V:1] F/E/=D/E/ D/E/D/E/ | 
+[V:2] E,!sfz!A,2C | 
+[V:1] =D/E/F/E/ D/E/F/E/ | 
+[V:2] _DB,G,D, | 
+[V:1] z/ a/f'/e'/ d'/c'/b/a/ | 
+[V:2] C,,!sfz!E,,2A,, | 
+[V:1] g/f/e/d/ c/B/A/G/ | 
+[V:2] D,,!sfz!F,,2B,, | 
+[V:1] F/E/D/C/[K:clef=bass] B,/A,/G,/F,/ | 
+[V:2] E,,!sfz!A,,2C, | 
+[V:1] E,/F,/G,/A,/ B,/C/D/B,/ | 
+[V:2] D,B,,G,,E,, | 
+[V:1] A,[K:clef=treble]z{/=D}_c3/B/ | 
+[V:2] A,,A,z.[=D,F,A,_C] | 
+[V:1] A2G3/e/ | 
+[V:2] z.[E,A,=C]z.[E,B,D] | 
+[V:1] !sfz!eA{/=D}_c3/B/ | 
+[V:2] z.[A,C]z.[=D,F,A,_C] | 
+[V:1] A2G3/e/ | 
+[V:2] z.[E,A,=C]z.[E,B,D] | 
+[V:1] !sfz!eA{/=d}_c'3/b/ | 
+[V:2] z.[A,C][K:clef=treble]z.[=DFA_c] | 
+[V:1] a2g3/e'/ | 
+[V:2] z.[EA=c]z.[EBd] | 
+[V:1] [d4g4e'4] | 
+[V:2] [A,4B,4D4E4G4] | 
+[V:1] [cea]zz :|]|:  
+[V:2] [A,CEA]zz[K:clef=bass] :|]|:  
+[V:1] .E [I:setbarnb 49]| 
+[V:2] z | 
+[V:1] .A.c.e.a | 
+[V:2] z4[K:clef=bass] | 
+[V:1] c'3/(3b//a//g//.az | 
+[V:2] z[A,CE][A,CE][A,CE] | 
+[V:1] {/d}d'3/(3c'//b//=a//.bz | 
+[V:2] z[G,B,DE][G,B,DE][G,B,DE] | 
+[V:1] .B.d.g.b | 
+[V:2] z4 | 
+[V:1] {/d}d'3/(3c'//b//=a//.bz | 
+[V:2] z[G,B,D=E][G,B,DE][G,B,DE] | 
+[V:1] {/d}d'3/(3c'//b//=a//.bz | 
+[V:2] z[_G,B,D=E][G,B,DE][G,B,DE] | 
+[V:1] =azz_g | 
+[V:2] F,/F/F,/F/ F,/F/F,/F/ | 
+[V:1] fec=A | 
+[V:2] F,/F/F,/F/ F,/F/F,/F/ | 
+[V:1] !sfz!_G>F.B_g | 
+[V:2] !sfz!E2Dx & F,F,F,/F/F,/F/ | 
+[V:1] fec=A | 
+[V:2] F,/F/F,/F/ F,/F/F,/F/ | 
+[V:1] !sfz!_G>F.B_g | 
+[V:2] !sfz!E2Dx & F,F,F,/F/F,/F/ | 
+[V:1] fec=A | 
+[V:2] F,/F/F,/F/ E/F/E/F/ | 
+[V:1] z/ =A/c/B/ z/ B/d/c/ | 
+[V:2] D/F/D/F/ C/F/C/F/ | 
+[V:1] z/ c/e/d/ z/ =B/=d/c/ | 
+[V:2] B,/F/B,/F/ A,/^F/A,/F/ | 
+[V:1] =Bzza | 
+[V:2] G,/G/G,/G/ G,/G/G,/G/ | 
+[V:1] gf=d=B | 
+[V:2] G,/G/G,/G/ G,/G/G,/G/ | 
+[V:1] !sfz!A>G.ca | 
+[V:2] !sfz!F2Ex & G,G,G,/G/G,/G/ | 
+[V:1] gf=d=B | 
+[V:2] G,/G/G,/G/ G,/G/G,/G/ | 
+[V:1] !sfz!A>G.cF/=D/ | 
+[V:2] !sfz!F2EA, & G,G,G,x | 
+[V:1] F/=D/F/D/ F/D/F/D/ | 
+[V:2] G,F,=D,=B,, | 
+[V:1] z=Bcz & F/=D/F/D/ E/C/E/C/ | 
+[V:2] !sfz!A,,>G,,.C,_G, | 
+[V:1] z4 & E/C/E/C/ E/C/E/C/ | 
+[V:2] F,E,C,=A,, | 
+[V:1] z=ABz & E/C/E/C/ _D/B,/D/B,/ | 
+[V:2] !sfz!_G,,>F,,.B,,_F, | 
+[V:1] z4 & D/B,/D/B,/ D/B,/D/B,/ | 
+[V:2] E,D,B,,G,, | 
+[V:1] z2!sfz!G2 & D/B,/D/B,/ D/B,/D/B,/ | 
+[V:2] _F,,E,,2!sfz!E,- | 
+[V:1] z2!sfz!A2 & C/A,/E/A,/ E/A,/E/A,/ | 
+[V:2] E,C,2C,,- | 
+[V:1] z2!sfz!F2 & D/A,/D/A,/ D/A,/D/A,/ | 
+[V:2] C,,D,,2!sfz!D,- | 
+[V:1] z2!sfz!G2 & D/G,/D/G,/ D/G,/D/G,/ | 
+[V:2] D,B,,2B,,,- | 
+[V:1] z2!sfz!=E2 & C/G,/C/G,/ C/G,/C/G,/ | 
+[V:2] B,,,C,,2!sfz!C,- | 
+[V:1] z2!sfz!F2 & A,/F,/C/F,/ C/F,/C/F,/ | 
+[V:2] C,A,,2A,,, | 
+[V:1] z2!sfz!F2 & D/F,/D/F,/ D/F,/D/F,/ | 
+[V:2] zB,,,2B,, | 
+[V:1] =D/F,/[A,/D/F/]F,/ [A,/D/F/]F,/[A,/D/F/]F,/ | 
+[V:2] z=B,,,2=B,, | 
+[V:1] [G,C=E]zzc | 
+[V:2] C,,/C,/=E,/C,/ E,/C,/E,/C,/ | 
+[V:1] .Azzf | 
+[V:2] F,/C,/F,/C,/ F,/C,/A,/C,/ | 
+[V:1] .=ezzc' | 
+[V:2] G,/C,/G,/C,/ G,/C,/B,/C,/ | 
+[V:1] .fz!sfz![f2f'2] | 
+[V:2] A,/C,/C/C,/ =B,/C,/=D/C,/ | 
+[V:1] [=e=e']zz!trill!c{/=Bc} | 
+[V:2] C/C,/=E,/C,/ E,/C,/E,/C,/ | 
+[V:1] .A.Az!trill!f{/=ef} | 
+[V:2] F,/C,/F,/C,/ F,/C,/A,/C,/ | 
+[V:1] .=e.ez!trill!c'{/=bc'} | 
+[V:2] G,/C,/G,/C,/ G,/C,/B,/C,/ | 
+[V:1] .f.fz!sfz![ff'] | 
+[V:2] A,/C,/C/C,/ =B,/C,/=D/C,/ | 
+[V:1] .[=e=e'].[ee']z[_d_d'] | 
+[V:2] C/C,/C/C,/ _B,/C,/B,/C,/ | 
+[V:1] .[cc'].[cc']z[ff'] | 
+[V:2] A,/C,/C/C,/ =B,/C,/=D/C,/ | 
+[V:1] .[=e=e'].[ee']z[dd'] | 
+[V:2] C/C,/C/C,/ _B,/C,/B,/C,/ | 
+[V:1] .[cc'].[cc']z[ff'] | 
+[V:2] A,/C,/C/C,/ =B,/C,/=D/C,/ | 
+[V:1] .[=e=e']zz2 | 
+[V:2] .C.C.C.C | 
+[V:1] z4 | 
+[V:2] .C.C.C.C | 
+[V:1] zz/ (3A//_G//F//.Gz | 
+[V:2] .[CD].[CD].[CD].[CD] | 
+[V:1] zz/ (3e'//d'//c'//.d'z | 
+[V:2] .[B,D].[B,D].[B,D].[B,D] | 
+[V:1] zz/ (3F//=E//=D//.Ez | 
+[V:2] .[B,C].[B,C].[B,C].[B,C] | 
+[V:1] zz/ (3d'//c'//=b//.c'z | 
+[V:2] .[A,C].[A,C].[A,C].[A,C] | 
+[V:1] zz/ (3E//=D//C//.Dz | 
+[V:2] .[A,B,].[A,B,].[A,B,].[A,B,] | 
+[V:1] zz/ (3c'//b//=a//.bz | 
+[V:2] .[G,B,=E].[G,B,E].[G,B,E].[G,B,E] | 
+[V:1] .F.A.c.f | 
+[V:2] [F,A,C]zz2 | 
+[V:1] !sfz!a3/(3g//f//=e//.fz | 
+[V:2] z[F,A,C][F,A,C][F,A,C] | 
+[V:1] .G.c.=e.g | 
+[V:2] [=E,G,B,C]zz2 | 
+[V:1] !sfz!b3/(3a//g//f//.gz | 
+[V:2] z[=E,G,B,C][E,G,B,C][E,G,B,C] | 
+[V:1] {/c}!sfz!a3/(3g//f//=e//.fz | 
+[V:2] !sfz![F,2A,2C2]z2 | 
+[V:1] {/c}!sfz!b3/(3a//g//f//.gz | 
+[V:2] !sfz![G,2B,2=E2]z2 | 
+[V:1] !arpeggio![c2f2a2c'2]b/a/g/f/ | 
+[V:2] [A,CF]z[B,DG]z | 
+[V:1] {/=efg}f=e!fermata!zz | 
+[V:2] [CG]z!fermata!z.C, | 
+[V:1] z4 | 
+[V:2] .F,.A,.C.F[K:clef=treble] | 
+[V:1] z4 | 
+[V:2] A3/(3G//F//=E//.F.F | 
+[V:1] b3/(3a//_g//f//.g.g | 
+[V:2] [F4_G4] | 
+[V:1] _g4- & zz/ (3_d//c//=B//.c.c | 
+[V:2] [E4_G4] | 
+[V:1] g3/(3_g//f//=e//.f.f & c4- | 
+[V:2] [E4=A4] | 
+[V:1] f4 & c3/(3c//B//=A//.B.B | 
+[V:2] [D4F4] | 
+[V:1] zz/ (3g//f//=e//fg & =B4 | 
+[V:2] F3=E & =D4- | 
+[V:1] a=ef=B | 
+[V:2] FGAF & =D4 | 
+[V:1] c=efg | 
+[V:2] =EGFE & C4- | 
+[V:1] a=ef=B | 
+[V:2] FBAF[K:clef=bass] & C2_D2 | 
+[V:1] [=Ec]zzd | 
+[V:2] C,/C/C,/C/ C,/C/C,/C/ | 
+[V:1] cBG=E | 
+[V:2] C,/C/C,/C/ C,/C/C,/C/ | 
+[V:1] !sfz!D>C.Fd' | 
+[V:2] !sfz!B,2A,x & C,C,C,/C/C,/C/ | 
+[V:1] c'bg=e | 
+[V:2] C,/C/C,/C/ C,/C/C,/C/ | 
+[V:1] !sfz!d>c.fd' | 
+[V:2] !sfz!B,2A,x & C,C,C,/C/C,/C/ | 
+[V:1] c'bg=e | 
+[V:2] C,/C/C,/C/ B,/C/B,/C/ | 
+[V:1] z/ =e/g/f/ z/ f/a/g/ | 
+[V:2] A,/F/C/F/ G,/=E/B,/E/ | 
+[V:1] z/ g/b/a/ z/ =b/f'/b/ | 
+[V:2] F,/C/A,/C/ D,/=B,/F,/B,/ | 
+[V:1] c'zz/ =b/f'/b/ | 
+[V:2] C,/C/=E,/C/ D,/=B,/F,/B,/ | 
+[V:1] c'zz/ =e/d'/e/ | 
+[V:2] C,/C/=E,/C/ _B,,/G,/D,/G,/ | 
+[V:1] fzz/ =e/d'/e/ | 
+[V:2] A,,/F,/C,/F,/ B,,/G,/D,/G,/ | 
+[V:1] z/ =e/g/f/ z/ f/a/g/ | 
+[V:2] A,,/F,/C,/F,/ =E,,/=E,/C,/E,/ | 
+[V:1] z/ g/b/a/ z/ =a/c'/b/ | 
+[V:2] F,,/F,/C,/F,/ G,,/G,/C,/G,/ | 
+[V:1] z/ c'/f'/e'/ d'/c'/b/a/ | 
+[V:2] A,,!sfz!C,2F, | 
+[V:1] g/f/e/d/ c/B/A/G/ | 
+[V:2] B,,!sfz!D,2G, | 
+[V:1] F/=E/D/C/ =B,/C/B,/C/ | 
+[V:2] C,!sfz!F,2A, | 
+[V:1] =B,/C/D/C/ B,/C/D/C/ | 
+[V:2] B,G,=E,B,, | 
+[V:1] z/ c'/f'/e'/ d'/c'/b/a/ | 
+[V:2] A,,!sfz!C,2F, | 
+[V:1] g/f/e/d/ c/B/A/G/ | 
+[V:2] B,,!sfz!D,2G, | 
+[V:1] F/=E/D/C/ =B,/C/B,/C/ | 
+[V:2] C,!sfz!F,2A, | 
+[V:1] =B,/C/D/C/ C/_B,/A,/G,/ | 
+[V:2] zC,,C,,C,, | 
+[V:1] F,z{/=B,}A3/G/ | 
+[V:2] F,,F,z.[D,F,A,=B,] | 
+[V:1] F2=E3/c/ | 
+[V:2] z.[C,F,A,C]z.[C,G,_B,] | 
+[V:1] !sfz!cF{/=B,}A3/G/ | 
+[V:2] z.[F,A,]z.[D,F,A,=B,] | 
+[V:1] F2=E3/c/ | 
+[V:2] z.[C,F,A,C]z.[C,G,_B,] | 
+[V:1] !sfz!cF{/=B}a3/g/ | 
+[V:2] z.[F,A,][K:clef=treble]z.[DFA=B] | 
+[V:1] f2=e3/c'/ | 
+[V:2] z.[CFAc]z[K:clef=bass].[B,CG] | 
+[V:1] [c4_e4c'4] | 
+[V:2] [=A,4C4F4] | 
+[V:1] [Bdf]zzz/ [B/d/b/] | 
+[V:2] [B,DF]zzz/ [B,/D/F/] | 
+[V:1] [B4d4b4] | 
+[V:2] [G,4B,4E4] | 
+[V:1] [Ace]zz.[Aca] | 
+[V:2] [A,CE]zz.[F,D] | 
+[V:1] .[GBd].[GBg].[FAc].[FAf] | 
+[V:2] .[G,D].[=E,C].[F,C].[D,D] | 
+[V:1] .[FGdf]z.[=EGBc=e]z | 
+[V:2] .[B,,D,G,B,]z.[C,=E,G,C]z | 
+[V:1] .[FAcf]zz :|]  
+[V:2] .[F,,A,,C,F,]zz :|]

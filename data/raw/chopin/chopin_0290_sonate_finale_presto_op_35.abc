@@ -1,0 +1,176 @@
+X: 290
+T: Sonate. Finale. Presto.	 Op. 35
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:56
+%%abc-edited-by Zofia Niedbalska
+%%abcx-initial-encoding-date 2020-10-23
+%%humdrum-veritas 143545721
+%%humdrum-veritas-data 222259181
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: C|
+N: Derived from 035-1b-BH-004.krn
+P: Sonate pour le Piano
+Q: "Presto."
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Db
+[V:1] (3F,=G,B, (3D=E,G, (3F,G,B, (3DE,G, | 
+[V:2] (3F,,=G,,B,, (3D,=E,,G,, (3F,,G,,B,, (3D,E,,G,, | 
+[V:1] (3=G,=A,C (3E^F,A, (3G,A,C (3EF,A, | 
+[V:2] (3=G,,=A,,C, (3E,^F,,A,, (3G,,A,,C, (3E,F,,A,, | 
+[V:1] (3B,CE (3G=A,C (3DEG (3=ACE | 
+[V:2] (3B,,C,E, (3G,=A,,C, (3D,E,G, (3=A,C,E, | 
+[V:1] (3DEG (3=ACE (3GBc (3eFA | 
+[V:2] (3D,E,G, (3=A,C,E, (3G,B,C (3EF,A, | 
+[V:1] (3Bdg (3fcd (3_fcd (3=ABG | 
+[V:2] (3B,DG (3FCD (3_FCD (3=A,B,G, | 
+[V:1] (3=EFB (3^G=Ad (3ABd (3=Bcf | 
+[V:2] (3=E,F,B, (3^G,=A,D (3A,B,D (3=B,CF | 
+[V:1] (3A_c_f (3eBc (3__eBc (3=GA_F | 
+[V:2] (3A,_C_F (3EB,C (3__EB,C (3=G,A,_F, | 
+[V:1] (3=DEB (3=EF_c (3FGc (3=ABe | 
+[V:2] (3=D,E,B, (3=E,F,_C (3F,G,C (3=A,B,E | 
+[V:1] (3dFB (3^C=E=A (3^c_E_A (3=B,=D=G | 
+[V:2] (3DF,B, (3^C,=E,=A, (3^C_E,_A, (3=B,,=D,=G, | 
+[V:1] (3_c__EG (3B,DG (3BGc (3=cd_e | 
+[V:2] (3_C__E,G, (3B,,D,G, (3B,G,C (3=CD_E | 
+[V:1] (3=e=Gc (3_E_G_c (3=dFB (3^C=E=A | 
+[V:2] (3=E=G,C (3_E,_G,_C (3=DF,B, (3^C,=E,=A, | 
+[V:1] (3=c=E_A (3=B,=D=G (3=B^F^c (3=d_e=e | 
+[V:2] (3=C=E,_A, (3=B,,=D,=G, (3=B,^F,^C (3=D_E=E | 
+[V:1] (3f=Ae (3=efg (3fBd (3ef^f | 
+[V:2] (3F=A,E (3=EFG (3FB,D (3EF^F | 
+[V:1] (3=g=Bf (3^fga (3gce (3fga | 
+[V:2] (3=G=B,F (3^FGA (3GCE (3FGA | 
+[V:1] (3ecf (3eAd (3cEB (3ACF | 
+[V:2] (3ECF (3EA,D (3CE,B, (3A,C,F, | 
+[V:1] (3EA,D (3C=G,A, (3C^F,=D (3C^E,F, | 
+[V:2] (3E,A,,D, (3C,=G,,A,, (3C,^F,,=D, (3C,^E,,F,, | 
+[V:1] (3=G,=A,=B, (3C=DE (3_A,_B,=B, (3C_DE | 
+[V:2] (3=G,,=A,,=B,, (3C,=D,E, (3_A,,_B,,=B,, (3C,_D,E, | 
+[V:1] (3=A,B,C (3DEF (3B,=B,C (3DEF | 
+[V:2] (3=A,,B,,C, (3D,E,F, (3B,,=B,,C, (3D,E,F, | 
+[V:1] (3CD=D (3EFG (3__B,_D=D (3EFG | 
+[V:2] (3C,D,=D, (3E,F,G, (3__B,,_D,=D, (3E,F,G, | 
+[V:1] (3__BG_F (3__EFG (3__B,D=D (3=E=FG | 
+[V:2] (3__B,G,_F, (3__E,F,G, (3__B,,D,=D, (3=E,=F,G, | 
+[V:1] (3__BA=G (3_GEC (3GEC (3B,=A,_A, | 
+[V:2] (3__B,A,=G, (3_G,E,C, (3G,E,C, (3B,,=A,,_A,, | 
+[V:1] (3=G,A,__B, (3F,_G,A, (3=E,F,G, (3=D,E,F, | 
+[V:2] (3=G,,A,,__B,, (3F,,_G,,A,, (3=E,,F,,G,, (3=D,,E,,F,, | 
+[V:1] (3=G,,A,,B,, (3C,D,E, (3F,_G,=G, (3A,F,B, | 
+[V:2] (3=G,,,A,,,B,,, (3C,,D,,E,, (3F,,_G,,=G,, (3A,,F,,B,, | 
+[V:1] (3A,FE (3DCB, (3A,F,G, (3A,F,B, | 
+[V:2] (3A,,F,E, (3D,C,B,, (3A,,F,,G,, (3A,,F,,B,, | 
+[V:1] (3A,E,F, (3G,E,B, (3A,D,E, (3F,D,B, | 
+[V:2] (3A,,E,,F,, (3G,,E,,B,, (3A,,D,,E,, (3F,,D,,B,, | 
+[V:1] (3A,C,D, (3E,C,F, (3E,B,,F, (3E,A,,B,, | 
+[V:2] (3A,,C,,D,, (3E,,C,,F,, (3E,,B,,,F,, (3E,,A,,,B,,, | 
+[V:1] (3A,,D,E, (3F,G,A, (3B,CD (3EFG | 
+[V:2] (3A,,,D,,E,, (3F,,G,,A,, (3B,,C,D, (3E,F,G, | 
+[V:1] (3Afe (3dcB (3AFG (3AFB | 
+[V:2] (3A,FE (3DCB, (3A,F,G, (3A,F,B, | 
+[V:1] (3AEF (3GEB (3ADE (3FDB | 
+[V:2] (3A,E,F, (3G,E,B, (3A,D,E, (3F,D,B, | 
+[V:1] (3ACD (3ECF (3EB,F (3EA,F | 
+[V:2] (3A,C,D, (3E,C,F, (3E,B,,F, (3E,A,,F, | 
+[V:1] (3GFE (3DCB, (3=A,FC (3EDB, | 
+[V:2] (3G,F,E, (3D,C,B,, (3=A,,F,C, (3E,D,B,, | 
+[V:1] (3=A,FC (3EDB, (3A,FC (3EDB, | 
+[V:2] (3=A,,F,C, (3E,D,B,, (3A,,F,C, (3E,D,B,, | 
+[V:1] (3A=GF (3E=DC (3=B,=G=D (3FEC | 
+[V:2] (3A,=G,F, (3E,=D,C, (3=B,,=G,=D, (3F,E,C, | 
+[V:1] (3=B,=G=D (3FEC (3B,GD (3FEC | 
+[V:2] (3=B,,=G,=D, (3F,E,C, (3B,,G,D, (3F,E,C, | 
+[V:1] (3_dcB (3AGF (3B_FG (3DFC | 
+[V:2] (3_DCB, (3A,G,F, (3B,_F,G, (3D,F,C, | 
+[V:1] (3dcB (3AGF (3B_FG (3DFC | 
+[V:2] (3DCB, (3A,G,F, (3B,_F,G, (3D,F,C, | 
+[V:1] (3B_FG (3DEC (3GD=E (3CEB, | 
+[V:2] (3B,_F,G, (3D,E,C, (3G,D,=E, (3C,E,B,, | 
+[V:1] (3_FB,D (3=A,B,_A, (3DA,B, (3=G,B,_G, | 
+[V:2] (3_F,B,,D, (3=A,,B,,_A,, (3D,A,,B,, (3=G,,B,,_G,, | 
+[V:1] (3F,=G,B, (3D=E,G, (3F,G,B, (3DE,G, | 
+[V:2] (3F,,=G,,B,, (3D,=E,,G,, (3F,,G,,B,, (3D,E,,G,, | 
+[V:1] (3=G,=A,C (3E^F,A, (3G,A,C (3EF,A, | 
+[V:2] (3=G,,=A,,C, (3E,^F,,A,, (3G,,A,,C, (3E,F,,A,, | 
+[V:1] (3B,CE (3G=A,C (3DEG (3=ACE | 
+[V:2] (3B,,C,E, (3G,=A,,C, (3D,E,G, (3=A,C,E, | 
+[V:1] (3DEG (3=ACE (3GBc (3eFA | 
+[V:2] (3D,E,G, (3=A,C,E, (3G,B,C (3EF,A, | 
+[V:1] (3Bdg (3fcd (3_fcd (3=ABG | 
+[V:2] (3B,DG (3FCD (3_FCD (3=A,B,G, | 
+[V:1] (3=EFB (3^G=Ad (3ABd (3=Bcf | 
+[V:2] (3=E,F,B, (3^G,=A,D (3A,B,D (3=B,CF | 
+[V:1] (3A_c_f (3eBc (3__eBc (3=GA_F | 
+[V:2] (3A,_C_F (3EB,C (3__EB,C (3=G,A,_F, | 
+[V:1] (3=DEA (3=EF_c (3FGc (3=ABe | 
+[V:2] (3=D,E,A, (3=E,F,_C (3F,G,C (3=A,B,E | 
+[V:1] (3dFB (3^C=E=A (3^c_E_A (3=B,=D=G | 
+[V:2] (3DF,B, (3^C,=E,=A, (3^C_E,_A, (3=B,,=D,=G, | 
+[V:1] (3_c__EG (3B,DG (3BGc (3=cd_e [I:setbarnb 47]| 
+[V:2] (3_C__E,G, (3B,,D,G, (3B,G,C (3=CD_E | 
+[V:1] (3dc_c (3B=Af (3e=d_d (3cBg | 
+[V:2] (3DC_C (3B,=A,F (3E=D_D (3CB,G | 
+[V:1] (3fe=d (3_dc=a (3cdb (3=deb | 
+[V:2] (3FE=D (3_DC=A[K:clef=treble] (3CDB (3=DEB | 
+[V:1] (3c'ba (3gf=e (3c'ba (3gfe | 
+[V:2] (3cBA (3GF=E (3cBA (3GFE | 
+[V:1] (3gf=e (3_e=d_d (3e=Bc (3d=AB | 
+[V:2] (3GF=E (3_E=D_D (3E=B,C (3D=A,B,[K:clef=bass] | 
+[V:1] (3c=GA (3_c_Ge (3BF_G (3=A=E^c | 
+[V:2] (3C=G,A, (3_C_G,E (3B,F,_G, (3=A,=E,^C | 
+[V:1] (3^G^D=E (3=G=D=B (3^F^CD (3=F=C=A | 
+[V:2] (3^G,^D,=E, (3=G,=D,=B, (3^F,^C,D, (3=F,=C,=A, | 
+[V:1] (3=d=AB (3_d_Af (3c=GA (3_c_Ge | 
+[V:2] (3=D=A,B, (3_D_A,F (3C=G,A, (3_C_G,E | 
+[V:1] (3BFG (3=A=E^c (3^G^DE (3=G=D=B | 
+[V:2] (3B,F,G, (3=A,=E,^C (3^G,^D,E, (3=G,=D,=B, | 
+[V:1] (3=e=Bc (3_e_B=g (3=d=AB (3_d_Af | 
+[V:2] (3=E=B,C (3_E_B,=G (3=D=A,B, (3_D_A,F | 
+[V:1] (3c=GA (3_c_Ge (3BFe (3BFd | 
+[V:2] (3C=G,A, (3_C_G,E (3B,F,E (3B,F,D | 
+[V:1] (3GF_F (3EDC (3G=FE (3DCB, | 
+[V:2] (3G,F,_F, (3E,D,C, (3G,=F,E, (3D,C,B,, | 
+[V:1] (3GFE (3DC_C (3GFE (3DCB, | 
+[V:2] (3G,F,E, (3D,C,_C, (3G,F,E, (3D,C,B,, | 
+[V:1] (3=A,B,=C (3EDA, (3CB,F, (3_A,G,F, | 
+[V:2] (3=A,,B,,=C, (3E,D,A,, (3C,B,,F,, (3_A,,G,,F,, | 
+[V:1] (3E,F,G, (3B,A,G, (3F,D,E, (3F,=E,F, | 
+[V:2] (3E,,F,,G,, (3B,,A,,G,, (3F,,D,,E,, (3F,,=E,,F,, | 
+[V:1] (3G,F,=E, (3_E,D,C, (3G,F,_E, (3D,C,B,, | 
+[V:2] (3G,,F,,=E,, (3_E,,D,,C,, (3G,,F,,_E,, (3D,,C,,B,,, | 
+[V:1] (3G,F,E, (3D,C,_C, (3G,F,E, (3D,C,B,, | 
+[V:2] (3G,,F,,E,, (3D,,C,,_C,, (3G,,F,,E,, (3D,,C,,B,,, | 
+[V:1] (3=A,,B,,_C, (3D,E,F, (3G,A,B, (3_CDE | 
+[V:2] (3=A,,,B,,,_C,, (3D,,E,,F,, (3G,,A,,B,, (3_C,D,E, | 
+[V:1] (3F=ED (3CB,G, (3F,=E,D, (3C,B,,G,, | 
+[V:2] (3F,=E,D, (3C,B,,G,, (3F,,=E,,D,, (3C,,B,,,G,,, | 
+[V:1] (3F,,B,,^G,, (3=A,,D,A,, (3B,,E,=B,, (3C,F,C, | 
+[V:2] (3F,,,B,,,^G,,, (3=A,,,D,,A,,, (3B,,,E,,=B,,, (3C,,F,,C,, | 
+[V:1] (3D,G,=D, (3E,=A,F, (3G,D=A, (3CGF | 
+[V:2] (3D,,G,,=D,, (3E,,=A,,F,, (3G,,D,=A,, (3C,G,F, | 
+[V:1] (3=A,DA, (3CGF (3A,DA, (3CGF | 
+[V:2] (3=A,,D,A,, (3C,G,F, (3A,,D,A,, (3C,G,F, | 
+[V:1] (3CGF (3CGF (3CGF (3B,GF | 
+[V:2] (3C,G,F, (3C,G,F, (3C,G,F, (3B,,G,F, | 
+[V:1] (3DF,E (3FED (3B,F,C (3DCB, | 
+[V:2] (3D,F,,E, (3F,E,D, (3B,,F,,C, (3D,C,B,, | 
+[V:1] (3DF,E (3FED (3B,F,C (3DCB, | 
+[V:2] (3D,F,,E, (3F,E,D, (3B,,F,,C, (3D,C,B,, | 
+[V:1] (3E,F,B, (3DD,F, (3E,F,B, (3DD,F, | 
+[V:2] (3E,,F,,B,, (3D,D,,F,, (3E,,F,,B,, (3D,D,,F,, | 
+[V:1] (3C,D,F, (3B,B,,D, (3C,D,F, (3B,B,,D, | 
+[V:2] (3C,,D,,F,, (3B,,B,,,D,, (3C,,D,,F,, (3B,,B,,,D,, | 
+[V:1] z4(3C,D,F, (3B,B,,D, | 
+[V:2] z4(3C,,D,,F,, (3B,,B,,,D,, | 
+[V:1] z4(3C,D,F, (3B,B,,D, | 
+[V:2] z4(3C,,D,,F,, (3B,,B,,,D,, | 
+[V:1] z4!accent!!fermata![b'4b4] |]  
+[V:2] .[B,,2B,,,2]z2!fermata![F4D4B,4F,4] |]

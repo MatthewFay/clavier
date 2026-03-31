@@ -1,0 +1,77 @@
+X: 329
+T: 330. Nun danket alle Gott
+N: Derived from chor330.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 995147630
+%%humdrum-veritas-data 513915303
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] d2 [I:setbarnb 1]| 
+[V:2] G2 | 
+[V:3] B2 | 
+[V:4] G,2 | 
+[V:1] d2d2e2e2 | 
+[V:2] A2G2G2GA | 
+[V:3] AdB2c2c2 | 
+[V:4] F,2G,2C,D, E,C, | 
+[V:1] !fermata!d6B2 | 
+[V:2] !fermata!B6G2 | 
+[V:3] !fermata!d6d2 | 
+[V:4] !fermata!G,6G,2 | 
+[V:1] c2B2A2Bc | 
+[V:2] A2D2D2DE | 
+[V:3] d3gf2gG | 
+[V:4] G,F,G,2D,C, B,,E, | 
+[V:1] A4!fermata!G2 :|]  
+[V:2] E/F/G2F!fermata!D2 :|]  
+[V:3] e2A2!fermata!B2 :|]  
+[V:4] C,B,,/C,/ D,D,,!fermata!G,,2 :|]  
+[V:1] A2 [I:setbarnb 5]| 
+[V:2] FG | 
+[V:3] A2 | 
+[V:4] D,E, | 
+[V:1] A2A2B2B2 | 
+[V:2] AG AFD2G2 | 
+[V:3] d2c2Bcd2 | 
+[V:4] F,E, F,D, G,,A,, B,,C, | 
+[V:1] !fermata!A6A2 | 
+[V:2] !fermata!F6F2 | 
+[V:3] !fermata!d6dc | 
+[V:4] !fermata!D,6D,2 | 
+[V:1] B^cd2d2c2 | 
+[V:2] DEF2B2AG | 
+[V:3] BA Ad dg e/d/e | 
+[V:4] G,2F,B, G,E, A,A,, | 
+[V:1] !fermata!d6d2 | 
+[V:2] !fermata!F6G2 | 
+[V:3] !fermata!d6B2 | 
+[V:4] !fermata!D,6G,2 | 
+[V:1] e2d2c2B2 | 
+[V:2] GAB2BA A^G | 
+[V:3] c2de/=f/ gc =fe | 
+[V:4] C,2G,=F, E,F, D,E, | 
+[V:1] !fermata!c6B2 | 
+[V:2] !fermata!A6D2 | 
+[V:3] !fermata!e6=g2 | 
+[V:4] !fermata!A,,6B,G, | 
+[V:1] A2BcA3G | 
+[V:2] D3E FGF2 | 
+[V:3] fd BA AB cA | 
+[V:4] D,F, G,C,D,2D,,2 | 
+[V:1] !fermata!G6 |]  
+[V:2] !fermata!D6 |]  
+[V:3] !fermata!B6 |]  
+[V:4] !fermata!G,,6 |]

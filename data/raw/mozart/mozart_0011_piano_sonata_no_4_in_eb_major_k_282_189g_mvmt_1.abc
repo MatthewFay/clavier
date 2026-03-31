@@ -1,0 +1,96 @@
+X: 10
+T: Piano Sonata No. 4 in E\b major, K 282 (189g), mvmt. 1
+C: Wolfgang Amadeus Mozart
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/14 17:01:32
+%%abc-copyright 2018 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2009/10/05
+%%gracespace 0 6 6
+%%humdrum-veritas 2156033562
+%%humdrum-veritas-data 2664521069
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: C
+N: Derived from sonata04-1.krn
+Q: "Allegro." 1/4=84
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=treble
+K: Eb
+[V:1] B2>c2B4-B2B2e2.e2 | 
+[V:2] G4G4F4G2=A2 & E4E4D4C4 | 
+[V:1] edcBB4dcc4fd | 
+[V:2] B4[K:clef=bass]D4=E4F4 & B,4B,8_A,4- | 
+[V:1] cBB4eBB6!trill!A2 {/GA} | 
+[V:2] D4_E8D4 & A,4G,4F,4B,4 | 
+[V:1] G2 z2 B2 z2 z2 {/e/f/} g2f2e2 | 
+[V:2] E,G,B,E E,G,B,E E,G,B,E E,G,B,E | 
+[V:1] !trill!e3d/e/d4z2 {/f/g/} a2g2f2 | 
+[V:2] F,A,DF F,A,DF F,A,DF F,A,DF | 
+[V:1] !trill!f3e/f/e4z2 {/f/e/d/} e2f2_g2 | 
+[V:2] G,B,EG G,B,EG _G,B,E_G G,B,EG | 
+[V:1] B2=A2 z2 .c2 _e2_d2 z2 .B2 | 
+[V:2] F,=A,CE F,A,CE =E,G,B,_D E,G,B,D | 
+[V:1] =ABA_d c[B=e][Af][=E_d][E4d4][F2c2] z2 | 
+[V:2] C_DCB, =A,DCB,B,4A,2 z2[K:clef=treble] & F,8-F,4-F,2 z2 | 
+[V:1] z4z B=df fe.c.=A z Ace | 
+[V:2] B, [=DF][DF][DF] B, [DF][DF][DF] C [EF][EF][EF] C [EF][EF][EF] | 
+[V:1] gf.d.B z Bdf fe.c.=A z Ace | 
+[V:2] B, [DF][DF][DF] B, [DF][DF][DF] C [EF][EF][EF] C [EF][EF][EF] | 
+[V:1] gf.d.B z .f =e/f/=a/f/ bff2- fd f/d/f/d/ | 
+[V:2] B, [DF][DF][DF][K:clef=bass] B,,D,C,E, D,F,B,D D,F,B,D | 
+[V:1] g_ee2- ec e/c/e/c/ fd- d/B/d/B/ ec- c/=A/c/A/ | 
+[V:2] E,G,CE E,G,CE F,B,DF F,=A,CE | 
+[V:1] c/B/=A/B/ cd e{/d//}f{/e//}g{/f//}=a b/f/=e/f/ g/f/e/f/ z/ f/e/f/ z/ e/f/^f/ | 
+[V:2] [G,2D2] z2z4[K:clef=treble][D2B2] z2 [D2B2][D2B2] | 
+[V:1] .g/c/=B/c/ d/c/B/c/ z/ c/B/c/ z/ B/c/_d/ =d_e=ef2< !trill!c2_B/c/ | 
+[V:2] [E2B2] z2 [E2B2][=E2B2][F4B4][K:clef=bass]z2 [F,2=A,2_E2] | 
+[V:1] .B2 z2 {/=Ac} .e2 z2 d B,/D/ C/E/D/F/ E/G/F/_A/ G/B/A/c/ :|]|:  
+[V:2] [B,D] [DF][CE][B,D] z [=A,C][G,B,][F,A,][B,,4B,4]z4[K:clef=treble] :|]|:  
+[V:1] B>cB4b4g2=e2B2 | 
+[V:2] [_D4=E4G4][D4E4G4][C4E4G4][C4E4G4] | 
+[V:1] B=AA4_A4{/G//}A4{/G//} A2- | 
+[V:2] [C4F4][C4F4][C4_E4][_C4E4] | 
+[V:1] Aaga z f=ef z d^cd z AGA | 
+[V:2] [B,4=D4][B,4A4][B,4F4][B,4D4F4] | 
+[V:1] G4[E4G4][E4A4][E4=A4] | 
+[V:2] z EDE[K:clef=bass] z _DCD z C=B,C z _C_B,C | 
+[V:1] z/ B/=A/B/ A/B/c/B/ z/ e/d/e/ d/c/B/A/ z/ B/A/B/ A/B/c/B/ z/ e/d/e/ d/c/B/A/ | 
+[V:2] x4C2E2D4C2E2 & [B,4=D4]B,4B,4B,4 | 
+[V:1] !trill!=A2{/G/A/}c>BB4=Bcdc _B_AGF | 
+[V:2] E4D4z8 & B,4B,4z8 | 
+[V:1] G2 z2 B2 z2 z2 {/f/8} e/d/e/f/ e2G2 | 
+[V:2] E,G,B,E E,G,B,E _D,G,B,_D D,G,B,D | 
+[V:1] B2A2 .A2 z2 z2 {/f//} e/d/e/f/ .e2._d2 | 
+[V:2] C,E,A,C C,E,A,C[K:clef=treble] G,B,EG G,B,EG | 
+[V:1] =B2c2 z2 .c2 e2=d2 z2 _B2 | 
+[V:2] A,CEA A,CEA A,B,=DF A,B,DF | 
+[V:1] f2e2 z2 .e2 f2_g2 z2 .e2 | 
+[V:2] G,B,EG G,B,EG =A,CE_G A,CEG | 
+[V:1] ded_g f[e=a][db][=A_g][A4g4][B2f2] z2 | 
+[V:2] F_GFE DGFEE4D2 z2[K:clef=bass] & B,8-B,4-B,2 z2 | 
+[V:1] z4z E=GB BA.F.D z DFA | 
+[V:2] E, [=G,B,][G,B,][G,B,] E, [G,B,][G,B,][G,B,] F, [A,B,][A,B,][A,B,] F, [A,B,][A,B,][A,B,] | 
+[V:1] cB.G.E z egb ba.f.d z dfa | 
+[V:2] E, [G,B,][G,B,][G,B,][K:clef=treble] E [GB][GB][GB] F [AB][AB][AB] F [AB][AB][AB] | 
+[V:1] c'b.g.e z .B =A/B/d/B/ eBB2- BG B/G/B/G/ | 
+[V:2] E [GB][GB][GB][K:clef=bass] E,G,F,A, G,B,EG G,,B,,E,G, | 
+[V:1] c_AA2- AF A/F/A/F/ BG- G/E/G/E/ AF- F/D/F/D/ | 
+[V:2] A,,C,F,A, A,,C,F,A, B,,E,G,B, B,,D,F,A, | 
+[V:1] F/E/D/E/ FG A{/G//}B{/A//}c{/B//}d e/b/=a/b/ c'/b/a/b/ z/ b/a/b/ z/ a/b/=b/ | 
+[V:2] [C,2G,2] z2z4[K:clef=treble][G2B2] z2 [G2e2][G2e2] | 
+[V:1] .c'/f/=e/f/ g/f/e/f/ z/ f/e/f/ z/ e/f/_g/ =g_a=ab2< !trill!f2_e/f/ | 
+[V:2] [A2e2] z2 [A2e2][=A2e2][B4e4]z2 [B,2D2_A2] | 
+[V:1] .e2 z2 {/d/f/} .a2 z2 z g/b/ a/f/e/g/ f/d/c/e/ d/B/A/c/ :|]  
+[V:2] .[EG] [GB][FA][EG] z [DF][CE][B,D][K:clef=bass][E,4E4]z4[K:clef=treble] :|]  
+[V:1] B2>c2 B2B2 B=Bcd efge | 
+[V:2] [E4G4][E4G4][D4F4]G3=A & x12C4 | 
+[V:1] {/f//} e2d4c2- (3c_Bd (3eg=B (3ceG (3AcF | 
+[V:2] B4_A4G2 z2 [A,2A2] z2[K:clef=bass] & B,4D4E2 z2x4 | 
+[V:1] E6GFF4E2 z2 & x4>D4D4E2 z2 |]  
+[V:2] z2 [B,,2G,2][B,,2G,2][B,,2A,2][E,4-A,4][E,2G,2] z2 |]

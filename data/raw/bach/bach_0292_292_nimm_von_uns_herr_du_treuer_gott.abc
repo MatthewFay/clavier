@@ -1,0 +1,73 @@
+X: 291
+T: 292. Nimm von uns, Herr, du treuer Gott
+N: Derived from chor292.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1080368249
+%%humdrum-veritas-data 2265265970
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] A [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] d | 
+[V:4] D, | 
+[V:1] AFGA | 
+[V:2] EDDD | 
+[V:3] AABA | 
+[V:4] ^C,D,B,F, | 
+[V:1] FE!fermata!DA | 
+[V:2] D^C!fermata!A,F | 
+[V:3] BE!fermata!Fd | 
+[V:4] G,A,!fermata!D,D,/E,/ | 
+[V:1] AGcA | 
+[V:2] FG/F/EF | 
+[V:3] =cccc | 
+[V:4] F,E,A,F, | 
+[V:1] FG!fermata!AA | 
+[V:2] DD!fermata!^CD | 
+[V:3] BD!fermata!EF | 
+[V:4] B,B,,!fermata!A,,D, | 
+[V:1] =cd/e/fe | 
+[V:2] EGAG | 
+[V:3] ABcB/c/ | 
+[V:4] A,G,F,G,/A,/ | 
+[V:1] d^c!fermata!dd | 
+[V:2] F/G/A!fermata!AG | 
+[V:3] de!fermata!f=B | 
+[V:4] B,A,!fermata!D,G, | 
+[V:1] ed=c=B | 
+[V:2] G^F/^G/AE | 
+[V:3] =c/=B/Add | 
+[V:4] C,D,/E,/^F,^G, | 
+[V:1] A=B!fermata!Ad | 
+[V:2] E/A/ A/^G/!fermata!ED | 
+[V:3] cd!fermata!c=G | 
+[V:4] A,E,!fermata!A,,=B,, | 
+[V:1] c=BcA | 
+[V:2] EFGF | 
+[V:3] Gdcc | 
+[V:4] C,D,E,F, | 
+[V:1] AG!fermata!FA | 
+[V:2] FE!fermata!CD | 
+[V:3] dG!fermata!AA | 
+[V:4] _B,,C,!fermata!F,,^F,, | 
+[V:1] BA/G/FG | 
+[V:2] D^CDE | 
+[V:3] G/=F/EB2- | 
+[V:4] G,,A,,B,,A,,/G,,/ | 
+[V:1] FE!fermata!D |]  
+[V:2] ^C/DC/!fermata!A, |]  
+[V:3] B/A/ G/A/!fermata!^F |]  
+[V:4] A,,A,,!fermata!D, |]

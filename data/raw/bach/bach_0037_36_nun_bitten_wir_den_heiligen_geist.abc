@@ -1,0 +1,81 @@
+X: 36
+T: 36. Nun bitten wir den heiligen Geist
+N: Derived from chor036.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1813625825
+%%humdrum-veritas-data 2687693243
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: A
+[V:1] A [I:setbarnb 1]| 
+[V:2] E | 
+[V:3] c | 
+[V:4] A, | 
+[V:1] BBAF | 
+[V:2] EEED/C/ | 
+[V:3] B/A/GAA | 
+[V:4] G,/F,/ E,/D,/C,D,- | 
+[V:1] EF/G/AB | 
+[V:2] B,C/D/EE | 
+[V:3] GA/B/ E/AG/ | 
+[V:4] D,C,/B,,/ C,/A,,/E, | 
+[V:1] !fermata!A3c/d/ | 
+[V:2] !fermata!E3A | 
+[V:3] !fermata!c3e- | 
+[V:4] !fermata!A,,3A, | 
+[V:1] efec | 
+[V:2] B/c/ d/c/BA | 
+[V:3] eABc/d/ | 
+[V:4] G,F,G,A, | 
+[V:1] AF/G/AB | 
+[V:2] ADCF/E/ | 
+[V:3] eAA3/G/ | 
+[V:4] C,D,/E,/ F,/A,/ D,/E,/ | 
+[V:1] !fermata!A2cc | 
+[V:2] !fermata!C2AB | 
+[V:3] !fermata!E2eg | 
+[V:4] !fermata!A,,2A,/G,/F,/^E,/ | 
+[V:1] cBc2 | 
+[V:2] A/G/FF^E | 
+[V:3] fF/G/AG | 
+[V:4] F,/=E,/D,C,2 | 
+[V:1] !fermata!A2zA | 
+[V:2] !fermata!C2xF | 
+[V:3] !fermata!F2xc | 
+[V:4] !fermata!F,2zF, | 
+[V:1] BBc2 | 
+[V:2] GGA/F/=G | 
+[V:3] eee2 | 
+[V:4] E,/D,/C,/B,,/A,,2 | 
+[V:1] !fermata!A2BB | 
+[V:2] !fermata!F2F^G | 
+[V:3] !fermata!d2d/c/B | 
+[V:4] !fermata!D,2B,,E, | 
+[V:1] c/B/A/G/FB | 
+[V:2] A/G/F/E/DD | 
+[V:3] A/c/ d/e/AG/F/ | 
+[V:4] A,,B,,/C,/D,B,, | 
+[V:1] BA/G/F2 | 
+[V:2] C/G/ F/E/E^D | 
+[V:3] EF/G/cB/A/ | 
+[V:4] C,^D,/E,/A,,B,, | 
+[V:1] !fermata!E2FG | 
+[V:2] !fermata!B,2=DD | 
+[V:3] !fermata!G2AB | 
+[V:4] !fermata!E,2=D,C,/B,,/ | 
+[V:1] AB!fermata!A |]  
+[V:2] EE/D/!fermata!C |]  
+[V:3] E/AG/!fermata!E |]  
+[V:4] C,/A,,/E,,!fermata!A,, |]

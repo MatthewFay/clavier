@@ -1,0 +1,69 @@
+X: 55
+T: 55. Wir Christenleut
+N: Derived from chor055.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3022405545
+%%humdrum-veritas-data 3774921859
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: D
+[V:1] B/c/ [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] d/e/ | 
+[V:4] B,, | 
+[V:1] dc!fermata!B :|]  
+[V:2] B^A!fermata!F :|]  
+[V:3] ff/e/!fermata!d :|]  
+[V:4] B,F,!fermata!B,, :|]  
+[V:1] f [I:setbarnb 2]| 
+[V:2] F/G/ | 
+[V:3] A/B/ | 
+[V:4] D, | 
+[V:1] ed!fermata!cc | 
+[V:2] AF!fermata!FF | 
+[V:3] cB!fermata!^A^A | 
+[V:4] A,B,!fermata!F,F, | 
+[V:1] ddee | 
+[V:2] FFBA | 
+[V:3] B/c/ddc | 
+[V:4] B,B,/A,/ G,/E,/A,/G,/ | 
+[V:1] ffed | 
+[V:2] AA/B/cF | 
+[V:3] ddcB | 
+[V:4] F,/E,/D,/C,/ B,,/^A,,/B,, | 
+[V:1] c2!fermata!Bf | 
+[V:2] F3/E/!fermata!DB | 
+[V:3] B^A!fermata!Fd | 
+[V:4] F,,2!fermata!B,,B,, | 
+[V:1] ed!fermata!cf | 
+[V:2] B/^A/B!fermata!AB/=A/ | 
+[V:3] ef!fermata!ff | 
+[V:4] C,D,/E,/!fermata!F,D, | 
+[V:1] ed!fermata!cc | 
+[V:2] ^GA/B/!fermata!AA | 
+[V:3] Bf/e/!fermata!ee | 
+[V:4] E,F,/^G,/!fermata!A,A,/=G,/ | 
+[V:1] ddee | 
+[V:2] A/G/FB/A/^G | 
+[V:3] f/e/d/c/Be | 
+[V:4] F,B,/A,/^G,C/B,/ | 
+[V:1] ffed | 
+[V:2] cB/^A/BB | 
+[V:3] ed/c/ B/c/d/e/ | 
+[V:4] ^A,D^G,/A,/B, | 
+[V:1] c2!fermata!B |]  
+[V:2] B^A!fermata!F |]  
+[V:3] f3/e/!fermata!^d |]  
+[V:4] F,2!fermata!B,, |]

@@ -1,0 +1,134 @@
+X: 115
+T: Etude No. 11.	 Op. 10.
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:41
+%%abc-edited-by Leszek Kubiak
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Marta Lawrence
+%%abcx-initial-encoding-date 2018-10-16
+%%humdrum-veritas 2509611677
+%%humdrum-veritas-data 544637673
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 3/4
+N: Derived from 010_7-12-1-KI-011.krn
+P: Douze GRANDES ETUDES pour le Pianoforte
+Q: "([quarter] = 76.)" 1/4=112
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Eb
+[V:1] b [I:setbarnb 1]| 
+[V:2] z | 
+[V:1] .!arpeggio![e'gB]!arpeggio![bgB]!arpeggio![=agB]!arpeggio![bgB]!arpeggio![c'gB].[bgB] | 
+[V:2] E,, !arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,][GB,E,] | 
+[V:1] .!arpeggio![f'aB]!arpeggio![baB]!arpeggio![=aaB]!arpeggio![baB]!arpeggio![c'aB]!arpeggio![baB] | 
+[V:2] !arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,] | 
+[V:1] .!arpeggio![g'bgB]!arpeggio![d'bdB]!arpeggio![e'beB]!arpeggio![d'e=B]!arpeggio![c'ec]!arpeggio![f'fc] | 
+[V:2] !arpeggio![GB,E,]!arpeggio![ADB,F,]!arpeggio![GEB,G,]!arpeggio![=B,E,G,,]!arpeggio![CE,A,,]!arpeggio![EF,=A,,] | 
+[V:1] !arpeggio![e'gB]!arpeggio![e'=a_gc]!arpeggio![=d'bfB]!arpeggio![_d'=g=eB]!arpeggio![c'_afA]!arpeggio![=e'bgc] | 
+[V:2] !arpeggio![EG,E,B,,]!arpeggio![E=A,_G,B,,]!arpeggio![DB,F,B,,]!arpeggio![=EB,=G,C,]!arpeggio![F_A,C,]!arpeggio![GCG,C,] | 
+[V:1] .!arpeggio![f'ac]!arpeggio![c'ac]!arpeggio![=ba=B]!arpeggio![c'ac]!arpeggio![_d'a_d][c'ac] | 
+[V:2] F,, !arpeggio![ACF,]!arpeggio![ACF,]!arpeggio![ACF,]!arpeggio![ACF,][ACF,] | 
+[V:1] .!arpeggio![g'bgc]!arpeggio![c'bgc]!arpeggio![=bbg=B]!arpeggio![c'bgc]!arpeggio![_d'bg_d]!arpeggio![c'bgc] | 
+[V:2] !arpeggio![GCB,=E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,] | 
+[V:1] !arpeggio![a'c'ac]!arpeggio![ebge]!arpeggio![e'c'ff][f'e'_c'e]!arpeggio![f'bd]!arpeggio![g'ad] | 
+[V:2] !arpeggio![ACA,F,][K:clef=treble] !arpeggio![BEB,G,]!arpeggio![cEA,]!arpeggio![_cFA,]!arpeggio![BFB,]!arpeggio![AFB,] | 
+[V:1] !arpeggio![e'ge]!arpeggio![e'_ge]!arpeggio![d'fd]!arpeggio![_d'=gB]!arpeggio![c'aA][=d'fA] | 
+[V:2] !arpeggio![GE] !arpeggio![c_G=A,]!arpeggio![BFB,][K:clef=bass] !arpeggio![=G_D=E,]!arpeggio![FCF,]!arpeggio![=D_A,F,B,,] | 
+[V:1] !arpeggio![e'eG]!arpeggio![beB]!arpeggio![=aeB]!arpeggio![beB]!arpeggio![c'eB]!arpeggio![beB] | 
+[V:2] .E,, !arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,] | 
+[V:1] !arpeggio![f'aB]!arpeggio![baB]!arpeggio![=aaB]!arpeggio![baB]!arpeggio![c'aB]!arpeggio![baB] | 
+[V:2] !arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,] | 
+[V:1] !arpeggio![g'bgB]!arpeggio![d'bd]!arpeggio![e'beB]!arpeggio![d'e=B]!arpeggio![c'ec]!arpeggio![f'fc] | 
+[V:2] !arpeggio![GB,E,]!arpeggio![ADB,F,]!arpeggio![GEB,G,]!arpeggio![=B,E,G,,]!arpeggio![CE,A,,]!arpeggio![EF,=A,,] | 
+[V:1] !arpeggio![e'gB]!arpeggio![e'=a_gc]!arpeggio![d'bfB]!arpeggio![_d'=g=eB]!arpeggio![c'_afA]!arpeggio![=e'bgc] | 
+[V:2] !arpeggio![EG,B,,]!arpeggio![E=A,_G,B,,]!arpeggio![DB,F,B,,]!arpeggio![=EB,=G,C,]!arpeggio![F_A,C,]!arpeggio![GCG,C,] | 
+[V:1] .!arpeggio![f'ac]!arpeggio![c'ac]!arpeggio![=ba=B]!arpeggio![c'ac]!arpeggio![_d'a_d]!arpeggio![c'ac] | 
+[V:2] .F,, !arpeggio![ACF,]!arpeggio![ACF,]!arpeggio![ACF,]!arpeggio![ACF,]!arpeggio![ACF,] | 
+[V:1] .!arpeggio![g'bgc]!arpeggio![c'bgc]!arpeggio![=bbg=B]!arpeggio![c'bgc]!arpeggio![_d'bg_d]!arpeggio![c'bgc] | 
+[V:2] !arpeggio![GCB,=E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,] | 
+[V:1] !arpeggio![a'c'ac]!arpeggio![g'e'be]!arpeggio![f'e'c'f]!arpeggio![f'e'_c'e]!arpeggio![f'bd]!arpeggio![g'ad] | 
+[V:2] !arpeggio![ACF,][K:clef=treble] !arpeggio![BEB,G,]!arpeggio![cEA,]!arpeggio![_cFA,]!arpeggio![BFB,]!arpeggio![AFB,] | 
+[V:1] .!arpeggio![e'ge]!arpeggio![e'_ge]!arpeggio![e'g_c]!arpeggio![_d'_fA]!arpeggio![_ge_G]!arpeggio![b_dG] | 
+[V:2] !arpeggio![GE][K:clef=bass] !arpeggio![_GB,E,]!arpeggio![G_CE,]!arpeggio![_F_D_F,]!arpeggio![EC_G,]!arpeggio![FDG,] | 
+[V:1] .!arpeggio![_c'e_G]!arpeggio![_geG]!arpeggio![feF]!arpeggio![geG]!arpeggio![_aeG]!arpeggio![__b_dG] | 
+[V:2] !arpeggio![E_G,_C,]!arpeggio![EG,C,]!arpeggio![EG,C,]!arpeggio![EG,C,]!arpeggio![EG,=A,,]!arpeggio![_DG,A,,] | 
+[V:1] !arpeggio![__bc_G]!arpeggio![acG]!arpeggio![=gc_G]!arpeggio![acG]!arpeggio![_d'_gA]!arpeggio![e'gA] | 
+[V:2] !arpeggio![C_G,_A,,]!arpeggio![CG,A,,]!arpeggio![CG,A,,]!arpeggio![CG,A,,]!arpeggio![_GA,C,]!arpeggio![GA,C,] | 
+[V:1] .!arpeggio![_f'_fA]!arpeggio![afA]!arpeggio![=gf=G]!arpeggio![afA]!arpeggio![bfA]!arpeggio![_c'eA] | 
+[V:2] !arpeggio![_FA,_D,]!arpeggio![FA,D,]!arpeggio![FA,D,]!arpeggio![FA,D,]!arpeggio![FA,_C,]!arpeggio![EA,C,] | 
+[V:1] !arpeggio![_c'=dA]!arpeggio![bdA]!arpeggio![=ad_A]!arpeggio![bdA]!arpeggio![e'_aB]!arpeggio![f'aB] | 
+[V:2] !arpeggio![DA,B,,]!arpeggio![DA,B,,]!arpeggio![DA,B,,]!arpeggio![DA,B,,]!arpeggio![FB,D,]!arpeggio![FB,D,] | 
+[V:1] .!arpeggio![_g'_gB]!arpeggio![bgB]!arpeggio![=ag=A]!arpeggio![bgB]!arpeggio![_c'f_c]!arpeggio![d'fB] | 
+[V:2] !arpeggio![_GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![FB,_D,]!arpeggio![FB,D,] | 
+[V:1] .!arpeggio![e'e_G]!arpeggio![_geG]!arpeggio![feF]!arpeggio![geG]!arpeggio![aeG]!arpeggio![b_dG] | 
+[V:2] !arpeggio![E_G,_C,]!arpeggio![EG,C,]!arpeggio![EG,C,]!arpeggio![EG,C,]!arpeggio![EG,B,,]!arpeggio![_DG,B,,] | 
+[V:1] .!arpeggio![_c'_cE]!arpeggio![ecE]!arpeggio![dcD]!arpeggio![ecE]!arpeggio![_fc_F]!arpeggio![ecE] | 
+[V:2] !arpeggio![_CE,A,,]!arpeggio![CE,A,,]!arpeggio![CD,A,,]!arpeggio![CE,A,,]!arpeggio![C_F,A,,]!arpeggio![CE,A,,] | 
+[V:1] !arpeggio![=e_c=E]!arpeggio![fcF]!arpeggio![ecE]!arpeggio![fcF]!arpeggio![_gc_G]!arpeggio![ecE] | 
+[V:2] !arpeggio![_C=E,A,,]!arpeggio![CF,A,,]!arpeggio![CE,A,,]!arpeggio![CF,A,,]!arpeggio![C_G,=A,,]!arpeggio![CE,A,,] | 
+[V:1] [dBD] !arpeggio![bfA]!arpeggio![b=eA]!arpeggio![bfA]!arpeggio![bgA]!arpeggio![bdA] | 
+[V:2] .[B,,B,,,] !arpeggio![DF,B,,]!arpeggio![DF,B,,]!arpeggio![DF,B,,]!arpeggio![_EF,B,,]!arpeggio![FF,B,,] | 
+[V:1] .!arpeggio![b_eG] !arpeggio![c'e=A]!arpeggio![=beA]!arpeggio![c'eA]!arpeggio![=d'eA]!arpeggio![c'eA] | 
+[V:2] !arpeggio![EG,B,,]!arpeggio![E_G,B,,]!arpeggio![EG,B,,]!arpeggio![EG,B,,]!arpeggio![EF,B,,]!arpeggio![EF,B,,] | 
+[V:1] .!arpeggio![f'bd] !arpeggio![bfA]!arpeggio![b=eA]!arpeggio![bfA] (3!arpeggio![bgA]!arpeggio![baA]!arpeggio![bdA] | 
+[V:2] .B,,, !arpeggio![DF,B,,]!arpeggio![^CF,B,,]!arpeggio![DF,B,,]!arpeggio![_EF,B,,]!arpeggio![FF,B,,] | 
+[V:1] !arpeggio![b_eG] !arpeggio![c'e=A]!arpeggio![=beA]!arpeggio![c'eA]!arpeggio![d'eA]!arpeggio![c'eA] | 
+[V:2] !arpeggio![EG,B,,]!arpeggio![E_G,B,,]!arpeggio![EG,B,,]!arpeggio![EG,B,,]!arpeggio![EF,B,,]!arpeggio![EF,B,,] | 
+[V:1] .[f'bd] !arpeggio![bfA]!arpeggio![b=eA]!arpeggio![bfA]!arpeggio![bgA]!arpeggio![bfA] | 
+[V:2] .B,,, !arpeggio![DF,B,,]!arpeggio![^CF,B,,]!arpeggio![DF,B,,]!arpeggio![EF,B,,]!arpeggio![DF,B,,] | 
+[V:1] .!arpeggio![_c'_g=A]!arpeggio![c'gA]!arpeggio![c'fA]!arpeggio![c'gA]!arpeggio![c'_a=A]!arpeggio![c'gA] | 
+[V:2] !arpeggio![E_G,B,,]!arpeggio![EG,B,,]!arpeggio![DG,B,,]!arpeggio![EG,B,,]!arpeggio![FG,B,,]!arpeggio![EG,B,,] | 
+[V:1] .!arpeggio![=c'=gB]!arpeggio![c'gB]!arpeggio![c'^fB]!arpeggio![c'gB]!arpeggio![c'=aB]!arpeggio![c'gB] | 
+[V:2] !arpeggio![=E=G,B,,]!arpeggio![EG,B,,]!arpeggio![^DG,B,,]!arpeggio![EG,B,,]!arpeggio![=FG,B,,]!arpeggio![EG,B,,] | 
+[V:1] .!arpeggio![c'=afc] !arpeggio![f'_ad]!arpeggio![=e'a^c]!arpeggio![f'ad]!arpeggio![a'c'd]!arpeggio![g'bd] | 
+[V:2] !arpeggio![_E=A,F,_B,,]!arpeggio![D_A,F,B,,]!arpeggio![DA,F,B,,]!arpeggio![DA,F,B,,]!arpeggio![DA,F,B,,]!arpeggio![DA,F,B,,] | 
+[V:1] .!arpeggio![e'gB]!arpeggio![bgB]!arpeggio![=agB]!arpeggio![bgB]{/d'}!arpeggio![c'gB]!arpeggio![bgB] | 
+[V:2] .E,, !arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,]!arpeggio![GB,E,] | 
+[V:1] .!arpeggio![f'aB]!arpeggio![baB]!arpeggio![=aaB]!arpeggio![baB]{/d'}!arpeggio![c'aB]!arpeggio![baB] | 
+[V:2] !arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,]!arpeggio![AB,D,] | 
+[V:1] .!arpeggio![g'bgB]!arpeggio![d'bd]!arpeggio![e'beB]!arpeggio![d'e=B]!arpeggio![c'ec]!arpeggio![f'fc] | 
+[V:2] !arpeggio![GB,E,]!arpeggio![ADB,F,]!arpeggio![GEB,G,]!arpeggio![=B,E,G,,]!arpeggio![CE,A,,]!arpeggio![EF,=A,,] | 
+[V:1] !arpeggio![e'gB]!arpeggio![e'=a_gc]!arpeggio![d'bfB]!arpeggio![_d'=g=eB]!arpeggio![c'_af_A]!arpeggio![=e'bgc] | 
+[V:2] !arpeggio![EG,B,,]!arpeggio![E=A,_G,B,,]!arpeggio![DB,F,B,,]!arpeggio![=EB,=G,C,]!arpeggio![F_A,C,]!arpeggio![GCG,C,] | 
+[V:1] .!arpeggio![f'ac]!arpeggio![c'ac]!arpeggio![=ba=B]!arpeggio![c'ac]{/e'}!arpeggio![_d'a_d]!arpeggio![c'ac] | 
+[V:2] .F,, !arpeggio![ACF,]!arpeggio![ACF,]!arpeggio![ACF,]!arpeggio![ACF,]!arpeggio![ACF,] | 
+[V:1] .!arpeggio![g'bgc]!arpeggio![c'bgc]!arpeggio![=bbg=B]!arpeggio![c'bgc]{/e'}!arpeggio![_d'bg_d]!arpeggio![c'bgc] | 
+[V:2] !arpeggio![GCB,=E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,]!arpeggio![GCB,E,] | 
+[V:1] !arpeggio![a'c'ac]!arpeggio![g'e'be]!arpeggio![f'e'c'f]!arpeggio![f'e'_c'e]!arpeggio![f'bd]!arpeggio![g'd'f] | 
+[V:2] !arpeggio![ACA,F,][K:clef=treble] !arpeggio![BEB,G,]!arpeggio![cEA,]!arpeggio![_cEA,]!arpeggio![BFB,]!arpeggio![dAFB,] | 
+[V:1] !arpeggio![g'd'=e]!arpeggio![g'^c'e]!arpeggio![g'c'e]!arpeggio![_g'_d'_e]!arpeggio![g'd'e]!arpeggio![g'c'e] | 
+[V:2] !arpeggio![dG=EB,]!arpeggio![^cGEB,]!arpeggio![cGE=A,]!arpeggio![_d_G_EA,][dGEA,][cGE_A,] | 
+[V:1] !arpeggio![_g'c'e]!arpeggio![f'c'd]!arpeggio![f'c'd]!arpeggio![f'=bd]!arpeggio![f'bd]!arpeggio![=e'b^c] | 
+[V:2] !arpeggio![c_GEA,]!arpeggio![cFDA,][cFDA,]!arpeggio![=BFDG,]!arpeggio![BFDG,]!arpeggio![B=E^CG,] | 
+[V:1] !arpeggio![=e'=b^c]!arpeggio![e'^ac]!arpeggio![e'ac]!arpeggio![_e'_b=c]!arpeggio![e'bc]!arpeggio![e'=ac] | 
+[V:2] !arpeggio![=B=E^CG,]!arpeggio![^AEC^F,]!arpeggio![AECF,]!arpeggio![_B_E=C_G,]!arpeggio![BECG,]!arpeggio![=AEC=F,][K:clef=bass] | 
+[V:1] !arpeggio![e'=ac][c'e=A]!arpeggio![c'd_A]!arpeggio![bdA]!arpeggio![_adA]!arpeggio![fdA] | 
+[V:2] !arpeggio![=AECF,]!arpeggio![FCF,]!arpeggio![D_A,F,B,,]!arpeggio![DA,F,B,,]!arpeggio![DA,F,B,,]!arpeggio![DA,F,B,,] | 
+[V:1] [eG] !arpeggio![e'b_d]!arpeggio![e'=ad]!arpeggio![e'bd]!arpeggio![e'c'd]!arpeggio![e'gd] | 
+[V:2] E,, [GE,][G_DE,][GDE,][GDE,][GDE,] & xB,4-B, | 
+[V:1] !arpeggio![e'ac]!arpeggio![f'ad]!arpeggio![=e'ad]!arpeggio![f'ad]!arpeggio![g'ad]!arpeggio![f'ad] | 
+[V:2] !arpeggio![ACE,]!arpeggio![A_CE,]!arpeggio![ACE,]!arpeggio![ACE,]!arpeggio![AB,E,]!arpeggio![AB,E,] | 
+[V:1] !arpeggio![b'e'g] !arpeggio![e'b_d]!arpeggio![e'=ad]!arpeggio![e'bd]!arpeggio![e'c'd]!arpeggio![e'gd] | 
+[V:2] E,, [GE,][G_DE,][GDE,][GDE,][GDB,E,] & xB,4-B, | 
+[V:1] !arpeggio![e'ac] !arpeggio![f'ad]!arpeggio![=e'ad]!arpeggio![f'ad]!arpeggio![g'ad][f'ad] | 
+[V:2] !arpeggio![ACE,]!arpeggio![A_CE,]!arpeggio![ACE,]!arpeggio![ACE,]!arpeggio![AB,E,]!arpeggio![AB,E,] | 
+[V:1] !arpeggio![b'e'g]!arpeggio![_c''e'a]!arpeggio![=b'd'g]!arpeggio![c''=e'g]!arpeggio![c''_e'=a]!arpeggio![_b'd'_b] | 
+[V:2] !arpeggio![GB,E,][K:clef=treble] !arpeggio![_cEA,]!arpeggio![=BFDG,]!arpeggio![_B=E=C]!arpeggio![=A_ECF,]!arpeggio![d_AF_B,] | 
+[V:1] .!arpeggio![g'e'g] !arpeggio![_c''e'_a]!arpeggio![=b'd'g]!arpeggio![c''=e'g]!arpeggio![c''_e'=a]!arpeggio![_b'd'_b] | 
+[V:2] .!arpeggio![eGE] !arpeggio![_cE_A,]!arpeggio![=BFDG,]!arpeggio![_B=E=C]!arpeggio![=A_EF,]!arpeggio![d_AF_B,] | 
+[V:1] !accent![g'4e'4g4]!accent!g'3/f'/ & x4a2 | 
+[V:2] .!arpeggio![eBE] !arpeggio![eGB,]!arpeggio![e^F=A,]!arpeggio![eGB,]!arpeggio![e_A_C]!arpeggio![dAB,] | 
+[V:1] e'2x2g(3g/f/e/ & g2z2A2 | 
+[V:2] !arpeggio![eGE][K:clef=bass] !arpeggio![EG,B,,]!arpeggio![E^F,=A,,]!arpeggio![EG,B,,]!arpeggio![E_A,_C,]!arpeggio![DA,B,,] | 
+[V:1] .[eG] !arpeggio![gBE] !arpeggio![beG] !arpeggio![e'gB] !arpeggio![g'be] !arpeggio![b'e'g] | 
+[V:2] E,, !arpeggio![B,E,G,,] !arpeggio![EG,B,,] !arpeggio![GB,E,] !arpeggio![BEG,] !arpeggio![eGB,] | 
+[V:1] !arpeggio![e''2g'2b2]z2{/[bd]}b'2 | 
+[V:2] !arpeggio![g2B2E2]z2{/[AFB,]}B,,2 | 
+[V:1] {/[e'g]}!fermata!e''6 |]  
+[V:2] {/[GB,E,]}!fermata!E,,6 |]

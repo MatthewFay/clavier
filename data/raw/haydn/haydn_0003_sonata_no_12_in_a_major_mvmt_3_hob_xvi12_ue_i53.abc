@@ -1,0 +1,161 @@
+X: 3
+T: Sonata No. 12 in A major, mvmt. 3 (Hob. XVI:12), UE I:5.3
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/02/22 10:41:04
+%%abc-copyright 2021 Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2008/07/05
+%%gracespace 0 6 6
+%%humdrum-veritas 115458268
+%%humdrum-veritas-data 1365721724
+%%linebreak <none>
+%%barnumbers 0
+L: 1/16
+M: 3/8
+N: Derived from sonata12-3.krn
+Q: "Finale.: Allegretto." 3/8=76
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: A
+[V:1] !turn!A2 z2 z2 | 
+[V:2] A,ECEA,E | 
+[V:1] !turn!B2 z2 z2 | 
+[V:2] G,EB,EG,E | 
+[V:1] !turn!c2 z2 z2 | 
+[V:2] A,ECEA,E | 
+[V:1] !turn!d2 z2 z2 | 
+[V:2] G,EB,EG,E | 
+[V:1] {/d/} c2BAGF | 
+[V:2] A,4z2 | 
+[V:1] E4!trill!D2 {/C/D/} | 
+[V:2] .[E,2C2].[E,2C2][E,2B,2] | 
+[V:1] C4z2 | 
+[V:2] A,4z2[K:clef=treble] | 
+[V:1] f4g2 | 
+[V:2] DAFADA | 
+[V:1] a2e2 z2 | 
+[V:2] CAEACA | 
+[V:1] f4g2 | 
+[V:2] DAFADA | 
+[V:1] a2e2 z2 | 
+[V:2] CAEACA | 
+[V:1] edbddc | 
+[V:2] .B,2G2A2 | 
+[V:1] fedcBA | 
+[V:2] D4^D2 | 
+[V:1] {/A}G4z2 | 
+[V:2] .E2[K:clef=bass] .E,2 z2 | 
+[V:1] bgeB^dB | 
+[V:2] z2 z2[K:clef=treble] !wedge!A2 | 
+[V:1] eBfBgB | 
+[V:2] !wedge!G2!wedge!F2!wedge!E2 | 
+[V:1] b=geB^dB | 
+[V:2] z2 z2 !wedge!A2 | 
+[V:1] eBfB=gB | 
+[V:2] !wedge!=G2!wedge!F2!wedge!E2 | 
+[V:1] b^geB^dB | 
+[V:2] z2 z2 !wedge!A2 | 
+[V:1] eBfBgB | 
+[V:2] !wedge!^G2!wedge!F2!wedge!E2 | 
+[V:1] bagfe=d | 
+[V:2] z6[K:clef=bass] | 
+[V:1] .c2.c2.c2 | 
+[V:2] .[A,2E2].[A,2E2].[A,2E2] | 
+[V:1] ce^dcBA | 
+[V:2] [A,4E4]z2 | 
+[V:1] GBAGFE | 
+[V:2] [B,,4E,4]z2 | 
+[V:1] !trill!F6{/E/F/} | 
+[V:2] !wedge![B,,2^D,2]!wedge![B,,2D,2]!wedge![B,,2D,2] | 
+[V:1] !wedge!E2BGAF | 
+[V:2] !wedge!E,2 z2 !wedge!B,,2 | 
+[V:1] !wedge!E2BGAF | 
+[V:2] !wedge!E,2 z2 !wedge!B,,2 | 
+[V:1] E4z2 :|]|:  
+[V:2] E,4z2 :|]|:  
+[V:1] !wedge!E2GEBG | 
+[V:2] [E,,6E,6] | 
+[V:1] !wedge!F2AFcA | 
+[V:2] [E,,6^D,6] | 
+[V:1] !wedge!G2BG=dB | 
+[V:2] [E,,6=D,6] | 
+[V:1] !wedge!A2cAec | 
+[V:2] [E,,6C,6] | 
+[V:1] BEdEcE | 
+[V:2] G,2B,2A,2 & E,6 | 
+[V:1] BEdEcE | 
+[V:2] G,2B,2A,2 & E,6 | 
+[V:1] !mordent!B4z2 | 
+[V:2] [E,4G,4]z2 | 
+[V:1] !turn!A2 z2 z2 | 
+[V:2] A,ECEA,E | 
+[V:1] !turn!B2 z2 z2 | 
+[V:2] G,EB,EG,E | 
+[V:1] !turn!c2 z2 z2 | 
+[V:2] A,ECEA,E | 
+[V:1] !turn!d2 z2 z2 | 
+[V:2] G,EB,EG,E | 
+[V:1] {/d/} c2BAGF | 
+[V:2] A,4z2 | 
+[V:1] E4!trill!D2 | 
+[V:2] .[E,2C2].[E,2C2][E,2B,2] | 
+[V:1] C2 G<AG/A3/ | 
+[V:2] A,4z2 | 
+[V:1] E4!trill!D2 | 
+[V:2] .[E,2C2].[E,2C2][E,2B,2] | 
+[V:1] C4z2 | 
+[V:2] A,4z2[K:clef=treble] | 
+[V:1] !turn!d2 z2 z2 | 
+[V:2] DAFADA | 
+[V:1] !turn!e2 z2 z2 | 
+[V:2] CAEACA | 
+[V:1] !turn!f2 z2 z2 | 
+[V:2] DAFADA | 
+[V:1] d'c'ba^gf | 
+[V:2] B,4z2[K:clef=bass] | 
+[V:1] .e2 z2 z2 | 
+[V:2] z2 [C2E2][B,2D2] | 
+[V:1] c'bagfe | 
+[V:2] [A,4C4]z2 | 
+[V:1] .d2 z2 z2 | 
+[V:2] z2 [B,2D2][A,2C2] | 
+[V:1] bagfed | 
+[V:2] [G,4B,4]z2 | 
+[V:1] cedcBA | 
+[V:2] [A,,4A,4]z2 | 
+[V:1] fedcBA | 
+[V:2] D,4z2 | 
+[V:1] {/A}G4z2 | 
+[V:2] [E,,4E,4]z2 | 
+[V:1] ecAEGE | 
+[V:2] z2 z2 !wedge!D2 | 
+[V:1] AEBEcE | 
+[V:2] !wedge!C2!wedge!B,2!wedge!A,2 | 
+[V:1] e=cAEGE | 
+[V:2] z2 z2 !wedge!D2 | 
+[V:1] AEBE=cE | 
+[V:2] !wedge!=C2!wedge!B,2!wedge!A,2 | 
+[V:1] e^cAEGE | 
+[V:2] z2 z2 !wedge!D2 | 
+[V:1] AEBEcE | 
+[V:2] !wedge!^C2!wedge!B,2!wedge!A,2 | 
+[V:1] edcBA=G | 
+[V:2] z6 | 
+[V:1] .F2 .f2.f2 | 
+[V:2] z2 .[D,2A,2].[D,2A,2] | 
+[V:1] fagfed | 
+[V:2] [D,4A,4]z2 | 
+[V:1] cedcBA | 
+[V:2] [E,4A,4]z2 | 
+[V:1] !trill!B6{/A/B/} | 
+[V:2] !wedge![E,2G,2]!wedge![E,2G,2]!wedge![E,2G,2] | 
+[V:1] !wedge!A2ecdB | 
+[V:2] !wedge!A,2 z2 !wedge!E,2 | 
+[V:1] !wedge!A2ecdB | 
+[V:2] !wedge!A,,2 z2 !wedge!E,2 | 
+[V:1] A4z2 :|]  
+[V:2] A,,4z2 :|]

@@ -1,0 +1,68 @@
+X: 2
+T: Prelude in A Minor, Op. 28, No. 2
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/25 16:34:28
+%%abc-copyright Copyright 2001 by Craig Stuart Sapp
+%%abc-edited-by Craig Stuart Sapp
+%%gracespace 0 6 6
+%%humdrum-veritas 746137156
+%%humdrum-veritas-data 1079148707
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: 4/4
+N: Derived from prelude28-02.krn
+Q: "Lento" 1/4=48
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] z8 [I:setbarnb 2]| 
+[V:2] [E,,B,,] [^A,,G,] [E,,B,,] [G,,G,] [E,,B,,] [A,,G,] [E,,B,,] [G,,G,] | 
+[V:1] z8 | 
+[V:2] [E,,B,,] [^A,,G,] [E,,B,,] [G,,G,] [E,,B,,] [A,,G,] [E,,B,,] [G,,G,] | 
+[V:1] E7B, | 
+[V:2] [E,,B,,] [^A,,G,] [E,,B,,] [G,,G,] [E,,B,,] [A,,G,] [E,,B,,] [G,,G,] | 
+[V:1] D8 | 
+[V:2] [D,,B,,] [^A,,G,] [D,,B,,] [G,,G,] [D,,B,,] [A,,G,] [D,,B,,] [G,,G,] | 
+[V:1] D2>{/^F} E2D3A, | 
+[V:2] [D,,=A,,] [^G,,=G,] [D,,A,,] [=G,,G,] [D,,A,,] [^G,,^F,] [D,,A,,] [^F,,F,] | 
+[V:1] B,2B,> B,B,4- | 
+[V:2] [=G,,,=G,,] [E,G,] [G,,D,] [_E,G,] [G,,D,] [=E,G,] [G,,D,] [_E,G,] | 
+[V:1] B,4z4 | 
+[V:2] [G,,D,] [=E,G,] [G,,D,] [_E,G,] [G,,D,] [=E,G,] [G,,D,] [E,G,] | 
+[V:1] z4B3^F | 
+[V:2] [B,,^F,] [^E,D] [B,,F,] [D,D] [B,,F,] [E,D] [B,,F,] [E,D] | 
+[V:1] A8 | 
+[V:2] [A,,^F,] [^E,D] [A,,F,] [D,D] [A,,F,] [E,D] [A,,F,] [D,D] | 
+[V:1] A2>{/^C} B2A3E | 
+[V:2] [A,,=E,] [_E,=D] [A,,=E,] [=D,D] [A,,E,] [^D,^C] [A,,E,] [^C,C] | 
+[V:1] ^F2F> FF4- | 
+[V:2] [A,,^D,] [^^C,^C] [A,,D,] [^C,C] [A,,D,] [^^C,C] [A,,D,] [^C,C] | 
+[V:1] F4z4 | 
+[V:2] [A,,^D,] [^^C,^C] [A,,D,] [^C,C] [A,,D,] [^^C,=C] [A,,D,] [=C,C] | 
+[V:1] z8 | 
+[V:2] [^F,,^D,] [^^C,A,] [F,,D,] [=C,A,] [F,,D,] [^^C,A,] [F,,D,] [=C,A,] | 
+[V:1] z2A6- | 
+[V:2] [^F,,^D,] [^^C,A,] [F,,D,] [=C,A,] [=F,,D,] [^^C,A,] [F,,D,] [B,,A,] | 
+[V:1] A7E | 
+[V:2] [E,,=C,] [B,,A,] [E,,C,] [A,,A,] [E,,C,] [B,,A,] [E,,C,] [A,,A,] | 
+[V:1] F8 | 
+[V:2] [E,,C,] [B,,A,] [E,,C,] [A,,A,] [E,,C,] [B,,A,] [E,,C,] [A,,A,] | 
+[V:1] F2>{/A} G2F3C | 
+[V:2] z8 | 
+[V:1] D2D> DD4- | 
+[V:2] z4[E,,C,] [B,,F,] [E,,C,] [A,,F,] | 
+[V:1] D4z4 | 
+[V:2] [E,,C,] [B,,F,] [E,,C,] [A,,F,]z4 | 
+[V:1] D2>{/F} E2D3A,- | 
+[V:2] z8 | 
+[V:1] A,4[E,2^G,2B,2][^D,2^F,2B,2] & B,2B,3/ B,/x4 | 
+[V:2] z4E,,2[B,,,2B,,2] | 
+[V:1] [E,4^G,4B,4][D,4E,4G,4] & x4B,3C | 
+[V:2] [E,,4B,,4][E,,,4E,,4] | 
+[V:1] !fermata![C,8E,8A,8] |]  
+[V:2] !fermata![A,,,8E,,8] |]

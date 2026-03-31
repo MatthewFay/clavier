@@ -1,0 +1,70 @@
+X: 207
+T: Preludium No. 2	 Op. 28
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:50
+%%abc-edited-by Leszek Kubiak
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abc-edited-by Marta Lawrence
+%%abcx-initial-encoding-date 2019-04-30
+%%humdrum-veritas 3613937972
+%%humdrum-veritas-data 3878439157
+%%linebreak <none>
+%%barnumbers 0
+L: 1/8
+M: C|
+N: Derived from 028_1-12-1a-C-002.krn
+P: 24 PrÃ©ludes pour le Piano
+Q: "Lento."
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: C
+[V:1] z8 | 
+[V:2] [B,,E,,][G,^A,,][B,,E,,][G,G,,] [B,,E,,][G,A,,][B,,E,,][G,G,,] | 
+[V:1] z8 | 
+[V:2] [B,,E,,][G,^A,,][B,,E,,][G,G,,] [B,,E,,][G,A,,][B,,E,,][G,G,,] | 
+[V:1] E7B, | 
+[V:2] [B,,E,,][G,^A,,][B,,E,,][G,G,,] [B,,E,,][G,A,,][B,,E,,][G,G,,] | 
+[V:1] D8 | 
+[V:2] [B,,D,,][G,^A,,][B,,D,,][G,G,,] [B,,D,,][G,A,,][B,,D,,][G,G,,] | 
+[V:1] D2>{/^F} E2D3A, | 
+[V:2] [A,,D,,][=G,^G,,][A,,D,,][G,=G,,] [A,,D,,][^F,^G,,][A,,D,,][F,^F,,] | 
+[V:1] B,2B,>B,B,4- | 
+[V:2] [G,,G,,,][G,E,][D,G,,][G,_E,] [D,G,,][G,=E,][D,G,,][G,_E,] | 
+[V:1] B,4z4 | 
+[V:2] [D,G,,][G,E,][D,G,,][G,_E,] [D,G,,][G,=E,][D,G,,][G,E,] | 
+[V:1] z4B3^F | 
+[V:2] [^F,B,,][D^E,][F,B,,][DD,] [F,B,,][DE,][F,B,,][DD,] | 
+[V:1] A8 | 
+[V:2] [^F,A,,][D^E,][F,A,,][DD,] [F,A,,][DE,][F,A,,][DD,] | 
+[V:1] A2>{/^c} B2A3E | 
+[V:2] [E,A,,][=D^D,][E,A,,][D=D,] [E,A,,][^C^D,][E,A,,][C^C,] | 
+[V:1] ^F2F>FF4- | 
+[V:2] [^D,A,,][^C^^C,][D,A,,][C^C,] [D,A,,][^C^^C,][D,A,,][C^C,] | 
+[V:1] F4z4 | 
+[V:2] [^D,A,,][^C^^C,][D,A,,][C^C,] [D,A,,][=C^^C,][D,A,,][C=C,] | 
+[V:1] z8 | 
+[V:2] [^D,^F,,][A,^^C,][D,F,,][A,=C,] [D,F,,][A,^^C,][D,F,,][A,=C,] | 
+[V:1] z2A6- | 
+[V:2] [^D,^F,,][A,^^C,][D,F,,][A,=C,] [D,=F,,][A,^^C,][D,F,,][A,B,,] | 
+[V:1] A7E | 
+[V:2] [C,E,,][A,B,,][C,E,,][A,A,,] [C,E,,][A,B,,][C,E,,][A,A,,] | 
+[V:1] F8 | 
+[V:2] [C,E,,][A,B,,][C,E,,][A,A,,] [C,E,,][A,B,,][C,E,,][A,A,,] | 
+[V:1] F2>{/A} G2F3C | 
+[V:2] z8 | 
+[V:1] D2D>DD4- | 
+[V:2] z4[C,E,,][F,B,,][C,E,,][F,A,,] | 
+[V:1] D4z4 | 
+[V:2] [C,E,,][F,B,,][C,E,,][F,A,,]z4 | 
+[V:1] D2>{/F} E2D3A,- | 
+[V:2] z8 | 
+[V:1] B,2B,>B,[B,2^G,2E,2][B,2^F,2^D,2] | 
+[V:2] A,4E,,2[B,,2B,,,2] | 
+[V:1] [B,4^G,4E,4]B,3C & x4[G,4E,4D,4] | 
+[V:2] [B,,4E,,4][E,,4E,,,4] | 
+[V:1] !fermata!!arpeggio![A,8E,8C,8] |]  
+[V:2] !arpeggio![E,,8A,,,8] |]

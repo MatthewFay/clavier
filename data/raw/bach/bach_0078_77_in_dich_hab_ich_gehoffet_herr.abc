@@ -1,0 +1,73 @@
+X: 77
+T: 77. In dich hab ich gehoffet, Herr
+N: Derived from chor077.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2843906659
+%%humdrum-veritas-data 1397871181
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: A
+[V:1] A2 [I:setbarnb 1]| 
+[V:2] F2 | 
+[V:3] cd | 
+[V:4] F,2 | 
+[V:1] A2e2e2dc | 
+[V:2] EF GAB2E2 | 
+[V:3] e2dcB2A2 | 
+[V:4] C2B,A,G,2A,2- | 
+[V:1] B2c2dcB2 | 
+[V:2] ^D2E2=DAG2 | 
+[V:3] B2A=GA2ed | 
+[V:4] A,=G, F,E, F,D,E,2 | 
+[V:1] !fermata!A4z2A2 | 
+[V:2] !fermata!E4x2F2 | 
+[V:3] !fermata!c4x2A2 | 
+[V:4] !fermata!A,,4z2D,2 | 
+[V:1] B2c2d2B2 | 
+[V:2] F2EC GF =E^D | 
+[V:3] A2G2BAB2 | 
+[V:4] ^D,E,2^E,- E,F, G,A, | 
+[V:1] e2f2!fermata!e2c2 | 
+[V:2] E/F/G AF!fermata!G2A2 | 
+[V:3] Be2^d!fermata!e2e2 | 
+[V:4] G,E,B,2!fermata!E,2A,G, | 
+[V:1] cde2d2cB | 
+[V:2] A2^A2B=A GF | 
+[V:3] f2f2f2e2 | 
+[V:4] F,E, D,C,B,,2E,D, | 
+[V:1] ABc2!fermata!B2c2 | 
+[V:2] EF/G/ AF!fermata!G2AG | 
+[V:3] ed c^d!fermata!e2e2 | 
+[V:4] C,B,,A,,2!fermata!E,2A,,2 | 
+[V:1] A2Bc!fermata!d2c2 | 
+[V:2] F3G/^A/!fermata!B2A2 | 
+[V:3] =dc de!fermata!f2fe | 
+[V:4] =D,E, D,C,!fermata!B,,2F,2 | 
+[V:1] B2c2!fermata!d2c2 | 
+[V:2] B=A=G2!fermata!F2EA- | 
+[V:3] d2e2!fermata!A2A2 | 
+[V:4] =G,F,E,2!fermata!D,2A,,2 | 
+[V:1] B2A2e3d | 
+[V:2] AG2F GAB2- | 
+[V:3] B2c^de4- | 
+[V:4] E,4-E,F,G,E, | 
+[V:1] c2=dcB4 | 
+[V:2] BEA4G2 | 
+[V:3] ec Ac f=d Be | 
+[V:4] A,G,F,E, D,B,,E,2 | 
+[V:1] !fermata!A6 |]  
+[V:2] !fermata!E6 |]  
+[V:3] !fermata!c6 |]  
+[V:4] !fermata!A,,6 |]

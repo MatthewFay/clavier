@@ -1,0 +1,73 @@
+X: 354
+T: 355. Nun ruhen alle W\"alder
+N: Derived from chor355.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1133237167
+%%humdrum-veritas-data 4211556572
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Bb
+[V:1] d [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] B | 
+[V:4] B,, | 
+[V:1] Bcd/e/f | 
+[V:2] EED/C/B, | 
+[V:3] GAB/c/d | 
+[V:4] E,/D,/C,B,,B,/A,/ | 
+[V:1] e2!fermata!dd/e/ | 
+[V:2] BF!fermata!FG | 
+[V:3] dc!fermata!BB | 
+[V:4] G,A,!fermata!B,G, | 
+[V:1] ffcd | 
+[V:2] F/E/ F/G/AA | 
+[V:3] BBff | 
+[V:4] D,/C,/ D,/E,/F,D, | 
+[V:1] B2!fermata!AF | 
+[V:2] G2!fermata!CC | 
+[V:3] f=e!fermata!fA | 
+[V:4] G,2!fermata!F,E, | 
+[V:1] Bcdd/c/ | 
+[V:2] FG/A/BF | 
+[V:3] B_ef/A/B | 
+[V:4] D,C,B,,/C,/ D,/E,/ | 
+[V:1] !fermata!c3d | 
+[V:2] !fermata!F3A | 
+[V:3] !fermata!A3d | 
+[V:4] !fermata!F,3^F, | 
+[V:1] Bcd/e/f | 
+[V:2] GFFG | 
+[V:3] dcB/c/d | 
+[V:4] G,A,B,=B, | 
+[V:1] e2!fermata!dd | 
+[V:2] G^F!fermata!GG | 
+[V:3] c/=B/A!fermata!=BB | 
+[V:4] CC,!fermata!G,G, | 
+[V:1] ffcd | 
+[V:2] =FFFF | 
+[V:3] A/G/ A/B/cB/c/ | 
+[V:4] DC/B,/A,B,/A,/ | 
+[V:1] B2!fermata!AF | 
+[V:2] F=E!fermata!FA | 
+[V:3] dc!fermata!cd | 
+[V:4] G,C!fermata!F,D, | 
+[V:1] Bcde | 
+[V:2] GFFB/A/ | 
+[V:3] dcBB/c/ | 
+[V:4] G,A,B,/A,/G, | 
+[V:1] d/c/c!fermata!B |]  
+[V:2] BA!fermata!F |]  
+[V:3] d/B/ f/e/!fermata!d |]  
+[V:4] F,/E,/F,!fermata!B,, |]

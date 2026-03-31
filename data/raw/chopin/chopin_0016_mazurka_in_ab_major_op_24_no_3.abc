@@ -1,0 +1,114 @@
+X: 16
+T: Mazurka in A\b Major, Op. 24, No. 3
+C: Frederic Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/01/17 12:55:01
+%%abc-edited-by Craig Stuart Sapp
+%%abcx-initial-encoding-date 2005/03/04/
+%%gracespace 0 6 6
+%%humdrum-veritas 2862572967
+%%humdrum-veritas-data 2014643335
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from mazurka24-3.krn
+Q: "Moderato, con anima" 1/4=126
+%%staves {1 2}
+V: 1 clef=treble
+V: 2 clef=bass
+K: Ab
+[V:1] !accent!A [I:setbarnb 1]]|:  
+[V:2] z ]|:  
+[V:1] G/>F/E3/d/ | 
+[V:2] .E,,[E,G,D][E,G,D] | 
+[V:1] c/A< {/A}fe/ | 
+[V:2] .A,,[E,A,C][E,A,C] | 
+[V:1] G/>F/Ed | 
+[V:2] [E,2D2]x & B,/>A,/G,E, | 
+[V:1] c/B<!accent!AG/ | 
+[V:2] x[A,2C2] & .A,,E,=E, | 
+[V:1] .F/z//A// (3A/B/A/ G/F/ | 
+[V:2] D,,[F,A,D]z | 
+[V:1] E/z//c//!accent!!fermata!a3/A/ | 
+[V:2] .E,,!fermata!!arpeggio![E,CA]z | 
+[V:1] G/>F/Ed | 
+[V:2] [E,2D2]x & B,/>A,/G,E, | 
+[V:1] c/B<!accent!AG/ | 
+[V:2] x[A,2C2] & .A,,E,=E, | 
+[V:1] .F/z//A// (3A/B/A/ G/F/ | 
+[V:2] .D,,[F,A,D]z | 
+[V:1] .E/z//c//!fermata!c'(3b/a/f/ | 
+[V:2] .E,,!fermata![E,CA]z | 
+[V:1] g/f/e/d/B/F/ |[1 
+[V:2] E,,[E,G,D][E,G,D] | 
+[V:1] E/z//c//AB/A/ :|][2 
+[V:2] z[E,C]z & A,,2x :|]  
+[V:1] .E/z//c//Ac ]|: 
+[V:2] z[E,C]x & A,,2A ]|:  
+[V:1] de/d/c | 
+[V:2] [=B,FA][C/E/G/] z/[=A,E_G] | 
+[V:1] d/c/Bc | 
+[V:2] [_B,/D/F/] z/[=G,D_F][A,CE] | 
+[V:1] =de/_d/c | 
+[V:2] [=B,=FA][C/E/G/] z/[=A,E_G] | 
+[V:1] d/c/Bc | 
+[V:2] [_B,/D/F/] z/[=G,D_F][_A,CE] | 
+[V:1] Bc/B/A | 
+[V:2] [G,D_F][A,/C/E/] z/[=F,_C=D] | 
+[V:1] B/A/GA | 
+[V:2] [G,/B,/_D/] z/[=E,B,C][F,A,C] | 
+[V:1] GA/G/F | 
+[V:2] [=E,B,C][F,/A,/C/] z/[D,G,=B,] | 
+[V:1] =E/G/zc & xC2- | 
+[V:2] [C,3G,3=E3]- | 
+[V:1] c2c & C3- | 
+[V:2] [C,3G,3E3]- | 
+[V:1] c2c & C3- | 
+[V:2] [C,3G,3E3]- | 
+[V:1] [C3c3-] | 
+[V:2] [C,3G,3E3] | 
+[V:1] !fermata!c2B/A/ | 
+[V:2] !fermata!z3 | 
+[V:1] G/>F/E3/d/ | 
+[V:2] [E,2D2]x & B,/>A,/G,E, | 
+[V:1] c/A< {/A}fe/ | 
+[V:2] .A,,[E,A,C][E,A,C] | 
+[V:1] G/>F/Ed | 
+[V:2] [E,2D2]x & B,/>A,/G,E, | 
+[V:1] c/B<!accent!AG/ | 
+[V:2] x[A,2C2] & .A,,E,=E, | 
+[V:1] .F/z//A// (3A/B/A/ G/F/ | 
+[V:2] .D,,[F,A,D]z | 
+[V:1] E/z//c//!fermata!a3/A/ | 
+[V:2] .E,,!fermata![E,CA]z | 
+[V:1] G/>F/Ed | 
+[V:2] [E,2D2]x & B,/>A,/G,E, | 
+[V:1] c/B<AG/ | 
+[V:2] x[A,2C2] & .A,,E,=E, | 
+[V:1] F/z//A// {/A} (3A/B/A/ G/F/ | 
+[V:2] .D,,[F,A,D]z | 
+[V:1] E/z//c//!fermata!c'(3b/a/f/ | 
+[V:2] E,,!fermata!!arpeggio![E,CA]z | 
+[V:1] g/f/e/d/B/F/ |[1 
+[V:2] .E,,[E,G,D][E,G,D] | 
+[V:1] E/z//c//Ac :|][2 
+[V:2] x[E,C]A & A,,2x :|]  
+[V:1] .E/c/c'/b/a/f/ | 
+[V:2] A,,[E,C][E,C] | 
+[V:1] g/f/e/d/B/F/ | 
+[V:2] A,,[E,D][E,D] | 
+[V:1] E/c/c'/b/a/f/ | 
+[V:2] A,,[E,C][E,C] | 
+[V:1] e/c/c'/b/a/f/ | 
+[V:2] A,,[E,E][E,E] | 
+[V:1] e/c/c'/b/a/f/ | 
+[V:2] A,,[E,E][E,E] | 
+[V:1] e/c/c'/b/a/f/ | 
+[V:2] A,,[E,E]z | 
+[V:1] e/c/g/f/e/A/ | 
+[V:2] z3 | 
+[V:1] !fermata!c3 |]  
+[V:2] !fermata!z3 |]

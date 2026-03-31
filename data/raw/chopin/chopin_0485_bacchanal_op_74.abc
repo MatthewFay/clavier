@@ -1,0 +1,143 @@
+X: 485
+T: Bacchanal	 Op. 74
+C: Fryderyk Chopin
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2021/10/03 11:23:43
+%%abc-edited-by Mateusz Mrugas
+%%abc-edited-by Wojciech Jakubiak-Danek
+%%abcx-initial-encoding-date 2020-01-29
+%%humdrum-veritas 1725923277
+%%humdrum-veritas-data 3781422055
+%%linebreak <none>
+%%barnumbers 0
+L: 1/4
+M: 3/4
+N: Derived from 074-1-Sam-004.krn
+P: 16 Polnische Lieder
+Q: "M. M. [half-dot] = 63." 3/4=63
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=bass
+K: C
+[V:1] z3 | 
+[V:2] G,G,{/^F,E,}D, | 
+[V:3] [G,,G,,,][G,,G,,,]{/^F,,E,,}D,, | 
+[V:1] z3 | 
+[V:2] G,G,{/^F,E,}D, | 
+[V:3] [G,,G,,,][G,,G,,,]{/^F,,E,,}D,, | 
+[V:1] z3 | 
+[V:2] G,G,{/^F,E,}D, | 
+[V:3] [G,,G,,,][G,,G,,,]{/^F,,E,,}D,, | 
+[V:1] z3 | 
+[V:2] G,G,!accent![=FB,G,] | 
+[V:3] [G,,G,,,][G,,G,,,][G,,G,,,] | 
+[V:1] E/ D<CD/ | 
+[V:2] [ECG,][ECG,][ECG,] | 
+[V:3] [C,C,,][C,C,,][C,C,,] | 
+[V:1] E/ F<GA/ | 
+[V:2] [ECG,][ECG,][ECG,] | 
+[V:3] [C,C,,][C,C,,][C,C,,] | 
+[V:1] G/ A/Gc | 
+[V:2] [ECG,][ECG,][ECG,] | 
+[V:3] [C,C,,][C,C,,][C,C,,] | 
+[V:1] !fermata!d3 | 
+[V:2] [G3D3B,3G,3] | 
+[V:3] [G,,3G,,,3] | 
+[V:1] F/ A/F{/FE}!accent!D | 
+[V:2] z[FB,G,][FB,G,] | 
+[V:3] G,,3 | 
+[V:1] E/ G/E{/ED}!accent!C | 
+[V:2] z[ECG,][ECG,] | 
+[V:3] C,3 | 
+[V:1] D/ E/FA | 
+[V:2] z[FB,G,][FB,G,] | 
+[V:3] G,,3 | 
+[V:1] G3 | 
+[V:2] z[ECG,]!accent![E_B,G,] | 
+[V:3] C,2^C, | 
+[V:1] F/ A/F{/FE}!accent!D | 
+[V:2] [FDA,][FD_A,]!accent![FDG,] | 
+[V:3] D,C,B,, | 
+[V:1] E/ G/E{/ED}!accent!C | 
+[V:2] [ECG,][ECA,]!accent![ECG,] | 
+[V:3] C,A,,E,, | 
+[V:1] D/ A<!accent!GB,/ | 
+[V:2] [DCA,][FB,G,][FB,G,] | 
+[V:3] F,,G,,G,, | 
+[V:1] C3 ||  
+[V:2] [ECG,]zz ||  
+[V:3] [C,C,,][G,C,]!accent![G,C,] ||  
+[V:1] z3 | 
+[V:2] G/d<ge/ | 
+[V:3] [B,G,F,C,][B,G,F,C,][B,G,F,C,] | 
+[V:1] z3 | 
+[V:2] d/G<d!trill!c/ | 
+[V:3] [B,G,F,C,][B,G,F,C,][CG,E,C,] | 
+[V:1] z3 | 
+[V:2] G/d/ g/^f/g/e/ | 
+[V:3] [B,G,F,C,][B,G,F,C,][B,G,F,C,] | 
+[V:1] z3 | 
+[V:2] d/G/ce/^f/ | 
+[V:3] [B,G,F,C,][CG,E,C,][CG,E,C,] | 
+[V:1] z3 | 
+[V:2] g/G/ce/^f/ | 
+[V:3] [B,G,F,C,][CG,E,C,][CG,E,C,] | 
+[V:1] z3 | 
+[V:2] g/G/ce/^f/ | 
+[V:3] [B,G,F,C,][CG,E,C,][CG,E,C,] | 
+[V:1] z3 | 
+[V:2] g/a/gd/=e/ | 
+[V:3] [B,G,F,C,][B,G,F,C,][B,G,F,C,] | 
+[V:1] z3 | 
+[V:2] c[c'gec]z | 
+[V:3] [CG,E,C,][C,C,,]z | 
+[V:1] z3 | 
+[V:2] G,G,{/^F,E,}D, | 
+[V:3] [G,,G,,,][G,,G,,,]{/^F,,E,,}D,, | 
+[V:1] z3 | 
+[V:2] G,G,{/^F,E,}D, | 
+[V:3] [G,,G,,,][G,,G,,,]{/^F,,E,,}D,, | 
+[V:1] z3 | 
+[V:2] G,G,{/^F,E,}D, | 
+[V:3] [G,,G,,,][G,,G,,,]{/^F,,E,,}D,, | 
+[V:1] z3 | 
+[V:2] G,G,!accent![=FB,G,] | 
+[V:3] [G,,G,,,][G,,G,,,][G,,G,,,] | 
+[V:1] E/ D<CD/ | 
+[V:2] [ECG,][ECG,][ECG,] | 
+[V:3] [C,C,,][C,C,,][C,C,,] | 
+[V:1] E/ F<GA/ | 
+[V:2] [ECG,][ECG,][ECG,] | 
+[V:3] [C,C,,][C,C,,][C,C,,] | 
+[V:1] G/ A/Gc | 
+[V:2] [ECG,][ECG,][ECG,] | 
+[V:3] [C,C,,][C,C,,][C,C,,] | 
+[V:1] !fermata!d3 | 
+[V:2] [G3D3-B,3-G,3-] & !fermata![D3C3^F,3] | 
+[V:3] !fermata![G,,3-G,,,3] & !fermata![A,,3A,,,3] | 
+[V:1] F/ A/F{/FE}!accent!D | 
+[V:2] [DB,G,][FB,G,]!accent![FB,G,] & [DB,G,][=FB,G,][FB,G,] | 
+[V:3] [G,,3G,,,3] & !fermata![G,,3G,,,3] | 
+[V:1] E/ G/E{/ED}!accent!C | 
+[V:2] z[ECG,]!accent![ECG,] | 
+[V:3] C,3 | 
+[V:1] D/ E/FA | 
+[V:2] z[FB,G,][FB,G,] | 
+[V:3] G,,3 | 
+[V:1] !accent!G3 | 
+[V:2] z[ECG,][E_B,G,] | 
+[V:3] C,2^C, | 
+[V:1] F/ A/F{/FE}!accent!D | 
+[V:2] [FDA,][FD_A,][FDG,] | 
+[V:3] D,C,B,, | 
+[V:1] E/ G/E{/ED}!accent!C | 
+[V:2] [ECG,][ECA,]!accent![ECG,] | 
+[V:3] C,A,,E,, | 
+[V:1] D/ A<!accent!GB,/ | 
+[V:2] [DCA,][FB,G,][FB,G,] | 
+[V:3] F,,G,,G,, | 
+[V:1] C3 |]  
+[V:2] [ECG,][ECG,][ECG,] |]  
+[V:3] [C,C,,][C,C,,][C,C,,] |]

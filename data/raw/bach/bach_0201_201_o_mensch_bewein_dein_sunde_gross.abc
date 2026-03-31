@@ -1,0 +1,101 @@
+X: 200
+T: 201. O Mensch, bewein dein' S\"unde gro\ss
+N: Derived from chor201.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3690912104
+%%humdrum-veritas-data 560790073
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Eb
+[V:1] E [I:setbarnb 1]| 
+[V:2] B, | 
+[V:3] G | 
+[V:4] E, | 
+[V:1] EFG/F/E | 
+[V:2] C3/=B,//C//D3/C//D// | 
+[V:3] AAGG | 
+[V:4] A,/G,/F,=B,,C,- | 
+[V:1] G=A!fermata!_BB | 
+[V:2] E-E/D/!fermata!DG- | 
+[V:3] c/_B/=A!fermata!Gd | 
+[V:4] C,^F,,!fermata!G,,G, | 
+[V:1] _AGFE/F/ | 
+[V:2] G/FED/ C/D/ | 
+[V:3] e/B/Bc/G/G | 
+[V:4] C,/D,/E,=A,,/=B,,/C,- | 
+[V:1] G=A!fermata!Bc | 
+[V:2] E/D/E!fermata!DF- | 
+[V:3] c/B/c!fermata!B_A- | 
+[V:4] C,F,,!fermata!B,,F,/E,/ | 
+[V:1] B_AGA | 
+[V:2] F/E//D// E/B,/- B,/E//D//E- | 
+[V:3] A/GF/E3/B/ | 
+[V:4] D,/B,,/C,/D,/ E,/D,/C,/B,,/ | 
+[V:1] F2!fermata!E :|]  
+[V:2] E/D//C//D!fermata!B, :|]  
+[V:3] c/A/ F/B/!fermata!G :|]  
+[V:4] A,,/F,,/B,,!fermata!E,, :|]  
+[V:1] e [I:setbarnb 7]| 
+[V:2] B/A/ | 
+[V:3] G/A/ | 
+[V:4] E,,/F,,/ | 
+[V:1] eedB | 
+[V:2] GFFE | 
+[V:3] Bc-c/B//A//G | 
+[V:4] G,,=A,,B,,/C,/_D, | 
+[V:1] cc!fermata!Ge | 
+[V:2] E/_D/E!fermata!EG | 
+[V:3] AA!fermata!Bc- | 
+[V:4] C,/B,,/_A,,!fermata!E,C,/B,,/ | 
+[V:1] eedB | 
+[V:2] FFFF | 
+[V:3] c/B/=AB/=A/B- | 
+[V:4] =A,,/G,,/F,,B,,/C,/D, | 
+[V:1] cc!fermata!BG/_A/ | 
+[V:2] GF/E/!fermata!DE/F/ | 
+[V:3] B/=A//G//=A!fermata!BB | 
+[V:4] E,F,!fermata!B,,E,- | 
+[V:1] BcBG | 
+[V:2] GAGG- | 
+[V:3] eee/_dc/ | 
+[V:4] E,/_D,/ C,/=D,/E,=E, | 
+[V:1] A2!fermata!GF | 
+[V:2] G/F//E// F/D/!fermata!EF | 
+[V:3] c=d/f/!fermata!cA | 
+[V:4] F,=B,,!fermata!C,_D,- | 
+[V:1] GABB | 
+[V:2] EEFG | 
+[V:3] Bc=d=D/=E/ | 
+[V:4] D,C,B,,/A,,/G,, | 
+[V:1] AG!fermata!FB | 
+[V:2] C/D/_E-E/!fermata!D/F | 
+[V:3] FB!fermata!Bd | 
+[V:4] F,,G,,/A,,/!fermata!B,,B, | 
+[V:1] cded | 
+[V:2] FFG/=A/B- | 
+[V:3] cB3/c/d | 
+[V:4] =A,_A,G,3/F,/ | 
+[V:1] cc!fermata!BE | 
+[V:2] B=A!fermata!GE | 
+[V:3] Gd!fermata!dc | 
+[V:4] =E,^F,!fermata!G,_A,- | 
+[V:1] =FG_AG | 
+[V:2] DEF/D/ B,/E/- | 
+[V:3] BB3/F/ G/B/ | 
+[V:4] A,/G,/=F,/_E,/ D,/B,,/ E,/G,,/ | 
+[V:1] F2!fermata!E |]  
+[V:2] E/D//C//D!fermata!B, |]  
+[V:3] c/A/ F/B//A//!fermata!G |]  
+[V:4] A,,B,,!fermata!E,, |]
