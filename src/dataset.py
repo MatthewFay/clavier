@@ -22,21 +22,21 @@ class ABCMusicDataset(Dataset[tuple[torch.Tensor, torch.Tensor]]):
         self.block_size = block_size
 
         print("Loading Tokenizer...")
-        self.tokenizer: Any = Tokenizer.from_file(str(tokenizer_path)) # type: ignore
+        self.tokenizer: Any = Tokenizer.from_file(str(tokenizer_path))  # type: ignore
 
         print(f"Loading and Tokenizing data from {data_path.name}...")
         all_tokens: list[int] = []
 
         with open(data_path, encoding="utf-8") as f:
             for line in f:  # jsonl files are line-delimited JSON,
-                            # so we read line by line
+                # so we read line by line
                 record: dict[str, Any] = json.loads(line)
                 text: str = str(record.get("text", ""))
 
                 # Encode the string to a list of integer IDs
-                encoded: Any = self.tokenizer.encode(text) # type: ignore
+                encoded: Any = self.tokenizer.encode(text)  # type: ignore
 
-                ids: list[int] = cast(list[int], encoded.ids) # type: ignore
+                ids: list[int] = cast(list[int], encoded.ids)  # type: ignore
                 all_tokens.extend(ids)
 
         # Convert the massive Python list into a highly optimized PyTorch LongTensor
