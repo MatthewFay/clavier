@@ -5,8 +5,6 @@ import torch
 from torch.utils.data import DataLoader
 
 from dataset import ABCMusicDataset
-
-# Import the architecture and dataset we built
 from model import Clavier
 
 # --- Configuration ---
@@ -16,14 +14,14 @@ LEARNING_RATE = 3e-4
 MAX_EPOCHS = 100
 SAVE_INTERVAL = 5  # Save a checkpoint every 5 epochs
 
-# Assuming you mounted Google Drive in Colab:
+# Assuming mounted Google Drive in Colab:
 # from google.colab import drive
 # drive.mount('/content/drive')
 CHECKPOINT_DIR = Path("/content/drive/MyDrive/clavier_checkpoints")
 CHECKPOINT_PATH = CHECKPOINT_DIR / "clavier_latest.pt"
 
 # --- Setup Device ---
-# Colab T4 GPU, or fall back to Mac CPU
+# Colab T4 GPU, or fall back to CPU
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Training on device: {device}")
 
@@ -37,7 +35,6 @@ def save_checkpoint(
     """Saves the complete state required to resume training."""
     CHECKPOINT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Pylance Fix: Explicitly type the dictionary
     checkpoint: dict[str, Any] = {
         "epoch": epoch,
         "model_state_dict": model.state_dict(),
@@ -53,7 +50,6 @@ def load_checkpoint(model: torch.nn.Module, optimizer: torch.optim.Optimizer) ->
     if CHECKPOINT_PATH.exists():
         print(f"Found checkpoint at {CHECKPOINT_PATH}. Resuming training...")
 
-        # Pylance Fix: Cast the loaded object to a typed dictionary
         checkpoint: dict[str, Any] = cast(
             dict[str, Any],
             torch.load(CHECKPOINT_PATH, map_location=device, weights_only=False),
@@ -65,7 +61,6 @@ def load_checkpoint(model: torch.nn.Module, optimizer: torch.optim.Optimizer) ->
         start_epoch: int = int(checkpoint["epoch"]) + 1
         prev_loss: float = float(checkpoint["loss"])
 
-        # Ruff Fix: Break string across lines
         print(f"Resuming from Epoch {start_epoch} (Previous Loss: {prev_loss:.4f})")
         return start_epoch
 
@@ -74,7 +69,6 @@ def load_checkpoint(model: torch.nn.Module, optimizer: torch.optim.Optimizer) ->
 
 
 def main() -> None:
-    # 1. Load Data
     dataset = ABCMusicDataset(
         data_path=Path("data/processed/bach/bach.jsonl"),
         tokenizer_path=Path("src/tokenizer.json"),
@@ -85,17 +79,15 @@ def main() -> None:
         dataset, batch_size=BATCH_SIZE, shuffle=True
     )
 
-    # 2. Initialize Model and Optimizer
     vocab_size = dataset.tokenizer.get_vocab_size()
     model = Clavier(vocab_size=vocab_size, block_size=BLOCK_SIZE)
     model = model.to(device)
 
     optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE)
 
-    # 3. Handle Checkpointing
     start_epoch = load_checkpoint(model, optimizer)
 
-    # 4. The Training Loop
+    # The Training Loop
     model.train()
     for epoch in range(start_epoch, MAX_EPOCHS):
         total_loss = 0.0
@@ -107,10 +99,8 @@ def main() -> None:
             # Forward pass
             optimizer.zero_grad(set_to_none=True)
 
-            # Pylance Fix: Use `_` for logits since we only need the loss for training
             _, loss = model(x, targets=y)
 
-            # PyTorch safely expects loss to not be None when targets are provided
             assert loss is not None
 
             # Backward pass
@@ -119,12 +109,9 @@ def main() -> None:
             # Gradient clipping (prevents exploding gradients)
             torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
-            # Pylance Fix: Cast optimizer to Any to clear untyped .step() method
             cast(Any, optimizer).step()
             total_loss += loss.item()
 
-            # Print step progress every 50 batches
-            # Ruff Fix: Break string across lines
             if step % 50 == 0:
                 print(
                     f"Epoch {epoch} | Step {step}/{len(dataloader)} "
