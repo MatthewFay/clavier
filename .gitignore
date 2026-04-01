@@ -25,3 +25,6 @@ venv/
 !.vscode/launch.json
 
 .DS_Store
+
+# models are too big
+*.pt
