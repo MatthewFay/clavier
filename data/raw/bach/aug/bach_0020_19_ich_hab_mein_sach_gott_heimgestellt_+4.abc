@@ -1,0 +1,61 @@
+X:19
+T:19. Ich hab mein Sach Gott heimgestellt
+N:Derived from chor019.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3553129950
+%%humdrum-veritas-data 4294393108
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] B [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] d | 
+[V:4] B, | 
+[V:1] BB^Ad | 
+[V:2] FF/2^E/2FB/2A/2 | 
+[V:3] d/2c/2Bcf | 
+[V:4] B,/2A,/2=G,F,/2=E,/2 D,/2B,,/2 | 
+[V:1] cB!fermata!^AA | 
+[V:2] =G/2F/2^G!fermata!FF | 
+[V:3] ed/2c/2!fermata!cc | 
+[V:4] E,^E,!fermata!F,F,/2=G,/2- | 
+[V:1] ^AABG | 
+[V:2] EFFE | 
+[V:3] ccBB | 
+[V:4] G,/2F,/2- F,/2=E,/2- E,/2^D,/2 E,/2=D,/2 | 
+[V:1] ^AA!fermata!Bc | 
+[V:2] E/2=G/2F!fermata!FA | 
+[V:3] c/2e/2 e/2d/4c/4!fermata!de | 
+[V:4] C,F,!fermata!B,,A, | 
+[V:1] cecA | 
+[V:2] ABAA | 
+[V:3] eeed | 
+[V:4] A,/2B,/2A,/2^G,/2 A,/2=G,/2- G,/2F,/2 | 
+[V:1] Bc!fermata!dd | 
+[V:2] =G/2F/2 E/2=G/2!fermata!FB- | 
+[V:3] dc/2e/2!fermata!df | 
+[V:4] =G,/2^G,/2 A,/2^A,/2!fermata!B,B,, | 
+[V:1] cB!fermata!^AA | 
+[V:2] B/2^A/2 B/2B,/2!fermata!FF | 
+[V:3] f3/2e/2!fermata!cc | 
+[V:4] F,=G,!fermata!F,F, | 
+[V:1] ^AABG | 
+[V:2] E/2F/2 =G/2F/2F^G | 
+[V:3] ccB-B/4c/4d/2 | 
+[V:4] C,/2D,/2E,D,/2^D,/2E,/2^E,/2 | 
+[V:1] ^AA!fermata!B |] 
+[V:2] FF!fermata!F |] 
+[V:3] c/2B/2 c/4d/4=e/2 e/2!fermata!^d/2 |] 
+[V:4] F,F,,!fermata!B,, |]

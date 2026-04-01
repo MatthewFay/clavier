@@ -1,0 +1,69 @@
+X: 241
+T: 242. Wie bist du, Seele, in mir so gar betr\"ubt
+N: Derived from chor242.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1278557823
+%%humdrum-veritas-data 1194245605
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] B [I:setbarnb 1]| 
+[V:2] E/^D/ | 
+[V:3] G/A/ | 
+[V:4] E,/F,/ | 
+[V:1] BAG2 | 
+[V:2] E/B,/ ^C/^D/ E/D/E | 
+[V:3] B/eA/B2 | 
+[V:4] G,-G,/F,/ E,/F,/ G,/E,/ | 
+[V:1] !fermata!FGAG | 
+[V:2] E/!fermata!^D/E-E/D/E | 
+[V:3] !fermata!BBA/B//=c//B | 
+[V:4] !fermata!B,,E,F,G,/E,/ | 
+[V:1] FF!fermata!EF | 
+[V:2] E^D!fermata!B,D | 
+[V:3] ^c/F/B/A/!fermata!GB | 
+[V:4] ^A,,B,,!fermata!E,,B,, | 
+[V:1] GAB2 | 
+[V:2] E=D/C/ B,/D/G | 
+[V:3] B/=c/ B/A/ G/B/d | 
+[V:4] E,F,G,G,,/B,,/ | 
+[V:1] !fermata!AccB | 
+[V:2] !fermata!FEDD | 
+[V:3] !fermata!dc/B/ A/F/G- | 
+[V:4] !fermata!D,A,/G,/ F,/D,/ G,/G,,/ | 
+[V:1] AA!fermata!GA | 
+[V:2] ED/C/!fermata!B,D | 
+[V:3] GF!fermata!DF/G/ | 
+[V:4] C,/A,,/D,!fermata!G,,D,/E,/ | 
+[V:1] AAAF | 
+[V:2] D/^C/ D/E/FD | 
+[V:3] AAdA | 
+[V:4] F,/G,/F,/E,/ D,/E,/D,/=C,/ | 
+[V:1] GAB2 | 
+[V:2] D/E/FGD | 
+[V:3] BcdG- | 
+[V:4] B,,/C,/B,,/A,,/ G,,/A,,/B,,/C,/ | 
+[V:1] !fermata!AFGA | 
+[V:2] !fermata!DFB,/E/ =D/C/ | 
+[V:3] G/!fermata!F/ B/A/Gd- | 
+[V:4] !fermata!D,^D,E,F, | 
+[V:1] BBA=G/F/ | 
+[V:2] B,E-E/^D/E | 
+[V:3] d/=f/ e/d/c^c | 
+[V:4] G,^G,A,^A, | 
+[V:1] F2!fermata!E |]  
+[V:2] E^D!fermata!B, |]  
+[V:3] B3/=A/!fermata!^G |]  
+[V:4] B,B,,!fermata!E, |]

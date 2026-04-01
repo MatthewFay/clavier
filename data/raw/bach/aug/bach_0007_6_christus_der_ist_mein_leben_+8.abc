@@ -1,0 +1,57 @@
+X:6
+T:6. Christus, der ist mein Leben
+N:Derived from chor006.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2075484982
+%%humdrum-veritas-data 2800051055
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dbmaj
+[V:1] d [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] f | 
+[V:4] D, | 
+[V:1] fefg | 
+[V:2] dedd | 
+[V:3] aaab | 
+[V:4] DC_CB, | 
+[V:1] a2!fermata!fb | 
+[V:2] c/2d/2e/2c/2!fermata!dd | 
+[V:3] ea!fermata!ag | 
+[V:4] A,/2B,/2C/2A,/2!fermata!DG, | 
+[V:1] agfe | 
+[V:2] d3/2c/2d3/2c/2 | 
+[V:3] ab/2g/2aa | 
+[V:4] F,E,D,/2F,/2A, | 
+[V:1] !fermata!f2za | 
+[V:2] !fermata!d2xf- | 
+[V:3] !fermata!a2xd' | 
+[V:4] !fermata!D,2zF | 
+[V:1] bc'd'c' | 
+[V:2] f/2e/2- e/2a/4_g/4ff | 
+[V:3] d'c'-c'/2b/2a- | 
+[V:4] =G,A,B,/2D/2 F/2E/2 | 
+[V:1] b2!fermata!af | 
+[V:2] fe!fermata!ed- | 
+[V:3] a=g!fermata!c'a | 
+[V:4] D/2B,/2E!fermata!A,D, | 
+[V:1] gfee | 
+[V:2] d/2c/2ddc | 
+[V:3] _gaba3/4g/4 | 
+[V:4] E,F,G,A, | 
+[V:1] !fermata!d3 |] 
+[V:2] !fermata!A3 |] 
+[V:3] !fermata!f3 |] 
+[V:4] !fermata!D,3 |]

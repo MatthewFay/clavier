@@ -1,0 +1,85 @@
+X: 210
+T: 211. Weltlich Ehr und zeitlich Gut
+N: Derived from chor211.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 383505665
+%%humdrum-veritas-data 2449483389
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] cBAA | 
+[V:2] E/F/G-G/F//E//F | 
+[V:3] GG/c/cc | 
+[V:4] C,/D,/E,F,/G,/ F,/E,/ | 
+[V:1] ABc/B/A | 
+[V:2] F/A/GG-G/F/ | 
+[V:3] d/f/ e/d/cc | 
+[V:4] D,G,/F,/E,F, | 
+[V:1] !fermata!G2zB | 
+[V:2] F!fermata!ExG | 
+[V:3] !fermata!c2xd | 
+[V:4] !fermata!C,2zG, | 
+[V:1] cBcA | 
+[V:2] GGGF- | 
+[V:3] edcc | 
+[V:4] C,/E,/G,/F,/ E,/C,/F,/E,/ | 
+[V:1] BGA2 | 
+[V:2] FEE2 | 
+[V:3] dBA/B/c/A/ | 
+[V:4] D,/B,,/E,/D,/ C,/B,,/A,,/C,/ | 
+[V:1] !fermata!B2zB | 
+[V:2] !fermata!E2xE | 
+[V:3] !fermata!^G2xG | 
+[V:4] !fermata!E,2zE, | 
+[V:1] BBAB | 
+[V:2] ^F/A/- A/G/FE | 
+[V:3] B/^f/- f/e/- e/d/ c/B/ | 
+[V:4] ^D,E,^F,^G, | 
+[V:1] !fermata!c2GG | 
+[V:2] !fermata!E2D/F/- F/E/- | 
+[V:3] !fermata!A2d-d/c//B// | 
+[V:4] !fermata!A,2B,C | 
+[V:1] ABcA | 
+[V:2] E/D/DC/G^F/ | 
+[V:3] cB/A/ G/e/d | 
+[V:4] ^F,G,/F,/ E,/C,/D, | 
+[V:1] !fermata!B2Bc | 
+[V:2] !fermata!G2G3/^F/ | 
+[V:3] !fermata!d2dc | 
+[V:4] !fermata!G,,2G,,A,, | 
+[V:1] ddcA | 
+[V:2] G/A/BA/G/^F | 
+[V:3] Beed | 
+[V:4] B,,^G,,A,,/B,,/C,/D,/ | 
+[V:1] !fermata!B2dd | 
+[V:2] !fermata!G2AG/A/ | 
+[V:3] !fermata!d2^f/e/d/c/ | 
+[V:4] !fermata!=G,,2D/C/B,/A,/ | 
+[V:1] dded/c/ | 
+[V:2] B/A/G/=F/E^F | 
+[V:3] BBc/B/A | 
+[V:4] G,/=F,/E,/D,/C,D, | 
+[V:1] !fermata!B2BG | 
+[V:2] !fermata!G2G/=F/E- | 
+[V:3] !fermata!e2dc | 
+[V:4] !fermata!E,2G,,C,/B,,/ | 
+[V:1] AB/c/ d/c/B | 
+[V:2] E/^F/GA-A/G/- | 
+[V:3] cddd | 
+[V:4] A,,G,,^F,,G,, | 
+[V:1] AB!fermata!c2 |]  
+[V:2] G/=F//E// F/E//D//!fermata!E2 |]  
+[V:3] dd/G/!fermata!G2 |]  
+[V:4] D,G,,!fermata!C,2 |]

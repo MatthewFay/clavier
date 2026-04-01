@@ -1,0 +1,57 @@
+X: 307
+T: Ach Gott, wie manches Herzeleid / 308. Ach Gott, wie manches Herzeleid
+N: Derived from chor308.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2911568785
+%%humdrum-veritas-data 1242701136
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: A
+[V:1] A [I:setbarnb 1]| 
+[V:2] C/D/ | 
+[V:3] A/B/ | 
+[V:4] A, | 
+[V:1] AAF/G/A | 
+[V:2] EA,DC | 
+[V:3] c/d/eAA/G/ | 
+[V:4] A,,/B,,/C,D,/E,/ F,/E,/ | 
+[V:1] B/A/G!fermata!FF | 
+[V:2] B,E!fermata!^DD | 
+[V:3] FG/A/!fermata!BB | 
+[V:4] ^D,E,!fermata!B,,B,/A,/ | 
+[V:1] GABE/F/ | 
+[V:2] EFF/^D/E- | 
+[V:3] B^dG/A/ B/c/ | 
+[V:4] G,/A,/ G,/F,/ E,/F,/ G,/A,/ | 
+[V:1] G/A/F!fermata!EB | 
+[V:2] E/F/^D!fermata!B,G | 
+[V:3] BB/A/!fermata!Ge | 
+[V:4] B,B,,!fermata!E,E, | 
+[V:1] ccA/B/c | 
+[V:2] ACF/G/^A | 
+[V:3] e/f/gc/=d/e | 
+[V:4] A,/G,/ F,/^E,/ F,/=E,/ D,/C,/ | 
+[V:1] dc!fermata!B=A | 
+[V:2] BE/F/!fermata!GF | 
+[V:3] f/g/a!fermata!ec | 
+[V:4] B,,C,/D,/!fermata!E,F, | 
+[V:1] BcBA | 
+[V:2] E/D/ C/^D/ E/=D/C | 
+[V:3] BE/F/GA | 
+[V:4] G,A,E,F,/E,/ | 
+[V:1] AG!fermata!A |]  
+[V:2] FE!fermata!E |]  
+[V:3] B/c/d!fermata!c |]  
+[V:4] ^D,E,!fermata!A,, |]

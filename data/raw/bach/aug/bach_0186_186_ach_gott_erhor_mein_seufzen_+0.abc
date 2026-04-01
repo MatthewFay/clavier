@@ -1,0 +1,69 @@
+X: 185
+T: 186. Ach Gott, erh\"or mein Seufzen
+N: Derived from chor186.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3182583768
+%%humdrum-veritas-data 53789831
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] D [I:setbarnb 1]| 
+[V:2] A, | 
+[V:3] F | 
+[V:4] D, | 
+[V:1] FFGG | 
+[V:2] D/E/FFE/D/ | 
+[V:3] Acdc/_B/ | 
+[V:4] D,A,,_B,,C, | 
+[V:1] AA_BA | 
+[V:2] CDD/G/-G/F/- | 
+[V:3] A/G/F-F/E/c | 
+[V:4] F,/E,/D,G,,A,, | 
+[V:1] G2!fermata!FC | 
+[V:2] F/E//D//E!fermata!CA,/G,/ | 
+[V:3] d/G/c/_B/!fermata!AF/G/ | 
+[V:4] _B,,C,!fermata!F,,F,/E,/ | 
+[V:1] FFGG | 
+[V:2] F,DDC | 
+[V:3] A_B-B/A/G | 
+[V:4] D,/C,/_B,,/A,,/ G,,/F,,/E,, | 
+[V:1] AAGF | 
+[V:2] CFF/E/- E/D/ | 
+[V:3] Fcc3//_B//A | 
+[V:4] F,,/G,,/A,,/_B,,/C,D, | 
+[V:1] E2!fermata!DA | 
+[V:2] D^C!fermata!A,E- | 
+[V:3] _BA/G/!fermata!FA | 
+[V:4] G,,A,,!fermata!D,,^C, | 
+[V:1] FG!fermata!EA | 
+[V:2] E/D/ D/E/!fermata!^CE | 
+[V:3] A_B!fermata!AA | 
+[V:4] D,G,,!fermata!A,,=C,- | 
+[V:1] FG!fermata!EE | 
+[V:2] D/=C/D!fermata!CC | 
+[V:3] AG!fermata!GG | 
+[V:4] C,=B,,!fermata!C,C,/_B,,/ | 
+[V:1] FFGG | 
+[V:2] CDDE- | 
+[V:3] AA_B-B/c//_B// | 
+[V:4] A,,/F,,/D,/C,/ _B,,/A,,/G,,/C,/ | 
+[V:1] AAGF | 
+[V:2] E/D//E//FE-E/D/ | 
+[V:3] Ad/c/_BA | 
+[V:4] F,/E,/D,-D,/^C,/D, | 
+[V:1] E2!fermata!D |]  
+[V:2] D^C!fermata!A, |]  
+[V:3] _BA/G/!fermata!^F |]  
+[V:4] G,,A,,!fermata!D,, |]

@@ -1,0 +1,61 @@
+X: 68
+T: 68. Wenn wir in h\"ochsten N\"oten sein
+N: Derived from chor068.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1686611601
+%%humdrum-veritas-data 2367926936
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] F [I:setbarnb 1]| 
+[V:2] C- | 
+[V:3] A/G/ | 
+[V:4] F,/E,/ | 
+[V:1] FGAG/A/ | 
+[V:2] C/=B,/C-C/D/E | 
+[V:3] Fc/_B/ A/B/c | 
+[V:4] D,E,/C,/F,C, | 
+[V:1] BAG3/G/ | 
+[V:2] F/G/- G/F/- F/E//D//E | 
+[V:3] F/c/cd/B/ G/c//B// | 
+[V:4] D,/E,/F,B,,C, | 
+[V:1] !fermata!F2zA | 
+[V:2] !fermata!C2xF- | 
+[V:3] !fermata!A2xc | 
+[V:4] !fermata!F,,2zF,/_E,/ | 
+[V:1] BAGF | 
+[V:2] F/G/- G/F/- F/E/D | 
+[V:3] d/c/cd/c=B/ | 
+[V:4] D,/=E,/F,=B,,/C,/D, | 
+[V:1] EF!fermata!Gc | 
+[V:2] G,C!fermata!CE/^F/ | 
+[V:3] cF!fermata!EA | 
+[V:4] C,/_B,,/ A,,/F,,/!fermata!C,A,, | 
+[V:1] BAG/F/E | 
+[V:2] G/E/ =F/E/D3/=C/- | 
+[V:3] d/^c/dGG | 
+[V:4] G,,D,/C,/=B,,C, | 
+[V:1] FD!fermata!CA | 
+[V:2] C/D//C//=B,!fermata!G,F/_E/ | 
+[V:3] AG/F/!fermata!Ec | 
+[V:4] F,,G,,!fermata!C,F,, | 
+[V:1] BAGF | 
+[V:2] D/E/F-F/ E/- E/D//E// | 
+[V:3] _Bc-c3//B// A/B/ | 
+[V:4] G,,A,,/B,,/C,D, | 
+[V:1] AG!fermata!F |]  
+[V:2] F3/E/!fermata!C |]  
+[V:3] cc3//B//!fermata!A |]  
+[V:4] A,,/B,,/C,!fermata!F,, |]

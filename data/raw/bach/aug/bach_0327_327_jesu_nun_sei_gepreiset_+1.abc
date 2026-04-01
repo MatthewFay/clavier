@@ -1,0 +1,109 @@
+X:326
+T:327. Jesu, nun sei gepreiset
+N:Derived from chor327.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2197324513
+%%humdrum-veritas-data 4105801613
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Ebmaj
+[V:1] g [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] e | 
+[V:4] E, | 
+[V:1] gefg | 
+[V:2] BGAB | 
+[V:3] eBc_d | 
+[V:4] E_DCB, | 
+[V:1] a2!fermata!ff | 
+[V:2] c2!fermata!AA | 
+[V:3] e2!fermata!_d_d | 
+[V:4] A,2!fermata!_D,C, | 
+[V:1] feed | 
+[V:2] GGFB | 
+[V:3] =decf | 
+[V:4] =B,,C,=A,,_B,, | 
+[V:1] !fermata!e3f | 
+[V:2] !fermata!B3B | 
+[V:3] !fermata!g3d | 
+[V:4] !fermata!E,,3B, | 
+[V:1] fffg | 
+[V:2] F=AB=B | 
+[V:3] c/2d/2edd | 
+[V:4] =A,F,B,G, | 
+[V:1] e2!fermata!ee | 
+[V:2] c2!fermata!cG | 
+[V:3] e/2f/2g!fermata!gc | 
+[V:4] C2!fermata!CC | 
+[V:1] deff | 
+[V:2] FGA/2B/4c/4 B/2F/2 | 
+[V:3] AB/2e/2ed | 
+[V:4] F,E,B,B,, | 
+[V:1] !fermata!e3 :||: 
+[V:2] !fermata!G3 :||: 
+[V:3] !fermata!B3 :||: 
+[V:4] !fermata!E,3 :||: 
+[V:1] d [I:setbarnb 9]| 
+[V:2] F | 
+[V:3] B | 
+[V:4] B,, | 
+[V:1] dddd | 
+[V:2] BBBB | 
+[V:3] ffga/2f/2 | 
+[V:4] B,A,G,B, | 
+[V:1] e2!fermata!e :||: 
+[V:2] B2!fermata!B :||: 
+[V:3] g2!fermata!g :||: 
+[V:4] E,2!fermata!E, :||: 
+[V:1] g [I:setbarnb 11]| 
+[V:2] B | 
+[V:3] e | 
+[V:4] E, | 
+[V:1] gefg | 
+[V:2] BGAB | 
+[V:3] eBc_d | 
+[V:4] E_DCB, | 
+[V:1] a2!fermata!gg | 
+[V:2] AB!fermata!Bc | 
+[V:3] eB!fermata!eg | 
+[V:4] C=D!fermata!E=E, | 
+[V:1] fgee | 
+[V:2] ABGG | 
+[V:3] c_dcc | 
+[V:4] F,B,CC, | 
+[V:1] !fermata!f3 :| 
+[V:2] !fermata!A3 :| 
+[V:3] !fermata!c3 :| 
+[V:4] !fermata!F,3 :| 
+[V:1] g [I:setbarnb 15]| 
+[V:2] G | 
+[V:3] d | 
+[V:4] =B, | 
+[V:1] gefg | 
+[V:2] GGF=E | 
+[V:3] egcB | 
+[V:4] C_B,A,G, | 
+[V:1] a2!fermata!ff | 
+[V:2] FG!fermata!AA | 
+[V:3] c2!fermata!=Bc | 
+[V:4] F,_E,!fermata!D,C, | 
+[V:1] feed | 
+[V:2] GGFF | 
+[V:3] dccB | 
+[V:4] =B,,C,=A,,_B,, | 
+[V:1] !fermata!e3 |] 
+[V:2] !fermata!G3 |] 
+[V:3] !fermata!B3 |] 
+[V:4] !fermata!E,,3 |]

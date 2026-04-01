@@ -1,0 +1,57 @@
+X:179
+T:180. Als Jesus Christus in der Nacht
+N:Derived from chor180.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1875360458
+%%humdrum-veritas-data 1705932337
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bbmaj
+[V:1] g [I:setbarnb 1]| 
+[V:2] e | 
+[V:3] c' | 
+[V:4] C | 
+[V:1] bg_ag | 
+[V:2] f-f/2e/2- e/2d/2e- | 
+[V:3] bb_ab | 
+[V:4] DEFG | 
+[V:1] ff!fermata!eg | 
+[V:2] e3/2d/2!fermata!Bg- | 
+[V:3] c'b3/4_a/4!fermata!gb | 
+[V:4] _AB!fermata!EE/2D/2 | 
+[V:1] abc'b | 
+[V:2] g/2^f/2g-g/2f/2g | 
+[V:3] e'd'c'd' | 
+[V:4] CB,A,G, | 
+[V:1] a2!fermata!gd | 
+[V:2] g^f!fermata!d=B | 
+[V:3] e'd'/2c'/2!fermata!=bg | 
+[V:4] CD!fermata!G,G, | 
+[V:1] ee=ff | 
+[V:2] ccc/2A/2=B/2c/2 | 
+[V:3] ggf_a | 
+[V:4] C,/2C_B,/2 A,/2DC/2 | 
+[V:1] gg!fermata!ec | 
+[V:2] d/2c/2d/2=B/2!fermata!cG/2=A/2 | 
+[V:3] gg!fermata!ge | 
+[V:4] =B,/2A,/2B,/2G,/2!fermata!CC | 
+[V:1] defe | 
+[V:2] _BB=Bc | 
+[V:3] fg/2e/2 _a/2f/2g- | 
+[V:4] _B,/2_A,/2G,D,E,/2F,/2 | 
+[V:1] d2!fermata!c |] 
+[V:2] c=B!fermata!G |] 
+[V:3] g/2d/2g/2f/2!fermata!=e |] 
+[V:4] G,2!fermata!C |]

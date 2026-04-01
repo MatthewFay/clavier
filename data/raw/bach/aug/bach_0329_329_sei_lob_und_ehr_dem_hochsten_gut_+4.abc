@@ -1,0 +1,69 @@
+X:328
+T:329. Sei Lob und Ehr dem h\"ochsten Gut
+N:Derived from chor329.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1250014211
+%%humdrum-veritas-data 260305441
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] f2 [I:setbarnb 1]| 
+[V:2] d2 | 
+[V:3] b2 | 
+[V:4] B,2 | 
+[V:1] f2f2fg=a2 | 
+[V:2] cBA2B2EF | 
+[V:3] f2c2Bd cB | 
+[V:4] A,G, F,E, D,B,, C,D, | 
+[V:1] g2f2!fermata!e2fe | 
+[V:2] G=AB2!fermata!E2c2 | 
+[V:3] e2fg/2=a/2!fermata!g2f2 | 
+[V:4] E,2B,2!fermata!C2A,2 | 
+[V:1] dc Bcd2^e2 | 
+[V:2] F2GA BAG2 | 
+[V:3] fed2g2c2 | 
+[V:4] B,3A, G,A, B,C | 
+[V:1] f2g2!fermata!f2 :| 
+[V:2] A2B2!fermata!A2 :| 
+[V:3] cf2^e!fermata!f2 :| 
+[V:4] A,DB,C!fermata!F,2 :| 
+[V:1] f2 [I:setbarnb 5]| 
+[V:2] dc | 
+[V:3] f2 | 
+[V:4] B,C | 
+[V:1] b2a2g2a2 | 
+[V:2] Bc cd ^edc2 | 
+[V:3] fg abc'2f2 | 
+[V:4] D^EF2CD=E2 | 
+[V:1] bag2!fermata!f2f2 | 
+[V:2] df^e2!fermata!c2Bc | 
+[V:3] fd ga/2b/2!fermata!a2dc | 
+[V:4] DB,C2!fermata!F,2B,A, | 
+[V:1] b2f2g2de | 
+[V:2] d=e dcB2B2 | 
+[V:3] B2bag2g2 | 
+[V:4] G,2D,2E,F,G,2 | 
+[V:1] f2e2!fermata!d2d2 | 
+[V:2] AG GA!fermata!^B2=B2 | 
+[V:3] fdc2!fermata!d2dB | 
+[V:4] A,^B,C2!fermata!G,2=B,2 | 
+[V:1] cde2d2c2 | 
+[V:2] cF Bc EB2A | 
+[V:3] f2ecd2ec | 
+[V:4] A,B, G,A, B,G, E,F, | 
+[V:1] G/2A/2B2A!fermata!B2 |] 
+[V:2] BD GF!fermata!F2 |] 
+[V:3] g2c2!fermata!d2 |] 
+[V:4] G,F, E,F,!fermata!B,,2 |]

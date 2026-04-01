@@ -1,0 +1,69 @@
+X:37
+T:37. Jesu, der du meine Seele
+N:Derived from chor037.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2534950192
+%%humdrum-veritas-data 3044516970
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Ebmaj
+[V:1] g2g2d2e2 | 
+[V:2] cde2d2c=B | 
+[V:3] edc2g2g2 | 
+[V:4] C,2C2=B,2=A,G, | 
+[V:1] f2edd2!fermata!c2 | 
+[V:2] cdc2-c=B!fermata!G2 | 
+[V:3] fd efg2!fermata!e2 | 
+[V:4] =A,=B,C2G,2!fermata!C,2 | 
+[V:1] e2e2d2c2 | 
+[V:2] G2c_B AG2F | 
+[V:3] edc2-c=Bc2 | 
+[V:4] C_B, _A,G, F,G,A,2 | 
+[V:1] =B2c2!fermata!d4 :| 
+[V:2] FG/2A/2 G=A!fermata!=B4 :| 
+[V:3] de/2f/2 eg/2^f/2!fermata!g4 :| 
+[V:4] D,2E,C,!fermata!G,4 :| 
+[V:1] d2e2fed2 | 
+[V:2] =B2c2c2_B2 | 
+[V:3] g2g2f2f2 | 
+[V:4] G,2C_B, =A,F, B,A, | 
+[V:1] e2dcc2!fermata!B2 | 
+[V:2] B=AB2A2!fermata!F2 | 
+[V:3] efg2fe!fermata!d2 | 
+[V:4] G,2F,E,F,2!fermata!B,,2 | 
+[V:1] e2f2gfe2 | 
+[V:2] E2B2B2cB | 
+[V:3] g2d2edc2 | 
+[V:4] C2B,A,G,2A,G, | 
+[V:1] a2g2f2!fermata!e2 | 
+[V:2] cde2d2!fermata!B2 | 
+[V:3] f2B2ba!fermata!g2 | 
+[V:4] F,2G,A,B,2!fermata!E,2 | 
+[V:1] d2e2f2g2 | 
+[V:2] B2AGF2Bc | 
+[V:3] f2e2bag2 | 
+[V:4] B,2C2D2ED | 
+[V:1] f2e2!fermata!d4 | 
+[V:2] d2c2!fermata!=B4 | 
+[V:3] a2g2!fermata!g4 | 
+[V:4] C=B,C2!fermata!G,4 | 
+[V:1] c2d2edf2 | 
+[V:2] c_B AG GA GF | 
+[V:3] g2f2ef =Bc | 
+[V:4] E,D, C,=B,, C,F, G,A, | 
+[V:1] e2dc!fermata!c4 |] 
+[V:2] G2-G3/2F/2!fermata!=E4 |] 
+[V:3] c2=B2!fermata!G4 |] 
+[V:4] G,F,G,2!fermata!C,4 |]

@@ -1,0 +1,61 @@
+X:309
+T:310. Mach's mit mir, Gott, nach deiner G\"ut
+N:Derived from chor310.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3800888445
+%%humdrum-veritas-data 1987932454
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] F/2G/2 [I:setbarnb 1]| 
+[V:2] C | 
+[V:3] A/2B/2 | 
+[V:4] F,, | 
+[V:1] ABcc | 
+[V:2] FFFF | 
+[V:3] cd_ed/2c/2 | 
+[V:4] F,D,A,,D, | 
+[V:1] BA!fermata!Gc | 
+[V:2] F/2E/2F!fermata!EG | 
+[V:3] dc!fermata!ce | 
+[V:4] G,,A,,/2B,,/2!fermata!C,C | 
+[V:1] defe | 
+[V:2] G=Bc/2G/2 G/2A/2 | 
+[V:3] dgc/2d/2 e/2f/2 | 
+[V:4] =B,A,/2G,/2 A,/2B,/2C | 
+[V:1] d2!fermata!c :| 
+[V:2] A=B!fermata!G :| 
+[V:3] f/2e/2d!fermata!e :| 
+[V:4] F,G,!fermata!C, :| 
+[V:1] c [I:setbarnb 5]| 
+[V:2] A | 
+[V:3] f | 
+[V:4] F,/2E,/2 | 
+[V:1] fe/2d/2dc | 
+[V:2] dc-c/2_B/2- B/2A/2- | 
+[V:3] aaa/2g/2 g/2e/2 | 
+[V:4] D,A,,B,,C, | 
+[V:1] BA/2G/2!fermata!Gc | 
+[V:2] A/2G/2F!fermata!E_E | 
+[V:3] f/2c/2c!fermata!cA/2G/2 | 
+[V:4] D,/2E,/2F,!fermata!C,C, | 
+[V:1] BAG/2A/2B | 
+[V:2] _DCB,/2C/2_D | 
+[V:3] F^FGG | 
+[V:4] _D,=D,_E,=E, | 
+[V:1] AG!fermata!F |] 
+[V:2] C/2=F/2- F/2E/2!fermata!C |] 
+[V:3] A3/4B/4 c/2G/2!fermata!A |] 
+[V:4] F,C,!fermata!F,, |]

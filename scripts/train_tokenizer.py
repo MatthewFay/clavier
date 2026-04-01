@@ -10,8 +10,10 @@ from tokenizers.trainers import BpeTrainer
 
 SCRIPT_DIR: Path = Path(__file__).parent.resolve()
 PROJECT_ROOT: Path = SCRIPT_DIR.parent
-DATA_FILE: Path = PROJECT_ROOT / "data" / "processed" / "bach" / "bach.jsonl"
-OUTPUT_FILE: Path = PROJECT_ROOT / "tokenizer.json"
+
+# Target only the training split to prevent tokenizer data leakage
+DATA_FILE: Path = PROJECT_ROOT / "data" / "processed" / "bach" / "bach_train.jsonl"
+OUTPUT_FILE: Path = PROJECT_ROOT / "src" / "tokenizer.json"
 
 SPECIAL_TOKENS: list[str] = [
     "<|pad|>",
@@ -56,7 +58,7 @@ def main() -> None:
         show_progress=True,
     )
 
-    print(f"Training tokenizer on {DATA_FILE}...")
+    print(f"Training tokenizer on {DATA_FILE.name}...")
     tokenizer.train_from_iterator(batch_iterator(), trainer=trainer)
 
     # Save the compiled tokenizer

@@ -1,0 +1,69 @@
+X:225
+T:226. Herr Jesu Christ, du hast bereit't
+N:Derived from chor226.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3164091997
+%%humdrum-veritas-data 3463521041
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] e2 [I:setbarnb 1]| 
+[V:2] B2 | 
+[V:3] g2 | 
+[V:4] ED | 
+[V:1] efg2fed2 | 
+[V:2] c2ded2A2 | 
+[V:3] gab2agf2 | 
+[V:4] C2B,CD3C | 
+[V:1] g2f2!fermata!g2g2 | 
+[V:2] d2d2!fermata!d2e2- | 
+[V:3] gb a/2b/2c'- c'!fermata!bb2 | 
+[V:4] B,G,D2!fermata!G,2E,2 | 
+[V:1] f2e2a2g2 | 
+[V:2] e^de2-ef- fe | 
+[V:3] c'b/2a/2 g^g ac'b2 | 
+[V:4] A,B,CB, CA, E,G, | 
+[V:1] f4!fermata!e2 :| 
+[V:2] e^d/2^c/2d2!fermata!B2 :| 
+[V:3] c'a fb/2a/2!fermata!=g2 :| 
+[V:4] A,F,B,2!fermata!E,2 :| 
+[V:1] b2 [I:setbarnb 5]| 
+[V:2] f2- | 
+[V:3] b2 | 
+[V:4] ^D2 | 
+[V:1] g2a2b2a2 | 
+[V:2] fe- e=dd2d3/2=c/2 | 
+[V:3] b2a2-ag- gf | 
+[V:4] E2F2G2=D2 | 
+[V:1] g2g2!fermata!f2g2 | 
+[V:2] B^c/2^d/2e2!fermata!d2e2 | 
+[V:3] g3/2a/2b2!fermata!b2b2 | 
+[V:4] E3/2F/2 GE!fermata!B,2E2 | 
+[V:1] g2f2g2f2 | 
+[V:2] =d3=c Be2^d | 
+[V:3] b2a2gb c'b- | 
+[V:4] B,=C D^D EG, A,B, | 
+[V:1] e2e2!fermata!^d2g2 | 
+[V:2] e^d eE!fermata!B2Ee- | 
+[V:3] b3a!fermata!f2b2 | 
+[V:4] C4!fermata!B,2E,2 | 
+[V:1] f2e2a2g2 | 
+[V:2] e^d e=dc2B2 | 
+[V:3] b3/2a/2 gf ef- fe- | 
+[V:4] B,2C2-C^D, E,G, | 
+[V:1] f4!fermata!e2 |] 
+[V:2] cA FB/2A/2!fermata!^G2 |] 
+[V:3] e^d/2^c/2^d2!fermata!B2 |] 
+[V:4] A,F,B,2!fermata!E,2 |]

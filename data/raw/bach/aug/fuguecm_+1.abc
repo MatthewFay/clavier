@@ -1,0 +1,179 @@
+X:1
+T:from /workspace/data/raw_mid/bach/fugues/fuguecm.mid
+M:4/4
+L:1/8
+Q:1/4=114
+% Last note suggests minor mode tune
+K:Emaj% 3 flats
+V:1
+%%MIDI program 0
+C,D, E,F, G,A, G,F,| \
+E,D, E,F, E,D, C,C| \
+^B,C A,G, F,C B,C| \
+G,F, E,C ^B,C F,G,|
+A,D, G,F, E,4-| \
+E,^A,, B,,2 C,D,2D,,| \
+G,,4 ^A,,B,, C,2-| \
+C,2 B,,^A,, B,,4|
+^A,,G,, E,2 C,D,2D,,| \
+G,,^A,, B,,C, D,E, F,G,| \
+A,B, CD EF GA-| \
+A4 FG2G,|
+C2 (3B,2A,2F,2 B,2| \
+A,G,2E, A,B, CF,| \
+B,A, G,2 A,B,2B,,| \
+E,F, G,A, B,C B,A,|
+G,F, G,A, G,4| \
+F, (3E,2D,2E,2A,,2B,,| \
+E,,3E,2^A,, B,,2| \
+C,D,2D,, G,,4|
+^A,,B,, A,,2 B,,E,2F,| \
+B,,C, D,E, F,G, F,E,| \
+D,C, D,E, D,C, B,,E,| \
+F,G, A,B, CD, ^E,F,|
+G,A, B,C, D,^E, F,A,| \
+=DB, G,C D,4-| \
+=D,G,, A,,2 B,,C,2C,,| \
+F,,2>F,2 G,A, B,2-|
+B,2 A,G, A,4| \
+G,F, G,2 F,^E,2C,| \
+F,2 E,D,2B,, E,2| \
+D,C,2E, D,2 C,^B,,-|
+^B,,G,, C,D, E,F, G,A,| \
+G,F, E,D, E,F, E,D,| \
+C,C ^B,C A,G, F,C| \
+^B,C G,F, E,C B,C|
+F,G, A,D, G,F, E,/2G,/2C/2G,/2| \
+E,/2G,/2F,2E, D,/2F,/2A,/2F,/2 D,/2F,/2^B,,-| \
+^B,,G, E,A, F,G,2G,,| \
+C,,8-|
+C,,4 
+V:2
+%%MIDI program 0
+C,D, E,F, G,A, G,F,| \
+E,D, E,F, E,D, C,C| \
+^B,C A,G, F,C B,C| \
+G,F, E,C ^B,C F,G,|
+A,D, G,F, E,4-| \
+E,^A,, B,,2 C,D,2D,,| \
+G,,4 ^A,,B,, C,2-| \
+C,2 B,,^A,, B,,4|
+^A,,G,, E,2 C,D,2D,,| \
+G,,^A,, B,,C, D,E, F,G,| \
+A,B, CD EF GA-| \
+A4 FG2G,|
+C2 (3B,2A,2F,2 B,2| \
+A,G,2E, A,B, CF,| \
+B,A, G,2 A,B,2B,,| \
+E,F, G,A, B,C B,A,|
+G,F, G,A, G,4| \
+F,E, D,2 E,A,,2B,,| \
+E,,3E,2^A,, B,,2| \
+C,D,2D,, G,,4|
+^A,,B,, A,,2 B,,E,2F,| \
+B,,C, D,E, F,G, F,E,| \
+D,C, D,E, D,C, B,,E,| \
+F,G, A,B, CD, ^E,F,|
+G,A, B,C, D,^E, F,A,| \
+=DB, G,C D,4-| \
+=D,G,, A,,2 B,,C,2C,,| \
+F,,2>F,2 G,A, B,2-|
+B,2 A,G, A,4| \
+G,F, G,2 F,^E,2C,| \
+F,2 E,D,2B,, E,2| \
+D,C,2E, D,2 C,^B,,-|
+^B,,G,, C,D, E,F, G,A,| \
+G,F, E,D, E,F, E,D,| \
+C,C ^B,C A,G, F,C| \
+^B,C G,F, E,C B,C|
+F,G, A,D, G,F, E,/2G,/2C/2G,/2| \
+E,/2G,/2F,2E, D,/2F,/2A,/2F,/2 D,/2F,/2^B,,-| \
+^B,,G, E,A, F,G,2G,,| \
+C,,8-|
+C,,4 
+V:3
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z4 G^A Bc| \
+de dc B^A Bc| \
+B^A Gg =g^g ed| \
+cg =g^g dc Bg|
+=g^g cd e^A dc| \
+B/2d/2c/2e/2 d/2f/2e4d| \
+cd4c ^Bc| \
+de fg ad gf|
+ef gA fe de| \
+fB e=d2<c2^d-| \
+d2 ed cB cA| \
+G2 z6|
+z4 EF GA| \
+Bc BA GF GA| \
+G^A Bc de dc| \
+B^A Bc Bc de|
+fg fe dc de| \
+d/2f/2e/2g/2 f/2a/2g2B AG| \
+AA fG2<A2G/2B/2| \
+A/2c/2B/2=d/2 c/2B/2A/2G/2 F/2^E/2F/2A/2 G/2B/2A/2c/2|
+B/2A/2G/2F/2 ^E/2D/2E/2G/2 F/2A/2G/2B/2 A/2c/2f/2c/2| \
+B/2A/2G/2B/2 ^e/2B/2A/2G/2 FG AB| \
+c=d cB AG AB| \
+AG Ff ^ef =dc|
+Bf ^ef cB Af| \
+^ef Bc =dG cB| \
+A/2G/2A/2c/2 d/2e/2f/2A/2 f/2A/2f/2A/2 G/2F/2G/2B/2| \
+c/2d/2e/2d/2 c/2B/2A/2G/2 F/2E/2F/2^A/2 ^B/2c/2d/2B/2|
+F/2d/2^B/2F/2 E2 cA2f| \
+^B2 c2 B/2^A/2B c2-| \
+c3/2e/2 d/2f/2e/2d/2 F3-F/2e/2| \
+d/2f/2e/2c/2 E3-E/2e/2 d/2f/2e/2c/2|
+a/2g/2f/2e/2 d/2c/2^B/2d/2 e/2f/2e/2d/2 g/2f/2e/2d/2| \
+c/2B/2A/2c/2 d/2e/2d/2c/2 f3-f/2a/2| \
+g/2f/2e/2d/2 gf/2e/2 d/2c/2G c^B| \
+c8-|
+c4 
+V:4
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z4 G^A Bc| \
+de dc B^A Bc| \
+B^A Gg =g^g ed| \
+cg =g^g dc Bg|
+=g^g cd e^A dc| \
+B/2d/2c/2e/2 d/2f/2e4d| \
+cd4c ^Bc| \
+de fg ad gf|
+ef gA fe de| \
+fB e=d2<c2^d-| \
+d2 ed cB cA| \
+G2 z6|
+z4 EF GA| \
+Bc BA GF GA| \
+G^A Bc de dc| \
+B^A Bc Bc de|
+fg fe dc de| \
+d/2f/2e/2g/2 f/2a/2g2B AG| \
+AA fG A3G/2B/2| \
+A/2c/2B/2=d/2 c/2B/2A/2G/2 F/2^E/2F/2A/2 G/2B/2A/2c/2|
+B/2A/2G/2F/2 ^E/2D/2E/2G/2 F/2A/2G/2B/2 A/2c/2f/2c/2| \
+B/2A/2G/2B/2 ^e/2B/2A/2G/2 FG AB| \
+c=d cB AG AB| \
+AG Ff ^ef =dc|
+Bf ^ef cB Af| \
+^ef Bc =dG cB| \
+A/2G/2A/2c/2 d/2e/2f/2A/2 f/2A/2f/2A/2 G/2F/2G/2B/2| \
+c/2d/2e/2d/2 c/2B/2A/2G/2 F/2E/2F/2^A/2 ^B/2c/2d/2B/2|
+F/2d/2^B/2F/2 E2 cA2f| \
+^B2 c2 B/2^A/2B c2-| \
+c3/2e/2 d/2f/2e/2d/2 F3-F/2e/2| \
+d/2f/2e/2c/2 E3-E/2e/2 d/2f/2e/2c/2|
+a/2g/2f/2e/2 d/2c/2^B/2d/2 e/2f/2e/2d/2 g/2f/2e/2d/2| \
+c/2B/2A/2c/2 d/2e/2d/2c/2 f3-f/2a/2| \
+g/2f/2e/2d/2 gf/2e/2 d/2c/2G c^B| \
+c8-|
+c4 

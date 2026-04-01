@@ -1,0 +1,81 @@
+X:277
+T:278. Wie sch\"on leuchtet der Morgenstern
+N:Derived from chor278.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1532364979
+%%humdrum-veritas-data 212674712
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Ebmaj
+[V:1] e [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] g | 
+[V:4] E | 
+[V:1] bgeb | 
+[V:2] BBcd | 
+[V:3] fe/2f/2 g/2=a/2b | 
+[V:4] DECG | 
+[V:1] c'c'!fermata!bb | 
+[V:2] gf!fermata!fg | 
+[V:3] b=a!fermata!d'e' | 
+[V:4] EF!fermata!B,E | 
+[V:1] c'd'e'd' | 
+[V:2] aagf | 
+[V:3] e'f'bb | 
+[V:4] _AG/2F/2 G/2=A/2B | 
+[V:1] c'c'!fermata!bg | 
+[V:2] f/2g/2 f/2e/2!fermata!de | 
+[V:3] b=a!fermata!bb | 
+[V:4] FF,!fermata!B,E | 
+[V:1] c'bag | 
+[V:2] ede/2f/2 g/2e/2 | 
+[V:3] _a/2g/2fc'b | 
+[V:4] A,B,C/2D/2E | 
+[V:1] f2!fermata!e2 :| 
+[V:2] ed!fermata!B2 :| 
+[V:3] b3/2a/2!fermata!g2 :| 
+[V:4] B,2!fermata!E2 :| 
+[V:1] b2!fermata!g2 | 
+[V:2] f2!fermata!e2 | 
+[V:3] b2!fermata!b2 | 
+[V:4] D2!fermata!E2 | 
+[V:1] b2!fermata!g2 | 
+[V:2] f2!fermata!e2 | 
+[V:3] d'2!fermata!c'2 | 
+[V:4] B,2!fermata!C2 | 
+[V:1] agfg | 
+[V:2] fede | 
+[V:3] c'bbb | 
+[V:4] FGA/2G/2 F/2E/2 | 
+[V:1] agfg | 
+[V:2] fede | 
+[V:3] bbbb | 
+[V:4] DEB,/2B/2 A/2G/2 | 
+[V:1] agf2 | 
+[V:2] fe/2d/2cd | 
+[V:3] c'/2d'/2e'-e'/2c'/2 b/2a/2 | 
+[V:4] FC/2B,/2A,B, | 
+[V:1] !fermata!e2e'd' | 
+[V:2] !fermata!B2g^f | 
+[V:3] !fermata!g2c'/2b/2=a | 
+[V:4] !fermata!E2CD | 
+[V:1] c'bag | 
+[V:2] gg/2=f/2_ee | 
+[V:3] gd'c'b | 
+[V:4] =E/2^F/2GC/2D/2_E | 
+[V:1] f2!fermata!e |] 
+[V:2] ed!fermata!B |] 
+[V:3] c'b/2a/2!fermata!g |] 
+[V:4] =A,B,!fermata!E, |]

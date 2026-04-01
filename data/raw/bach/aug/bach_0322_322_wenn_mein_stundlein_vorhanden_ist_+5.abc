@@ -1,0 +1,85 @@
+X:321
+T:322. Wenn mein St\"undlein vorhanden ist
+N:Derived from chor322.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3795021382
+%%humdrum-veritas-data 882353035
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] e/2d/2 | 
+[V:4] C,/2D,/2 | 
+[V:1] GABc | 
+[V:2] GFFG | 
+[V:3] ccde | 
+[V:4] E,_E,D,C, | 
+[V:1] de!fermata!ce/2f/2 | 
+[V:2] GG!fermata!AG | 
+[V:3] fe!fermata!fe | 
+[V:4] B,,C,!fermata!F,C | 
+[V:1] gge/2f/2g | 
+[V:2] G/2A/2Bc_B | 
+[V:3] ddc/2d/2e- | 
+[V:4] B,/2A,/2G,A,E, | 
+[V:1] f2!fermata!ee | 
+[V:2] A=B!fermata!GG | 
+[V:3] ed!fermata!ce | 
+[V:4] F,G,!fermata!C,C | 
+[V:1] fedc/2d/2 | 
+[V:2] G3/2A/2Bc/2B/2 | 
+[V:3] deee | 
+[V:4] B,C^G,A,/2B,/2 | 
+[V:1] ee/2d/2!fermata!ce/2f/2 | 
+[V:2] A^G!fermata!AA | 
+[V:3] ee!fermata!ec | 
+[V:4] C/2D/2E!fermata!A,A, | 
+[V:1] ggeg | 
+[V:2] =Gdce- | 
+[V:3] d/2e/2 f/2g/2 g/2a/2_b | 
+[V:4] _B,=B,C^C | 
+[V:1] f2!fermata!ee | 
+[V:2] ed!fermata!cc | 
+[V:3] a=b!fermata!gg | 
+[V:4] DG,!fermata!=CC/2B,/2 | 
+[V:1] fedc/2d/2 | 
+[V:2] ccB/2A/2G | 
+[V:3] fggg/2f/2 | 
+[V:4] A,G,F,E,/2D,/2 | 
+[V:1] ee!fermata!cd | 
+[V:2] GG!fermata!AA/2B/2- | 
+[V:3] e/2d/2c!fermata!ff | 
+[V:4] C,/2D,/2E,!fermata!F,D | 
+[V:1] eeAB | 
+[V:2] B/2A/4B/4 c/2B/2A-A/2G/2 | 
+[V:3] ee-e/2d/2 d/2e/4f/4 | 
+[V:4] C/2B,/2 A,/2G,/2^F,G, | 
+[V:1] c/2B/2A!fermata!GG | 
+[V:2] G-G/2^F/2!fermata!DG | 
+[V:3] e/2d/2c!fermata!BB/2d/2 | 
+[V:4] C,D,!fermata!G,G,/2=F,/2 | 
+[V:1] cded/2e/2 | 
+[V:2] GGcc | 
+[V:3] edca/2g/2 | 
+[V:4] E,/2D,/2 C,/2B,,/2 A,,/2G,/2 F,/2E,/2 | 
+[V:1] fed2 | 
+[V:2] B/2d/2- d/2c/2cB | 
+[V:3] f/2g/2gag/2f/2 | 
+[V:4] D,/2B,,/2 C,/2E,/2 F,/2D,/2 G,/2G,,/2 | 
+[V:1] !fermata!c3 |] 
+[V:2] !fermata!G3 |] 
+[V:3] !fermata!e3 |] 
+[V:4] !fermata!C,3 |]

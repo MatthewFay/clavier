@@ -1,0 +1,85 @@
+X:1
+T:from /workspace/data/raw_mid/bach/wtcbki/prelude9.mid
+M:12/8
+L:1/8
+Q:1/4=135
+K:Fmaj% 4 sharps
+V:1
+K:Dbmaj% 0 sharps
+F=Ac f=ef =d/2[ed]/2cd2<f2| \
+c/2[=dc]/2Bc2<f2 Bcd cdB| \
+=Acf a4=gf =ef=d| \
+(3=d/2=e/2f/2[fe]/2e4-e3/2-[f-e]/2f/2=g =adf|
+=G=B=d gfg =Ac=e2<f2| \
+=G=B=d f=ef GBd _e3-| \
+efe =dec =B/2[cB]/2=A=G _ag_g| \
+f=e_e =d/2=e/2f=B c6-|
+c=e=g c'bc' =d_g=a c'3-| \
+c'=ab2=ga2_g=g _g/2=g/2a=d| \
+e8-e2e=d| \
+=d4cB =ABc2BA|
+B4c=A B4c/2B/2A/2=G/2| \
+=A/2=G/2F/2G/2A/2B/2 c/2B/2A/2B/2c/2=d/2 e/2d/2c/2B/2A/2G/2 Fz2| \
+B=df b=ab =g/2[ag]/2fg2<b2| \
+f/2[=gf]/2ef2<b2 efg fge|
+=dBc d4cB =AB=G| \
+=AF=G A4Bc =dGB| \
+C=E=G cBc =DF=A2<B2| \
+C=E=G B=AB CEG _A3-|
+ABA =GAF =E=DC _dc=B| \
+B=A_A =G/2=A/2B=E F6-| \
+F8-F3=E| \
+F12|
+V:2
+%%clef bass
+K:Dbmaj% 0 sharps
+z3 =A,3 B,4A,=G,| \
+=A,4B,A, =G,6| \
+z8=D =G3| \
+z8C F3-|
+F3 =E6- E=DC| \
+=B,8-B, C3-| \
+C=DE F6- F=ED| \
+C4=B,F =E6|
+z6 z=A,C EC=D-| \
+=D3 C3 _D3 =D3| \
+zc=A GA=G AcB c3-| \
+cB=A =G6 _G3|
+=G4-GF =E3 z3| \
+z12| \
+z3 =D3 E4DC| \
+=D4ED C6|
+z8=G, C3| \
+z8F, B,3-| \
+B,3 =A,6- A,=G,F,| \
+=E,8-E, F,3-|
+F,=G,A, B,6- B,=A,G,| \
+F,4=E,B, =A,F,A, B,A,B,| \
+z=A,C E=DE D4-D_D| \
+C12|
+V:3
+K:Dbmaj% 0 sharps
+F,12-| \
+F,8-F, =E,3| \
+[F,F,]=A,C F=EF =B,6| \
+C,=E,=G, C=B,C F,6|
+=G,12-| \
+=G,4-G,=D, E,4F,G,| \
+A,6 =G,4=A,=B,| \
+z2G,2<=G,2 C,=E,G, CB,C|
+=A,4=G,A, _G,6| \
+=G,3 E,3 =E,3 =D,3| \
+C,-[E,C,-][G,C,-] [=A,C,-][CC,-][B,C,-] [CC,-][A,C,-][=G,C,-] [A,C,-]/2[B,C,-]/2[CC,-][F,C,]| \
+=G,3 B,,3 C,3 =D,3|
+=G,,B,,=D, G,F,G, C,=E,G, CB,C| \
+[F,F,]=A,C FE=D C2B, A,/2E/2D/2C/2B,/2A,/2| \
+B,12-| \
+B,8-B, =A,3|
+B,,=D,F, B,=A,B, =E,6| \
+F,,=A,,C, F,=E,F, B,,6| \
+C,12-| \
+C,4-C,=G,, A,,4B,,C,|
+D,6 C,4=D,=E,| \
+z2=B,,2<C,2 =D,6| \
+=A,,6 B,,-[=D,B,,-][F,B,,-] [B,B,,-][A,B,,-][B,B,,]| \
+[=A,F,,]12|

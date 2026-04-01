@@ -1,0 +1,77 @@
+X:60
+T:60. Ich freue mich in dir
+N:Derived from chor060.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4275290788
+%%humdrum-veritas-data 2277445544
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] A/2B/2 [I:setbarnb 1]| 
+[V:2] F/2E/2 | 
+[V:3] c | 
+[V:4] F,/2G,/2 | 
+[V:1] cdcB/2A/2 | 
+[V:2] FFF/2E/4D/4E | 
+[V:3] cBA/2G/2c | 
+[V:4] A,B,CC, | 
+[V:1] !fermata!A2zc | 
+[V:2] !fermata!F2xA | 
+[V:3] !fermata!c2xc | 
+[V:4] !fermata!F,2zF, | 
+[V:1] deff/2e/2 | 
+[V:2] ^B^^cdA | 
+[V:3] ggad | 
+[V:4] F,E,D,/2E,/2F,/2G,/2 | 
+[V:1] e2!fermata!d :| 
+[V:2] A3/2G/2!fermata!F :| 
+[V:3] d^^c!fermata!d :| 
+[V:4] A,2!fermata!D, :| 
+[V:1] g/2f/2 [I:setbarnb 5]| 
+[V:2] G | 
+[V:3] d | 
+[V:4] ^B, | 
+[V:1] ef/2e/2d3/2c/2 | 
+[V:2] GAA/2F/2G | 
+[V:3] ^ccc^B | 
+[V:4] ^C/2^B,/2A,/2G,/2 F,/2D,/2G, | 
+[V:1] !fermata!c3c | 
+[V:2] !fermata!G3G | 
+[V:3] !fermata!e3e | 
+[V:4] !fermata!C,3C | 
+[V:1] def3/2g/2 | 
+[V:2] G/2A/2^BcG | 
+[V:3] dgf/2e/2d | 
+[V:4] ^B,G,A,B, | 
+[V:1] !fermata!e3c | 
+[V:2] !fermata!G3G | 
+[V:3] !fermata!c3e | 
+[V:4] !fermata!C3=B, | 
+[V:1] cdcB/2A/2 | 
+[V:2] AB/2A/2GG | 
+[V:3] fBc/2d/2e | 
+[V:4] A,G,/2F,/2E,C, | 
+[V:1] !fermata!A2zc | 
+[V:2] !fermata!F2xF | 
+[V:3] !fermata!d2xc | 
+[V:4] !fermata!D,2zA, | 
+[V:1] d/2e/2ffe | 
+[V:2] FGG/2A/2=B | 
+[V:3] B/2c/2dcc | 
+[V:4] B,^B,CC, | 
+[V:1] !fermata!f3 |] 
+[V:2] !fermata!A3 |] 
+[V:3] !fermata!c3 |] 
+[V:4] !fermata!F,3 |]

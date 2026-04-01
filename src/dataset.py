@@ -6,11 +6,12 @@ import torch
 from tokenizers import Tokenizer
 from torch.utils.data import DataLoader, Dataset
 
-SCRIPT_DIR: Path = Path(__file__).parent.resolve()
-PROJECT_ROOT: Path = SCRIPT_DIR.parent
+SRC_DIR: Path = Path(__file__).parent.resolve()
+PROJECT_ROOT: Path = SRC_DIR.parent
 
-TOKENIZER_FILE: Path = SCRIPT_DIR / "tokenizer.json"
-DATA_FILE: Path = PROJECT_ROOT / "data" / "processed" / "bach" / "bach.jsonl"
+TOKENIZER_FILE: Path = SRC_DIR / "tokenizer.json"
+# Updated to target the new train split specifically for the local test
+DATA_FILE: Path = PROJECT_ROOT / "data" / "processed" / "bach" / "bach_train.jsonl"
 
 
 class ABCMusicDataset(Dataset[tuple[torch.Tensor, torch.Tensor]]):

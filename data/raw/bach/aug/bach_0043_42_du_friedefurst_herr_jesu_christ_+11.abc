@@ -1,0 +1,65 @@
+X:42
+T:42. Du Friedef\"urst, Herr Jesu Christ
+N:Derived from chor042.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3847039682
+%%humdrum-veritas-data 2275768712
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] c' [I:setbarnb 1]| 
+[V:2] a | 
+[V:3] e' | 
+[V:4] A | 
+[V:1] abc'e' | 
+[V:2] fgab | 
+[V:3] d'd'e'e' | 
+[V:4] d/2c/2BAG | 
+[V:1] d'd'!fermata!c'e' | 
+[V:2] ab!fermata!aa | 
+[V:3] f'e'!fermata!e'e' | 
+[V:4] FG!fermata!AC | 
+[V:1] d'c'bb | 
+[V:2] aaag | 
+[V:3] f'e'f'e' | 
+[V:4] F/2G/2ADE | 
+[V:1] !fermata!c'3 :| 
+[V:2] !fermata!a3 :| 
+[V:3] !fermata!e'3 :| 
+[V:4] !fermata!A,3 :| 
+[V:1] b [I:setbarnb 5]| 
+[V:2] g | 
+[V:3] e' | 
+[V:4] E/2F/2 | 
+[V:1] bbc'b | 
+[V:2] egag | 
+[V:3] be'e'e'/2d'/2 | 
+[V:4] GEAE | 
+[V:1] ab!fermata!gg | 
+[V:2] fg!fermata!=ee | 
+[V:3] c'd'!fermata!c'c' | 
+[V:4] FB,!fermata!CC | 
+[V:1] abc'b/2c'/2 | 
+[V:2] fgae | 
+[V:3] c'_e'e'2 | 
+[V:4] FEAG | 
+[V:1] d'c'b2 | 
+[V:2] aaag | 
+[V:3] d'e'f'e'/2d'/2 | 
+[V:4] FEDE | 
+[V:1] !fermata!a3 |] 
+[V:2] !fermata!e3 |] 
+[V:3] !fermata!c'3 |] 
+[V:4] !fermata!A,3 |]

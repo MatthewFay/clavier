@@ -1,0 +1,173 @@
+X:295
+T:296. Nun lob, mein Seel, den Herren
+N:Derived from chor296.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 44143138
+%%humdrum-veritas-data 511322275
+%%
+%%barnumbers 0
+L:1/4
+M:3/4
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] b [I:setbarnb 1]| 
+[V:2] f | 
+[V:3] d' | 
+[V:4] B | 
+[V:1] b2a | 
+[V:2] g2f | 
+[V:3] d'e'f' | 
+[V:4] G2D | 
+[V:1] g2f | 
+[V:2] Bcd/2e/2 | 
+[V:3] e'2d' | 
+[V:4] E2B, | 
+[V:1] bc'2 | 
+[V:2] fgf | 
+[V:3] b2a | 
+[V:4] DEF | 
+[V:1] !fermata!d'2d' | 
+[V:2] !fermata!f2f | 
+[V:3] !fermata!b2b | 
+[V:4] !fermata!B,2B | 
+[V:1] d'2d' | 
+[V:2] ag^^f | 
+[V:3] abc' | 
+[V:4] ^^F^ED | 
+[V:1] d'2c' | 
+[V:2] gd/2=e/2^f | 
+[V:3] b2a | 
+[V:4] G^F=E | 
+[V:1] b/2c'/2c'3/2b/2 | 
+[V:2] fgf | 
+[V:3] b2a | 
+[V:4] DEF | 
+[V:1] !fermata!b2 :| 
+[V:2] !fermata!d2 :| 
+[V:3] !fermata!f2 :| 
+[V:4] !fermata!B,2 :| 
+[V:1] b [I:setbarnb 9]| 
+[V:2] d | 
+[V:3] f | 
+[V:4] B, | 
+[V:1] bc'd' | 
+[V:2] e2d | 
+[V:3] gab | 
+[V:4] E2B | 
+[V:1] c'2d' | 
+[V:2] ^^fga | 
+[V:3] c'/2d'/2e'd' | 
+[V:4] AG^^F | 
+[V:1] ba/2g/2a | 
+[V:2] g2^^f | 
+[V:3] d'2c' | 
+[V:4] GD2 | 
+[V:1] !fermata!g2g | 
+[V:2] !fermata!g2e/2d/2 | 
+[V:3] !fermata!b2b | 
+[V:4] !fermata!E2E | 
+[V:1] c'ba | 
+[V:2] c2c | 
+[V:3] g2f | 
+[V:4] ^E2F | 
+[V:1] bg2 | 
+[V:2] dcB | 
+[V:3] f^e2 | 
+[V:4] B,C2 | 
+[V:1] !fermata!f2f | 
+[V:2] !fermata!A2d | 
+[V:3] !fermata!f2a | 
+[V:4] !fermata!F,2D | 
+[V:1] b2b | 
+[V:2] d2g | 
+[V:3] bc'd' | 
+[V:4] GAB | 
+[V:1] c'd'e' | 
+[V:2] f2f | 
+[V:3] c'ba | 
+[V:4] AGF | 
+[V:1] d'c'd' | 
+[V:2] fed | 
+[V:3] b2a | 
+[V:4] B2^^F | 
+[V:1] !fermata!b2b | 
+[V:2] !fermata!d2g | 
+[V:3] !fermata!b2e' | 
+[V:4] !fermata!G2E | 
+[V:1] e'2e' | 
+[V:2] g2g | 
+[V:3] g2c' | 
+[V:4] CDE | 
+[V:1] d'c'd' | 
+[V:2] =aef | 
+[V:3] c'2^b | 
+[V:4] FG2 | 
+[V:1] !fermata!c'2c' | 
+[V:2] !fermata!e2f | 
+[V:3] !fermata!g2a | 
+[V:4] !fermata!C2F | 
+[V:1] d'2d' | 
+[V:2] f2g | 
+[V:3] b2b | 
+[V:4] B,A,G, | 
+[V:1] e'2e' | 
+[V:2] eg2 | 
+[V:3] g2c' | 
+[V:4] CB,A, | 
+[V:1] f'3/2e'/2d'/2c'/2 | 
+[V:2] f3 | 
+[V:3] c'ab | 
+[V:4] DCB, | 
+[V:1] !fermata!b2d' | 
+[V:2] !fermata!g2f | 
+[V:3] !fermata!b2b/2a/2 | 
+[V:4] !fermata!E2B | 
+[V:1] c'ba | 
+[V:2] g2f | 
+[V:3] g2c' | 
+[V:4] ^E2F | 
+[V:1] bg2 | 
+[V:2] f2^e | 
+[V:3] bd'c'/2b/2 | 
+[V:4] DB,C | 
+[V:1] !fermata!f2f | 
+[V:2] !fermata!c2c | 
+[V:3] !fermata!a2a | 
+[V:4] !fermata!F,2F/2=E/2 | 
+[V:1] b2a | 
+[V:2] def | 
+[V:3] fc'd' | 
+[V:4] DCB, | 
+[V:1] g2f | 
+[V:2] Bcd | 
+[V:3] gab | 
+[V:4] E2D | 
+[V:1] c'd'3/2c'/2 | 
+[V:2] ed^e | 
+[V:3] abg | 
+[V:4] CB,2 | 
+[V:1] !fermata!c'2d' | 
+[V:2] !fermata!f2f | 
+[V:3] !fermata!a2b | 
+[V:4] !fermata!F2B | 
+[V:1] e'd'c' | 
+[V:2] =ef2 | 
+[V:3] b2a | 
+[V:4] GFE | 
+[V:1] b/2c'/2c'3/2b/2 | 
+[V:2] fgf | 
+[V:3] b2a | 
+[V:4] D/2E/2FF, | 
+[V:1] !fermata!b2 |] 
+[V:2] !fermata!d2 |] 
+[V:3] !fermata!f2 |] 
+[V:4] !fermata!B,2 |]

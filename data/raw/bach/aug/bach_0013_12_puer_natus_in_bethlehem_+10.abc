@@ -1,0 +1,89 @@
+X:12
+T:12. Puer natus in Bethlehem
+N:Derived from chor012.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 614810844
+%%humdrum-veritas-data 775376278
+%%
+%%barnumbers 0
+L:1/4
+M:3/4
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bbmaj
+[V:1] g [I:setbarnb 1]| 
+[V:2] d | 
+[V:3] b | 
+[V:4] G, | 
+[V:1] g2g | 
+[V:2] d2g | 
+[V:3] b2c' | 
+[V:4] GF=E | 
+[V:1] a2a | 
+[V:2] f2f | 
+[V:3] c'2c' | 
+[V:4] FC_E | 
+[V:1] bag | 
+[V:2] f2e | 
+[V:3] bd'b | 
+[V:4] DB,E | 
+[V:1] !fermata!f3 | 
+[V:2] !fermata!d3 | 
+[V:3] !fermata!b3 | 
+[V:4] !fermata!B,3 | 
+[V:1] b2c' | 
+[V:2] f2^f | 
+[V:3] d'3- | 
+[V:4] B,BA | 
+[V:1] b2a | 
+[V:2] g2=f | 
+[V:3] d'c'c' | 
+[V:4] G=EF | 
+[V:1] !fermata!b2b | 
+[V:2] !fermata!f2f | 
+[V:3] !fermata!d'2d' | 
+[V:4] !fermata!B,2B | 
+[V:1] b2b | 
+[V:2] g2=e | 
+[V:3] d'c'c' | 
+[V:4] G=EC | 
+[V:1] a2g | 
+[V:2] f2f- | 
+[V:3] c'd'd' | 
+[V:4] FD=B, | 
+[V:1] ga^f | 
+[V:2] f=ed | 
+[V:3] c'aa | 
+[V:4] C^CD | 
+[V:1] !fermata!g2g | 
+[V:2] !fermata!d2c | 
+[V:3] !fermata!b2g | 
+[V:4] !fermata!G,2E- | 
+[V:1] =f2g | 
+[V:2] cdc | 
+[V:3] abg | 
+[V:4] ED=E | 
+[V:1] a2a | 
+[V:2] c2_e | 
+[V:3] fac' | 
+[V:4] F=E^F | 
+[V:1] b2a | 
+[V:2] de=f- | 
+[V:3] bc'2 | 
+[V:4] GCD | 
+[V:1] g2^f | 
+[V:2] f=ed | 
+[V:3] b2a | 
+[V:4] E^CD | 
+[V:1] !fermata!g2 |] 
+[V:2] !fermata!d2 |] 
+[V:3] !fermata!=b2 |] 
+[V:4] !fermata!G,2 |]

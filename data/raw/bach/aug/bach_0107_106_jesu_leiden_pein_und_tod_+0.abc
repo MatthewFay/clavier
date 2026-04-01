@@ -1,0 +1,85 @@
+X: 106
+T: 106. Jesu Leiden, Pein und Tod
+N: Derived from chor106.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2028414928
+%%humdrum-veritas-data 908209297
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: A
+[V:1] cBAB | 
+[V:2] AGAG | 
+[V:3] eeee | 
+[V:4] A,E,C,E, | 
+[V:1] c^d!fermata!e2 | 
+[V:2] A/G/F!fermata!G2 | 
+[V:3] eB!fermata!B2 | 
+[V:4] A,,B,,!fermata!E,2 | 
+[V:1] fe=dc/B/ | 
+[V:2] BBGA | 
+[V:3] =dBee | 
+[V:4] B,G,E,A, | 
+[V:1] B2!fermata!A2 | 
+[V:2] AG!fermata!E2 | 
+[V:3] fe/d/!fermata!c2 | 
+[V:4] D,E,!fermata!A,,2 | 
+[V:1] cedc | 
+[V:2] ABAG | 
+[V:3] eefc | 
+[V:4] A,G,F,E, | 
+[V:1] BA!fermata!G2 | 
+[V:2] FF!fermata!^E2 | 
+[V:3] dd!fermata!G2 | 
+[V:4] D,C,/B,,/!fermata!C,2 | 
+[V:1] ABcc/d//e// | 
+[V:2] C=EEE | 
+[V:3] FGAB | 
+[V:4] F,E,A,G, | 
+[V:1] d2!fermata!c2 | 
+[V:2] AB!fermata!A2 | 
+[V:3] fe!fermata!e2 | 
+[V:4] F,G,!fermata!A,2 | 
+[V:1] cded | 
+[V:2] AAAA | 
+[V:3] edcB | 
+[V:4] A,F,C,D, | 
+[V:1] cB!fermata!c2 | 
+[V:2] AG!fermata!A2 | 
+[V:3] c/d/e!fermata!e2 | 
+[V:4] E,E,!fermata!A,,2 | 
+[V:1] BBc/^d/e | 
+[V:2] GEAG | 
+[V:3] eBAB | 
+[V:4] E,/F,/G,F,E, | 
+[V:1] e^d!fermata!e2 | 
+[V:2] F2!fermata!G2 | 
+[V:3] cB!fermata!B2 | 
+[V:4] A,B,!fermata!E,2 | 
+[V:1] ecf3/e/ | 
+[V:2] =GGF/^G/A | 
+[V:3] _BAA/B/c | 
+[V:4] =G,A,D,C, | 
+[V:1] dc/B/!fermata!B2 | 
+[V:2] A/G/A!fermata!G2 | 
+[V:3] de!fermata!e2 | 
+[V:4] B,,A,,!fermata!E,2 | 
+[V:1] cedc/B/ | 
+[V:2] ABAA | 
+[V:3] eeff | 
+[V:4] A,G,F,E, | 
+[V:1] B2!fermata!A2 |]  
+[V:2] AG!fermata!E2 |]  
+[V:3] fe/d/!fermata!c2 |]  
+[V:4] ^D,E,!fermata!A,,2 |]

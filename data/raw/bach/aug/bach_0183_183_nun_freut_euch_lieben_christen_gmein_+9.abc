@@ -1,0 +1,69 @@
+X:182
+T:183. Nun freut euch, lieben Christen g'mein
+N:Derived from chor183.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 772245869
+%%humdrum-veritas-data 3859234294
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] e [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] g/2f/2 | 
+[V:4] E,/2F,/2 | 
+[V:1] eBea | 
+[V:2] BFBf | 
+[V:3] ede-e/2d/2 | 
+[V:4] G,/2A,/2B,/2A,/2G,F, | 
+[V:1] gf!fermata!ee | 
+[V:2] BB3/4A/4!fermata!GG/2^A/2 | 
+[V:3] e3/2d/2!fermata!Be | 
+[V:4] E,/2G,/2B,!fermata!E,C | 
+[V:1] f/2g/2=agf | 
+[V:2] B/2=d/2 c/2^d/2eB/2F/4G/4 | 
+[V:3] d/2^e/2fB/2c/2d | 
+[V:4] B,F,G,/2=A,/2B, | 
+[V:1] cd!fermata!e :| 
+[V:2] A2!fermata!G :| 
+[V:3] =ef!fermata!B :| 
+[V:4] A,/2G,/2F,!fermata!E, :| 
+[V:1] e [I:setbarnb 5]| 
+[V:2] B | 
+[V:3] g | 
+[V:4] E/2D/2 | 
+[V:1] agfb | 
+[V:2] e/2f/2- f/2e/4d/4cf/2d/2 | 
+[V:3] c'/2b/2b^ab | 
+[V:4] C/2D/2E-E/2F/4E/4 D/2G/2 | 
+[V:1] b^a!fermata!bb | 
+[V:2] c/2e/2- e/2d/4c/4!fermata!de | 
+[V:3] g/2c/2f!fermata!fb- | 
+[V:4] EF/2F,/2!fermata!B,G, | 
+[V:1] c'ab3/2a/2 | 
+[V:2] eef/2d/2 e/2f/2- | 
+[V:3] b/2a/4g/4 a/2c'/2 b/2a/2g/2f/2 | 
+[V:4] A,/2B,/2CD/2B,/2C/2D/2 | 
+[V:1] gf!fermata!eg | 
+[V:2] f/2ed/2!fermata!cc- | 
+[V:3] g/4a/4ba/2!fermata!ge | 
+[V:4] EB,!fermata!CC | 
+[V:1] fBea | 
+[V:2] c/2B/4A/4Gc/2B/2c/2d/2 | 
+[V:3] fe/2f/2gf | 
+[V:4] DE/2D/2CF, | 
+[V:1] gf!fermata!e |] 
+[V:2] e3/2d/2!fermata!B |] 
+[V:3] b-b3/4a/4!fermata!g |] 
+[V:4] G,/2A,/2B,!fermata!E, |]

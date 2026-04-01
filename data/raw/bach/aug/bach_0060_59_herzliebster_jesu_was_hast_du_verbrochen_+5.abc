@@ -1,0 +1,69 @@
+X:59
+T:59. Herzliebster Jesu, was hast du verbrochen
+N:Derived from chor059.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4178116273
+%%humdrum-veritas-data 397065120
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Ebmaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] C | 
+[V:1] cc=BG | 
+[V:2] A/2G/2FGD | 
+[V:3] ed/2c/2d=B | 
+[V:4] F,/2G,/2A,G,F, | 
+[V:1] cdee | 
+[V:2] G/2=A/2=Bcc | 
+[V:3] cfgg | 
+[V:4] E,D,C,C | 
+[V:1] fe!fermata!dd | 
+[V:2] dc!fermata!=BB | 
+[V:3] ag!fermata!gg | 
+[V:4] =B,C!fermata!G,G, | 
+[V:1] efg/2f/2e | 
+[V:2] cde_B | 
+[V:3] ga_b/2a/2 g/2f/2 | 
+[V:4] CFE_D | 
+[V:1] aag_g/2f/2 | 
+[V:2] c/2d/2eee | 
+[V:3] ee/2f/2 g/2e/2c' | 
+[V:4] C_CB,=A, | 
+[V:1] f2!fermata!ee | 
+[V:2] ed!fermata!Bc/2B/2 | 
+[V:3] b3/2a/2!fermata!gg | 
+[V:4] B,2!fermata!E,=C, | 
+[V:1] dcBG/2A/2 | 
+[V:2] A/2G/2=AGD | 
+[V:3] fedB | 
+[V:4] F,^F,G,G,/2=F,/2 | 
+[V:1] BBcB | 
+[V:2] G/2A/2BB/2A/2 A/2G/2 | 
+[V:3] eeed | 
+[V:4] E,/2F,/2 G,/2E,/2A,B,/2B,,/2 | 
+[V:1] A2!fermata!Gg | 
+[V:2] G/2F/4E/4F!fermata!Ee | 
+[V:3] eB!fermata!Bb | 
+[V:4] C,D,!fermata!E,E, | 
+[V:1] fe/2d/2d2 | 
+[V:2] dcc=B | 
+[V:3] ag=ag/2f/2 | 
+[V:4] =B,,/2=B,/2C^F,G, | 
+[V:1] !fermata!c3 |] 
+[V:2] !fermata!G3 |] 
+[V:3] !fermata!=e3 |] 
+[V:4] !fermata!C,3 |]

@@ -1,0 +1,73 @@
+X:356
+T:357. Warum sollt ich mich denn gr\"amen
+N:Derived from chor357.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2590402654
+%%humdrum-veritas-data 4161878673
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] B2B2c2B2 | 
+[V:2] GA BG- GF- FB | 
+[V:3] e2e2e2de | 
+[V:4] E,F, G,E,A,3G, | 
+[V:1] cde2e2d2 | 
+[V:2] A2B2B4 | 
+[V:3] a2g2fg ab/2a/2 | 
+[V:4] F,2G,A,B,4 | 
+[V:1] !fermata!e4f2g2 | 
+[V:2] !fermata!B4BAG2 | 
+[V:3] !fermata!g4d2d2 | 
+[V:4] !fermata!E,4B,2^B,2 | 
+[V:1] !fermata!e4def2 | 
+[V:2] !fermata!G4G2F2 | 
+[V:3] !fermata!c4=B2B2 | 
+[V:4] !fermata!C4G,2D,E, | 
+[V:1] !fermata!c4f2f2 | 
+[V:2] !fermata!F4F2G2- | 
+[V:3] !fermata!^A4^A2B2- | 
+[V:4] !fermata!F,4D,2G,2- | 
+[V:1] e2d2c2c3/2B/2 | 
+[V:2] GF- FBB2^A2 | 
+[V:3] Bc dfg2c/2d/2e | 
+[V:4] G,^A, B,D, E,C,F,2 | 
+[V:1] !fermata!B4e2e2 | 
+[V:2] !fermata!F4B^A Bc | 
+[V:3] !fermata!d4B2g2 | 
+[V:4] !fermata!B,,4G,F, G,^A, | 
+[V:1] d2e2c2f2 | 
+[V:2] B2B4A2 | 
+[V:3] f2e2e2c2 | 
+[V:4] B,=A, G,E, A,G, A,F, | 
+[V:1] f2^e2!fermata!f4 | 
+[V:2] G4!fermata!^A4 | 
+[V:3] =d2c2!fermata!c4 | 
+[V:4] B,G, CC,!fermata!F,4 | 
+[V:1] f2g2!fermata!=e4 | 
+[V:2] B2B2!fermata!=A4 | 
+[V:3] ^d2=de/2=d/2!fermata!c4 | 
+[V:4] B,2E,2!fermata!A,4 | 
+[V:1] ^def2!fermata!c4 | 
+[V:2] FG FG!fermata!^A4 | 
+[V:3] B2B2!fermata!f4 | 
+[V:4] A,G, D,E,!fermata!F,4 | 
+[V:1] f2f2e2dc | 
+[V:2] ^A2BA GAB2 | 
+[V:3] fed2e2f2 | 
+[V:4] D,2G,2C,2D,E, | 
+[V:1] c2c3/2B/2!fermata!B4 |] 
+[V:2] B2^A2!fermata!F4 |] 
+[V:3] f2c/2d/2e!fermata!d4 |] 
+[V:4] F,4!fermata!B,,4 |]

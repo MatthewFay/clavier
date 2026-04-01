@@ -1,0 +1,73 @@
+X:15
+T:15. Christ lag in Todesbanden
+N:Derived from chor015.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1218210601
+%%humdrum-veritas-data 2425095831
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] d2 [I:setbarnb 1]| 
+[V:2] B2 | 
+[V:3] gf | 
+[V:4] G,2 | 
+[V:1] ^^c2def2g2 | 
+[V:2] BA2^^cd2e2- | 
+[V:3] e2fga2ba | 
+[V:4] G,2F,E, D,D2^^C | 
+[V:1] f2e2!fermata!d2d2 | 
+[V:2] ed2^^c!fermata!A2A2- | 
+[V:3] ab2a/2g/2!fermata!^^f2d2 | 
+[V:4] DB,G,A,!fermata!D,2^^F,2 | 
+[V:1] B2^c2d2cB | 
+[V:2] AG ^^FGA3G | 
+[V:3] d2=e2d2d2 | 
+[V:4] G,B, A,G, ^^F,D,G,2 | 
+[V:1] AGA2!fermata!G4 :| 
+[V:2] ^^FG2F!fermata!D4 :| 
+[V:3] dB cA!fermata!B4 :| 
+[V:4] D2D,2!fermata!G,4 :| 
+[V:1] GAB2c2GA | 
+[V:2] D2G2GF =EF | 
+[V:3] Bcd2cd=e2 | 
+[V:4] G,3F, =E,D,C,2 | 
+[V:1] B2c2!fermata!d2d2 | 
+[V:2] GD GF!fermata!F2Bc | 
+[V:3] db- ba!fermata!b2f2 | 
+[V:4] G,F, =E,F,!fermata!B,,2B,A, | 
+[V:1] g2^^f2g2ag | 
+[V:2] d=e- edd2A2- | 
+[V:3] B2c2gf^e2- | 
+[V:4] G,2A,2^B,2^^C2 | 
+[V:1] ^f2e2!fermata!d2e2 | 
+[V:2] AB2A!fermata!A2B2- | 
+[V:3] ed2^^c!fermata!f2g2 | 
+[V:4] D=B,G,A,!fermata!D,2G,2 | 
+[V:1] f2d=ef2c2 | 
+[V:2] BAB2B2A2- | 
+[V:3] cff2fgag | 
+[V:4] F,2B,,C, D,=E,F,E, | 
+[V:1] B2A2!fermata!G4 | 
+[V:2] AG2^^F!fermata!G4 | 
+[V:3] ^^fd =ed/2c/2!fermata!B4 | 
+[V:4] D,B,,C,D,!fermata!=E,4 | 
+[V:1] d2c2B2A2 | 
+[V:2] G3A ^^FG2F | 
+[V:3] d^f=e2d2c2- | 
+[V:4] ^B,,2C,2D,4 | 
+[V:1] !fermata!G8 |] 
+[V:2] !fermata!D8 |] 
+[V:3] c2^BA!fermata!^B4 |] 
+[V:4] !fermata!G,,8 |]

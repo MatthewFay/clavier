@@ -1,0 +1,57 @@
+X: 156
+T: 157. Wo Gott zum Haus nicht gibt sein' Gunst
+N: Derived from chor157.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1108155812
+%%humdrum-veritas-data 381247534
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] F [I:setbarnb 1]| 
+[V:2] C | 
+[V:3] A/B/ | 
+[V:4] F,/G,/ | 
+[V:1] cc/B/AG | 
+[V:2] F/G/ A/G/- G/F/- F/E/ | 
+[V:3] c/d/ecc | 
+[V:4] A,/B,/CF,C, | 
+[V:1] A=B!fermata!cc | 
+[V:2] F/E/D!fermata!EG- | 
+[V:3] cG!fermata!Gc | 
+[V:4] F,G,!fermata!C,E, | 
+[V:1] Ac_Bc | 
+[V:2] G/F/ G/A/- A/G//F//G- | 
+[V:3] c-c/e/ f/d/c | 
+[V:4] F,E,/C,/ D,/G,/E,/C,/ | 
+[V:1] AG!fermata!Fc | 
+[V:2] G/FE/!fermata!CF | 
+[V:3] cc/B/!fermata!AA | 
+[V:4] F,C,!fermata!F,,F, | 
+[V:1] ddAc | 
+[V:2] FFC3/A/- | 
+[V:3] BF/G/Af/_e/ | 
+[V:4] B,,/C,/D,/E,/ F,/G,/A,/^F,/ | 
+[V:1] BB!fermata!Af | 
+[V:2] A/G//^F//G-G/!fermata!F/A | 
+[V:3] dd!fermata!dd | 
+[V:4] G,/A,/B,/C/!fermata!DD, | 
+[V:1] edc3/d/ | 
+[V:2] A/G/ =F/G/ A/G/F | 
+[V:3] cd/e/fA | 
+[V:4] A,B,F,/E,/D, | 
+[V:1] B/A/G!fermata!F |]  
+[V:2] F3/E/!fermata!C |]  
+[V:3] B3/c//B//!fermata!A |]  
+[V:4] G,C,!fermata!F, |]

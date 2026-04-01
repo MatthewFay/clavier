@@ -1,0 +1,69 @@
+X:128
+T:128. Alles ist an Gottes Segen
+N:Derived from chor128.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1681267448
+%%humdrum-veritas-data 1182565099
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] ccgg | 
+[V:2] GGG/2dc/2 | 
+[V:3] eede | 
+[V:4] CCB,C- | 
+[V:1] fge!fermata!c | 
+[V:2] dd/2B/2c!fermata!G | 
+[V:3] agg!fermata!e | 
+[V:4] CB,/2G,/2C!fermata!C, | 
+[V:1] eedd | 
+[V:2] cccB- | 
+[V:3] gggg | 
+[V:4] C,/2D,/2E,/2F,/2 G,/2A,/2B,/2G,/2 | 
+[V:1] cdB!fermata!G | 
+[V:2] B/2A/4G/4 A/2^F/2G!fermata!D | 
+[V:3] g/2e/2dd!fermata!B | 
+[V:4] E,/2A,/2^F,/2D,/2G,!fermata!G,, | 
+[V:1] dde/2d/2 c/2B/2 | 
+[V:2] GGGG- | 
+[V:3] B/2c/2d/2B/2cd | 
+[V:4] G,/2A,/2B,/2G,/2CG, | 
+[V:1] A3/2G/2!fermata!G2 | 
+[V:2] G/2E/2^F!fermata!D2 | 
+[V:3] d3/2c/4B/4!fermata!B2 | 
+[V:4] DD,!fermata!G,2 | 
+[V:1] ggga | 
+[V:2] dd^c/2d/2e- | 
+[V:3] bb_ba | 
+[V:4] G,/2G=F/2 E/2D/2^C/2A,/2 | 
+[V:1] fge!fermata!c | 
+[V:2] e/2d/4=c/4dc!fermata!G | 
+[V:3] agg!fermata!e | 
+[V:4] D/2=C/2=B,/2G,/2C!fermata!C, | 
+[V:1] eedd | 
+[V:2] cc/2B/2 A/2^F/2B- | 
+[V:3] g/2e/2a/2g/2 ^f/2d/2g- | 
+[V:4] CCCB,/2G,/2 | 
+[V:1] cdB!fermata!G | 
+[V:2] B/2A/4G/4 A/2^F/2G!fermata!D | 
+[V:3] g/2e/2dd!fermata!B | 
+[V:4] E,/2A,/2^F,/2D,/2G,!fermata!G,, | 
+[V:1] cde/2f/2 g/2f/2 | 
+[V:2] G/2E/2Bc/2B/2c- | 
+[V:3] cgg/2f/2e/2f/2 | 
+[V:4] E,/2A,/2 G,/2=F,/2 E,/2D,/2 C,/2A,/2 | 
+[V:1] ed/2c/2!fermata!c2 |] 
+[V:2] cB!fermata!G2 |] 
+[V:3] gg3/4f/4!fermata!e2 |] 
+[V:4] G,G,,!fermata!C,2 |]

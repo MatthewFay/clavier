@@ -1,0 +1,69 @@
+X:352
+T:353. Der Herr ist mein getreuer Hirt / Cantata, BWV 112: Der Herr ist mein getreuer Hirt
+N:Derived from chor353.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2522949917
+%%humdrum-veritas-data 2456424965
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dmaj
+[V:1] d/2e/2 [I:setbarnb 1]| 
+[V:2] A/2c/2 | 
+[V:3] f/2g/2 | 
+[V:4] D, | 
+[V:1] fgag | 
+[V:2] ddcB/2c/2 | 
+[V:3] abee | 
+[V:4] D/2C/2B,A,E, | 
+[V:1] fe!fermata!ff | 
+[V:2] dc!fermata!dd | 
+[V:3] aa!fermata!ab | 
+[V:4] F,/2G,/2A,!fermata!D,B, | 
+[V:1] fe/2f/2 g/2f/2e | 
+[V:2] dc/2d/2 e/2d/2c | 
+[V:3] aab/2a/2 a/2g/2 | 
+[V:4] F,/2G,/2A,E,/2F,/2 G,/2A,/2 | 
+[V:1] d3/4e/4e!fermata!d :| 
+[V:2] dd/2c/2!fermata!A :| 
+[V:3] fb/2a/4g/4!fermata!f :| 
+[V:4] B,/2A,/2 G,/2A,/2!fermata!D, :| 
+[V:1] d [I:setbarnb 5]| 
+[V:2] A | 
+[V:3] f | 
+[V:4] D | 
+[V:1] efgf | 
+[V:2] AABB | 
+[V:3] edd^d | 
+[V:4] C=CB,A, | 
+[V:1] e^d!fermata!ee | 
+[V:2] B/2G/2 =c/2B/2!fermata!B^c | 
+[V:3] ef!fermata!ge | 
+[V:4] G,/2=C/2 A,/2B,/2!fermata!E,A,/2G,/2 | 
+[V:1] fgag | 
+[V:2] =dd/2=c/2BB/2^c/2 | 
+[V:3] agfg/2a/2 | 
+[V:4] F,E,^D,E, | 
+[V:1] fe!fermata!ff | 
+[V:2] =dd/2c/4B/4!fermata!^AB | 
+[V:3] bB!fermata!cd/2e/2 | 
+[V:4] B,/2A,/2G,!fermata!F,B,/2C/2 | 
+[V:1] fe/2f/2 g/2f/2e | 
+[V:2] =A/2B/2 c/2d/2 e/2d/2- d/2c/2 | 
+[V:3] f/2g/2 a/2d/2 c/2d/4c/4 B/2c/2 | 
+[V:4] DC/2B,/2 ^A,/2B,/2 ^G,/2A,/2 | 
+[V:1] d3/4e/4e!fermata!d |] 
+[V:2] B/2A/2 B/2A/2!fermata!A |] 
+[V:3] d3/2c/2!fermata!f |] 
+[V:4] B,/2F,/2 =G,/2=A,/2!fermata!D, |]

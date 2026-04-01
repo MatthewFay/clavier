@@ -1,0 +1,69 @@
+X:334
+T:335. Es ist das Heil uns kommen her
+N:Derived from chor335.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1008459175
+%%humdrum-veritas-data 2485672529
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] e2 [I:setbarnb 1]| 
+[V:2] A2 | 
+[V:3] cd | 
+[V:4] A,2 | 
+[V:1] e2e2ef=g2 | 
+[V:2] A2G2A2B2 | 
+[V:3] ef edc2Bc | 
+[V:4] C,D,E,2A,,2E,2 | 
+[V:1] f2e2!fermata!d2ed | 
+[V:2] A2A=G!fermata!F2E2 | 
+[V:3] d2c2!fermata!d2B2 | 
+[V:4] F,=G,A,2!fermata!B,2^G,2 | 
+[V:1] cB ABc2^d2 | 
+[V:2] E2E2Ac BA | 
+[V:3] AB cde2f2 | 
+[V:4] A,2A,,2A,G,F,2 | 
+[V:1] e3/2f/2f2!fermata!e2 :| 
+[V:2] G3/2A/2 B3/2A/2!fermata!G2 :| 
+[V:3] Be2^d!fermata!e2 :| 
+[V:4] E,2B,,2!fermata!E,2 :| 
+[V:1] e2 [I:setbarnb 5]| 
+[V:2] AB | 
+[V:3] c2 | 
+[V:4] A,G, | 
+[V:1] a2g2f2g2 | 
+[V:2] c2B2BA GB | 
+[V:3] c^de2^dcB2 | 
+[V:4] F,2G,A,B,2E,^D, | 
+[V:1] agf2!fermata!e2e2 | 
+[V:2] Ec FB!fermata!G2AB | 
+[V:3] Ae^d2!fermata!e2cd | 
+[V:4] C,B,,B,,2!fermata!E,2A,2 | 
+[V:1] a2e2f2cd | 
+[V:2] cd cBA2A2 | 
+[V:3] e2agf2f2 | 
+[V:4] A,,B,,C,2D,E,F,2 | 
+[V:1] e2d2!fermata!c2c2 | 
+[V:2] G2FG!fermata!^A2=A2 | 
+[V:3] Bc de!fermata!f2e2 | 
+[V:4] G,^A,B,2!fermata!F,2C,D, | 
+[V:1] Bcd2c2B2 | 
+[V:2] G2F2EFG2 | 
+[V:3] e2=AB cde2 | 
+[V:4] E,2F,G,A,2G,A, | 
+[V:1] F2G2!fermata!A2 |] 
+[V:2] F2ED!fermata!C2 |] 
+[V:3] dcB2!fermata!A2 |] 
+[V:4] B,2E,2!fermata!A,,2 |]

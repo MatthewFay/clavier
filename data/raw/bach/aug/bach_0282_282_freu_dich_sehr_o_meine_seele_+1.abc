@@ -1,0 +1,73 @@
+X:281
+T:282. Freu dich sehr, o meine Seele
+N:Derived from chor282.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1146088456
+%%humdrum-veritas-data 4052672216
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dbmaj
+[V:1] defe | 
+[V:2] AAAA | 
+[V:3] fcde | 
+[V:4] D,A,DC | 
+[V:1] dcB!fermata!A | 
+[V:2] BEE!fermata!E | 
+[V:3] f/2=g/2aa/2=g/2!fermata!c | 
+[V:4] B,A,E,!fermata!A, | 
+[V:1] defe/2f/4g/4 | 
+[V:2] AB/2c/2 d/2A/2A | 
+[V:3] d_ga/2d/2e- | 
+[V:4] F,E,D,C, | 
+[V:1] fe3/4d/4!fermata!d2 :| 
+[V:2] AA!fermata!A2 :| 
+[V:3] e/2d/2 d/2c/2!fermata!f2 :| 
+[V:4] D,A,,!fermata!D,2 :| 
+[V:1] fgag | 
+[V:2] AB/2_c/4d/4cB | 
+[V:3] dddd/2e/2 | 
+[V:4] DB,F,G, | 
+[V:1] fe!fermata!f2 | 
+[V:2] AG/2B/4=A/4!fermata!B2 | 
+[V:3] f/2B/2 B/2c/2!fermata!=d2 | 
+[V:4] =D,E,!fermata!B,,2 | 
+[V:1] aaba | 
+[V:2] _Addc | 
+[V:3] _d/2e/2fg/2f/2e | 
+[V:4] F,D,G,A, | 
+[V:1] gf!fermata!e2 | 
+[V:2] BA/2=G/2!fermata!A2 | 
+[V:3] dd!fermata!c2 | 
+[V:4] B,/2C/2D!fermata!A,2 | 
+[V:1] fa_gf/2e/2 | 
+[V:2] Ad/2c/2 B/2c/2d | 
+[V:3] d/2e/2f_ga/2A/2 | 
+[V:4] DD,E,F, | 
+[V:1] def2 | 
+[V:2] BBcF | 
+[V:3] B/2f/2 e/2d/2c2 | 
+[V:4] G,=G,A,=A, | 
+[V:1] !fermata!d2fa | 
+[V:2] !fermata!F2A/2B/2_c | 
+[V:3] !fermata!B2_cF | 
+[V:4] !fermata!B,2_A,D, | 
+[V:1] gfed | 
+[V:2] B/2=c/2dAA | 
+[V:3] GA/2B/2=cd | 
+[V:4] E,F,/2G,/2 A,/2G,/2 F,/2D,/2 | 
+[V:1] e2!fermata!d2 |] 
+[V:2] A2!fermata!A2 |] 
+[V:3] dc!fermata!f2 |] 
+[V:4] A,,2!fermata!D,2 |]

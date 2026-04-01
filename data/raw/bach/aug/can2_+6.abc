@@ -1,0 +1,216 @@
+X:1
+T:from /workspace/data/raw_mid/bach/aof/can2.mid
+M:9/16
+L:1/16
+Q:1/4=90
+K:Bmaj% 1 flats
+V:1
+%%MIDI program 0
+d3 G=G^G AGA| \
+BAB cBc dcd| \
+e2z d2z c2z| \
+cB4A B2c|
+d2c' b2d c2a| \
+g2B A2g =g2A| \
+AG=G ^GAB cde| \
+edc d^e=g ^gab|
+bga a=g^g g^ef| \
+fde ecd dBc| \
+c2<B2cd edc| \
+g2<=g2^ga bag|
+(3d'=d'^d' (3=d'^d'=d' (3^d'=d'^d' (3=d'^d'=d'=c'/2>d'/2| \
+d'2z3=g ^g2a| \
+d^e=g ^gab2<c2| \
+cc'b ag=g2<^g2|
+g^e=g ^gab abg| \
+=g^ga d4ec| \
+BcA Bdg fed| \
+egc' =gad edc|
+BcA B2g c2B| \
+Adc BAG (3G=G^G=G/2>^G/2| \
+G2z6z| \
+z8z|
+g3 d=d^d ^ede| \
+f^e=g ^g=g^g aga| \
+b2z a2z g2z| \
+g=g4d ^e2g|
+gf^e f2d' =d'2g| \
+a2c' bag =g2e'| \
+d'bg gc'f fbe| \
+edc d=ga c'ba|
+bag agf gf^e| \
+fga gab abc'| \
+bgd' eac' dgb| \
+c=ga Bdc edg|
+gab (3d=d^d (3=d^d=d (3=cd^d| \
+d2z3^e f2d| \
+g2b bag fg^e| \
+a3 d3 z3|
+d3 aba gag| \
+fgf ^efe ded| \
+=d2z ^d2z e2^e| \
+f4fg f2^e|
+dAd fdf a2=d| \
+d2b c2a B2g| \
+A^eg fed =dgb| \
+agf ^ed=d ^dAe|
+f^ed a4eg| \
+gfd' f^ec' edb| \
+d=d^e A2z4| \
+z3 g4fg|
+agf ^efg a=c'=d'| \
+d'af gc'^e fbd| \
+^eag fed ed=d| \
+d=d=c dAd ^eag|
+f^ed g4fe| \
+f2z b2z a2z| \
+g2=d ^d2f (3=d=cdc/2>A/2| \
+A2z6z|
+zGA BcB2<A2| \
+ABc ded cdc| \
+BcB ABA GAG| \
+=G2z ^G2z A2z|
+B4Bd (3dcdB| \
+cBA (3g=g^g (3=g^g=g (3^eg^g| \
+gec' fdb eca| \
+dca dBg cA=g|
+gdB GAB ABG| \
+A4Bc BcA| \
+B2z A2z G2z| \
+=G2z ^G2z A2z|
+BAG edc =g2z| \
+zcG =G^GA D^E=G| \
+GCE FB,D EA,C| \
+Ddc Bgf ede|
+d3 G=G^G AGA| \
+BAB cBc dcd| \
+e2z d2z c2z| \
+cB4A B2c|
+d2c' b2d c2a| \
+g2B A2g =g2A| \
+AG=G ^GAB cde| \
+edc d^e=g ^gab|
+bga a=g^g g^ef| \
+fde ecd dBc| \
+B4cd edc| \
+g2<=g2^ga bag|
+(3d'=d'^d' (3=d'^d'=d' (3^d'=d'^d' (3=d'^d'=d'=c'/2>d'/2| \
+d'2z3=g ^g2a| \
+d^e=g ^gab2<c2| \
+cc'b ag=g2<^g2|
+g^e=g ^gab abg| \
+=g^ga d4ec| \
+BcA Bdg fed| \
+egc' =gad edc|
+BcA B2g c2B| \
+Adc BAG (3G=G^G=G/2>^G/2| \
+G2z3e d2b| \
+cde d=ga c'ba|
+d'2=g ^gab e=ag| \
+=g^ga d2z D,2z| \
+G,,6 
+V:2
+%%MIDI program 0
+z8z| \
+z8z| \
+z8z| \
+z8z|
+D3 G,=G,^G, A,G,A,| \
+B,A,B, CB,C DCD| \
+E2z D2z C2z| \
+CB,4A, B,2C|
+D2c B2D C2A| \
+G2B, A,2G =G2A,| \
+A,G,=G, ^G,A,B, CDE| \
+EDC D^E=G ^GAB|
+BGA A=G^G G^EF| \
+FDE ECD DB,C| \
+C2<B,2CD EDC| \
+G2<=G2^GA BAG|
+(3d=d^d (3=d^d=d (3^d=d^d (3=d^d=d=c/2>d/2| \
+d2z3=G ^G2A| \
+D^E=G ^GAB2<C2| \
+CcB AG=G2<^G2|
+G^E=G ^GAB ABG| \
+=G^GA D4EC| \
+B,CA, B,DG FED| \
+EGc =GAD EDC|
+B,CA, B,2G C2B,| \
+A,DC B,A,G, (3G,=G,^G,=G,/2>^G,/2| \
+G,2z6z| \
+z8z|
+G3 D=D^D ^EDE| \
+F^E=G ^G=G^G AGA| \
+B2z A2z G2z| \
+G=G4D ^E2G|
+GF^E F2d =d2G| \
+A2c BAG =G2e| \
+dBG GcF FBE| \
+EDC D=GA cBA|
+BAG AGF GF^E| \
+FGA GAB ABc| \
+BGd EAc DGB| \
+C=GA B,DC EDG|
+GAB (3D=D^D (3=D^D=D (3=CD^D| \
+D2z3^E F2D| \
+E2B BAG FG^E| \
+F3 D3 z3|
+D3 ABA GAG| \
+FGF ^EFE DED| \
+=D2z ^D2z ^E2z| \
+F4FG F2^E|
+DA,D FDF A2=D| \
+D2B C2A B,2G| \
+F,^EG FED =DGB| \
+AGF ^ED=D ^DA,E|
+F^ED A4EG| \
+GFd F^Ec EDB| \
+D=D^E A,2z4| \
+z3 G4FG|
+AGF ^EFG A=c=d| \
+dAF Gc^E FBD| \
+^EAG FED ED=D| \
+D=D=C DA,D ^EAG|
+F^ED G4FE| \
+F2z B2z A2z| \
+G2=D ^D2F (3=D=CDC/2>A,/2| \
+A,2z6z|
+zG,A, B,CB,2<A,2| \
+A,B,C DED CDC| \
+B,CB, A,B,A, G,A,G,| \
+E,2z G,2z A,2z|
+B,4B,D (3DCDB,| \
+CB,A, (3G=G^G (3=G^G=G (3^EG^G| \
+GEc FDB ECA| \
+DCA DB,G CA,=G|
+GDB, G,A,B, A,B,G,| \
+A,4B,C B,CA,| \
+B,2z A,2z G,2z| \
+=G,2z ^G,2z A,2z|
+B,A,G, EDC =G2z| \
+zCG, =G,^G,A, D,^E,=G,| \
+G,C,E, F,B,,D, E,A,,C,| \
+D,DC B,GF EDE|
+D3 G,=G,^G, A,G,A,| \
+B,A,B, CB,C DCD| \
+E2z D2z C2z| \
+CB,4A, B,2C|
+D2c B2D C2A| \
+G2B, A,2G =G2A,| \
+A,G,=G, ^G,A,B, CDE| \
+EDC D^E=G ^GAB|
+BGA A=G^G G^EF| \
+FDE ECD DB,C| \
+B,4CD EDC| \
+G2<=G2^GA BAG|
+(3d=d^d (3=d^d=d (3^d=d^d (3=d^d=d=c/2>d/2| \
+d2z3=G ^G2A| \
+D^E=G ^GAB2<C2| \
+CcB AG=G2<^G2|
+G^E=G ^GAB ABG| \
+=G^GA D4EC| \
+B,CA, B,DG FED| \
+EGc =GAD EDC|
+B,CA, B,2G C2B,| \
+A,DC B,A,G, G,/2>=G,/2 (3^G,/2=G,/2^G,/2 (3=G,/2^E,/2G,/2| \
+G,6 

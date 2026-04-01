@@ -1,0 +1,57 @@
+X:155
+T:Ach Gott, wie manches Herzeleid / 156. Ach Gott, wie manches Herzeleid
+N:Derived from chor156.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3137024059
+%%humdrum-veritas-data 1242701136
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] A/2B/2 | 
+[V:3] f/2g/2 | 
+[V:4] F | 
+[V:1] ffd/2e/2f | 
+[V:2] cFBA | 
+[V:3] a/2b/2c'ff/2e/2 | 
+[V:4] F,/2G,/2A,B,/2C/2 D/2C/2 | 
+[V:1] g/2f/2e!fermata!dd | 
+[V:2] Gc!fermata!=BB | 
+[V:3] de/2f/2!fermata!gg | 
+[V:4] =B,C!fermata!G,G/2F/2 | 
+[V:1] efgc/2d/2 | 
+[V:2] cdd/2=B/2c- | 
+[V:3] g=be/2f/2 g/2a/2 | 
+[V:4] E/2F/2 E/2D/2 C/2D/2 E/2F/2 | 
+[V:1] e/2f/2d!fermata!cg | 
+[V:2] c/2d/2=B!fermata!Ge | 
+[V:3] gg/2f/2!fermata!ec' | 
+[V:4] GG,!fermata!CC | 
+[V:1] aaf/2g/2a | 
+[V:2] fAd/2e/2^f | 
+[V:3] c'/2d'/2e'a/2_b/2c' | 
+[V:4] F/2E/2 D/2^C/2 D/2=C/2 B,/2A,/2 | 
+[V:1] ba!fermata!g=f | 
+[V:2] gc/2d/2!fermata!ed | 
+[V:3] d'/2e'/2f'!fermata!c'a | 
+[V:4] G,A,/2B,/2!fermata!CD | 
+[V:1] gagf | 
+[V:2] c/2B/2 A/2=B/2 c/2_B/2A | 
+[V:3] gc/2d/2ef | 
+[V:4] EFCD/2C/2 | 
+[V:1] fe!fermata!f |] 
+[V:2] dc!fermata!c |] 
+[V:3] g/2a/2b!fermata!a |] 
+[V:4] =B,C!fermata!F, |]

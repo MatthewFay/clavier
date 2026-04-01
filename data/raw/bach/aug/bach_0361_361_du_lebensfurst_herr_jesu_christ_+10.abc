@@ -1,0 +1,77 @@
+X:360
+T:361. Du Lebensfurst, Herr Jesu Christ
+N:Derived from chor361.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1948445648
+%%humdrum-veritas-data 2800840303
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] c | 
+[V:3] a | 
+[V:4] F/2E/2 | 
+[V:1] fga/2=b/2c' | 
+[V:2] dec/2d/2e | 
+[V:3] a/2b/2- b/2c'/2 a/2g/2g | 
+[V:4] DCFE/2F/2 | 
+[V:1] c'=b!fermata!c'a | 
+[V:2] d/2e/2f!fermata!ee | 
+[V:3] gg!fermata!ga/2g/2 | 
+[V:4] GG,!fermata!C^C | 
+[V:1] _baga | 
+[V:2] dc/2d/2ef | 
+[V:3] f/2g/2 a/2b/2=c'c' | 
+[V:4] D/2E/2 F/2B,/2 B/2A/2 G/2F/2 | 
+[V:1] g2!fermata!f :| 
+[V:2] fe!fermata!c :| 
+[V:3] c'3/2b/2!fermata!a :| 
+[V:4] cC!fermata!F :| 
+[V:1] g [I:setbarnb 5]| 
+[V:2] e/2f/2 | 
+[V:3] c'/2d'/2 | 
+[V:4] C | 
+[V:1] gabb | 
+[V:2] g3/2^f/2 g/2f/2g | 
+[V:3] e'/2d'/2c'd'e' | 
+[V:4] c/2B/2AG^C | 
+[V:1] a/2g/2a!fermata!ga | 
+[V:2] g^f!fermata!dd/2^c/2 | 
+[V:3] ad'/2c'/2!fermata!b=f/2g/2 | 
+[V:4] DD,!fermata!G,D/2E/2 | 
+[V:1] aab/2c'/2d' | 
+[V:2] ddd/2e/2 =f/2e/2 | 
+[V:3] a/2b/2 =c'/2d'/2b=b | 
+[V:4] F^FG^G | 
+[V:1] d'^c'!fermata!d'e' | 
+[V:2] e/2f/2=g!fermata!fg | 
+[V:3] aa!fermata!a=c' | 
+[V:4] AA,!fermata!D=c/2_B/2 | 
+[V:1] f'aba | 
+[V:2] f/2g/2aa/2g/2 g/2f/2 | 
+[V:3] c'f'f/2g/2a | 
+[V:4] A/2G/2 F/2E/2 D/2E/2 F/2D/2 | 
+[V:1] g2!fermata!gc' | 
+[V:2] f2!fermata!ef/2e/2 | 
+[V:3] d'/2c'/2d'/2=b/2!fermata!c'c' | 
+[V:4] =B,/2A,/2B,/2G,/2!fermata!CA, | 
+[V:1] d'c'ba/2b/2 | 
+[V:2] def/2g/2c | 
+[V:3] c'/2_b/2 b/2a/2 a/2g/2f | 
+[V:4] _B,CD/2E/2F | 
+[V:1] g2!fermata!f |] 
+[V:2] dc!fermata!c |] 
+[V:3] f/2e/4d/4e!fermata!a |] 
+[V:4] B,C!fermata!F, |]

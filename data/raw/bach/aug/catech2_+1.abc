@@ -1,0 +1,71 @@
+X:1
+T:from /workspace/data/raw_mid/bach/organ/catech2.mid
+M:4/4
+L:1/8
+Q:1/4=67
+K:Dbmaj% 0 sharps
+V:1
+%%MIDI program 16
+z2 A2 B2 z/2E/2A/2=B/2-| \
+=B/2B/2_B/2A/2 d2 =B2 _B2| \
+B2 =B2 d2 z/2G/2B/2e/2-| \
+e/2e/2d/2=B/2 =e2 _e2 d2-|
+d2 =B3d e2| \
+e2 e2 e2 z/2d/2f/2a/2-| \
+a/2g/2f/2e/2 d2 d2 d2| \
+e2 =e2 e2 _e2|
+d4 c2 d2-| \
+d2 A2 B2 =B2| \
+=B2 d2 d2 e2| \
+e2 e2 z/2z/2e/2z/2 =e2|
+e2 d2 =B2 _B2-| \
+B2 A4- A/2A/2c/2e/2-| \
+[ae]2 
+V:2
+%%MIDI program 41
+z8| \
+z2 z/2B/2=G/2EF/2G/2AA/2G/2F/2| \
+=G2 z6| \
+z2 z/2d/2B/2GA/2B/2=BB/2_B/2A/2|
+B2 z2 E=E G2| \
+z/2A/2=G/2A/2 B/2E/2B/2dd/2=B/2_B/2 A2| \
+=B2- B/2B/2_B/2A/2 B2 B=A| \
+A2 A2 =A4|
+z/2=E/2G/2A/2 =A/2_E/2G/2AA/2_A/2GG/2=E/2_E/2| \
+=E2 E2 _E2 z/2E/2A/2B/2| \
+=B/2d/2_B/2=B/2 z/2G/2_B/2=B/2 d/2e/2B/2d/2 z/2B/2G/2E/2-| \
+E/2=G/2A/2B/2 =B2 =A_A z/2d/2_B/2G/2-|
+=G/2A/2B/2=B/2 z/2_B/2G/2=E/2 z/2F/2G/2AA/2G/2F/2| \
+=G2 z4 z/2A/2-[c-A-]|[cA]2 
+V:3
+%%MIDI program 20
+z2 z/2A,/2=B,/2=EE/2_E/2D/2 B,2| \
+D=B,2<_B,2A, E/2E,/2B,/2D/2-| \
+D/2D/2=B,/2_B,/2 z/2=B,/2E/2AA/2G/2=E/2 _E2| \
+=E_E D2 =B,2 z2|
+z/2B,/2D/2=EE/2_E/2D/2 z2 z/2E,/2G,/2=B,/2-| \
+=B,/2B,/2_B,/2A,/2 =G,2 z4| \
+z3D G2 z/2B,,/2D,/2G,/2-| \
+G,/2G,/2=E,/2_E,/2 z/2=E,/2A,/2DD/2_E/2=E/2 G2-|
+G/2z6z/2A,| \
+D2 z/2=E,,/2A,,/2D,D,/2=B,,/2_B,,/2 z/2=B,,/2_E,/2G,/2| \
+=E,/2_E,/2D,/2=B,,/2 _B,,/2z4z3/2| \
+z2 z/2=B,,/2E,/2G,G,/2=E,/2_E,/2 z/2D,/2_B,/2D/2-|
+D/2=B,/2_B,/2A,/2 z/2=G,/2B,/2D/2 z/2=B,/2_B,/2A,/2 zB,-| \
+B,/2=G,/2B,/2DD/2C/2B,/2 C/2-[C-A,,]/2[C-C,]/2[CE,-]/2 [A,-E,-]2|[A,E,]2 
+V:4
+%%MIDI program 81
+z2 z/2A,3/2 =G,2 A,_G,| \
+F,2 =G,E, A,A,, z/2E,3/2-| \
+E,2 A,2 B,2 =B,_B,| \
+A,2 B,G, =B,A, =E,D,|
+G,2 =B,2- B,/2=E,/2_E,/2D,/2 B,,2| \
+F,2 =G,E, A,_G, F,E,| \
+F,D, G,2- G,/2=B,,/2_B,,/2A,,/2 G,,2| \
+C,2 D,2 G,2- G,/2=E,/2G,/2A,/2|
+=A,_A, G,E, A,A,, D,2-| \
+D,/2G,,/2=E,,/2_E,,/2 D,,/2z3/2 =G,,2 A,,2| \
+z2 z/2D,/2=E,/2A,/2 G,/2E,/2_E,/2D,/2 =B,,D,| \
+=B,,_B,, A,,2 C,2 D,2|
+E,2 =E,2 _E,2 =D,2| \
+E,2 A,2- A,/2A,,/2-[C,-A,,-]3|[C,A,,]2 

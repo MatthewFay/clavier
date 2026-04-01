@@ -1,0 +1,69 @@
+X:359
+T:360. Wir Christenleut
+N:Derived from chor360.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3807877834
+%%humdrum-veritas-data 3823727013
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] ef [I:setbarnb 1]| 
+[V:2] B2 | 
+[V:3] ga | 
+[V:4] E2 | 
+[V:1] g2f2!fermata!e2ef | 
+[V:2] e2^d2!fermata!e2e2 | 
+[V:3] b2ba!fermata!g2a2 | 
+[V:4] E/2F/2G/2A/2 BB,!fermata!C2C2 | 
+[V:1] g2f2!fermata!e2b2 | 
+[V:2] e2^d2!fermata!B2e2 | 
+[V:3] b2ba!fermata!g2g2 | 
+[V:4] B,A,B,2!fermata!E2E2 | 
+[V:1] a2g2!fermata!f2f2 | 
+[V:2] e^de2!fermata!d2d2 | 
+[V:3] a2b2!fermata!b2b2 | 
+[V:4] F2GA!fermata!B2B,2 | 
+[V:1] g2g2a2a2 | 
+[V:2] e2e2ef/2g/2f2 | 
+[V:3] b2c'2c'd'/2e'/2 d'c' | 
+[V:4] E=D CB, CA,D2 | 
+[V:1] b2b2a2g2 | 
+[V:2] fe ^def3e | 
+[V:3] b2ag c'b bc' | 
+[V:4] G,G FE E^D EC | 
+[V:1] f4!fermata!e2b2 | 
+[V:2] e2^d2!fermata!B2e2 | 
+[V:3] c'a fb!fermata!g2g2 | 
+[V:4] A,F,B,2!fermata!E,2E=D | 
+[V:1] a2gf!fermata!f2b2 | 
+[V:2] e^de2!fermata!d2e=d | 
+[V:3] ab^c'2!fermata!b2b2 | 
+[V:4] CB,^A,2!fermata!B,2G,2 | 
+[V:1] a2g2!fermata!f2f2 | 
+[V:2] ^cd ec!fermata!d2f^d | 
+[V:3] e2a2!fermata!a2b2 | 
+[V:4] =A,B, ^CA,!fermata!D2^DB, | 
+[V:1] g2g2a2a2 | 
+[V:2] e2gec2a^f | 
+[V:3] bg=c'2c'ad'2 | 
+[V:4] E2EC=F2^FD | 
+[V:1] b2b2a2gf | 
+[V:2] g=fe2e^de2 | 
+[V:3] d'b e'd' c'b^c'2 | 
+[V:4] G2^GEA2^AF | 
+[V:1] f4!fermata!e2 |] 
+[V:2] e^d/2^c/2d2!fermata!B2 |] 
+[V:3] bf ba!fermata!=g2 |] 
+[V:4] B=A BB,!fermata!E2 |]

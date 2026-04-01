@@ -1,0 +1,69 @@
+X:346
+T:347. Was Gott tut, das ist wohlgetan
+N:Derived from chor347.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2200817706
+%%humdrum-veritas-data 2176025717
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] E [I:setbarnb 1]| 
+[V:2] C/2D/2 | 
+[V:3] A/2B/2 | 
+[V:4] A,, | 
+[V:1] ABcd/2e/4f/4 | 
+[V:2] EEAA | 
+[V:3] cBff/2d/2 | 
+[V:4] A,G,F,/2E,/2D, | 
+[V:1] ed/2c/2!fermata!cf | 
+[V:2] A/2F/2G!fermata!ED/2C/2 | 
+[V:3] c/2A/2B!fermata!AA | 
+[V:4] E,E,!fermata!A,,D, | 
+[V:1] edcB/4c/4d/2 | 
+[V:2] B,FEF | 
+[V:3] GA/2B/2 c/2B/2A | 
+[V:4] E,F,/2G,/2A,D, | 
+[V:1] cB/2A/2!fermata!A :| 
+[V:2] E2!fermata!E :| 
+[V:3] AG!fermata!c :| 
+[V:4] E,E,,!fermata!A,, :| 
+[V:1] e [I:setbarnb 5]| 
+[V:2] A | 
+[V:3] c | 
+[V:4] A, | 
+[V:1] ff!fermata!BB | 
+[V:2] AB/2A/2!fermata!GG | 
+[V:3] d/2c/2B!fermata!ee | 
+[V:4] D,^D,!fermata!E,E,/2=D,/2 | 
+[V:1] ee!fermata!Ac | 
+[V:2] A/2B/2 A/2=G/2!fermata!FA | 
+[V:3] e/2d/2e!fermata!de | 
+[V:4] C,/2B,,/2C,!fermata!D,A,, | 
+[V:1] BAGA/2G/2 | 
+[V:2] A/2^G/2FF/2E/2E | 
+[V:3] e/2B/2 c/2B/2BA/2B/2 | 
+[V:4] E,3/2^D,/2 E,/2G,/2 C,/2B,,/2 | 
+[V:1] F2!fermata!Ee | 
+[V:2] E^D!fermata!B,C/2B,/2 | 
+[V:3] cB/2A/2!fermata!Gg | 
+[V:4] A,,/2F,,/2B,,!fermata!E,C, | 
+[V:1] dcBc/2d/2 | 
+[V:2] A,/2B,/2 C/2=D/2EE/2F/2 | 
+[V:3] fe/2f/2BA | 
+[V:4] F,/2G,/2A,-A,/2G,/2 A,/2F,/2 | 
+[V:1] B2!fermata!A |] 
+[V:2] FE!fermata!E |] 
+[V:3] AG!fermata!c |] 
+[V:4] D,/2B,,/2E,!fermata!A,, |]

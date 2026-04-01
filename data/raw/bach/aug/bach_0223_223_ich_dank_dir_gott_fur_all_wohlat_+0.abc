@@ -1,0 +1,85 @@
+X: 222
+T: 223. Ich dank dir, Gott, f\"ur all Wohlat
+N: Derived from chor223.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 569485430
+%%humdrum-veritas-data 937542116
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] G [I:setbarnb 1]| 
+[V:2] C | 
+[V:3] E/F/ | 
+[V:4] C, | 
+[V:1] E^F!fermata!GG | 
+[V:2] CC!fermata!B,D- | 
+[V:3] GA!fermata!DG | 
+[V:4] _B,,A,,!fermata!G,,=B,, | 
+[V:1] ED!fermata!CC | 
+[V:2] D/CB,/!fermata!G,G, | 
+[V:3] G-G3//F//!fermata!EE | 
+[V:4] C,G,,!fermata!C,,C, | 
+[V:1] GGAB | 
+[V:2] DE-E/^F/G- | 
+[V:3] Gccd | 
+[V:4] B,,C,/B,,/A,,G,, | 
+[V:1] cBAA | 
+[V:2] G/^F/G2-G/F/ | 
+[V:3] cded3//c// | 
+[V:4] E,D,C,D, | 
+[V:1] !fermata!G2zG | 
+[V:2] !fermata!D2xE- | 
+[V:3] !fermata!B2xc | 
+[V:4] !fermata!G,,2zE, | 
+[V:1] AB!fermata!cG | 
+[V:2] E/D/- D/E/!fermata!EC- | 
+[V:3] cB!fermata!AE | 
+[V:4] F,^G,,!fermata!A,,C, | 
+[V:1] AGFF | 
+[V:2] C/B,/ C/^C/ D/C/D- | 
+[V:3] FGAA | 
+[V:4] F,3/E,/ D,/E,/F,/D,/ | 
+[V:1] !fermata!E2z=c | 
+[V:2] D!fermata!^CxG- | 
+[V:3] !fermata!A2x=c | 
+[V:4] !fermata!A,2zE, | 
+[V:1] AB!fermata!cA | 
+[V:2] G/F//E//F!fermata!EF | 
+[V:3] cd!fermata!Gd/c/ | 
+[V:4] F,/E,/D,!fermata!C,D,- | 
+[V:1] GF!fermata!EG | 
+[V:2] E-E/D/- D/!fermata!^C/D | 
+[V:3] _BA!fermata!AG- | 
+[V:4] D,/^C,/D,!fermata!A,,B,, | 
+[V:1] E^F!fermata!Gc | 
+[V:2] EB,!fermata!B,G/A/- | 
+[V:3] G/A/- A/G//^F//!fermata!Ee/d/ | 
+[V:4] ^C,^D,!fermata!E,E,/^F,/ | 
+[V:1] BA!fermata!GG | 
+[V:2] A/G^F/!fermata!DD | 
+[V:3] dd3//c//!fermata!BG | 
+[V:4] G,D,!fermata!G,,B,, | 
+[V:1] E/=F/GAG | 
+[V:2] CCC/FE/ | 
+[V:3] Gc/_B/ A3//B// c3//_B// | 
+[V:4] C,/D,/E,/C,/F,C,- | 
+[V:1] FEDD | 
+[V:2] D3/C/- C/B,//A,//B, | 
+[V:3] A/G/GA/D/ G/F/ | 
+[V:4] C,/=B,,/C,F,,G,, | 
+[V:1] !fermata!C4 |]  
+[V:2] !fermata!G,4 |]  
+[V:3] !fermata!E4 |]  
+[V:4] !fermata!C,,4 |]

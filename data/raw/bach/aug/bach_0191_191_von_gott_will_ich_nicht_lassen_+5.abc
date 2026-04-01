@@ -1,0 +1,77 @@
+X:190
+T:191. Von Gott will ich nicht lassen
+N:Derived from chor191.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3938124221
+%%humdrum-veritas-data 2823919787
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] A [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] d | 
+[V:4] D, | 
+[V:1] defg | 
+[V:2] AAAG | 
+[V:3] fedd | 
+[V:4] D^CD=B, | 
+[V:1] e2!fermata!cc | 
+[V:2] G/2A/2=B!fermata!AA | 
+[V:3] c=B!fermata!ef | 
+[V:4] C^G,!fermata!A,F, | 
+[V:1] ddee | 
+[V:2] FGG/2_B/2 A/2G/2 | 
+[V:3] dBAA | 
+[V:4] _B,=G,^C,C, | 
+[V:1] !fermata!A3 :| 
+[V:2] !fermata!F3 :| 
+[V:3] !fermata!d3 :| 
+[V:4] !fermata!D,3 :| 
+[V:1] a [I:setbarnb 5]| 
+[V:2] d | 
+[V:3] f | 
+[V:4] D | 
+[V:1] gffe | 
+[V:2] ddcc | 
+[V:3] gbag | 
+[V:4] B,G,CC, | 
+[V:1] !fermata!f3e | 
+[V:2] !fermata!c3c | 
+[V:3] !fermata!a3g | 
+[V:4] !fermata!F,3C | 
+[V:1] fgaa | 
+[V:2] cBcd/2c/2 | 
+[V:3] f3/2e/2- e/2c/2 f/2e/2 | 
+[V:4] A,G,F,D, | 
+[V:1] g2!fermata!ee | 
+[V:2] =B/2A/2B!fermata!Gc | 
+[V:3] d/2f/2e/2d/2!fermata!cg | 
+[V:4] G,2!fermata!C,C | 
+[V:1] fedd | 
+[V:2] cAF_B- | 
+[V:3] fcd/2e/2f | 
+[V:4] A,F,B,A, | 
+[V:1] ed!fermata!cB | 
+[V:2] B/2A/2=B!fermata!AG | 
+[V:3] gf!fermata!ec | 
+[V:4] G,^G,!fermata!A,E, | 
+[V:1] Add^c | 
+[V:2] FGAA | 
+[V:3] cd/2e/2 f/2e/4d/4 e/2g/2 | 
+[V:4] F,B,A,A,, | 
+[V:1] !fermata!d3 |] 
+[V:2] !fermata!A3 |] 
+[V:3] !fermata!^f3 |] 
+[V:4] !fermata!D,3 |]

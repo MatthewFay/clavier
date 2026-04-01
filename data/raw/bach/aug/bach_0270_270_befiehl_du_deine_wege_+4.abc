@@ -1,0 +1,77 @@
+X:269
+T:270. Befiehl du deine Wege
+N:Derived from chor270.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1533327103
+%%humdrum-veritas-data 1316285819
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] G [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] B/2d/2 | 
+[V:4] G, | 
+[V:1] cBAG | 
+[V:2] G/2F/2FFE/2D/2 | 
+[V:3] c/2e/2de/2B/2B | 
+[V:4] A,B,C,/2D,/2E, | 
+[V:1] F2!fermata!Gd | 
+[V:2] C2!fermata!DG | 
+[V:3] c/2A/2F/2f/2!fermata!^B^B | 
+[V:4] A,,2!fermata!G,,G, | 
+[V:1] eedd | 
+[V:2] GAAG/2F/2 | 
+[V:3] c3/2e/2 f/2F/2 B/2A/2 | 
+[V:4] C/2=B,/2 A,/2G,/2 F,/2E,/2G, | 
+[V:1] !fermata!c3 :| 
+[V:2] ^EF!fermata!=E :| 
+[V:3] GA3/4B/4!fermata!c :| 
+[V:4] !fermata!C,3 :| 
+[V:1] e [I:setbarnb 5]| 
+[V:2] c/2B/2 | 
+[V:3] g | 
+[V:4] C | 
+[V:1] d/2e/4f/4Bcd | 
+[V:2] AGG/2E/2F | 
+[V:3] ff/2e/2ef | 
+[V:4] F,G,A,F, | 
+[V:1] e2!fermata!eB | 
+[V:2] G/2BA/2!fermata!GE | 
+[V:3] Bc/2d/2!fermata!ee | 
+[V:4] E,2!fermata!E,G, | 
+[V:1] cBcA | 
+[V:2] EE/2=D/2CC/2^D/2 | 
+[V:3] AGGA/2B/2 | 
+[V:4] A,E,^E,F, | 
+[V:1] !fermata!G2ze | 
+[V:2] !fermata!^E2xG | 
+[V:3] !fermata!c2xc | 
+[V:4] !fermata!C,2zC, | 
+[V:1] dfed | 
+[V:2] GFG/2^A/2 B/2^B/2 | 
+[V:3] Bdd/2c/2 g/2f/2 | 
+[V:4] G,D,=E,/2F,/2G, | 
+[V:1] c2!fermata!dG | 
+[V:2] cC!fermata!G=E/2^E/2 | 
+[V:3] e/2^e/2f!fermata!^Bc/2B/2 | 
+[V:4] A,2!fermata!G,C | 
+[V:1] AGFB/2A/2 | 
+[V:2] C/2D/2=EFF | 
+[V:3] A/2B/2ccd | 
+[V:4] F,C,/2B,,/2 A,,/2^A,,/2B,, | 
+[V:1] !fermata!G3 |] 
+[V:2] F/2E/4D/4 E/2D/4C/4!fermata!^B, |] 
+[V:3] d/2Ge/2 e/2!fermata!d/2 |] 
+[V:4] ^B,,C,!fermata!G, |]

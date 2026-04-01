@@ -1,0 +1,61 @@
+X:167
+T:168. Heut ist, o Mensch, ein gro\sser Trauertag
+N:Derived from chor168.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 585146634
+%%humdrum-veritas-data 2092559412
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dbmaj
+[V:1] B [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] E, | 
+[V:1] de!fermata!fg | 
+[V:2] F/2dc/2!fermata!dB/2c/2 | 
+[V:3] d/2f/2b/2a/2!fermata!ae | 
+[V:4] B,G,/2A,/2!fermata!DE | 
+[V:1] feag | 
+[V:2] =de-e/2f/2- f/2e/2 | 
+[V:3] f/4g/4ag/4f/4 e/2b/2b | 
+[V:4] B,C-C/2=D/2E | 
+[V:1] !fermata!f2zb | 
+[V:2] !fermata!=d2xg- | 
+[V:3] !fermata!b2x_d'- | 
+[V:4] !fermata!B,2zG, | 
+[V:1] agfe | 
+[V:2] g/2f/2- f/2e/2- e/2d/2- d/2_c/2- | 
+[V:3] d'3/4_c'/4b-b3/4a/4g- | 
+[V:4] DEB,_C | 
+[V:1] ded_c | 
+[V:2] c/2B/2 _c/2B/2 A/2G/2 A/2F/2 | 
+[V:3] ggd2 | 
+[V:4] G,/2F,/2E,F,/2E,/2F,/2D,/2 | 
+[V:1] !fermata!B2zf | 
+[V:2] !fermata!G2xA | 
+[V:3] !fermata!d2xd | 
+[V:4] !fermata!G,2zD/2_C/2 | 
+[V:1] ga!fermata!bb | 
+[V:2] B/2d/2 e/2f/2!fermata!ge/2d/2 | 
+[V:3] d'_c'!fermata!d'b | 
+[V:4] B,A,!fermata!G,=G, | 
+[V:1] ae/2f/2gf | 
+[V:2] _c/2d/2e-e3/2=d/2 | 
+[V:3] eab-b/2a/2 | 
+[V:4] A,/2B,/2_C_G,/2A,/2B, | 
+[V:1] !fermata!e3 |] 
+[V:2] !fermata!B3 |] 
+[V:3] !fermata!=g3 |] 
+[V:4] !fermata!E,3 |]

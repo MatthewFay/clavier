@@ -1,0 +1,65 @@
+X: 158
+T: 159. Als der g\"utige Gott
+N: Derived from chor159.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3388501169
+%%humdrum-veritas-data 2681366962
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] D [I:setbarnb 1]| 
+[V:2] B, | 
+[V:3] G | 
+[V:4] G, | 
+[V:1] GABA | 
+[V:2] E/GF/ G/F//E//F | 
+[V:3] Bddd/c/ | 
+[V:4] E,D,G,D, | 
+[V:1] !fermata!G2zA | 
+[V:2] !fermata!D2xF | 
+[V:3] !fermata!B2xd | 
+[V:4] !fermata!G,,2zD, | 
+[V:1] BcBA | 
+[V:2] GG/A/- A/G/- G/F/ | 
+[V:3] de=d3/d//c// | 
+[V:4] G,C,D,D,, | 
+[V:1] !fermata!G2zB | 
+[V:2] !fermata!D2xG | 
+[V:3] !fermata!B2xd | 
+[V:4] !fermata!G,,2zG,, | 
+[V:1] ddcB | 
+[V:2] GG-G/F/G- | 
+[V:3] dBcd | 
+[V:4] B,,G,,A,,B,,/C,/ | 
+[V:1] !fermata!A2zB | 
+[V:2] G!fermata!FxF- | 
+[V:3] !fermata!d2xB | 
+[V:4] !fermata!D,2z^D, | 
+[V:1] GcBA | 
+[V:2] F/E/ G/A/- A/G/- G/F/ | 
+[V:3] Be/=d/d3/d//c// | 
+[V:4] E,3/F,/G,D, | 
+[V:1] G2!fermata!AA | 
+[V:2] G3/F//E//!fermata!FF | 
+[V:3] B/A/B/^c/!fermata!dd | 
+[V:4] E,2!fermata!D,D, | 
+[V:1] BcBA | 
+[V:2] GGG3/F/ | 
+[V:3] d=c/e/dd3//c// | 
+[V:4] G,E,/C,/D,D,, | 
+[V:1] !fermata!G3 |]  
+[V:2] !fermata!D3 |]  
+[V:3] !fermata!B3 |]  
+[V:4] !fermata!G,,3 |]

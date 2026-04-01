@@ -1,0 +1,61 @@
+X:192
+T:193. Was bist du doch, o Seele, so betr\"ubet
+N:Derived from chor193.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1958336257
+%%humdrum-veritas-data 3963102350
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] zbg3/2f/2 | 
+[V:2] xee^d | 
+[V:3] xg/2a/2bb3/4a/4 | 
+[V:4] zE,EB, | 
+[V:1] !fermata!ebc'b/2a/2 | 
+[V:2] !fermata!Bee^d | 
+[V:3] !fermata!ggff | 
+[V:4] !fermata!E,EA,B, | 
+[V:1] gab!fermata!b :| 
+[V:2] Be^d!fermata!d :| 
+[V:3] e/2g/2f/2e/2f!fermata!f :| 
+[V:4] ECB,!fermata!B, :| 
+[V:1] zga3/2d/2 | 
+[V:2] xe=dc- | 
+[V:3] xbaa | 
+[V:4] zE,F,2 | 
+[V:1] !fermata!d2za | 
+[V:2] c!fermata!Bxd | 
+[V:3] !fermata!g2xa | 
+[V:4] !fermata!G,2zF, | 
+[V:1] b3/2g/2!fermata!g2 | 
+[V:2] dd!fermata!c2 | 
+[V:3] gg/2=f/2!fermata!e2 | 
+[V:4] G,B,!fermata!C2 | 
+[V:1] zbc'b | 
+[V:2] xdc/2e/2^d | 
+[V:3] x^ga-a/2g/2- | 
+[V:4] zB,A,B, | 
+[V:1] agf3/2e/2 | 
+[V:2] e/2A/2BcB | 
+[V:3] g/2f/2- f/2e/2- e/2^d/2- d/2e/2 | 
+[V:4] CB,A,G, | 
+[V:1] ^d/2b/2 a/2g/2f2 | 
+[V:2] Ae-e^d | 
+[V:3] fbbb/2a/2 | 
+[V:4] F,E,B,B,, | 
+[V:1] !fermata!e2z2 |] 
+[V:2] !fermata!B2x2 |] 
+[V:3] !fermata!^g2x2 |] 
+[V:4] !fermata!E,2z2 |]

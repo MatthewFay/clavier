@@ -1,0 +1,73 @@
+X: 195
+T: 196. Da der Herr Christ zu Tische sa\ss
+N: Derived from chor196.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3165479130
+%%humdrum-veritas-data 3885240063
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Eb
+[V:1] G [I:setbarnb 1]| 
+[V:2] E/F/ | 
+[V:3] c | 
+[V:4] C, | 
+[V:1] GGBG | 
+[V:2] G/F/EF3/E/ | 
+[V:3] d3/c/BB | 
+[V:4] =B,,C,D,E,- | 
+[V:1] B=B!fermata!cd | 
+[V:2] GF!fermata!EG | 
+[V:3] B/c/d!fermata!Gd | 
+[V:4] E,D,!fermata!C,=B,, | 
+[V:1] e/d/ c/d/ed | 
+[V:2] GGGG | 
+[V:3] c/d/e/d/c=B | 
+[V:4] C,2-C,/E,/G,/F,/ | 
+[V:1] cc!fermata!=BG | 
+[V:2] GG/F/!fermata!GD | 
+[V:3] c/=B/c!fermata!d=B | 
+[V:4] E,A,!fermata!G,G,/F,/ | 
+[V:1] c/d/edc | 
+[V:2] GGA/G/ G/F/ | 
+[V:3] cc-c/=B/c | 
+[V:4] E,/D,/C,F,/G,/A, | 
+[V:1] =B2!fermata!cG | 
+[V:2] G/A/G/F/!fermata!EE/F/ | 
+[V:3] dG!fermata!Gc | 
+[V:4] G,G,,!fermata!C,C,/D,/ | 
+[V:1] G=AB_A | 
+[V:2] GFF/G/- G/F/- | 
+[V:3] c/G/cd/c/- c/d//c// | 
+[V:4] E,3/F,//E,// D,/E,/F, | 
+[V:1] GF!fermata!EE | 
+[V:2] F/E/- E/D/!fermata!EC | 
+[V:3] B/c/ F/B//A//!fermata!GG/A/ | 
+[V:4] G,/A,/ B,/B,,/!fermata!C,C, | 
+[V:1] BBcd | 
+[V:2] E/F/GEF | 
+[V:3] B/A/ B/_d/ c/B/A | 
+[V:4] G,,/F,,/E,,A,,/G,,/F,, | 
+[V:1] ed!fermata!ee | 
+[V:2] GF!fermata!GG/A/- | 
+[V:3] BB!fermata!Bc | 
+[V:4] E,,/G,,/B,,!fermata!E,C,- | 
+[V:1] fedc | 
+[V:2] A/G/GF/A/ G/F/ | 
+[V:3] d-d/c/- c/=B/ c/A/ | 
+[V:4] C,/=B,,/C,D,E,/F,/ | 
+[V:1] c=B!fermata!c |]  
+[V:2] E/D//C// D/F/- F/!fermata!=E/ |]  
+[V:3] G2!fermata!G |]  
+[V:4] G,G,,!fermata!C, |]

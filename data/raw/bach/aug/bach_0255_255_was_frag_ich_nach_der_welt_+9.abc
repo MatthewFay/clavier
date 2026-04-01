@@ -1,0 +1,89 @@
+X:254
+T:255. Was frag ich nach der Welt
+N:Derived from chor255.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 340894000
+%%humdrum-veritas-data 4008670470
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] c | 
+[V:3] f | 
+[V:4] A, | 
+[V:1] dBff | 
+[V:2] Bd/2c/2Bf/2d/2 | 
+[V:3] fffb | 
+[V:4] B,/2A,/2 B,/2C/2 D/2C/2 D/2B,/2 | 
+[V:1] !fermata!g3g | 
+[V:2] !fermata!e3B | 
+[V:3] !fermata!b3e | 
+[V:4] !fermata!E3E, | 
+[V:1] ccfe | 
+[V:2] A/2B/2 A/2G/2Fc | 
+[V:3] e3/2d/2cf | 
+[V:4] F,/2E,/2 F,/2G,/2 A,/2G,/2 A,/2F,/2 | 
+[V:1] d!fermata!Bzf | 
+[V:2] B!fermata!FxB | 
+[V:3] f!fermata!dxf | 
+[V:4] B,!fermata!B,zD | 
+[V:1] ggfe | 
+[V:2] Bedc | 
+[V:3] e/2f/2ga/2b/2 b/2a/2 | 
+[V:4] ECFF, | 
+[V:1] !fermata!d3c | 
+[V:2] !fermata!F3A | 
+[V:3] !fermata!b3a | 
+[V:4] !fermata!B,3F, | 
+[V:1] d^ef3/2g/2 | 
+[V:2] Bcc3/2d/2 | 
+[V:3] fgf3/2b/2 | 
+[V:4] B,/2A,/2 B,/2G,/2 A,/2G,/2 A,/2B,/2 | 
+[V:1] ^e2!fermata!ff | 
+[V:2] c2!fermata!cc | 
+[V:3] g2!fermata!aa | 
+[V:4] C2!fermata!F,F, | 
+[V:1] ffb=a | 
+[V:2] d/2c/2 d/2=e/2 f/2e/2 f/2d/2 | 
+[V:3] bbbb | 
+[V:4] B,/2A,/2 B,/2C/2 D/2C/2 D/2B,/2 | 
+[V:1] !fermata!g3g | 
+[V:2] !fermata!e3d | 
+[V:3] !fermata!b3g/2f/2 | 
+[V:4] !fermata!E3^B, | 
+[V:1] ggc'=b | 
+[V:2] cccc | 
+[V:3] ^e/2d/2 ^e/2f/2 g/2f/2 g/2^e/2 | 
+[V:4] C/2^B,/2 C/2D/2 ^E/2D/2 E/2C/2 | 
+[V:1] !fermata!a3f | 
+[V:2] !fermata!c3B | 
+[V:3] !fermata!f3b | 
+[V:4] !fermata!F3D | 
+[V:1] gfga | 
+[V:2] efeg/2^^f/2 | 
+[V:3] bbbc' | 
+[V:4] =E/2F/2 E/2D/2 E/2D/2 E/2C/2 | 
+[V:1] !fermata!b3^f | 
+[V:2] !fermata!g3^f/2e/2 | 
+[V:3] !fermata!d'3c' | 
+[V:4] !fermata!G3A, | 
+[V:1] fe/2d/2cc | 
+[V:2] dc/2B/2BA | 
+[V:3] bff/2g/2 f/2e/2 | 
+[V:4] B,/2C/2 D/2E/2FF, | 
+[V:1] !fermata!B3 |] 
+[V:2] !fermata!F3 |] 
+[V:3] !fermata!d3 |] 
+[V:4] !fermata!B,3 |]

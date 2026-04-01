@@ -1,0 +1,65 @@
+X:229
+T:230. Christ, der du bist der helle Tag
+N:Derived from chor230.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 200900262
+%%humdrum-veritas-data 1484842754
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] A [I:setbarnb 1]| 
+[V:2] E | 
+[V:3] c | 
+[V:4] A,, | 
+[V:1] AcBA | 
+[V:2] E/2^F/2 G/2A/2 G/2=F/2E | 
+[V:3] ce/2d/2dc/2B/2 | 
+[V:4] A,E,/2^F,/2 G,/2^G,/2 A,/2=G,/2 | 
+[V:1] cd!fermata!ee | 
+[V:2] A/2G/2 F/2G/2!fermata!GG | 
+[V:3] A/4B/4cB/2!fermata!cc/2d/2 | 
+[V:4] =F,/2E,/2 D,/2G,/2!fermata!C,C, | 
+[V:1] ee/2f/2 g/2f/2e | 
+[V:2] GABc- | 
+[V:3] e/2d/2cdc/2e/2 | 
+[V:4] C/2B,/2A,G,A,/2G,/2 | 
+[V:1] dd!fermata!cc | 
+[V:2] c/2B/4A/4B!fermata!GA | 
+[V:3] ag/2f/2!fermata!ee | 
+[V:4] F,G,!fermata!C,A,/2G,/2 | 
+[V:1] cedB | 
+[V:2] A/2B/2cc/2B/4A/4G | 
+[V:3] fggd | 
+[V:4] F,/2E,/2 D,/2C,/2G,3/2F,/2 | 
+[V:1] cd!fermata!ee | 
+[V:2] GG!fermata!GG | 
+[V:3] c3/2B/2!fermata!cc | 
+[V:4] E,/2C,/2G,!fermata!C,C, | 
+[V:1] eedd | 
+[V:2] GGG3/4F/4E- | 
+[V:3] cc3/2B/2B- | 
+[V:4] C,/2D,/2E,/2F,/2G,^G,/2E,/2 | 
+[V:1] c3/2B/4A/4!fermata!=GG | 
+[V:2] E^F!fermata!EE | 
+[V:3] B/2A/2 A/2B/4c/4!fermata!Bc/2d/2 | 
+[V:4] A,^D,!fermata!E,C,/2B,,/2 | 
+[V:1] c/2d/2ede | 
+[V:2] A/2B/2ccB | 
+[V:3] e/2d/2 c/2B/2Ae | 
+[V:4] A,,A,/2G,/2^F,^G, | 
+[V:1] cB!fermata!A |] 
+[V:2] B/2A^G/2!fermata!E |] 
+[V:3] e/2f/2 B/2e/2!fermata!c |] 
+[V:4] A,/2D,/2E,!fermata!A,, |]

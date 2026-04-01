@@ -1,0 +1,69 @@
+X: 125
+T: 125. Allein Gott in der H\"oh sei Ehr
+N: Derived from chor125.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 853883081
+%%humdrum-veritas-data 3736611200
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] G/A/ [I:setbarnb 1]| 
+[V:2] D | 
+[V:3] B/c/ | 
+[V:4] G,, | 
+[V:1] Bcdc | 
+[V:2] GGFE/F/ | 
+[V:3] deA/B/c | 
+[V:4] G,/F,/E,D,A,, | 
+[V:1] BA!fermata!BB | 
+[V:2] GF!fermata!GD | 
+[V:3] dd!fermata!dG | 
+[V:4] B,,/C,/D,!fermata!G,,G,/F,/ | 
+[V:1] BA/B/ c/B/A | 
+[V:2] EE/D/CD | 
+[V:3] G3c/A/ | 
+[V:4] E,/D,/C,/B,,/ A,,/G,,/F,, | 
+[V:1] GA!fermata!G :|]  
+[V:2] D/GF/!fermata!D :|]  
+[V:3] d/c//B//c!fermata!B :|]  
+[V:4] B,,/G,,/D,!fermata!G,, :|]  
+[V:1] G [I:setbarnb 5]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] G,, | 
+[V:1] ABcB | 
+[V:2] DDC/D/E | 
+[V:3] F^GA^G | 
+[V:4] D,C,/B,,/A,,D,/E,/ | 
+[V:1] AB!fermata!AA | 
+[V:2] E/D/ D/C//B,//!fermata!CD | 
+[V:3] A^G!fermata!EA | 
+[V:4] =F,E,!fermata!A,,^F, | 
+[V:1] Bcdc | 
+[V:2] DEFE | 
+[V:3] =GGAG/A/ | 
+[V:4] =G,/F,/E,D,E,/F,/ | 
+[V:1] BA!fermata!BB | 
+[V:2] DC/E//^D//!fermata!E=D | 
+[V:3] BE/F/!fermata!^GG | 
+[V:4] G,/^G,/A,!fermata!E,=G,/F,/ | 
+[V:1] BA/B/ c/B/A | 
+[V:2] EE/D/CD | 
+[V:3] G2AF | 
+[V:4] E,/D,/C,/B,,/ A,,/B,,/C, | 
+[V:1] G/E/F!fermata!G |]  
+[V:2] D/E/D!fermata!D |]  
+[V:3] G/c/A!fermata!B |]  
+[V:4] B,,/C,/D,!fermata!G,, |]

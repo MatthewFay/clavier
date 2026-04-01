@@ -1,0 +1,81 @@
+X: 165
+T: 166. Es stehn vor Gottes Throne
+N: Derived from chor166.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2553896880
+%%humdrum-veritas-data 2631780273
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] G [I:setbarnb 1]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] G,, | 
+[V:1] BG^FG | 
+[V:2] GDD/C/B, | 
+[V:3] dBAG | 
+[V:4] G,,/A,,/ B,,/C,/D,_E,/D,/ | 
+[V:1] A2!fermata!BB | 
+[V:2] _ED!fermata!DG- | 
+[V:3] G3/^F/!fermata!Gd- | 
+[V:4] C,D,!fermata!G,,G, | 
+[V:1] ABcA | 
+[V:2] G/^F/G-G/=E/ D/F/ | 
+[V:3] dd=e/c/ d/c/ | 
+[V:4] D,G,/=F,/ =E,/A,/^F,/D,/ | 
+[V:1] B2!fermata!AB | 
+[V:2] D=E!fermata!^FG | 
+[V:3] B/A/G!fermata!dd | 
+[V:4] G,^C,!fermata!D,G,, | 
+[V:1] AGG^F | 
+[V:2] G/^F/=ED2 | 
+[V:3] _e/A/B-B/A//G//A | 
+[V:4] C,^C,D,D,, | 
+[V:1] !fermata!G3 :|]  
+[V:2] !fermata!D3 :|]  
+[V:3] !fermata!B3 :|]  
+[V:4] !fermata!G,,3 :|]  
+[V:1] B [I:setbarnb 7]| 
+[V:2] G | 
+[V:3] d | 
+[V:4] G,, | 
+[V:1] BBAB | 
+[V:2] GG-G/F/F- | 
+[V:3] dddd- | 
+[V:4] G,,/A,,/ B,,/C,/D,B,, | 
+[V:1] G2!fermata!^FB | 
+[V:2] F/_E//D//C!fermata!DD | 
+[V:3] d/c//B// A/G/!fermata!AG/A/ | 
+[V:4] _E,2!fermata!D,G,- | 
+[V:1] BBAB | 
+[V:2] =E/=F/GGF- | 
+[V:3] B/d/ccd | 
+[V:4] G,/=F,/=E,/C,/ F,/_E,/D,/B,,/ | 
+[V:1] G2!fermata!^FG | 
+[V:2] F/_E//D//E!fermata!DG | 
+[V:3] BA!fermata!Ac | 
+[V:4] _E,/D,/C,/A,,/!fermata!D,=E, | 
+[V:1] A/=B/cc=B | 
+[V:2] =FG/_A/GG | 
+[V:3] c/d/_ed/c/d | 
+[V:4] F,_E,/F,/G,G,, | 
+[V:1] !fermata!cA_BA | 
+[V:2] !fermata!GG^F/G/A | 
+[V:3] !fermata!_eed-d/c/ | 
+[V:4] !fermata!C,^C,D,/=E,/^F, | 
+[V:1] G^F!fermata!G |]  
+[V:2] D/_E/D!fermata!D |]  
+[V:3] BA/c/!fermata!=B |]  
+[V:4] G,/C,/D,!fermata!G,, |]

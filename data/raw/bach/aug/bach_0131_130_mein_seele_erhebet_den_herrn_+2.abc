@@ -1,0 +1,61 @@
+X:130
+T:130. Mein Seele erhebet den Herrn
+N:Derived from chor130.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3521675919
+%%humdrum-veritas-data 3920596899
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] c2e2 | 
+[V:2] F2E2 | 
+[V:3] A2B2 | 
+[V:4] F,2G,2 | 
+[V:1] cccc | 
+[V:2] E^EFG | 
+[V:3] cBAG | 
+[V:4] A,G,F,^E, | 
+[V:1] d2c2 | 
+[V:2] F=E2E | 
+[V:3] AB2A | 
+[V:4] F,G,A,F, | 
+[V:1] B2B2 | 
+[V:2] F2E2 | 
+[V:3] A2G2 | 
+[V:4] D,B,,E,2 | 
+[V:1] !fermata!A4 | 
+[V:2] !fermata!E4 | 
+[V:3] !fermata!c4 | 
+[V:4] !fermata!A,,4 | 
+[V:1] c2e2 | 
+[V:2] E4 | 
+[V:3] A4 | 
+[V:4] A,2C,2 | 
+[V:1] B8B8 | 
+[V:2] E8E8 | 
+[V:3] G8G8 | 
+[V:4] E,8E,8 | 
+[V:1] F2 | 
+[V:2] F2 | 
+[V:3] B2 | 
+[V:4] D,2 | 
+[V:1] A2G2 | 
+[V:2] F2^E2 | 
+[V:3] c3B | 
+[V:4] C,B,,C,2 | 
+[V:1] !fermata!F4 |] 
+[V:2] !fermata!C4 |] 
+[V:3] !fermata!A4 |] 
+[V:4] !fermata!F,,4 |]

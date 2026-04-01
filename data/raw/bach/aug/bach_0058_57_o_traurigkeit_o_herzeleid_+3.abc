@@ -1,0 +1,57 @@
+X:57
+T:57. O Traurigkeit, o Herzeleid
+N:Derived from chor057.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1775727699
+%%humdrum-veritas-data 2639675778
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Ebmaj
+[V:1] g [I:setbarnb 1]| 
+[V:2] =B | 
+[V:3] d | 
+[V:4] G, | 
+[V:1] e/2d/2e!fermata!d=B | 
+[V:2] GG/2^F/2!fermata!GG | 
+[V:3] c/2=B/2=A!fermata!=Bd | 
+[V:4] CC,!fermata!G,=F, | 
+[V:1] cc!fermata!=Bg | 
+[V:2] G=F!fermata!G=B | 
+[V:3] ed/2c/2!fermata!dd | 
+[V:4] E,_A,!fermata!G,G, | 
+[V:1] ggag/2f/2 | 
+[V:2] cdc_B | 
+[V:3] ede/2f/2 g/2e/2 | 
+[V:4] C=B,C/2D/2E | 
+[V:1] f2!fermata!e2 | 
+[V:2] cB/2_A/2!fermata!G2 | 
+[V:3] ed!fermata!e2 | 
+[V:4] =A,_B,!fermata!E,2 | 
+[V:1] defg | 
+[V:2] BA/2G/2 F/2f/2e | 
+[V:3] febB/2c/2 | 
+[V:4] B,CDE | 
+[V:1] fe!fermata!d2 | 
+[V:2] dc!fermata!=B2 | 
+[V:3] d/2G/2g!fermata!g2 | 
+[V:4] =B,C!fermata!G,2 | 
+[V:1] cdef/2g/2 | 
+[V:2] GGGc/2_B/2 | 
+[V:3] g/2-f/2 f/2-e/2 e/2-d/2c | 
+[V:4] =A,=B,C/2_B,/2 _A,/2G,/2 | 
+[V:1] d2!fermata!c2 |] 
+[V:2] AG/2F/2!fermata!E2 |] 
+[V:3] c=B!fermata!G2 |] 
+[V:4] F,G,!fermata!C,2 |]

@@ -1,0 +1,57 @@
+X:40
+T:40. Ach Gott und Herr
+N:Derived from chor040.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 930147292
+%%humdrum-veritas-data 913193201
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Ebmaj
+[V:1] e [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] g | 
+[V:4] E, | 
+[V:1] dc!fermata!BB | 
+[V:2] B=A!fermata!FG/2F/2 | 
+[V:3] f-f/2e/2!fermata!de/2_d/2 | 
+[V:4] B,F,!fermata!B,,E, | 
+[V:1] c=d!fermata!ef | 
+[V:2] EF!fermata!GB- | 
+[V:3] c/2B/2A!fermata!Bd | 
+[V:4] A,/2G,/2F,!fermata!E,B,, | 
+[V:1] edcd/2e/2 | 
+[V:2] B/2=A/2BAB- | 
+[V:3] efff | 
+[V:4] C,D,/2E,/2F,B, | 
+[V:1] c2!fermata!Be | 
+[V:2] B=A!fermata!FB | 
+[V:3] gf/2e/2!fermata!de | 
+[V:4] E,F,!fermata!B,,G, | 
+[V:1] de!fermata!ff | 
+[V:2] _AB!fermata!BB | 
+[V:3] fg!fermata!dd | 
+[V:4] F,E,!fermata!B,B, | 
+[V:1] gf/2e/2!fermata!fB | 
+[V:2] B=A!fermata!BB | 
+[V:3] ee!fermata!de | 
+[V:4] E/2D/2C!fermata!B,G, | 
+[V:1] cde/2f/2g/2a/2 | 
+[V:2] FFE3/2c/2 | 
+[V:3] edg/2a/2 b/2e/2 | 
+[V:4] =A,=B,C_B,/2_A,/2 | 
+[V:1] f2!fermata!e |] 
+[V:2] B3/2A/2!fermata!G |] 
+[V:3] ed!fermata!B |] 
+[V:4] B,B,,!fermata!E, |]

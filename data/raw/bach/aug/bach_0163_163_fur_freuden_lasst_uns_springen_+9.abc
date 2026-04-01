@@ -1,0 +1,65 @@
+X:162
+T:163. F\"ur Freuden la\sst uns springen
+N:Derived from chor163.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 98913472
+%%humdrum-veritas-data 1813117794
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] b2 [I:setbarnb 1]| 
+[V:2] e^d | 
+[V:3] ga | 
+[V:4] E,F, | 
+[V:1] b2b2b2a2 | 
+[V:2] e2^de fe2d | 
+[V:3] ba/2g/2f2-fgab | 
+[V:4] G,A,B,^C ^DEFB, | 
+[V:1] g4!fermata!f2b2 | 
+[V:2] e^de2!fermata!d2=d2 | 
+[V:3] b2b2!fermata!b2ba | 
+[V:4] EFGA!fermata!B2GF | 
+[V:1] bc'd'2c'2b2 | 
+[V:2] e2d2a2-ag | 
+[V:3] g2g2-gf/2e/2 dd' | 
+[V:4] EDCB, A,D G,B, | 
+[V:1] a4!fermata!b2 :| 
+[V:2] g2f2!fermata!g2 :| 
+[V:3] e'2d'2!fermata!d'2 :| 
+[V:4] CA,D2!fermata!G,2 :| 
+[V:1] b2 [I:setbarnb 5]| 
+[V:2] gf | 
+[V:3] d'2 | 
+[V:4] G,2 | 
+[V:1] a2g2f2e2 | 
+[V:2] e2e2-e^de2 | 
+[V:3] c'b^c'2fb/2a/2 ga/2g/2 | 
+[V:4] A,3^A,B,2C^C | 
+[V:1] f2g2!fermata!f2b2 | 
+[V:2] Af B^c!fermata!^d2f2- | 
+[V:3] fb/2a/2 g/2f/2e!fermata!b2b2 | 
+[V:4] D^D E^A,!fermata!B,2D2 | 
+[V:1] g2g2a2b2 | 
+[V:2] f2ed d=c =fe | 
+[V:3] b2c'd'e'2d'b- | 
+[V:4] E=D=CB,A,3^G, | 
+[V:1] c'2b2a2a2 | 
+[V:2] e2e2^f2fe | 
+[V:3] ba b^c' ^d'fbc' | 
+[V:4] A,A2=G FE^DE | 
+[V:1] b3a!fermata!^g2 |] 
+[V:2] ^de2d!fermata!e2 |] 
+[V:3] ba/2g/2 fb!fermata!b2 |] 
+[V:4] B,4!fermata!E2 |]

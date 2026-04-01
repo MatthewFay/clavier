@@ -1,0 +1,57 @@
+X:244
+T:245. Christe, der du bist Tag und Licht
+N:Derived from chor245.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4226305619
+%%humdrum-veritas-data 39731108
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] f2 [I:setbarnb 1]| 
+[V:2] c2 | 
+[V:3] c'b | 
+[V:4] A,G, | 
+[V:1] a2f2e2fg | 
+[V:2] c2c2c2c^e | 
+[V:3] a2a2g2ab | 
+[V:4] F,G,A,B, CB,A,G, | 
+[V:1] a2g2!fermata!f2a2 | 
+[V:2] f3^e!fermata!c2f2 | 
+[V:3] c'2d'c'/2b/2!fermata!a2c'2 | 
+[V:4] F,A,B,C!fermata!F,2F2 | 
+[V:1] a2a2a2e2 | 
+[V:2] f2f2=ed- dc/2B/2 | 
+[V:3] c'2c'2c'f ga- | 
+[V:4] F,G,A,B, CDE2- | 
+[V:1] f2a2!fermata!g2g2 | 
+[V:2] c^d/2e/2f2!fermata!e2e2 | 
+[V:3] ag fb!fermata!b2ba | 
+[V:4] E2^D2!fermata!E2E,F, | 
+[V:1] b2b2ba/2g/2 fg | 
+[V:2] e2^d^e fe fc | 
+[V:3] gfg2fbag | 
+[V:4] G,A, B,C=D3^E, | 
+[V:1] a2g2!fermata!f2g2 | 
+[V:2] cf2^e!fermata!c2e2 | 
+[V:3] fc' =d'c'/2b/2!fermata!a2c'2 | 
+[V:4] F,A, B,C!fermata!F,2C2 | 
+[V:1] a2f2=e2fg | 
+[V:2] f2c2c2c^e | 
+[V:3] c'2a2g2ab | 
+[V:4] F,G,A,B, CB,A,G, | 
+[V:1] a2g2!fermata!f2 |] 
+[V:2] f3^e!fermata!c2 |] 
+[V:3] c'2d'c'/2b/2!fermata!^a2 |] 
+[V:4] F,A,B,C!fermata!F,2 |]

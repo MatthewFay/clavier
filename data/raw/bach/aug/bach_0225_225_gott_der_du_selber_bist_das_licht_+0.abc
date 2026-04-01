@@ -1,0 +1,69 @@
+X: 224
+T: 225. Gott, der du selber bist das Licht
+N: Derived from chor225.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3399588145
+%%humdrum-veritas-data 2838398419
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Bb
+[V:1] d [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] B/c/ | 
+[V:4] G,,/A,,/ | 
+[V:1] GA/B/cB | 
+[V:2] G^F/G/A3/G/- | 
+[V:3] dc/d/ e/d/d | 
+[V:4] B,,A,,/G,,/^F,,G,, | 
+[V:1] AA!fermata!Gc | 
+[V:2] G/^F//=E//F!fermata!DG | 
+[V:3] e/c/ A/d//c//!fermata!Bc/B/ | 
+[V:4] C,/A,,/D,!fermata!G,,=E,, | 
+[V:1] ccdc | 
+[V:2] =F/=E/FFF | 
+[V:3] A/B/ c/A/Bc | 
+[V:4] =F,,/G,,/A,,/F,,/ B,,/B,A,/ | 
+[V:1] d=e!fermata!fd | 
+[V:2] B/d^c/!fermata!dB | 
+[V:3] B/A/G!fermata!Ag- | 
+[V:4] G,/F,/=E,!fermata!D,G,, | 
+[V:1] =cBAG | 
+[V:2] AD/=E/^FG | 
+[V:3] g/^f/gd/c/B | 
+[V:4] A,,B,,/C,/D,_E,/D,/ | 
+[V:1] A2!fermata!G :|]  
+[V:2] G^F!fermata!D :|]  
+[V:3] _e/c/ A/d//c//!fermata!B :|]  
+[V:4] C,D,!fermata!G,, :|]  
+[V:1] A [I:setbarnb 7]| 
+[V:2] =F | 
+[V:3] c | 
+[V:4] F,/E,/ | 
+[V:1] Bcde | 
+[V:2] F/BA/Bc- | 
+[V:3] deff | 
+[V:4] D,C,B,,/B,A,/ | 
+[V:1] dc!fermata!Bd | 
+[V:2] c/BA/!fermata!FF | 
+[V:3] fg/f//e//!fermata!dd | 
+[V:4] B,/D,/ E,/F,/!fermata!B,,B,, | 
+[V:1] fedG/A/ | 
+[V:2] F/A/ G/F/FE | 
+[V:3] c/d/ B/c/dc/^F/ | 
+[V:4] A,,/F,,/G,,/A,,/B,,C, | 
+[V:1] BA!fermata!G |]  
+[V:2] D/G^F/!fermata!D |]  
+[V:3] G/d/ d3//c//!fermata!=B |]  
+[V:4] B,,/G,,/D,!fermata!G,, |]

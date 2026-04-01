@@ -1,0 +1,77 @@
+X:129
+T:129. Keinen hat Gott verlassen
+N:Derived from chor129.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1034943716
+%%humdrum-veritas-data 3346245006
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] e [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] c | 
+[V:4] A, | 
+[V:1] eeea | 
+[V:2] BA/2^G/2 A/2B/2c- | 
+[V:3] B/2c/2dcf/2e/2 | 
+[V:4] ^G,E,A,/2=G,/2F, | 
+[V:1] =g3/2f/2!fermata!ee/2f/2 | 
+[V:2] cB!fermata!=GG | 
+[V:3] d/2c/2d!fermata!cc | 
+[V:4] G,2!fermata!C,C | 
+[V:1] gBcd | 
+[V:2] GG/2F/2EA | 
+[V:3] ddc/2B/2A | 
+[V:4] B,/2A,/2G,A,/2G,/2F, | 
+[V:1] !fermata!e3 :| 
+[V:2] !fermata!^G3 :| 
+[V:3] !fermata!B3 :| 
+[V:4] !fermata!E,3 :| 
+[V:1] d [I:setbarnb 5]| 
+[V:2] A | 
+[V:3] A | 
+[V:4] ^F, | 
+[V:1] dddd | 
+[V:2] =GG/2^F/2 G/2A/2B | 
+[V:3] B/2A/2B/2c/2dg | 
+[V:4] G,G,/2A,/2B,G, | 
+[V:1] e2!fermata!dd | 
+[V:2] c2!fermata!Bd | 
+[V:3] g2!fermata!gg | 
+[V:4] C,/2D,/2E,/2F,/2!fermata!G,B, | 
+[V:1] e/2^f/2ggf | 
+[V:2] cdd3/2c/2 | 
+[V:3] gg/2a/2ba | 
+[V:4] CB,/2C/2DD, | 
+[V:1] !fermata!g3g | 
+[V:2] !fermata!B3B | 
+[V:3] !fermata!g3d | 
+[V:4] !fermata!G,3G, | 
+[V:1] eefg | 
+[V:2] Gcc_B | 
+[V:3] cgae- | 
+[V:4] C/2D/2C/2_B,/2 A,/2B,/2A,/2G,/2 | 
+[V:1] a2!fermata!ee | 
+[V:2] A2!fermata!AA | 
+[V:3] ed!fermata!ce | 
+[V:4] F,/2E,/2F,/2G,/2!fermata!A,C, | 
+[V:1] dc/2B/2B3/2A/2 | 
+[V:2] AAA^G | 
+[V:3] Afe/2c/2d | 
+[V:4] F,E,/2D,/2E,E, | 
+[V:1] !fermata!A3 |] 
+[V:2] !fermata!E3 |] 
+[V:3] !fermata!^c3 |] 
+[V:4] !fermata!A,,3 |]

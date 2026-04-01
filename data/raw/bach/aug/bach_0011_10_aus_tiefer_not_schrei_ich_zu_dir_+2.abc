@@ -1,0 +1,73 @@
+X:10
+T:10. Aus tiefer Not schrei ich zu dir
+N:Derived from chor010.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2045868085
+%%humdrum-veritas-data 1251519058
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dmaj
+[V:1] c2Fc | 
+[V:2] F2F^A | 
+[V:3] ^A2Be | 
+[V:4] E,2D,C, | 
+[V:1] dc/2B/2AB | 
+[V:2] B=A/2^G/2FG | 
+[V:3] fef/2e/2d | 
+[V:4] B,,C,D,/2C,/2B,, | 
+[V:1] !fermata!c2c2 | 
+[V:2] !fermata!^A2A2 | 
+[V:3] !fermata!c2f2 | 
+[V:4] !fermata!F,2F,2 | 
+[V:1] ded/2c/2B | 
+[V:2] BcdG | 
+[V:3] fgad | 
+[V:4] B,A,/2G,/2F,G, | 
+[V:1] AG!fermata!F2 :| 
+[V:2] FE/2D/2!fermata!C2 :| 
+[V:3] d/2c/2B!fermata!^A2 :| 
+[V:4] D,E,!fermata!F,2 :| 
+[V:1] B2=Ad | 
+[V:2] F2EF/2^G/2 | 
+[V:3] B2cd | 
+[V:4] D2CB, | 
+[V:1] cBe/2d/2c | 
+[V:2] ABc/2B/2^A | 
+[V:3] ee/2f/2gc | 
+[V:4] A,=G,/2F,/2E,F, | 
+[V:1] !fermata!B2d2 | 
+[V:2] !fermata!F2B2 | 
+[V:3] !fermata!d2f2 | 
+[V:4] !fermata!B,,2B,2 | 
+[V:1] cdeA | 
+[V:2] AAA/2G/2F | 
+[V:3] ffed | 
+[V:4] F,E,/2D,/2C,D, | 
+[V:1] cB!fermata!A2 | 
+[V:2] ED!fermata!C2 | 
+[V:3] ^G/2A^G/2!fermata!A2 | 
+[V:4] E,E,!fermata!A,,2 | 
+[V:1] A2dc | 
+[V:2] F2FF/2E/2 | 
+[V:3] A2B^A | 
+[V:4] D,2B,,F, | 
+[V:1] BFAG | 
+[V:2] DDE2- | 
+[V:3] BAAB | 
+[V:4] G,D,=C,B,, | 
+[V:1] !fermata!F4 |] 
+[V:2] ED!fermata!C2 |] 
+[V:3] cB!fermata!^A2 |] 
+[V:4] ^A,,B,,!fermata!F,,2 |]

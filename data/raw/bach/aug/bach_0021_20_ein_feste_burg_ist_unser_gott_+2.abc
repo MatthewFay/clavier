@@ -1,0 +1,77 @@
+X:20
+T:20. Ein feste Burg ist unser Gott
+N:Derived from chor020.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4288972532
+%%humdrum-veritas-data 3971988252
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] e [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] g | 
+[V:4] E/2D/2 | 
+[V:1] eeB/2c/2d | 
+[V:2] EE/2F/2GA | 
+[V:3] gc/2d/2ef | 
+[V:4] CB,/2A,/2G,F, | 
+[V:1] e/2d/2c!fermata!Be | 
+[V:2] B^A!fermata!Fc | 
+[V:3] g3/2f/4e/4!fermata!dG/2^A/2 | 
+[V:4] E,F,!fermata!B,,C, | 
+[V:1] dcBc | 
+[V:2] FEDC | 
+[V:3] ^Bcg/2f/2e | 
+[V:4] D,E,/2F,/2G,=A,/2G,/2 | 
+[V:1] A/2G/2F!fermata!E :| 
+[V:2] D/2ED/2!fermata!E :| 
+[V:3] f/2BA/2!fermata!G :| 
+[V:4] F,/2E,/2B,,!fermata!E, :| 
+[V:1] E [I:setbarnb 5]| 
+[V:2] E | 
+[V:3] G/2A/2 | 
+[V:4] E,/2F,/2 | 
+[V:1] BcB^A | 
+[V:2] DEF/2E/2C | 
+[V:3] B^A/2G/2 F/2G/2F | 
+[V:4] G,F,/2E,/2 D,/2E,/2F, | 
+[V:1] !fermata!B2EB | 
+[V:2] !fermata!D2E/2F/2G | 
+[V:3] !fermata!F2Be | 
+[V:4] !fermata!B,,2G,F,/2E,/2 | 
+[V:1] cd!fermata!ed | 
+[V:2] A/2G/2F!fermata!GG | 
+[V:3] eB!fermata!BB | 
+[V:4] A,B,!fermata!E,G, | 
+[V:1] e/2d/2c!fermata!Bc | 
+[V:2] G/4^A/4B/2- B/2A/2!fermata!F=A | 
+[V:3] c/2f/2 g/2f/2!fermata!df | 
+[V:4] C,/2D,/2 E,/2F,/2!fermata!B,,F,/2G,/2 | 
+[V:1] cBc/2B/2A | 
+[V:2] A^E/2F/2GF | 
+[V:3] e/2f/2gcc | 
+[V:4] A,G,/2F,/2^E,F, | 
+[V:1] !fermata!Gedc | 
+[V:2] !fermata!^EGG/2F/2 =E/2F/2 | 
+[V:3] !fermata!ccBc/2d/2 | 
+[V:4] !fermata!C,C,G,A, | 
+[V:1] Bc/2B/2AG | 
+[V:2] G/2F/2EF/2B,/2E- | 
+[V:3] eA/2G/2FG/4A/4B/2 | 
+[V:4] E,/2D,/2C,D,E, | 
+[V:1] F2!fermata!E |] 
+[V:2] ED!fermata!B, |] 
+[V:3] cB/2A/2!fermata!G |] 
+[V:4] A,,B,,!fermata!E,, |]

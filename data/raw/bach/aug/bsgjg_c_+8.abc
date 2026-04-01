@@ -1,0 +1,71 @@
+X:1
+T:from /workspace/data/raw_mid/bach/organcho/bsgjg_c.mid
+M:4/4
+L:1/8
+Q:1/4=67
+K:Abmaj% 0 sharps
+V:1
+%%MIDI program 16
+z2 e2 f2 z/2B/2e/2^f/2-| \
+^f/2f/2=f/2e/2 a2 ^f2 =f2| \
+f2 ^f2 a2 z/2d/2f/2b/2-| \
+b/2b/2a/2^f/2 =b2 _b2 a2-|
+a2 ^f3a b2| \
+b2 b2 b2 z/2a/2c'/2e'/2-| \
+e'/2d'/2c'/2b/2 a2 a2 a2| \
+b2 =b2 b2 _b2|
+a4 g2 a2-| \
+a2 e2 f2 ^f2| \
+^f2 a2 a2 b2| \
+b2 b2 z/2z/2b/2z/2 =b2|
+b2 a2 ^f2 =f2-| \
+f2 e4- e/2e/2g/2b/2-| \
+[e'b]2 
+V:2
+%%MIDI program 41
+z8| \
+z2 z/2f/2=d/2Bc/2d/2ee/2d/2c/2| \
+=d2 z6| \
+z2 z/2a/2f/2de/2f/2^ff/2=f/2e/2|
+f2 z2 B=B d2| \
+z/2e/2=d/2e/2 f/2B/2f/2aa/2^f/2=f/2 e2| \
+^f2- f/2f/2=f/2e/2 f2 f=e| \
+e2 e2 =e4|
+z/2=B/2d/2e/2 =e/2_B/2d/2ee/2_e/2dd/2=B/2_B/2| \
+=B2 B2 _B2 z/2B/2e/2f/2| \
+^f/2a/2=f/2^f/2 z/2d/2=f/2^f/2 a/2b/2f/2a/2 z/2f/2d/2B/2-| \
+B/2=d/2e/2f/2 ^f2 =e_e z/2a/2=f/2d/2-|
+=d/2e/2f/2^f/2 z/2=f/2d/2=B/2 z/2c/2d/2ee/2d/2c/2| \
+=d2 z4 z/2e/2-[g-e-]|[ge]2 
+V:3
+%%MIDI program 20
+z2 z/2E/2^F/2=BB/2_B/2A/2 F2| \
+A^F2<=F2E B/2B,/2F/2A/2-| \
+A/2A/2^F/2=F/2 z/2^F/2B/2ee/2d/2=B/2 _B2| \
+=B_B A2 ^F2 z2|
+z/2F/2A/2=BB/2_B/2A/2 z2 z/2B,/2D/2^F/2-| \
+^F/2F/2=F/2E/2 =D2 z4| \
+z3A d2 z/2F,/2A,/2D/2-| \
+D/2D/2=B,/2_B,/2 z/2=B,/2E/2AA/2_B/2=B/2 d2-|
+d/2z6z/2E| \
+A2 z/2=B,,/2E,/2A,A,/2^F,/2=F,/2 z/2^F,/2_B,/2D/2| \
+=B,/2_B,/2A,/2^F,/2 =F,/2z4z3/2| \
+z2 z/2^F,/2B,/2DD/2=B,/2_B,/2 z/2A,/2=F/2A/2-|
+A/2^F/2=F/2E/2 z/2=D/2F/2A/2 z/2^F/2=F/2E/2 zF-| \
+F/2=D/2F/2AA/2G/2F/2 G/2-[G-E,]/2[G-G,]/2[GB,-]/2 [E-B,-]2|[EB,]2 
+V:4
+%%MIDI program 81
+z2 z/2E3/2 =D2 E_D| \
+C2 =DB, EE, z/2B,3/2-| \
+B,2 E2 F2 ^F=F| \
+E2 FD ^FE =B,A,|
+D2 ^F2- F/2=B,/2_B,/2A,/2 F,2| \
+C2 =DB, E_D CB,| \
+CA, D2- D/2^F,/2=F,/2E,/2 D,2| \
+G,2 A,2 D2- D/2=B,/2D/2E/2|
+=E_E DB, EE, A,2-| \
+A,/2D,/2=B,,/2_B,,/2 A,,/2z3/2 =D,2 E,2| \
+z2 z/2A,/2=B,/2E/2 D/2B,/2_B,/2A,/2 ^F,A,| \
+^F,=F, E,2 G,2 A,2|
+B,2 =B,2 _B,2 =A,2| \
+B,2 E2- E/2E,/2-[G,-E,-]3|[G,E,]2 

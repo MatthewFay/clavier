@@ -1,0 +1,65 @@
+X:278
+T:279. Ach Gott und Herr / Cantata BWV 48 Ich elender Mensch, wer wird mich erl\"osen
+N:Derived from chor279.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4187534281
+%%humdrum-veritas-data 3340716464
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Ebmaj
+[V:1] e [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] g | 
+[V:4] E, | 
+[V:1] dc!fermata!BB | 
+[V:2] B=A!fermata!FF | 
+[V:3] ff/2e/2!fermata!dd | 
+[V:4] B,F,!fermata!B,,A, | 
+[V:1] cd!fermata!ef | 
+[V:2] B=B!fermata!cd | 
+[V:3] e_a!fermata!gg | 
+[V:4] _G,F,!fermata!C=B, | 
+[V:1] edcd/2e/2 | 
+[V:2] c_BFF | 
+[V:3] gg=ab | 
+[V:4] CG/2F/2 E/2D/2 C/2_B,/2 | 
+[V:1] c2!fermata!Be | 
+[V:2] F2!fermata!FG | 
+[V:3] b/2=a/4g/4=a!fermata!dB | 
+[V:4] FF,!fermata!B,G, | 
+[V:1] de!fermata!ff | 
+[V:2] _AB!fermata!BB | 
+[V:3] fg!fermata!dd | 
+[V:4] F,E,!fermata!B,B, | 
+[V:1] g/2f/2e!fermata!fB | 
+[V:2] B/2A/2_G!fermata!FB | 
+[V:3] _dc!fermata!aa | 
+[V:4] E,A,!fermata!_D,=D, | 
+[V:1] cde/2f/2g | 
+[V:2] B=AG3/2c/2 | 
+[V:3] =gc'bb | 
+[V:4] =E,_G,=G,3/2=A,/2 | 
+[V:1] fef2 | 
+[V:2] de-e_d- | 
+[V:3] _agc'b- | 
+[V:4] =B,C/2_B,/2=A,B,/2_A,/2 | 
+[V:1] e4- | 
+[V:2] d_c2B/2A/2 | 
+[V:3] b2a2- | 
+[V:4] G,A,/2B,/2 _C/2_D/2E | 
+[V:1] !fermata!e3 |] 
+[V:2] !fermata!B3 |] 
+[V:3] ag/2f/2!fermata!g |] 
+[V:4] !fermata!E,3 |]

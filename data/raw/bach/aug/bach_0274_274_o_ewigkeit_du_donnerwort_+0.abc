@@ -1,0 +1,73 @@
+X: 273
+T: 274. O Ewigkeit, du Donnerwort
+N: Derived from chor274.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2696892849
+%%humdrum-veritas-data 1964997480
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] F3/G/AB | 
+[V:2] CD/E/FF | 
+[V:3] ABcd | 
+[V:4] F,,F,2D, | 
+[V:1] ccde | 
+[V:2] F/G/AA/G/ _B/A/ | 
+[V:3] cff/g/ g/^c/ | 
+[V:4] A,,A,=B,^C/A,/ | 
+[V:1] !fermata!f2F3/G/ | 
+[V:2] !fermata!F2D3/E/ | 
+[V:3] !fermata!d2A_B | 
+[V:4] !fermata!D2D,2 | 
+[V:1] ABcc | 
+[V:2] FG^F/G/A | 
+[V:3] Ad_ed | 
+[V:4] DC/B,/ A,/G,/ ^F,/D,/ | 
+[V:1] BA!fermata!G2 | 
+[V:2] A/G/ G/=F/!fermata!C2 | 
+[V:3] dc/d/!fermata!=e2 | 
+[V:4] G,A,/B,/!fermata!C2 | 
+[V:1] A2FF | 
+[V:2] C2D/=E/F | 
+[V:3] f_edd/c/ | 
+[V:4] F,2B,/C/ B,/A,/ | 
+[V:1] BAG2 | 
+[V:2] F/E/FFE | 
+[V:3] B/c/ddc/B/ | 
+[V:4] G,D,/C,/B,,C, | 
+[V:1] !fermata!F4 :|]  
+[V:2] !fermata!C4 :|]  
+[V:3] !fermata!A4 :|]  
+[V:4] !fermata!F,,4 :|]  
+[V:1] c2GA | 
+[V:2] F2F/E/ _E/D/ | 
+[V:3] A/B/c2c | 
+[V:4] A,3/B,/C^F, | 
+[V:1] BBA3/G/ | 
+[V:2] DGG^F | 
+[V:3] BB_ed3//c// | 
+[V:4] G,/=F,/ _E,/D,/C,D, | 
+[V:1] !fermata!G2c2 | 
+[V:2] !fermata!D2=F3/_E/ | 
+[V:3] !fermata!B2A/c/f- | 
+[V:4] !fermata!G,,2A,,2 | 
+[V:1] d=efA | 
+[V:2] D/F/BA/G/F | 
+[V:3] fgf/=e/d | 
+[V:4] B,,/B,/ A,/G,/ D/D,/ D/C/ | 
+[V:1] G3/G/!fermata!F2 |]  
+[V:2] FE!fermata!C2 |]  
+[V:3] dc/B/!fermata!A2 |]  
+[V:4] B,/G,/ C/C,/!fermata!F,2 |]

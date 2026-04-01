@@ -1,0 +1,233 @@
+X:1
+T:from /workspace/data/raw_mid/bach/organ/schub5.mid
+M:4/4
+L:1/8
+Q:1/4=85
+K:Gmaj% 0 sharps
+V:1
+%%MIDI program 88
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z6 a2-| \
+a2 a4 c'2-|
+c'2 a4 ^e2-| \
+^e2 g4 a2-| \
+a2 ^a6-| \
+^a2 z6|
+z8| \
+z6 a2-| \
+a2 g4 ^e2-| \
+^e2 e2 g2 a2-|
+a2 g2 ^e2 g2-| \
+g2 ^e6-| \
+^e2 z6| \
+z8|
+z8| \
+z8| \
+z6 a2-| \
+a2 g4 a2-|
+a2 ^e4 d2-| \
+d2 e4 ^e2-| \
+^e2 g6-| \
+g2 z6|
+z8| \
+z6 a2-| \
+a2 g4 ^e2-| \
+^e2 e2 g2 a2-|
+a2 g2 ^e2 g2-| \
+g2 ^e6-|^e2 
+V:2
+%%clef bass
+%%MIDI program 71
+z4 A2 A2| \
+c/2^A/2=A/2^A/2 =A3^E dA| \
+^eA BG/2D/2 G,G cG| \
+^dG A^E/2C/2 E,E ^AE|
+d^E GC ^AG =AE| \
+c^E G/2E/2=E/2D/2 CG ^AG| \
+eG A/2G/2^E/2=E/2 ^EA cA| \
+^eA ^A/2=A/2G/2E/2 G^A =eA|
+g^A c/2A/2=A/2G/2 Ac ^e/2A/2e/2A/2| \
+G/2^e/2G/2e/2 =e/2G/2e/2G/2 ^E/2^d/2E/2d/2 =d/2E/2d/2E/2| \
+E/2d/2E/2d/2 c/2E/2c/2E/2 D/2^E/2G/2A/2 ^A/2D/2A/2D/2| \
+C/2^A/2C/2A/2 =A/2C/2A/2C/2 ^A,/2=A/2^A,/2=A/2 ^A,/2G/2A,/2G/2|
+^A,/2^E/2A,/2E/2 A,/2=E/2=A,/2E/2 ^A,/2E/2D/2E/2 C/2E/2A,/2E/2| \
+A,/2E/2^A,/2E/2 =A,/2C/2D/2E/2 ^E/2G/2A/2^A/2 c=A/2E/2| \
+CE ^E,2 A2 A2| \
+c/2^A/2=A/2^A/2 =A3^E AE|
+cA ^EC/2A,/2 E,c2E| \
+d^A G^D/2C/2 D,d2c| \
+^ec d^A/2E/2 A,E AE| \
+d^E GC ^AG =AE|
+c^E G/2E/2=E/2D/2 CG ^AG| \
+eG A/2G/2^E/2=E/2 ^EA cA| \
+^eA ^A/2=A/2G/2E/2 =EA ^e/2A/2e/2A/2| \
+^d/2A/2d/2A/2 =d/2^A/2d/2A/2 e/2A/2e/2A/2 ^e/2=e/2d/2c/2|
+^A/2=A/2G/2^E/2 d/2c/2^A/2=A/2 G/2E/2=E/2D/2 E/2^E/2G/2A/2| \
+^AG =A^E c^D =D/2C/2^A,/2=A,/2| \
+^A,^E AG =e^E =E/2D/2C/2B,/2| \
+C/2D/2E/2^E/2 G/2^A,/2G/2A,/2 =A/2^A,/2=A/2^A,/2 G/2A,/2G/2A,/2|
+^E/2^A,/2E/2A,/2 A,/2=E/2=A,/2E/2 ^A,/2E/2D/2E/2 C/2E/2A,/2E/2| \
+A,/2E/2^A,/2E/2 =A,/2C/2D/2E/2 ^E/2G/2A/2^A/2 c=A/2E/2| \
+CE ^E,2 c2 c2| \
+e/2d/2^c/2d/2 c2 E2 E2|
+G/2^E/2=E/2^E/2 DA, ED ^AG| \
+d^E =EC G^A, =A,/2^C/2D/2E/2| \
+^E/2G/2A/2B/2 c/2B/2A/2B/2 G/2e/2G/2e/2 =e/2G/2e/2G/2| \
+^E/2=e/2^E/2=e/2 d/2^E/2d/2E/2 =E/2d/2E/2d/2 c/2E/2c/2E/2|
+D/2c/2E/2c/2 ^E/2B/2=E/2B/2 ^E/2B/2A/2B/2 G/2B/2E/2B/2| \
+E/2B/2^E/2B/2 =E/2G/2A/2B/2 c/2d/2e/2^e/2 =e/2d/2^c/2B/2| \
+A/2G/2^E/2=E/2 D2 A2 A2| \
+c/2^A/2=A/2^A/2 =A/2^E/2A/2E/2 ^A/2E/2A/2E/2 cE|
+^e/2^d/2=d/2^d/2 =d=E ^E4| \
+E2 ^EC A^D =D/2C/2^A,/2G,/2| \
+^A,/2^E,/2A,/2E,/2 ^D/2E,/2D/2E,/2 =D/2E,/2D/2E,/2 C/2E,/2C/2E,/2| \
+^A,/2^E,/2A,/2E,/2 ^D,/2=A,/2=D,/2A,/2 ^D,/2A,/2G,/2A,/2 E,/2A,/2D,/2A,/2|
+D,/2A,/2^D,/2A,/2 =D,/2^E,/2G,/2A,/2 ^A,/2C/2D/2=E/2 ^E/2G/2=A/2^A/2| \
+c/2^A/2=A/2^A/2 =A3^E dA| \
+^eA BG/2D/2 G,G cG| \
+^dG A^E/2C/2 E,E ^AE|
+d^E GC ^AG =AE| \
+c^E G/2E/2=E/2D/2 CG ^AG| \
+eG A/2G/2^E/2=E/2 ^EA cA| \
+^eA ^A/2=A/2G/2E/2 G^A =eA|
+g^A c/2A/2=A/2G/2 Ac ^e/2A/2e/2A/2| \
+G/2^e/2G/2e/2 =e/2G/2e/2G/2 ^E/2^d/2E/2d/2 =d/2E/2d/2E/2| \
+E/2d/2E/2d/2 c/2E/2c/2E/2 D/2^E/2G/2A/2 ^A/2D/2A/2D/2| \
+C/2^A/2C/2A/2 =A/2C/2A/2C/2 ^A,/2=A/2^A,/2=A/2 ^A,/2G/2A,/2G/2|
+^A,/2^E/2A,/2E/2 A,/2=E/2=A,/2E/2 ^A,/2E/2D/2E/2 C/2E/2A,/2E/2| \
+A,/2E/2^A,/2E/2 =A,/2C/2D/2E/2 ^E/2G/2A/2^A/2 c=A/2E/2| \
+CE ^E,4 
+V:3
+%%MIDI program 16
+z2 E,4 z2| \
+^E2 E2 A2 E2-| \
+^E4 ^D=D ^D2-| \
+^D4 =DC D2|
+z2 E2 z2 ^E2| \
+^E,2 C2 =E2 C2-| \
+C4 A2 C2-| \
+C4 G2 C2-|
+C4 ^E2 D2| \
+^A,G, C2 =A,^E, ^A,2| \
+G,E, A,2 ^E,D, G,2| \
+E,C, ^E,2 D,2 =E,2|
+G,2 C,4 z2| \
+C2 ^E2 D^A, =A,2| \
+C2 ^E,2 z4| \
+^E2 E2 A2 E2|
+^D=D ^D2 =DC D2| \
+^A,2 ^D2 C2 ^E2| \
+^E,2 ^A,2 z2 D2| \
+z2 E2 z2 ^E2|
+^E,2 C2 =E2 C2-| \
+C4 A2 C2-| \
+C4 ^C2 D2| \
+C2 ^A,2 =A,G, ^E,2|
+A,2 ^A,2 D2 C2| \
+C,2 ^E,2 A,2 ^A,2| \
+D2 G,2 ^A,2 C2| \
+D2 E2 ^E2 =E2|
+D2 C4 z2| \
+C2 ^E2 D^A, =A,2| \
+C2 ^E,4 z2| \
+^E2 =E2 GE ^C2|
+A,2 D2 z2 G,2| \
+z2 C2 z2 D2| \
+z2 G,2 B,2 C2| \
+DE ^E2 G2 A2|
+^E2 G4 z2| \
+G,2 C2 E,D, ^C,2| \
+A,2 B,2 ^C2 DC| \
+DE ^E4- E^D|
+DC ^A,C DC A,G,| \
+C^A, =A,2 ^E,2 ^A,2| \
+D2 C2 ^A,2 ^D2| \
+D2 C4 z2|
+^E,2 ^A,3C DC| \
+DE ^E2 A2 E2-| \
+^E4 ^D=D ^D2-| \
+^D4 =DC D2|
+z2 E2 z2 ^E2| \
+^E,2 C2 =E2 C2-| \
+C4 A2 C2-| \
+C4 G2 C2-|
+C4 ^E2 D2| \
+^A,G, C2 =A,^E, ^A,2| \
+G,E, A,2 ^E,D, G,2| \
+E,C, ^E,2 D,2 =E,2|
+G,2 C,4 z2| \
+C2 ^E2 D^A, =A,2| \
+C2 ^E,4 
+V:4
+%%MIDI program 10
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z6 [^e'e]/2z/2[e'e]/2z/2| \
+z/2[^e'e]/2z/2[e'e]/2 [=e'e]/2z/2[e'e]/2z[^d'd]/2z/2[d'd]/2 [=d'd]/2z/2[d'd]/2z/2| \
+z/2[d'd]/2z/2[d'd]/2 [c'c]/2z/2[c'c]/2z2z/2 [^aA]/2z/2[aA]/2z/2| \
+z/2[^aA]/2z/2[aA]/2 [=aA]/2z/2[aA]/2z4z/2|
+z2 ^a/2z/2=a/2z/2 ^a/2z/2d'/2z/2 c'/2z/2a/2z/2| \
+a/2z/2^a/2z/2 =a/2z4z3/2| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z6 ^e'/2z/2e'/2z/2| \
+^d'/2z/2d'/2z/2 =d'/2z/2d'/2z/2 e'/2z/2e'/2z/2 ^e'/2z3/2|
+z8| \
+z8| \
+z8| \
+z2 g/2z/2g/2z/2 a/2z/2a/2z/2 g/2z/2g/2z/2|
+^e/2z/2e/2z/2 ^a/2z/2=a/2z/2 ^a/2z/2d'/2z/2 c'/2z/2a/2z/2| \
+a/2z/2^a/2z/2 =a/2z4z3/2| \
+z8| \
+z8|
+z8| \
+z8| \
+z4 z/2^e'/2z/2e'/2 =e'/2z/2e'/2z/2| \
+z/2e'/2z/2e'/2 d'/2z/2d'/2zd'/2z/2d'/2 c'/2z/2c'/2z/2|
+z2 ^e'/2z/2=e'/2z/2 ^e'/2z/2a'/2z/2 g'/2z/2e'/2z/2| \
+e'/2z/2^e'/2z/2 =e'/2z4z3/2| \
+z8| \
+z8|
+z8| \
+z8| \
+z2 ^d/2z/2d/2z/2 =d/2z/2d/2z/2 c/2z/2c/2z/2| \
+^A/2z/2A/2z/2 ^d'/2z/2=d'/2z/2 ^d'/2z/2g'/2z/2 ^e'/2z/2d'/2z/2|
+d'/2z/2^d'/2z/2 =d'/2z4z3/2| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z6 [^e'e]/2z/2[e'e]/2z/2| \
+z/2[^e'e]/2z/2[e'e]/2 [=e'e]/2z/2[e'e]/2z[^d'd]/2z/2[d'd]/2 [=d'd]/2z/2[d'd]/2z/2| \
+z/2[d'd]/2z/2[d'd]/2 [c'c]/2z/2[c'c]/2z2z/2 [^aA]/2z/2[aA]/2z/2| \
+z/2[^aA]/2z/2[aA]/2 [=aA]/2z/2[aA]/2z4z/2|
+z2 ^a/2z/2=a/2z/2 ^a/2z/2d'/2z/2 c'/2z/2a/2z/2| \
+a/2z/2^a/2z/2 =a/2

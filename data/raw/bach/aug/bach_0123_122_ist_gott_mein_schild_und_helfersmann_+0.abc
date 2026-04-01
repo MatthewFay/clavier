@@ -1,0 +1,81 @@
+X: 122
+T: 122. Ist Gott mein Schild und Helfersmann
+N: Derived from chor122.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4203250001
+%%humdrum-veritas-data 2689933814
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Bb
+[V:1] G [I:setbarnb 1]| 
+[V:2] E/F/ | 
+[V:3] c | 
+[V:4] C, | 
+[V:1] c=Bcd/e/ | 
+[V:2] GGGF/E/ | 
+[V:3] cdeG | 
+[V:4] E,G,CC, | 
+[V:1] _B3/_A/!fermata!GG | 
+[V:2] FD!fermata!EE | 
+[V:3] FB!fermata!BB | 
+[V:4] D,B,,!fermata!E,E, | 
+[V:1] FBGc | 
+[V:2] CB,/F/ E/D/ C/G/ | 
+[V:3] _A/G/ F/B/ B/g/ f/e/ | 
+[V:4] E,D,E,_A, | 
+[V:1] =B3/c/!fermata!de | 
+[V:2] F/D/ E/G//^F//!fermata!GG | 
+[V:3] dG/=A/!fermata!=Bc/B/ | 
+[V:4] D,C,!fermata!G,C | 
+[V:1] d/c/ _B/_A/GA/B/ | 
+[V:2] =F3/D/EE | 
+[V:3] _A/F/BB_A/G/ | 
+[V:4] F,/E,/ D,/B,,/ E,/D,/ C,/B,,/ | 
+[V:1] F2!fermata!Ee | 
+[V:2] ED!fermata!B,G | 
+[V:3] cB/_A/!fermata!GB | 
+[V:4] _A,,B,,!fermata!E,E, | 
+[V:1] dc/B/Bc | 
+[V:2] FE/F/G_A/G/ | 
+[V:3] _A/B/ c/d/e_A | 
+[V:4] F,/G,/_A,G,F,/E,/ | 
+[V:1] B_A/G/!fermata!GF | 
+[V:2] F/E/ F/D/!fermata!ED | 
+[V:3] B/c/d!fermata!BB | 
+[V:4] D,/C,/B,,!fermata!E,B,/_A,/ | 
+[V:1] B3/_A/Ge/d/ | 
+[V:2] =EFDG | 
+[V:3] Bc=Bc | 
+[V:4] G,F,2E, | 
+[V:1] =B3/c/!fermata!de | 
+[V:2] F/D/ E/G//^F//!fermata!GG | 
+[V:3] dG/=A/!fermata!=Bc | 
+[V:4] D,C,!fermata!G,C/B,/ | 
+[V:1] f/e/ d/c/=Bc/d/ | 
+[V:2] =F/G/_AAG/A/ | 
+[V:3] cffe/c/ | 
+[V:4] _A,/G,/ F,/E,/D,E,/F,/ | 
+[V:1] d3/c/!fermata!ce | 
+[V:2] GF/E/!fermata!E_A | 
+[V:3] c/=A/=B!fermata!cc | 
+[V:4] G,G,,!fermata!_A,,_A,/G,/ | 
+[V:1] e/d/ c/=B/gc/A/ | 
+[V:2] _AA/G/GG/F/ | 
+[V:3] c/f/ e/d/ c/=B/ c/d/ | 
+[V:4] F,F,E,/D,/ E,/F,/ | 
+[V:1] =B3/c/!fermata!c |]  
+[V:2] D/E//F//G!fermata!G |]  
+[V:3] Gd!fermata!=e |]  
+[V:4] G,G,,!fermata!C, |]

@@ -1,0 +1,73 @@
+X:280
+T:281. Wo soll ich fliehen hin
+N:Derived from chor281.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1927788867
+%%humdrum-veritas-data 3478967431
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] A [I:setbarnb 1]| 
+[V:2] E | 
+[V:3] c | 
+[V:4] A,, | 
+[V:1] ABcd | 
+[V:2] EEEA | 
+[V:3] cBA/2c/2f | 
+[V:4] A,^G,A,F, | 
+[V:1] !fermata!e3e | 
+[V:2] !fermata!^G3G | 
+[V:3] !fermata!B3B | 
+[V:4] !fermata!E,3D, | 
+[V:1] edcd | 
+[V:2] AA/2^G/2AB | 
+[V:3] cdef | 
+[V:4] C,B,,A,,D, | 
+[V:1] !fermata!B3B | 
+[V:2] !fermata!^G3G | 
+[V:3] !fermata!e3e | 
+[V:4] !fermata!E,3E, | 
+[V:1] cdee | 
+[V:2] ABcc | 
+[V:3] e=gga | 
+[V:4] A,G,C/2B,/2A,/2G,/2 | 
+[V:1] d2!fermata!ee | 
+[V:2] cB!fermata!cB | 
+[V:3] ag!fermata!ge | 
+[V:4] F,G,!fermata!C,^G,, | 
+[V:1] cdee | 
+[V:2] AB/2A/2GG | 
+[V:3] egcc | 
+[V:4] A,,/2A,/2=G,/2F,/2 E,/2D,/2C,/2E,/2 | 
+[V:1] d2!fermata!ce | 
+[V:2] AG!fermata!Gc | 
+[V:3] cB!fermata!eg | 
+[V:4] F,/2D,/2G,!fermata!C,C | 
+[V:1] geee | 
+[V:2] dcBA | 
+[V:3] gg/2a/2 b/2B/2c | 
+[V:4] B,C^G,A, | 
+[V:1] d2!fermata!dd | 
+[V:2] A=G/2^F/2!fermata!GA | 
+[V:3] cB/2A/2!fermata!BA | 
+[V:4] ^F,D,!fermata!G,=F, | 
+[V:1] edcd/2c/2 | 
+[V:2] ^GGAA | 
+[V:3] Beed/2e/2 | 
+[V:4] E,/2D,/2 C,/2B,,/2 A,,/2=G,/2 F,/2E,/2 | 
+[V:1] B2!fermata!A |] 
+[V:2] A^G!fermata!E |] 
+[V:3] fe/2d/2!fermata!^c |] 
+[V:4] D,E,!fermata!A,, |]

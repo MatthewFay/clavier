@@ -1,3 +1,6 @@
+import json
+from pathlib import Path
+
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
@@ -9,12 +12,16 @@ class CausalSelfAttention(nn.Module):
     to figure out harmony and timing.
     """
 
-    def __init__(self, d_model: int, n_heads: int, dropout: float = 0.1):
+    def __init__(self, d_model: int, n_heads: int, dropout: float = 0.2):
         super().__init__()
         assert d_model % n_heads == 0, "d_model must be divisible by n_heads"
 
         self.c_attn = nn.Linear(d_model, 3 * d_model, bias=False)
         self.c_proj = nn.Linear(d_model, d_model, bias=False)
+
+        # GPT-2 scaling flag for the residual projection
+        self.c_proj.SCALE_INIT = 1  # type: ignore
+
         self.attn_dropout = nn.Dropout(dropout)
         self.resid_dropout = nn.Dropout(dropout)
 
@@ -33,7 +40,7 @@ class CausalSelfAttention(nn.Module):
         q = q.view(B, T, self.n_heads, C // self.n_heads).transpose(1, 2)
         v = v.view(B, T, self.n_heads, C // self.n_heads).transpose(1, 2)
 
-        # PyTorch 2.0+ Flash Attention (Incredibly fast, mathematically equivalent)
+        # PyTorch 2.0+ Flash Attention (fast, mathematically equivalent)
         # is_causal=True ensures notes cannot "look ahead" into the future.
         y = F.scaled_dot_product_attention(
             q,
@@ -46,7 +53,6 @@ class CausalSelfAttention(nn.Module):
 
         # Re-assemble all head outputs side by side
         y = y.transpose(1, 2).contiguous().view(B, T, C)
-
         # Output projection
         return self.resid_dropout(self.c_proj(y))
 
@@ -54,7 +60,7 @@ class CausalSelfAttention(nn.Module):
 class TransformerBlock(nn.Module):
     """A single layer of the Transformer."""
 
-    def __init__(self, d_model: int, n_heads: int, dropout: float = 0.1):
+    def __init__(self, d_model: int, n_heads: int, dropout: float = 0.2):
         super().__init__()
         self.ln_1 = nn.LayerNorm(d_model)
         self.attn = CausalSelfAttention(d_model, n_heads, dropout)
@@ -68,6 +74,9 @@ class TransformerBlock(nn.Module):
             nn.Linear(4 * d_model, d_model, bias=False),
             nn.Dropout(dropout),
         )
+
+        # GPT-2 scaling flag for the final MLP projection
+        self.mlp[2].SCALE_INIT = 1  # type: ignore
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         x = x + self.attn(self.ln_1(x))
@@ -85,18 +94,19 @@ class Clavier(nn.Module):
         d_model: int = 384,
         n_heads: int = 6,
         n_layers: int = 6,
-        dropout: float = 0.1,
+        dropout: float = 0.2,
     ):
         super().__init__()
         self.block_size = block_size
         self.vocab_size = vocab_size
+        self.n_layers = n_layers
 
-        # 1. Embeddings: Convert integers into rich numerical vectors
+        # Embeddings: Convert integers into rich numerical vectors
         self.token_embedding = nn.Embedding(vocab_size, d_model)
         self.position_embedding = nn.Embedding(block_size, d_model)
         self.drop = nn.Dropout(dropout)
 
-        # 2. The Transformer Blocks (The deep "thought" layers)
+        # The Transformer Blocks (The deep "thought" layers)
         self.blocks = nn.Sequential(
             *[TransformerBlock(d_model, n_heads, dropout) for _ in range(n_layers)]
         )
@@ -113,9 +123,13 @@ class Clavier(nn.Module):
         self.apply(self._init_weights)
 
     def _init_weights(self, module: nn.Module) -> None:
-        """Standard GPT weight initialization strategy."""
+        """Standard GPT weight init with residual scaling."""
         if isinstance(module, nn.Linear):
-            torch.nn.init.normal_(module.weight, mean=0.0, std=0.02)
+            std = 0.02
+            # Apply the 1/sqrt(2 * n_layers) scaling to residual projections
+            if hasattr(module, "SCALE_INIT"):
+                std *= (2 * self.n_layers) ** -0.5
+            torch.nn.init.normal_(module.weight, mean=0.0, std=std)
         elif isinstance(module, nn.Embedding):
             torch.nn.init.normal_(module.weight, mean=0.0, std=0.02)
 
@@ -173,7 +187,22 @@ class Clavier(nn.Module):
 
 def test_model() -> None:
     """Proves the model can accept our dataloader tensors and output a loss."""
-    vocab_size = 950  # From tokenizer
+
+    # Dynamically extract vocab_size from the compiled tokenizer
+    tokenizer_path = Path(__file__).parent / "tokenizer.json"
+    vocab_size = 2000  # Fallback
+
+    if tokenizer_path.exists():
+        with open(tokenizer_path, encoding="utf-8") as f:
+            data = json.load(f)
+            vocab_size = len(data["model"]["vocab"])
+            print(f"Loaded dynamic vocab size: {vocab_size}")
+    else:
+        print(
+            f"""Tokenizer not found at {tokenizer_path},
+            using fallback vocab size: {vocab_size}"""
+        )
+
     block_size = 256
     batch_size = 4
 

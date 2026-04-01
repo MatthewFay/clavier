@@ -1,0 +1,69 @@
+X:39
+T:39. Ach, was soll ich S\"under machen?
+N:Derived from chor039.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 986839074
+%%humdrum-veritas-data 3174963792
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dmaj
+[V:1] B2B2d2d2 | 
+[V:2] F2F2B2B2 | 
+[V:3] d2d2f2f2 | 
+[V:4] B,CDC B,A,G,F, | 
+[V:1] e2e2f2!fermata!f2 | 
+[V:2] B2ecd2!fermata!d2 | 
+[V:3] g2a2a2!fermata!a2 | 
+[V:4] E,D,C,A,,D,2!fermata!D2 | 
+[V:1] f2a2g2f2 | 
+[V:2] d2d2dcd2 | 
+[V:3] a2af gaa2 | 
+[V:4] D,E,F,B, E,A,D,F, | 
+[V:1] e3e!fermata!d4 | 
+[V:2] d2c2!fermata!A4 | 
+[V:3] bg ea/2g/2!fermata!f4 | 
+[V:4] G,E,A,2!fermata!D,4 | 
+[V:1] e2e2f2d2 | 
+[V:2] c2B2^Ac FB/2A/2 | 
+[V:3] a2e2-ed/2c/2 dg- | 
+[V:4] CB,A,G, F,^A, B,G, | 
+[V:1] c3c!fermata!B4 | 
+[V:2] B2^A2!fermata!F4 | 
+[V:3] ge cf/2e/2!fermata!d4 | 
+[V:4] E,C,F,2!fermata!B,,4 | 
+[V:1] b2b2a2a2 | 
+[V:2] d2d2c2c2 | 
+[V:3] f2f2f2f2 | 
+[V:4] B,,C,D,E, F,^G,A,F, | 
+[V:1] ^g2g2f2!fermata!f2 | 
+[V:2] d2c2c2!fermata!c2 | 
+[V:3] f3^ea2!fermata!a2 | 
+[V:4] B,^G,C2!fermata!F,4 | 
+[V:1] a2a2=g2f2 | 
+[V:2] c2d2de- ed | 
+[V:3] a=gf2ba- ab- | 
+[V:4] F=EDC B,CDB, | 
+[V:1] e3e!fermata!d4 | 
+[V:2] d2c2!fermata!A4 | 
+[V:3] bg ea/2g/2!fermata!f4 | 
+[V:4] G,E,A,2!fermata!D,4 | 
+[V:1] e2e2f2d2 | 
+[V:2] B2c2c3B | 
+[V:3] ^g2agf2fg- | 
+[V:4] D2CB,^A,2B,G, | 
+[V:1] c3c!fermata!B4 |] 
+[V:2] B2^A2!fermata!F4 |] 
+[V:3] ge cf/2e/2!fermata!^d4 |] 
+[V:4] E,C,F,2!fermata!B,,4 |]

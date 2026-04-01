@@ -1,0 +1,181 @@
+X: 132
+T: 132. Kyrie! Gott Vater in Ewigkeit
+N: Derived from chor132.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 100423708
+%%humdrum-veritas-data 3485030964
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] G4A4 | 
+[V:2] EFG2-G^F/E/F2 | 
+[V:3] B3c/d/ eAd2 | 
+[V:4] E,3D,C,2D,2 | 
+[V:1] !fermata!B4A2c2 | 
+[V:2] !fermata!G4=F2E2 | 
+[V:3] !fermata!d4d2cd | 
+[V:4] !fermata!G,,4D,2A,,B,, | 
+[V:1] c2B2A2A2 | 
+[V:2] A2G2-G^F/E/F2 | 
+[V:3] e4-ec Ad/c/ | 
+[V:4] C,D,E,D, C,A,,D,2 | 
+[V:1] !fermata!G4A2A2 | 
+[V:2] !fermata!D4=FE D^C | 
+[V:3] !fermata!B4dc/_B/A2 | 
+[V:4] !fermata!G,,4D,E,F,2- | 
+[V:1] G2F2E2E2 | 
+[V:2] D^CD2-DC/B,/C2 | 
+[V:3] _B2Ad _BG EA/G/ | 
+[V:4] F,E,F,_B, G,E, A,A,, | 
+[V:1] !fermata!D4D2A2 | 
+[V:2] !fermata!A,4D2E2 | 
+[V:3] !fermata!F4F2EA- | 
+[V:4] !fermata!D,4D,3^C, | 
+[V:1] A2G2A2B2 | 
+[V:2] F/E/D2E/D/ CF2E- | 
+[V:3] Ad/=c/ Bc/B/ Ac dc/B/ | 
+[V:4] D,F,2E, F,A,2^G, | 
+[V:1] c2B2A4 | 
+[V:2] E/^F/G2G- GF/E/F2 | 
+[V:3] A=G/A/ Bc/d/ ec Ad | 
+[V:4] A,E,2D, C,A,,D,2 | 
+[V:1] !fermata!G4G2=FG | 
+[V:2] !fermata!D4E2D2 | 
+[V:3] !fermata!B4c3_B | 
+[V:4] !fermata!G,,4C,2D,E, | 
+[V:1] A2G2G2F2 | 
+[V:2] CDE2E2D2 | 
+[V:3] A=B c_B A_B2A- | 
+[V:4] F,2C,2^C,2D,2 | 
+[V:1] !fermata!E8 ||  
+[V:2] C2=B,A,!fermata!B,4 ||  
+[V:3] A2^G^F!fermata!^G4 ||  
+[V:4] !fermata!E,8 ||  
+[V:1] E4D4 | 
+[V:2] B,2CB,A,2B,C | 
+[V:3] =G2AG^F2G2- | 
+[V:4] E,D,C,4B,,A,, | 
+[V:1] G4A2B2 | 
+[V:2] E=FED CD/E/F2 | 
+[V:3] GdcBA3G/=F/ | 
+[V:4] B,,2E,4D,2 | 
+[V:1] c2c2!fermata!c4 | 
+[V:2] E/F/G2F- FE/D/!fermata!E2 | 
+[V:3] Gc/_B/A2!fermata!G4 | 
+[V:4] E,2F,2!fermata!C,4 | 
+[V:1] c2c2B2A2 | 
+[V:2] E/^F/G2F- FE/D/ ^C/B,/A, | 
+[V:3] A2A2=BG ed/=c/ | 
+[V:4] A,,2D,2G,,G,2=F,- | 
+[V:1] G2A2B2B2 | 
+[V:2] D=C2A- AG ^F/E/F | 
+[V:3] Bc/_B/ Ad/c/ =Bd- d/c/B/A/ | 
+[V:4] F,E, F,^F, G,B,,/C,/ D,^D, | 
+[V:1] !fermata!B4E2D2 | 
+[V:2] !fermata!E4C3B, | 
+[V:3] !fermata!G4G2G2 | 
+[V:4] !fermata!E,4E,C, G,=F, | 
+[V:1] G2ABc2c2 | 
+[V:2] CD/E/ F/E/FE2F2- | 
+[V:3] G2cdG2A2- | 
+[V:4] E,3D, C,B,,A,,B,, | 
+[V:1] !fermata!c4c2c2 | 
+[V:2] FE/D/!fermata!E2EA/^G/A2- | 
+[V:3] AG/F/!fermata!G2cde2- | 
+[V:4] !fermata!C,4A,,B,, C,D, | 
+[V:1] B2A2!fermata!G2A2 | 
+[V:2] A=G2^F!fermata!D2=FG | 
+[V:3] ed ed/c/!fermata!B2d2- | 
+[V:4] E,B,,C,D,!fermata!G,,2D,E, | 
+[V:1] A2G2F2E2 | 
+[V:2] AG/F/ FE- ED2^C | 
+[V:3] d^cdAA2_BA/G/ | 
+[V:4] F,A,, B,,^C, D,F,,G,,A,, | 
+[V:1] !fermata!D4D2A2 | 
+[V:2] !fermata!A,4A,2D/E/F | 
+[V:3] !fermata!F4FG Ad | 
+[V:4] !fermata!D,,4D,E, F,D, | 
+[V:1] A2G2A2B2 | 
+[V:2] F3E- E/D/E/G/ F/E/^F/A/ | 
+[V:3] dB Gc/B/A3G/^F/ | 
+[V:4] _B,,=B,,C,2-C,^C,D,^D, | 
+[V:1] c2B2A4 | 
+[V:2] G=DDG- G^F/E/F2 | 
+[V:3] EABe- e=c Ad/c/ | 
+[V:4] E,^F,G,E, C,A,,D,2 | 
+[V:1] !fermata!G4G2=FG | 
+[V:2] !fermata!D4E2=FE | 
+[V:3] !fermata!B4c3_B | 
+[V:4] !fermata!G,,4C,_B,, A,,G,, | 
+[V:1] A2G2G2F2 | 
+[V:2] F2-FE/D/E3D/C/ | 
+[V:3] c/_B/c dG c_B AB/A/ | 
+[V:4] F,,A,, _B,,=B,, C,^C,D,2- | 
+[V:1] !fermata!E8 ||  
+[V:2] B,DC4!fermata!B,2 ||  
+[V:3] ^G2A4!fermata!^G2 ||  
+[V:4] D,=C,/B,,/ C,D,!fermata!E,4 ||  
+[V:1] B4c4 | 
+[V:2] G4G4 | 
+[V:3] e4e4 | 
+[V:4] E,,2E,4D,C, | 
+[V:1] !fermata!d4z2B2 | 
+[V:2] !fermata!G4x2G2 | 
+[V:3] !fermata!B4x2d2 | 
+[V:4] !fermata!G,4z2G,,A,, | 
+[V:1] d2c2B2A2 | 
+[V:2] G3A2G2^F | 
+[V:3] d2edd2ed/c/ | 
+[V:4] B,,2E,,^F,, G,,B,, C,D, | 
+[V:1] !fermata!G4B2c2 | 
+[V:2] !fermata!D4G2A2- | 
+[V:3] !fermata!B4e2e2 | 
+[V:4] !fermata!G,,4E,,E,D,C, | 
+[V:1] d2Bcd2c2 | 
+[V:2] AG/^F/G2G3F | 
+[V:3] d2dcB3A- | 
+[V:4] B,,B,2A, G,^F,E,2- | 
+[V:1] B2A2!fermata!G2A2 | 
+[V:2] B,/C/D ED/C/!fermata!B,2D2 | 
+[V:3] AG2^F!fermata!G2FG | 
+[V:4] E,B,,C,D,!fermata!G,,2D,E, | 
+[V:1] A2G2F2E2 | 
+[V:2] D_ED^CD3C | 
+[V:3] Ac2_B- BB EA/G/ | 
+[V:4] F,^F,G,2-G,^G, A,A,, | 
+[V:1] !fermata!D4D2A2 | 
+[V:2] !fermata!A,4D2E2 | 
+[V:3] !fermata!^F4B2^c2 | 
+[V:4] !fermata!D,4G,,G,2^F,/E,/ | 
+[V:1] A2G2A2B2 | 
+[V:2] A,^F2EF3E/^D/ | 
+[V:3] d3=c/B/ c^F- FG/A/ | 
+[V:4] ^F,B,E,2-E,^D,/^C,/ D,B,, | 
+[V:1] c2B2A4 | 
+[V:2] E=D2G2^F/E/F2 | 
+[V:3] GA2G e/=d/c2B/A/ | 
+[V:4] E,^F,G,E, C,A,,D,2 | 
+[V:1] !fermata!G4G2=FG | 
+[V:2] !fermata!D4DEDE | 
+[V:3] !fermata!B4B_B AG | 
+[V:4] !fermata!G,,4G,^C,D,2- | 
+[V:1] A2G2G2F2 | 
+[V:2] FEDG ^CA,D2 | 
+[V:3] F3E/D/ EF/G/ AB- | 
+[V:4] D,=C,=B,,_B,,A,,3^G,, | 
+[V:1] !fermata!E8 |]  
+[V:2] ^C2=C2!fermata!B,4 |]  
+[V:3] BA/^G/A2-A^G/^F/!fermata!^G2 |]  
+[V:4] A,,=B,,=C,D,!fermata!E,4 |]

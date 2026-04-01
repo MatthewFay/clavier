@@ -1,0 +1,76 @@
+X:1
+T:from /workspace/data/raw_mid/bach/organ/catech7.mid
+M:4/4
+L:1/8
+Q:1/4=50
+K:Gmaj% 0 sharps
+V:1
+%%MIDI program 62
+z3z/2^e'<g=e'/2 z/2z/2d'| \
+z/2z/2z/2z/2 ^az/2z/2 =az/2z/2 z/2z/2e'| \
+z/2z/2g z/2z/2^e3/2z/2z/2z/2 e3/2c'/2| \
+^d3/2a/2 z/2z/2g z/2z/2^e2z/2z/2|
+^dz/2z/2 cz/2z/2 ^Az/2z/2 z/2z/2^e| \
+z/2z/2e z/2z/2d' z/2z/2c' z/2z/2^a| \
+z/2z/2a z/2z/2g3/2z/2z/2z/2 g3/2^a/2| \
+c3/2a/2 z/2z/2g z/2z/2^a z/2z/2z/2z/2|
+g3z/2z/2 fz/2z/2 z/2z/2^a| \
+z/2z/2z/2z/2 z/2z/2d'3/2z/2z/2z/2 d'3/2^e'/2| \
+a3/2d'/2 z/2z/2^a z/2z/2d' z/2z/2g| \
+z/2z/2^c2-c/2^e'<g=e'/2 z/2z/2g|
+z/2z/2^e z/2z/2^a z/2z/2=a z/2z/2g| \
+z/2z/2z/2z/2 z/2z/2d' z/2z/2c' z/2z/2^a| \
+z/2z/2a z/2z/2z/2z/2 ^Aa z/2z/2z/2z/2| \
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 [ad]2|
+V:2
+%%clef bass
+%%MIDI program 81
+z2 z/2z/2z/2d3/2z/2z/2 z/2d3/2| \
+a<A d/2z/2z/2ez/2z/2d2z/2| \
+z/2^cz/2 z/2A3/2 A<^A, G/2z/2z/2^E/2-| \
+^E/2z/2z/2z/2 z/2Dz/2 z/2Cz/2 z/2z/2z/2G/2-|
+G/2z/2z/2^A,z/2z/2Dz/2z/2^E2z/2| \
+z/2Gz/2 z/2^Ez/2 z/2=ez/2 z/2gz/2| \
+z/2cz/2 z/2^A3/2 A<C =A/2z/2z/2G/2-| \
+Gz/2z/2 z/2Gz/2 z/2Dz/2 z/2C3/2-|
+C/2z/2z/2z/2 z/2z/2z/2^Dz/2z/2z/2 z/2^A,3/2| \
+G<^C E<A, ^e<G =e/2z/2z/2d/2-| \
+d/2z/2z/2z/2 z/2^Az/2 z/2Gz/2 z/2Ez/2| \
+z/2^Cz/2 z/2z/2z/2^E3/2z/2z/2 z/2Dz/2|
+z/2Dz/2 z/2Dz/2 z/2Dz/2 z/2D3/2| \
+^A<^C E<=A, z/2^Az/2 z/2=Az/2| \
+z/2Gz/2 z/2F2z/2z/2z/2 z/2z/2z/2z/2| \
+z/2z/2z/2z/2 z/2z/2z/2z/2 z/2z/2z/2z/2 z/2F3/2-|
+F/2
+V:3
+%%MIDI program 88
+z2 [D,D,]2 [E,E,]2 [^E,E,]2| \
+[F,F,]2 [G,G,]2 [^E,E,]2 [=E,E,]2| \
+[E,E,]2 [^E,E,]2 [G,G,]2 [A,A,]2| \
+[^E,E,]2 [^A,A,]2 [=A,A,]2 [G,-G,-]2|
+[G,G,]2 [^E,E,]4 [A,A,]2| \
+[A,A,]2 [A,A,]2 [A,A,]2 [G,G,]2| \
+[F,F,]2 [G,G,]2 [G,G,]2 [G,G,]2| \
+[A,A,]2 [^A,A,]2 [A,A,]2 [=A,A,]2|
+[G,G,]2 [A,A,]4 [G,-G,-]2| \
+[G,G,]2 [D,D,]2 [E,E,]2 [^E,E,]2| \
+[^E,E,]2 [G,G,]2 [G,G,]2 [A,A,]2| \
+[A,A,]2 [A,A,]2 [A,A,]2 [^A,A,]2|
+[A,A,]2 [G,G,]2 [^E,E,]2 [=E,-E,-]2| \
+[E,E,]2 [D,-D,-]6|[D,-D,-]8|[D,D,]8|
+V:4
+%%MIDI program 19
+z2 [D,D,]2 [E,E,]2 [^E,E,]2| \
+[F,F,]2 [G,G,]2 [^E,E,]2 [=E,E,]2| \
+[E,E,]2 [^E,E,]2 [G,G,]2 [A,A,]2| \
+[^E,E,]2 [^A,A,]2 [=A,A,]2 [G,-G,-]2|
+[G,G,]2 [^E,E,]4 [A,A,]2| \
+[A,A,]2 [A,A,]2 [A,A,]2 [G,G,]2| \
+[F,F,]2 [G,G,]2 [G,G,]2 [G,G,]2| \
+[A,A,]2 [^A,A,]2 [A,A,]2 [=A,A,]2|
+[G,G,]2 [A,A,]4 [G,-G,-]2| \
+[G,G,]2 [D,D,]2 [E,E,]2 [^E,E,]2| \
+[^E,E,]2 [G,G,]2 [G,G,]2 [A,A,]2| \
+[A,A,]2 [A,A,]2 [A,A,]2 [^A,A,]2|
+[A,A,]2 [G,G,]2 [^E,E,]2 [=E,-E,-]2| \
+[E,E,]2 [D,-D,-]6|[D,-D,-]8|[D,D,]8|

@@ -1,0 +1,69 @@
+X:259
+T:260. Es ist gewi\sslich an der Zeit
+N:Derived from chor260.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1260965657
+%%humdrum-veritas-data 1634011951
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] a [I:setbarnb 1]| 
+[V:2] e/2d/2 | 
+[V:3] c'/2b/2 | 
+[V:4] A,/2B,/2 | 
+[V:1] a/2b/2c'ba | 
+[V:2] eagf | 
+[V:3] ae'e'/2d'/2c' | 
+[V:4] CB,/2A,/2EF/2E/2 | 
+[V:1] bb!fermata!c'a/2b/2 | 
+[V:2] fe!fermata!ee | 
+[V:3] b/2a/2 a/2g/2!fermata!ac'/2d'/2 | 
+[V:4] DE!fermata!A,A, | 
+[V:1] c'd'e'/2d'/2c' | 
+[V:2] aaba | 
+[V:3] e'f'e'e' | 
+[V:4] AG/2F/2GA | 
+[V:1] b2!fermata!a :| 
+[V:2] ag!fermata!e :| 
+[V:3] f'e'/2d'/2!fermata!c' :| 
+[V:4] DE!fermata!A, :| 
+[V:1] c' [I:setbarnb 5]| 
+[V:2] e | 
+[V:3] a | 
+[V:4] A,/2B,/2 | 
+[V:1] c'bag | 
+[V:2] ee/2d/2 c/2f/2 f/2=e/2 | 
+[V:3] agab | 
+[V:4] C/2D/2EFG | 
+[V:1] a/2b/2c'!fermata!bb | 
+[V:2] f/2g/2a!fermata!gg | 
+[V:3] c'/2d'/2_e'!fermata!e'c' | 
+[V:4] FC/2D/2!fermata!_E=E | 
+[V:1] agae | 
+[V:2] g/2f/2 f/2=e/2fc | 
+[V:3] c'c'c'c'/2b/2 | 
+[V:4] FCF/2G/2 A/2G/2 | 
+[V:1] ab!fermata!c'a/2b/2 | 
+[V:2] cf!fermata!=ec | 
+[V:3] a/2g/2f!fermata!gf/2g/2 | 
+[V:4] F/2E/2D!fermata!CF, | 
+[V:1] c'd'e'/2d'/2c' | 
+[V:2] ffee | 
+[V:3] aaaa | 
+[V:4] F_E/2D/2 C/2B,/2A, | 
+[V:1] b2!fermata!a |] 
+[V:2] fe/2d/2!fermata!c |] 
+[V:3] ag!fermata!e |] 
+[V:4] DE!fermata!A, |]

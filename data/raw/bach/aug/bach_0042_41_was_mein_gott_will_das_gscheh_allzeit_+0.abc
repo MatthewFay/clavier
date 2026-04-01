@@ -1,0 +1,85 @@
+X: 41
+T: 41. Was mein Gott will, das g'scheh allzeit
+N: Derived from chor041.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1965333937
+%%humdrum-veritas-data 1560215304
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] E [I:setbarnb 1]| 
+[V:2] C | 
+[V:3] A | 
+[V:4] A,, | 
+[V:1] GAGc | 
+[V:2] E/D/ C/D/ E/F/G | 
+[V:3] BA/B/cc/d/ | 
+[V:4] E,F,C,/D,/ E,/F,/ | 
+[V:1] cB!fermata!cc | 
+[V:2] GG!fermata!GG | 
+[V:3] e/d//c//d!fermata!ee | 
+[V:4] G,G,,!fermata!C,C, | 
+[V:1] BAd3/c/ | 
+[V:2] GF/G/A2 | 
+[V:3] ddAe- | 
+[V:4] G,D,/E,/ F,/G,/A, | 
+[V:1] BcB2 | 
+[V:2] ^GA2G | 
+[V:3] eee3/d/ | 
+[V:4] E,/D,/C,/A,,/E,2 | 
+[V:1] !fermata!A3 :|]  
+[V:2] !fermata!E3 :|]  
+[V:3] !fermata!c3 :|]  
+[V:4] !fermata!A,,3 :|]  
+[V:1] A [I:setbarnb 6]| 
+[V:2] E | 
+[V:3] c/B/ | 
+[V:4] A,/G,/ | 
+[V:1] AAB3/A/ | 
+[V:2] D/E/^FG3/A/ | 
+[V:3] Add3/^d/ | 
+[V:4] ^F,E,/D,/ G,/D,/G,/F,/ | 
+[V:1] BGG^F | 
+[V:2] GEED | 
+[V:3] eBAA | 
+[V:4] E,/B,,/E,/=D,/ C,/A,,/D, | 
+[V:1] !fermata!GGAB | 
+[V:2] !fermata!DE^F=F | 
+[V:3] !fermata!BcAd | 
+[V:4] !fermata!G,,C,C/B,/ A,/^G,/ | 
+[V:1] cBA2 | 
+[V:2] E/^F/^GA3/^D/ | 
+[V:3] c/d/ee/d/c/^F/ | 
+[V:4] A,E,/D,/ C,/B,,/A,, | 
+[V:1] !fermata!BE/^F/=GA | 
+[V:2] !fermata!EB,E^F | 
+[V:3] !fermata!^GG/A/Bc | 
+[V:4] !fermata!E,E,E,^D, | 
+[V:1] GccB | 
+[V:2] EEAG | 
+[V:3] Bcdd | 
+[V:4] E,A,/G,/^F,G, | 
+[V:1] !fermata!ccBA | 
+[V:2] !fermata!GAA/G/ G/F/ | 
+[V:3] !fermata!eef/e/ e/d/ | 
+[V:4] !fermata!C,A,,D,/E,/F, | 
+[V:1] d3/c/Bc | 
+[V:2] F3/E/DC/D/ | 
+[V:3] d/c/B/A/e2- | 
+[V:4] B,,/C,/D,^G,,/E,/C,/A,,/ | 
+[V:1] B2!fermata!A |]  
+[V:2] E2!fermata!E |]  
+[V:3] e/A/^G!fermata!^c |]  
+[V:4] E,2!fermata!A,, |]

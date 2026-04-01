@@ -1,0 +1,57 @@
+X:174
+T:175. Jesus, meine Zuversicht
+N:Derived from chor175.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3824543019
+%%humdrum-veritas-data 1835500181
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] ecfg | 
+[V:2] cA/2B/2cc | 
+[V:3] aeag | 
+[V:4] A,A,/2G,/2F,^E, | 
+[V:1] aa!fermata!g2 | 
+[V:2] cf-f!fermata!^e | 
+[V:3] fc'!fermata!c'2 | 
+[V:4] F,/2G,/2 A,/2B,/2!fermata!C2 | 
+[V:1] f/2g/2aec | 
+[V:2] f=e/2c/2B-B/2E/2 | 
+[V:3] a-a/2e/2- e/2g/2 e/2c/2 | 
+[V:4] DCG,/2E,/2A, | 
+[V:1] dcB2 | 
+[V:2] A/2B/2- B/2A/2AG | 
+[V:3] f/2e/2efe/2d/2 | 
+[V:4] F,/2G,/2A,D,E, | 
+[V:1] !fermata!A4 :| 
+[V:2] !fermata!E4 :| 
+[V:3] !fermata!c4 :| 
+[V:4] !fermata!A,,4 :| 
+[V:1] c^d^ef | 
+[V:2] AB-B/2d/2 c/2A/2 | 
+[V:3] efg/2b/2 a/2f/2 | 
+[V:4] A,/2A,,/2A,G,A,/2=D/2 | 
+[V:1] gg!fermata!f2 | 
+[V:2] d/2B/2 G/2c/4B/4!fermata!A2 | 
+[V:3] f3/2^e/2!fermata!f2 | 
+[V:4] B,/2G,/2C!fermata!F,2 | 
+[V:1] gabc' | 
+[V:2] =eeee | 
+[V:3] bc'ba | 
+[V:4] =E/2D/2C/2B,/2 A,/2G,/2A,/2B,/2 | 
+[V:1] b3/2a/2!fermata!a2 |] 
+[V:2] f/2d/2 B/2e/4d/4!fermata!c2 |] 
+[V:3] ag!fermata!e2 |] 
+[V:4] D/2B,/2E!fermata!A,2 |]

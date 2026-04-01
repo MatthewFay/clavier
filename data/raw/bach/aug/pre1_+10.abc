@@ -1,0 +1,99 @@
+X:1
+T:from /workspace/data/raw_mid/bach/partitas/pre1.mid
+M:4/2
+L:1/8
+Q:1/4=84
+K:Abmaj% 2 flats
+V:1
+%%MIDI program 74
+z3a/2z/2 z/2g/2a ba c'a d'a/2z/2 z/2g/2a c'a| \
+d'a e'a/2z/2 z/2g/2a f'a g'a a'g'/2f'/2 e'/2z/2a' b/2c'/2d'-| \
+d'c'/2b/2 c'/2b/2a3/2z/2f/2g/2 a/2b/2c'2b/2a/2 b/2a/2g3/2z/2e/2f/2 g/2a/2b-| \
+ba/2g/2 a/2g/2f3/2z/2g/2a/2 b/2c'/2=d'/2e'/2 f'2<a2 g2 a2|
+b2 c'3/2z/2 ba b2 c'2 d'2 d'=d' e'2| \
+f'4 e'4 =d'2 e'6-| \
+e'2 z2 e'2 c'2 a2 d'2 f'2 b'2-| \
+b'4 e'4<a'4 g'f' g'_f'|
+f'2 _f'z f'2 =f'2 g'2 a2 f'2 g'2| \
+a'2 b2 d'2 c'2 b2 a/2b/2c'3/2z/2b/2a/2 g/2a/2b-| \
+b/2z/2a/2g/2 a/2z/2c'/2z/2 z/2b/2c' a'6 g'3f'-| \
+f'e' =d'/2z/2b/2z/2 z/2=a/2b c'b d'b e'/2z/2b/2z/2 z/2a/2b d'b|
+e'b f'/2e'/2=d'3/2z/2c'/2b/2 a'/2g'/2f'2e'/2d'/2 z/2d'/2e'/2f'/2 e'/2d'/2e'/2c'/2 z/2d'3/2| \
+z/2e'z/2 e'3g/2a/2 b/2c'/2d'2c'/2b/2 c'/2b/2a3/2z/2c'/2d'/2 e'/2f'/2_g'-| \
+_g'f'/2e'/2 f'/2e'/2d'3/2z/2c'/2d'/2 e'/2f'/2=g'/2a'/2 b'd' e'/2d'/2c'3/2z/2b/2c'/2 d'/2e'/2f'/2g'/2| \
+a'c' d'/2c'/2b2c'/2d'/2 c'/2b/2a/2g/2 a/2g/2f/2e/2 z/2e/2f/2g/2 ae fc|
+d3z d'2 c'2 b2 a3/2z/2 c'2 b2| \
+a2 g2 b2 a4- a/2z3/2 B2 c2| \
+d2 c2 c2 d2 e2 z2 d2 c2| \
+B2 A3/2z/2 e2 d2 d2 c2 c'2 [d'b]2|
+[d'b]3/2z/2 [c'a]8 
+V:2
+%%clef treble
+%%MIDI program 71
+z2 c4 d2 e2 f4 e2| \
+d2 c4 d2 B2 c2 A4| \
+G2 Az c4<f4 B2 e2-| \
+e4 =dc d4 e6-|
+e8- e2 g2 a4-| \
+a2 g4 a2 f2 z2 b2 g2| \
+e2 a12 z2| \
+d'2 c'4 z2 c'2 b6-|
+ba gc/2z/2 z/2_c/2=c =dc _fc =f/2z/2c/2z/2 z/2_c/2=c _fc| \
+fc g2 b2 a2 g4 f3-f/2z/2| \
+_f2 =f2 z3c'/2z/2 z/2b/2c' f'b2b c'2| \
+a3-a/2z/2 =d2 e2 f2 g3/2z/2 e2 f2|
+g2 a2 =d2 e2 f2 g4 f2-| \
+f2 g2 B2 G2 E2 A6-| \
+A4 F4<B4 E2 A2-| \
+A4 GF G4 z6|
+z16| \
+z16| \
+z4 A4 _G2 [AF]2 [AF]2 [GE]2| \
+[FD]2 [EC]2 [c-_G]2 [cF]2 [B_F]2 [AE]2 C2 D2|
+E2 A,8 
+V:3
+%%MIDI program 0
+z2 A12- A2-| \
+A12 C2 D2| \
+E2 A,2 z4 A2 G4 z2| \
+c2 F4 z2 B2 zE/2z/2 z/2=D/2E FE|
+GE AE/2z/2 z/2=D/2E GE AE BE/2z/2 z/2D/2E cE| \
+=dE ed/2c/2 Be F/2G/2A2G/2F/2 G/2F/2E2G/2A/2 B/2c/2_d-| \
+dc/2B/2 c/2B/2A2c/2d/2 e/2f/2_g2f/2e/2 f/2e/2d2c/2d/2 e/2f/2=g/2a/2| \
+bd e/2d/2c2B/2c/2 d/2e/2f/2g/2 ac d/2c<BA/2G/2A/2 B/2c/2d/2c/2|
+B/2A/2G/2F/2 cz6z C2 z4| \
+z3C/2z/2 z/2_C/2=C =DC _FC =F2 A,2 B,2| \
+C2 F,2 F4 E2 =D2 E2 A,2| \
+F,2 B,2 z6 B,2 z4|
+z4 B2 c2 =d2 e2 A2 B2| \
+B,2 E,2 z8 E2 C2| \
+A,2 D4 z2 D2 C4 z2| \
+F2 B,4 z2 E2 A,2 C2 D2|
+B,2 EE,/2z/2 z/2=D,/2E, F,E, G,E, A,E,/2z/2 z/2D,/2E, G,E,| \
+A,E, B,E,/2z/2 z/2=D,/2E, CE, _DE, E2 FD E2| \
+E,2 A,2 z6 A,2 z4| \
+z2 A,2 z8 C,2 D,2|
+E,2 A,,8 
+V:4
+%%MIDI program 3
+z16| \
+z16| \
+z16| \
+z16|
+z16| \
+z16| \
+z16| \
+z16|
+z16| \
+z16| \
+z16| \
+z16|
+z16| \
+z16| \
+z16| \
+z8 z2 c'6-|
+c'b ag f'2 e'2 d'2 c'2 a'2 g'2| \
+f'2 e'2 d'2 c'2 b2 c'/2b/2a d'/2c'/2b a2| \
+z/2ga/2 aa/2z/2 z/2g/2a ba c'a d'a/2z/2 z/2g/2a c'a| \
+d'a e'a/2z/2 z/2g/2a f'a g'a a'g'/2f'/2 e'a' f'a'|
+e'g' [a'e']8 

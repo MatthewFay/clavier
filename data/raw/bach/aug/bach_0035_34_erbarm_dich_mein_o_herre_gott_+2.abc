@@ -1,0 +1,81 @@
+X:34
+T:34. Erbarm dich mein, o Herre Gott
+N:Derived from chor034.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4177136915
+%%humdrum-veritas-data 3532687628
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dmaj
+[V:1] F2 [I:setbarnb 1]| 
+[V:2] C2 | 
+[V:3] A2 | 
+[V:4] F,2- | 
+[V:1] A2A2B2c2 | 
+[V:2] F2F2F2GF | 
+[V:3] c2c2d2e2 | 
+[V:4] F,G,F,E, D,B,2^A, | 
+[V:1] d2c2!fermata!B2A2 | 
+[V:2] FB2^A!fermata!F2FG | 
+[V:3] df gf/2e/2!fermata!d2c2 | 
+[V:4] B,D,E,F,!fermata!B,,2F,E, | 
+[V:1] d2c2d2B2 | 
+[V:2] AB- BA/2G/2A3G- | 
+[V:3] f2gf/2e/2d2d2- | 
+[V:4] D,2E,A, F,D,G,2 | 
+[V:1] A2G2!fermata!F2 :| 
+[V:2] GF- FE/2D/2!fermata!C2 :| 
+[V:3] d3/2=c/2 Bc/2B/2!fermata!^A2 :| 
+[V:4] D,2E,2!fermata!F,2 :| 
+[V:1] F2 [I:setbarnb 5]| 
+[V:2] D2 | 
+[V:3] B2 | 
+[V:4] B,A, | 
+[V:1] B2B2A2d2 | 
+[V:2] G2G2GF/2E/2 F^G | 
+[V:3] d2e2-ed AB | 
+[V:4] G,F,E,D, C,D, C,B,, | 
+[V:1] c2B2!fermata!A2A2 | 
+[V:2] A/2E/2A2^G!fermata!E2F2 | 
+[V:3] Ee fe/2d/2!fermata!c2d2 | 
+[V:4] A,,C, D,E,!fermata!A,,2D,C, | 
+[V:1] d2A2B2F2 | 
+[V:2] F2-FE D^C ^DE | 
+[V:3] d2-d=cB2B2 | 
+[V:4] B,,C,D,F,, G,,A,,B,,C, | 
+[V:1] BAG2!fermata!F2F2 | 
+[V:2] F3E- E!fermata!^D=D2 | 
+[V:3] B2B2!fermata!B2B2 | 
+[V:4] ^D,B,, E,E,,!fermata!B,,2B,A, | 
+[V:1] B2B2AGF2 | 
+[V:2] D=F2EE2D2 | 
+[V:3] Bd2c/2B/2c2dc | 
+[V:4] G,2^G,2A,2B,A, | 
+[V:1] G2E2!fermata!D2D2 | 
+[V:2] D2-DC!fermata!A,2A,2 | 
+[V:3] B2A3/2G/2!fermata!F2F2 | 
+[V:4] G,E, A,A,,!fermata!D,2D,2 | 
+[V:1] A4B2c2 | 
+[V:2] E2FED2E2 | 
+[V:3] A2de fga2 | 
+[V:4] C,2D,C,B,,2A,,G,, | 
+[V:1] d2A2B2A2 | 
+[V:2] FG AFG2-GF- | 
+[V:3] A2d2d2-d3/2=c/2 | 
+[V:4] F,,E,,F,,D,, G,,B,,D,2 | 
+[V:1] G3G!fermata!F2 |] 
+[V:2] FE- ED!fermata!C2 |] 
+[V:3] B^c/2d/2 cB!fermata!^A2 |] 
+[V:4] E,4!fermata!F,2 |]

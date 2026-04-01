@@ -1,0 +1,65 @@
+X:203
+T:204. Wer wei\ss, wie nahe mir mein Ende
+N:Derived from chor204.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 540402161
+%%humdrum-veritas-data 3673936139
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] E [I:setbarnb 1]| 
+[V:2] C | 
+[V:3] A | 
+[V:4] A,, | 
+[V:1] ABcB | 
+[V:2] EEEE/2D/2 | 
+[V:3] cBA^G | 
+[V:4] A,^G,A,E, | 
+[V:1] AB^G2 | 
+[V:2] CFE2 | 
+[V:3] AdB2 | 
+[V:4] F,D,E,2 | 
+[V:1] !fermata!E=GGF | 
+[V:2] !fermata!B,EED | 
+[V:3] !fermata!^GBcG | 
+[V:4] !fermata!E,,E,A,,B,, | 
+[V:1] EAA^G | 
+[V:2] CC/2D/2EE | 
+[V:3] GA/2B/2cB | 
+[V:4] C,F,E,E, | 
+[V:1] !fermata!A3 :| 
+[V:2] !fermata!E3 :| 
+[V:3] !fermata!c3 :| 
+[V:4] !fermata!A,,3 :| 
+[V:1] B [I:setbarnb 6]| 
+[V:2] ^G | 
+[V:3] e | 
+[V:4] E, | 
+[V:1] cdee | 
+[V:2] A=GGA | 
+[V:3] edcc | 
+[V:4] A,B,C/2B,/2 A,/2G,/2 | 
+[V:1] d3/2d/2!fermata!ce | 
+[V:2] AG!fermata!GG | 
+[V:3] cB!fermata!ec | 
+[V:4] F,G,!fermata!C,C | 
+[V:1] dcBA/2B/2 | 
+[V:2] ^GAA/2G/2A | 
+[V:3] def/2e/4d/4 c/2d/2 | 
+[V:4] B,A,D,/2E,/2F, | 
+[V:1] cB!fermata!A |] 
+[V:2] A^G!fermata!E |] 
+[V:3] e3/2d/2!fermata!^c |] 
+[V:4] E,/2D,/2E,!fermata!A,, |]

@@ -1,0 +1,65 @@
+X:51
+T:51. Gelobet seist du, Jesu Christ
+N:Derived from chor051.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 875795336
+%%humdrum-veritas-data 1921389680
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Ebmaj
+[V:1] e2 [I:setbarnb 1]| 
+[V:2] B2 | 
+[V:3] g2 | 
+[V:4] ED | 
+[V:1] e2e2f2e2 | 
+[V:2] c2Bcd2c2 | 
+[V:3] a2g2fbg2 | 
+[V:4] CDE2B,2CB, | 
+[V:1] a2b2!fermata!a4 | 
+[V:2] e2e_d!fermata!c4 | 
+[V:3] c'ag2!fermata!e4 | 
+[V:4] A,2E,2!fermata!A,4 | 
+[V:1] gab2c'2ba | 
+[V:2] efg2agf2 | 
+[V:3] c'2_d'2e'2b2 | 
+[V:4] C2B,2A,2D,2 | 
+[V:1] g2f2!fermata!e2e2 | 
+[V:2] e2d2!fermata!B2Bc | 
+[V:3] b2ba!fermata!g2e2 | 
+[V:4] E,G,B,2!fermata!E,2G,2 | 
+[V:1] a2gab2f2 | 
+[V:2] d2e2e2dc | 
+[V:3] f2ba geb2 | 
+[V:4] F,2E,F, G,A, B,A, | 
+[V:1] edc2!fermata!B2B2 | 
+[V:2] BG=A2!fermata!F2F2 | 
+[V:3] b2fe!fermata!d2de | 
+[V:4] G,E,F,2!fermata!B,,2B,C | 
+[V:1] f2f2f2g2 | 
+[V:2] B2=A2d2e2 | 
+[V:3] fg =ac'b2b2 | 
+[V:4] DE F=A, B,_A,G,2 | 
+[V:1] _agf2efg2 | 
+[V:2] fe ed cf Bc | 
+[V:3] c'bc'b bag=a | 
+[V:4] F,G,A,B, CD EE, | 
+[V:1] !fermata!f4e2e2 | 
+[V:2] !fermata!d4Bc_d2 | 
+[V:3] !fermata!b4b2g2 | 
+[V:4] !fermata!B,4G,F,E,2 | 
+[V:1] e4!fermata!e2 |] 
+[V:2] c4!fermata!B2 |] 
+[V:3] e2a2!fermata!g2 |] 
+[V:4] A,C/2B,/2 A,A,,!fermata!E,2 |]

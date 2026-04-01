@@ -1,0 +1,57 @@
+X: 153
+T: 154. Der du bist drei in Einigkeit
+N: Derived from chor154.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3041684320
+%%humdrum-veritas-data 3459903223
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] A [I:setbarnb 1]| 
+[V:2] D- | 
+[V:3] F | 
+[V:4] D, | 
+[V:1] GDFG | 
+[V:2] D/CB,//^C// D/=C/B, | 
+[V:3] GGAG- | 
+[V:4] E,G,D,E,/D,/ | 
+[V:1] AA!fermata!GA | 
+[V:2] ED/C/!fermata!B,D- | 
+[V:3] G^F!fermata!DF | 
+[V:4] C,D,!fermata!G,,D, | 
+[V:1] GDFG | 
+[V:2] D/CB,//^C// D/=C/B, | 
+[V:3] GGAG- | 
+[V:4] E,G,D,E,/D,/ | 
+[V:1] AA!fermata!GA | 
+[V:2] ED!fermata!DF | 
+[V:3] G^F/c/!fermata!Bc | 
+[V:4] C,D,!fermata!G,,F,/E,/ | 
+[V:1] BcAG | 
+[V:2] F-F/E/- E/D/D | 
+[V:3] dGA//B//cB/ | 
+[V:4] D,C,F,/^F,/G, | 
+[V:1] G=F!fermata!EF | 
+[V:2] E3/D/!fermata!^CD/=C/ | 
+[V:3] c/_B/A!fermata!AA | 
+[V:4] C,/^C,/D,!fermata!A,,D, | 
+[V:1] GDFG | 
+[V:2] =B,/CB,//^C// D/=C/B, | 
+[V:3] GGAG- | 
+[V:4] E,G,D,E,/D,/ | 
+[V:1] AA!fermata!G |]  
+[V:2] ED/C/!fermata!B, |]  
+[V:3] G^F!fermata!D |]  
+[V:4] C,D,!fermata!G,, |]

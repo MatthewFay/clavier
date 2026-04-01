@@ -1,5 +1,6 @@
 import argparse
 import json
+import random
 import re
 from pathlib import Path
 
@@ -91,7 +92,7 @@ def clean_abc_text(raw_abc: str, composer: str) -> str:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Clean and compile ABC files into a tightly packed JSONL dataset."
+        description="Clean and compile ABC files into train/val JSONL datasets."
     )
     parser.add_argument(
         "--composer",
@@ -116,7 +117,6 @@ def main() -> None:
         else project_root / "data" / "raw" / composer
     )
     output_dir: Path = project_root / "data" / "processed" / composer
-    output_file: Path = output_dir / f"{composer}.jsonl"
 
     if not input_dir.exists():
         print(f"Error: Input directory {input_dir} does not exist.")
@@ -130,33 +130,51 @@ def main() -> None:
         return
 
     print(f"Found {len(abc_files)} files for {composer}.")
-    print(f"Compiling tightly packed sequences to {output_file}...")
 
-    success_count: int = 0
-    with open(output_file, "w", encoding="utf-8") as outfile:
-        for file_path in tqdm(abc_files, desc="Processing"):
-            try:
-                with open(file_path, encoding="utf-8") as infile:
-                    raw_text: str = infile.read()
+    # --- THE SPLIT: Shuffle and divide 90/10 ---
+    random.seed(42)  # Ensures the split is reproducible if you run it twice
+    random.shuffle(abc_files)
 
-                cleaned_text: str = clean_abc_text(raw_text, composer)
+    split_idx = int(len(abc_files) * 0.9)
+    splits = {"train": abc_files[:split_idx], "val": abc_files[split_idx:]}
 
-                # Skip files that failed the gatekeeper checks
-                if not cleaned_text:
-                    continue
+    print(f"Splitting data: {len(splits['train'])} Train, {len(splits['val'])} Val.")
 
-                record: dict[str, str] = {"composer": composer, "text": cleaned_text}
+    for split_name, files in splits.items():
+        output_file: Path = output_dir / f"{composer}_{split_name}.jsonl"
+        print(f"Compiling loosely packed sequences to {output_file}...")
 
-                outfile.write(json.dumps(record) + "\n")
-                success_count += 1
+        success_count: int = 0
+        with open(output_file, "w", encoding="utf-8") as outfile:
+            for file_path in tqdm(files, desc=f"Processing {split_name}"):
+                try:
+                    with open(file_path, encoding="utf-8") as infile:
+                        raw_text: str = infile.read()
 
-            except Exception as e:
-                tqdm.write(f"Failed to process {file_path.name}: {e}")
+                    cleaned_text: str = clean_abc_text(raw_text, composer)
+
+                    # Skip files that failed the gatekeeper checks
+                    if not cleaned_text:
+                        continue
+
+                    record: dict[str, str] = {
+                        "composer": composer,
+                        "text": cleaned_text,
+                    }
+
+                    outfile.write(json.dumps(record) + "\n")
+                    success_count += 1
+
+                except Exception as e:
+                    tqdm.write(f"Failed to process {file_path.name}: {e}")
+
+        print(
+            f"""Successfully processed {success_count} / {len(files)}
+            files for {split_name}."""
+        )
 
     print("\n" + "=" * 50)
     print("Dataset compilation complete!")
-    print(f"Successfully processed {success_count} / {len(abc_files)} files.")
-    print(f"Output: {output_file}")
     print("=" * 50)
 
 

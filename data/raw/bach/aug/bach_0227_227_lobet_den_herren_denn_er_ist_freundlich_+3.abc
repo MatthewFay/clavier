@@ -1,0 +1,101 @@
+X:226
+T:227. Lobet den Herren, denn er ist freundlich
+N:Derived from chor227.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2507856164
+%%humdrum-veritas-data 38798493
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] B2 [I:setbarnb 1]| 
+[V:2] FE | 
+[V:3] dc | 
+[V:4] B,,C, | 
+[V:1] F2B2B4 | 
+[V:2] DEF2-FE/2D/2 CB, | 
+[V:3] Bcd2-dc/2B/2e2 | 
+[V:4] D,C,B,,2_G,4 | 
+[V:1] !fermata!c4z2c2 | 
+[V:2] !fermata!F4x2=A2 | 
+[V:3] !fermata!=A4x2f2 | 
+[V:4] !fermata!F,4z2F,2 | 
+[V:1] def2=e4 | 
+[V:2] B2c2c4 | 
+[V:3] fga2gf g/2=a/2b | 
+[V:4] B,2_A,B,C4 | 
+[V:1] !fermata!f4d2d2 | 
+[V:2] !fermata!c4Bcd2- | 
+[V:3] !fermata!=a4f2_a2 | 
+[V:4] !fermata!F,4B,A, _G,F, | 
+[V:1] e2e2f4 | 
+[V:2] d2c2d3_c | 
+[V:3] b2a2a2a2 | 
+[V:4] _G,E, A,A,, D,E,F,D, | 
+[V:1] !fermata!d4z2f2 | 
+[V:2] !fermata!B4x2d2 | 
+[V:3] !fermata!_g4x2a2 | 
+[V:4] !fermata!_G,4z2D,2 | 
+[V:1] e2e2e2c2 | 
+[V:2] cB AG AB cB | 
+[V:3] adcB cde2- | 
+[V:4] A,B,CD CB,A,G, | 
+[V:1] f2e2d2c2 | 
+[V:2] c=A Bc- cB- BA | 
+[V:3] ed- dc d/2e/2f f3/2e/2 | 
+[V:4] =A,F,G,A,B,2F,2 | 
+[V:1] B4!fermata!c4 | 
+[V:2] B3/2=A/2 BB,!fermata!F4 | 
+[V:3] df2e!fermata!=A4 | 
+[V:4] _G,4!fermata!F,4 | 
+[V:1] d2c2B2=A2 | 
+[V:2] FG _A=A B_GF2- | 
+[V:3] B2e2fe/2d/2c2 | 
+[V:4] B,,2C,2D,E, F,E, | 
+[V:1] B4!fermata!c4 | 
+[V:2] FEFD!fermata!F4 | 
+[V:3] BFB4!fermata!=A2 | 
+[V:4] D,C,D,B,,!fermata!F,4 | 
+[V:1] z2f2d2d2 | 
+[V:2] x2=A2F2B2 | 
+[V:3] x2c2Bc de | 
+[V:4] z2F,2B,_A,_G,2 | 
+[V:1] d2f2e2d2 | 
+[V:2] A2-AB/2A/2 G=AB2- | 
+[V:3] f_g fd Bc d/2e/2f | 
+[V:4] F,E,D,2-D,C, B,,D, | 
+[V:1] c2B2c4 | 
+[V:2] B=AB2B2A2 | 
+[V:3] _gf/2e/2 de/2f/2_g2f3/2e/2 | 
+[V:4] E,F,_G,F, E,C,F,2 | 
+[V:1] !fermata!B4z2B2 | 
+[V:2] !fermata!F4x2F2 | 
+[V:3] !fermata!d4x2dc | 
+[V:4] !fermata!B,,4z2B,,C, | 
+[V:1] F2B2B4 | 
+[V:2] F2F2-FE/2D/2 CB, | 
+[V:3] Bc dcB3e | 
+[V:4] D,C,B,,A,,_G,,4 | 
+[V:1] !fermata!c4z2c2 | 
+[V:2] !fermata!F4x2=A2 | 
+[V:3] !fermata!=A4x2f2 | 
+[V:4] !fermata!F,,4z2F,2 | 
+[V:1] def2=e4 | 
+[V:2] B2cG G=AB2 | 
+[V:3] f2cdc4 | 
+[V:4] B,2_A,B,C2C,2 | 
+[V:1] !fermata!f6 |] 
+[V:2] !fermata!=A6 |] 
+[V:3] !fermata!c6 |] 
+[V:4] !fermata!F,6 |]

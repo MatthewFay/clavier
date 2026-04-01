@@ -1,0 +1,57 @@
+X: 186
+T: 187. Komm, Gott Sch\"opfer, heiliger Geist
+N: Derived from chor187.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 198543158
+%%humdrum-veritas-data 2483333889
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] G [I:setbarnb 1]| 
+[V:2] D/E/ | 
+[V:3] B | 
+[V:4] G, | 
+[V:1] AGFG | 
+[V:2] F-F/E/- E/D//C// B,/E/- | 
+[V:3] ccAG/c//B// | 
+[V:4] F,C,D,E, | 
+[V:1] cd!fermata!cc | 
+[V:2] E/C/ G/F/!fermata!EC/D/ | 
+[V:3] c/f/B!fermata!GA | 
+[V:4] A,,G,,!fermata!C,F, | 
+[V:1] GBcd | 
+[V:2] EFGG | 
+[V:3] B/c/ded- | 
+[V:4] E,D,C,3/B,,/ | 
+[V:1] ee!fermata!dd | 
+[V:2] G-G/^F/!fermata!GG | 
+[V:3] d/c//B// c/A/!fermata!BB | 
+[V:4] C,C,,!fermata!G,,G, | 
+[V:1] e/d/cAG | 
+[V:2] GG-G/=F/- F/E/ | 
+[V:3] c/B/ccc | 
+[V:4] C,E,F,C | 
+[V:1] B^c!fermata!dG | 
+[V:2] GG!fermata!AE | 
+[V:3] de!fermata!fB | 
+[V:4] G,/F,/E,!fermata!D,E, | 
+[V:1] =cAFA | 
+[V:2] E/D/E-E/D//E//F- | 
+[V:3] AAA/_B/c | 
+[V:4] A,,/B,,/C,D,A,, | 
+[V:1] G2!fermata!G |]  
+[V:2] FE!fermata!D |]  
+[V:3] d-d/c/- c/!fermata!=B/ |]  
+[V:4] =B,,C,!fermata!G,, |]

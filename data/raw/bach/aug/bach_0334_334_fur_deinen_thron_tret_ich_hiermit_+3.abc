@@ -1,0 +1,89 @@
+X:333
+T:334. F\"ur deinen Thron tret ich hiermit
+N:Derived from chor334.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3243356374
+%%humdrum-veritas-data 1888084013
+%%
+%%barnumbers 0
+L:1/4
+M:3/4
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] c | 
+[V:3] a | 
+[V:4] F, | 
+[V:1] f2e | 
+[V:2] d2c | 
+[V:3] a2a | 
+[V:4] D,F,A, | 
+[V:1] d2c | 
+[V:2] B2A | 
+[V:3] f2f | 
+[V:4] B,DF | 
+[V:1] fg2 | 
+[V:2] Adc | 
+[V:3] f2e | 
+[V:4] DB,C | 
+[V:1] !fermata!a2a | 
+[V:2] !fermata!c2e | 
+[V:3] !fermata!f2e | 
+[V:4] !fermata!F,2^C | 
+[V:1] a2a | 
+[V:2] d2d | 
+[V:3] f2f | 
+[V:4] D2C | 
+[V:1] g2a | 
+[V:2] dcc | 
+[V:3] fef | 
+[V:4] =B,CA, | 
+[V:1] ba2 | 
+[V:2] cfc | 
+[V:3] gcf | 
+[V:4] E,F,A, | 
+[V:1] !fermata!g2f | 
+[V:2] !fermata!c2d | 
+[V:3] !fermata!e2a | 
+[V:4] !fermata!C2D | 
+[V:1] g2a | 
+[V:2] c2c | 
+[V:3] g2f | 
+[V:4] E2F | 
+[V:1] g2f | 
+[V:2] dc/2B/2A | 
+[V:3] fef | 
+[V:4] B,CD | 
+[V:1] de2 | 
+[V:2] dd^c | 
+[V:3] fba | 
+[V:4] B,G,A, | 
+[V:1] !fermata!f2c' | 
+[V:2] !fermata!d2=c | 
+[V:3] !fermata!a2g | 
+[V:4] !fermata!D,2E | 
+[V:1] a2f | 
+[V:2] c2d | 
+[V:3] a2a | 
+[V:4] FED | 
+[V:1] g2b | 
+[V:2] c2c | 
+[V:3] g2e | 
+[V:4] EDC | 
+[V:1] ag2 | 
+[V:2] cB2 | 
+[V:3] cde | 
+[V:4] FB,C | 
+[V:1] !fermata!f2 |] 
+[V:2] !fermata!A2 |] 
+[V:3] !fermata!c2 |] 
+[V:4] !fermata!F,2 |]

@@ -1,0 +1,249 @@
+X:204
+T:205. Herr Gott, dich loben wir
+N:Derived from chor205.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 53242805
+%%humdrum-veritas-data 371964014
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] c2 [I:setbarnb 1]| 
+[V:2] G2 | 
+[V:3] e2 | 
+[V:4] C,2 | 
+[V:1] e2f2a2f2 | 
+[V:2] c2d2-dcB2 | 
+[V:3] g2b2e2-ed | 
+[V:4] C2B,2A,2B,2 | 
+[V:1] !fermata!f4z2a2 | 
+[V:2] !fermata!A4x2c^d | 
+[V:3] !fermata!c4x2ab | 
+[V:4] !fermata!F,4z2F2 | 
+[V:1] a2g2f2f2 | 
+[V:2] ef- fe- e^d/2c/2d2 | 
+[V:3] c'bb2c'/2b/2a2b/2a/2 | 
+[V:4] C^DE2A,2B,2 | 
+[V:1] !fermata!e6 |] 
+[V:2] !fermata!B6 |] 
+[V:3] !fermata!g6 |] 
+[V:4] !fermata!E,6 |] 
+[V:1] a2 [I:setbarnb 5]| 
+[V:2] e2- | 
+[V:3] c'2- | 
+[V:4] C2 | 
+[V:1] a2a2g2f2 | 
+[V:2] e^d/2c/2 df- fe/2d/2 c B | 
+[V:3] c'b/2a/2b2-b2ab/2a/2 | 
+[V:4] F2B,C/2^D/2E3D | 
+[V:1] g2f2!fermata!f2f2 | 
+[V:2] Be2^d/2c/2!fermata!d2ce- | 
+[V:3] gc'/2b/2^a2!fermata!b2c'2 | 
+[V:4] ECF2!fermata!B,2^A,2 | 
+[V:1] f2e2f2g2 | 
+[V:2] e=d- dc/2B/2A2B/2c/2d | 
+[V:3] b3=a/2g/2 fed2 | 
+[V:4] B,2C2DCB,2 | 
+[V:1] a2f2!fermata!e2 :||: 
+[V:2] c/2^d/2e2d!fermata!B2 :||: 
+[V:3] ec' b3/2a/2!fermata!g2 :||: 
+[V:4] A,2B,2!fermata!E,2 :||: 
+[V:1] c2 [I:setbarnb 9]| 
+[V:2] A2 | 
+[V:3] e2- | 
+[V:4] A,2 | 
+[V:1] e2f2g2g2 | 
+[V:2] B2cB/2A/2 d/2c/2B2c/2B/2 | 
+[V:3] ef/2g/2 af- f^e/2^d/2^e2 | 
+[V:4] G,2F,D B,G,C2 | 
+[V:1] !fermata!f6 :| 
+[V:2] !fermata!A6 :| 
+[V:3] !fermata!c6 :| 
+[V:4] !fermata!F,6 :| 
+[V:1] g2 [I:setbarnb 11]| 
+[V:2] ef | 
+[V:3] c'^b | 
+[V:4] C^D | 
+[V:1] g2gab2f2 | 
+[V:2] e2e2e2-e=d/2c/2 | 
+[V:3] c'2c'2=b2c'f- | 
+[V:4] E^DC2G,2^A,2 | 
+[V:1] f2e2f2g2 | 
+[V:2] d3c/2B/2 AB/2c/2d2 | 
+[V:3] fb/2a/2 ga/2g/2 fg/2a/2b2 | 
+[V:4] B,2E2DCB,2 | 
+[V:1] a2f2!fermata!e2 |] 
+[V:2] c/2^d/2e2d!fermata!B2 |] 
+[V:3] ec' b3/2a/2!fermata!g2 |] 
+[V:4] A,2B,2!fermata!E,2 |] 
+[V:1] a2 [I:setbarnb 14]| 
+[V:2] e=d | 
+[V:3] a2 | 
+[V:4] CB, | 
+[V:1] a2a2g2f2 | 
+[V:2] c^d ef- fe- ed | 
+[V:3] e2-ebb2b2 | 
+[V:4] A,B,C^DE2B,2 | 
+[V:1] g2f2!fermata!f2f2 | 
+[V:2] e^dc2!fermata!d2B2 | 
+[V:3] b3^a!fermata!b2=de | 
+[V:4] E,2F,2!fermata!B,,2B,C | 
+[V:1] f2e2f2g2 | 
+[V:2] =A/2F/2B- BA- AB/2A/2 GB | 
+[V:3] fde2-e^db2 | 
+[V:4] D2C2B,2E=D | 
+[V:1] a2f2!fermata!e2 :||: 
+[V:2] e3^d!fermata!B2 :||: 
+[V:3] ac' b3/2a/2!fermata!g2 :||: 
+[V:4] CA,B,2!fermata!E,2 :||: 
+[V:1] f2 [I:setbarnb 18]| 
+[V:2] =d2 | 
+[V:3] b2 | 
+[V:4] B,2 | 
+[V:1] f2f2e2g2 | 
+[V:2] c/2d/2e- e^d- dc/2d/2e2 | 
+[V:3] fc'- c'b/2a/2g2c'2 | 
+[V:4] ^A,2B,2C3^D | 
+[V:1] g2f2!fermata!f2f2 | 
+[V:2] e=de2-e!fermata!d =Ad/2c/2 | 
+[V:3] b2c'2!fermata!b2f=g | 
+[V:4] E2^A,2!fermata!B,2D2 | 
+[V:1] f2e2fga2 | 
+[V:2] d3cd2d2- | 
+[V:3] a2a2a2a2- | 
+[V:4] F,=G,A,2D,E,F,^G, | 
+[V:1] e2e2!fermata!c2 :| 
+[V:2] dcB2!fermata!A2 :| 
+[V:3] a3g!fermata!e2 :| 
+[V:4] A,2E,2!fermata!A,2 :| 
+[V:1] d2 [I:setbarnb 22]| 
+[V:2] A2- | 
+[V:3] f2 | 
+[V:4] D,2 | 
+[V:1] B2d2c2B2 | 
+[V:2] AG AB- BAB2- | 
+[V:3] e2Aee2eB | 
+[V:4] E,2F,G,A,2G,2 | 
+[V:1] c2^d2!fermata!e2e2 | 
+[V:2] BA/2G/2 AG/2F/2!fermata!G2B2 | 
+[V:3] f2-fB!fermata!B2g2 | 
+[V:4] F,2B,2!fermata!E,2E=D | 
+[V:1] e2e2f3d | 
+[V:2] cd ec Ad d/2c/2B/2^A/2 | 
+[V:3] ab c'a fa b/2c'/2d' | 
+[V:4] CB,A,2DE/2F/2=G2- | 
+[V:1] e2d2!fermata!c2=A2 | 
+[V:2] BF FB- B!fermata!^AF2 | 
+[V:3] d'c' bf!fermata!f2c2 | 
+[V:4] G^A,B,2!fermata!F,2F,2 | 
+[V:1] B2d2c2B2 | 
+[V:2] E2AB- BA- AG | 
+[V:3] B2fee2e2 | 
+[V:4] G,2F,G,A,2E,2 | 
+[V:1] d2B2!fermata!A2e2 | 
+[V:2] F/2G/2A2G!fermata!E2A2 | 
+[V:3] Af e3/2d/2!fermata!c2cd | 
+[V:4] D,2E,2!fermata!A,2A,B, | 
+[V:1] e2e2f3d | 
+[V:2] ABc2-cB/2^A/2B2- | 
+[V:3] e2a=g fd- de/2f/2 | 
+[V:4] C2A,2D,2=G,F, | 
+[V:1] e2d2!fermata!c2d2 | 
+[V:2] Bc- cB- B!fermata!^AB2- | 
+[V:3] =g2f2!fermata!f2f2 | 
+[V:4] E,2B,2!fermata!F,2B,=A, | 
+[V:1] d2d2c2B2 | 
+[V:2] BA GB- BA- AG | 
+[V:3] e2e2e2e2 | 
+[V:4] ^G,F,E,2A,2E,2 | 
+[V:1] d2B2!fermata!A2e2 | 
+[V:2] A3G!fermata!E2A2 | 
+[V:3] df e3/2d/2!fermata!c2cd | 
+[V:4] F,D,E,2!fermata!A,,2A,B, | 
+[V:1] e2e2f3d | 
+[V:2] AB cB/2c/2d2d2 | 
+[V:3] ef=g2a2b3/2a/2 | 
+[V:4] CDE2DCB,2- | 
+[V:1] e2d2!fermata!c2cd | 
+[V:2] c3B!fermata!^A2=A2 | 
+[V:3] =gff2!fermata!f2f2 | 
+[V:4] B,^A,B,2!fermata!F,2F2 | 
+[V:1] e2f2f2f2 | 
+[V:2] GA/2B/2 cB AB/2c/2d2 | 
+[V:3] ef/2g/2 ag fg/2a/2b2 | 
+[V:4] CB,A,2DCB,2 | 
+[V:1] a2f2!fermata!f2f2 | 
+[V:2] c2-c/2B/2A/2G/2!fermata!A2c2- | 
+[V:3] a/2g/2f/2e/2 fd'!fermata!c'2ab | 
+[V:4] FE DB,!fermata!F2F,G, | 
+[V:1] f2e2fga2 | 
+[V:2] cde2d2ed | 
+[V:3] c'b- ba- ab ef | 
+[V:4] A,B,C3B,CD | 
+[V:1] e2e2!fermata!c2 |] 
+[V:2] c2B2!fermata!A2 |] 
+[V:3] ga2g!fermata!e2 |] 
+[V:4] EDEE,!fermata!A,2 |] 
+[V:1] f2 [I:setbarnb 38]| 
+[V:2] c2 | 
+[V:3] a2 | 
+[V:4] F,2 | 
+[V:1] f2f2e2g2 | 
+[V:2] d2cB/2A/2G2GA/2B/2 | 
+[V:3] b2fd'- d'c'/2b/2 c'f | 
+[V:4] B,2A,B, CDED | 
+[V:1] g2g2!fermata!f2f2 | 
+[V:2] c2-c/2^d/2e e!fermata!d=d2 | 
+[V:3] e^de2!fermata!b2=a2- | 
+[V:4] CB,^A,2!fermata!B,2=DC | 
+[V:1] f2e2f2a2 | 
+[V:2] d2A2A2AB | 
+[V:3] a=g=g2fed2 | 
+[V:4] B,2C2D2F,^G, | 
+[V:1] e2e2!fermata!c2 :| 
+[V:2] c2-c/2^A/2B- B!fermata!A :| 
+[V:3] ce=g2!fermata!f2 :| 
+[V:4] A,2E,2!fermata!F,2 :| 
+[V:1] dc [I:setbarnb 42]| 
+[V:2] B2 | 
+[V:3] fe | 
+[V:4] B,2- | 
+[V:1] B2d2e2f2 | 
+[V:2] F=G/2A/2B2-Bc- cB- | 
+[V:3] d2-de/2f/2 =ga/2=g/2 fd | 
+[V:4] B,A, =G,F,E,2D,2 | 
+[V:1] e2d2!fermata!c2d2 | 
+[V:2] B^AB2!fermata!A2B2 | 
+[V:3] =gef2!fermata!f2f2 | 
+[V:4] C,2B,,2!fermata!F,2B,=A, | 
+[V:1] d2e2f2ed | 
+[V:2] B2-Bc dcB2 | 
+[V:3] =g2=g2a2=g2 | 
+[V:4] =G,F,E,2D,E,/2F,/2G,2- | 
+[V:1] e2d2!fermata!c2e2 | 
+[V:2] B2B/2^A/2B!fermata!A2B2 | 
+[V:3] =g2f^e!fermata!f2=e2 | 
+[V:4] G,E,B,2!fermata!F,2^G,2 | 
+[V:1] c2A2B4 | 
+[V:2] =A2E2F2^EF | 
+[V:3] e2c2d4 | 
+[V:4] A,6G,F, | 
+[V:1] c8- | 
+[V:2] GAB2A4- | 
+[V:3] c2g2-g2f2- | 
+[V:4] ^E,3C, F,G,A,B, | 
+[V:1] !fermata!c8 |] 
+[V:2] A2GF!fermata!G4 |] 
+[V:3] f2^e^d!fermata!^e4 |] 
+[V:4] C4!fermata!C,4 |]

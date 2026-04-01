@@ -1,0 +1,89 @@
+X:56
+T:56. Christum wir sollen loben schon
+N:Derived from chor056.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1220440182
+%%humdrum-veritas-data 3164089063
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] cd [I:setbarnb 1]| 
+[V:2] G2 | 
+[V:3] ef | 
+[V:4] C,2 | 
+[V:1] e2e2f2g2- | 
+[V:2] c2c2c2d2- | 
+[V:3] g2g2f4 | 
+[V:4] C2CB,A,2^B,2 | 
+[V:1] g2c2f2e2 | 
+[V:2] d2c2^B2c2 | 
+[V:3] efg2f2g2 | 
+[V:4] CDE2D2C2 | 
+[V:1] !fermata!d6f2 | 
+[V:2] !fermata!^B6=B2 | 
+[V:3] !fermata!g6f2 | 
+[V:4] !fermata!G,6D,2 | 
+[V:1] gab2-b2a2 | 
+[V:2] e2def2cd | 
+[V:3] c'2f2-fgab | 
+[V:4] C,2B,,C, D,E,F,2 | 
+[V:1] g2f2gab2 | 
+[V:2] e2dcB2e2 | 
+[V:3] c'ba2g2g2 | 
+[V:4] C,2D,2E,F,G,A, | 
+[V:1] !fermata!b6f2 | 
+[V:2] !fermata!d6dc | 
+[V:3] !fermata!f6bc' | 
+[V:4] !fermata!B,6B,A, | 
+[V:1] gab4a2 | 
+[V:2] Bcd4dc | 
+[V:3] d'2g4f2 | 
+[V:4] G,3A, B,CD2 | 
+[V:1] g2f2gab2- | 
+[V:2] Bcd2e2Bc | 
+[V:3] gab2efg2- | 
+[V:4] E2D2C2G,A, | 
+[V:1] b2fe def2 | 
+[V:2] d6c2 | 
+[V:3] gab2a^bc'2 | 
+[V:4] B,C DE FG=A2 | 
+[V:1] !fermata!g6cd | 
+[V:2] !fermata!d6c^B | 
+[V:3] !fermata!^b6g2 | 
+[V:4] !fermata!G6ED | 
+[V:1] e2ef g=ab2- | 
+[V:2] cde2dc B=A | 
+[V:3] g2g=a =bc'd'2 | 
+[V:4] C2C2B,=A, G,F, | 
+[V:1] b2g2fede | 
+[V:2] G=A Bcd3c | 
+[V:3] e'2e2bc'd'2- | 
+[V:4] E,F,G,=A,B,3=A, | 
+[V:1] f2e2d4- | 
+[V:2] ^B2c2-c2=BA | 
+[V:3] d'2c'ba2d2 | 
+[V:4] G,2=A,G,^^F,4 | 
+[V:1] d8- | 
+[V:2] Bcd4^e^^f | 
+[V:3] gdg2-g^^f ga | 
+[V:4] G,A, B,CD3C | 
+[V:1] d8- | 
+[V:2] g8- | 
+[V:3] b8- | 
+[V:4] B,A,G,^^F, G,B,A,G, | 
+[V:1] !fermata!d8 |] 
+[V:2] g2^^f^e!fermata!f4 |] 
+[V:3] b2ag!fermata!a4 |] 
+[V:4] D4!fermata!D,4 |]

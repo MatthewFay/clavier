@@ -1,0 +1,69 @@
+X: 284
+T: 285. W\"ar Gott nicht mit uns diese Zeit
+N: Derived from chor285.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 678402454
+%%humdrum-veritas-data 1539783163
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] c- [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] e | 
+[V:4] A, | 
+[V:1] c/B/ A/B/ c/d/e | 
+[V:2] GFE/D/C | 
+[V:3] e/d/cc/B/ A/G/ | 
+[V:4] E,F,/G,/ A,/B,/C | 
+[V:1] dd!fermata!cc | 
+[V:2] D/E/F!fermata!E^F | 
+[V:3] AB!fermata!cc | 
+[V:4] F,G,!fermata!C,A, | 
+[V:1] BA/B/cd | 
+[V:2] G^F/^G/AA/=G/ | 
+[V:3] ddeA | 
+[V:4] G,DA,/G,/ F,/E,/ | 
+[V:1] B2!fermata!A :|]  
+[V:2] =FE/D/!fermata!C :|]  
+[V:3] A^G!fermata!A :|]  
+[V:4] D,E,!fermata!A,, :|]  
+[V:1] d [I:setbarnb 5]| 
+[V:2] G | 
+[V:3] =G | 
+[V:4] B,, | 
+[V:1] eeB/c/d | 
+[V:2] GGD3/E/ | 
+[V:3] cG/A/BA/B/ | 
+[V:4] C,/D,/ E,/F,/G,^F,/^G,/ | 
+[V:1] cc!fermata!Bc | 
+[V:2] ^F/^G/A!fermata!GA | 
+[V:3] c/d/e!fermata!ee | 
+[V:4] A,/B,/ C/D/!fermata!EA,/=G,/ | 
+[V:1] dA/B/cB | 
+[V:2] A/=G/^FED/E/ | 
+[V:3] ddG/A/B | 
+[V:4] ^F,/E,/D,E,/F,/G, | 
+[V:1] AA!fermata!Gc | 
+[V:2] =FF!fermata!EA | 
+[V:3] c/B/ c/d/!fermata!e_e | 
+[V:4] A,/G,/ A,/B,/!fermata!C^F, | 
+[V:1] BA/B/cd/c/ | 
+[V:2] GA^G/B/ A/=G/ | 
+[V:3] dd=eA | 
+[V:4] G,=F,=E,/C,/ F,/E,/ | 
+[V:1] B2!fermata!A |]  
+[V:2] FE/D/!fermata!^C |]  
+[V:3] A^G!fermata!E |]  
+[V:4] D,/B,,/E,!fermata!A,, |]

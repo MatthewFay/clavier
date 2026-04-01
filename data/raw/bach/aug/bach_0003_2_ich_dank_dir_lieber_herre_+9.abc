@@ -1,0 +1,81 @@
+X:2
+T:2. Ich dank dir, lieber Herre
+N:Derived from chor002.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 534375605
+%%humdrum-veritas-data 2990617666
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] f [I:setbarnb 1]| 
+[V:2] c | 
+[V:3] a | 
+[V:4] F/2E/2 | 
+[V:1] fffg | 
+[V:2] dcdd | 
+[V:3] aa/2g/2 f/2e/2d | 
+[V:4] DA,B,^B, | 
+[V:1] =ed!fermata!cg | 
+[V:2] c^B!fermata!Ge | 
+[V:3] g3/2f/2!fermata!^ec' | 
+[V:4] CG,!fermata!C,C | 
+[V:1] agfe/2d/2 | 
+[V:2] fe/2d/2c2- | 
+[V:3] c'^ba2 | 
+[V:4] FGAG/2F/2 | 
+[V:1] ed!fermata!c :| 
+[V:2] c^B!fermata!G :| 
+[V:3] g3/2f/2!fermata!e :| 
+[V:4] GG,!fermata!C :| 
+[V:1] c' [I:setbarnb 5]| 
+[V:2] a/2g/2 | 
+[V:3] e | 
+[V:4] A, | 
+[V:1] bagf | 
+[V:2] ffef/2=e/2 | 
+[V:3] f/2g/2 a/2b/2c'c' | 
+[V:4] D/2E/2FCA,/2F,/2 | 
+[V:1] f/2g/2a!fermata!ga | 
+[V:2] d/2^e/2f!fermata!e^^f | 
+[V:3] bc'!fermata!c'c' | 
+[V:4] B,A,/2B,/2!fermata!CA, | 
+[V:1] bag^^f | 
+[V:2] g/2f/2=ed/2c/2d | 
+[V:3] d'/2g^^f/2ga | 
+[V:4] G,A,B,/2=E/2D | 
+[V:1] !fermata!g3c | 
+[V:2] !fermata!d3c/2B/2 | 
+[V:3] !fermata!b3e | 
+[V:4] !fermata!G,3A, | 
+[V:1] fgab | 
+[V:2] ABcd/2e/2 | 
+[V:3] fe/2d/2 c/2c'/2b | 
+[V:4] DC/2B,/2A,G, | 
+[V:1] c'b/2a/2!fermata!gb | 
+[V:2] f2!fermata!cg | 
+[V:3] a/2b/2c'/2d'/2!fermata!e'd' | 
+[V:4] F,/2G,/2A,/2B,/2!fermata!CG, | 
+[V:1] agc'3/2b/2 | 
+[V:2] f/2e/2dcd/2e/2 | 
+[V:3] d'/2c'/2 b/2a/2ga/2b/2 | 
+[V:4] D/2E/2FE/2C/2F- | 
+[V:1] a/2g/2f/2g/2ag | 
+[V:2] f2fe | 
+[V:3] c'3/2b/2 a/2d'/2 g/2c'/4b/4 | 
+[V:4] F/2E/2DC/2B,/2C | 
+[V:1] !fermata!f3 |] 
+[V:2] !fermata!c3 |] 
+[V:3] !fermata!a3 |] 
+[V:4] !fermata!F,3 |]

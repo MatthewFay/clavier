@@ -1,0 +1,69 @@
+X:180
+T:181. Gott hat das Evangelium
+N:Derived from chor181.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1138085789
+%%humdrum-veritas-data 3976804193
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] a [I:setbarnb 1]| 
+[V:2] f | 
+[V:3] d' | 
+[V:4] D | 
+[V:1] aa/2b/2 c'/2b/2a | 
+[V:2] efg3/2f/2- | 
+[V:3] ad'c'c' | 
+[V:4] ^CDEF | 
+[V:1] ga/2g/2!fermata!fa | 
+[V:2] f/2e/4d/4e!fermata!cf | 
+[V:3] d'c'/2b/2!fermata!ac'/2d'/2 | 
+[V:4] B,C!fermata!F,F | 
+[V:1] aa/2b/2 c'/2b/2a | 
+[V:2] gfef- | 
+[V:3] e'd'c'd' | 
+[V:4] ^CDA,D/2=C/2 | 
+[V:1] ga!fermata!fa | 
+[V:2] fe!fermata!df- | 
+[V:3] d'a!fermata!ad'- | 
+[V:4] =B,^C!fermata!DD- | 
+[V:1] bagf/2g/2 | 
+[V:2] f/2g/2- g/2f/2- f/2e/2d- | 
+[V:3] d'/2c'/2c'd'/2a/2a | 
+[V:4] D/2E/2F=B,/2^C/2 D/2E/2 | 
+[V:1] ae!fermata!da | 
+[V:2] d/2^c/4=B/4c!fermata!d^f | 
+[V:3] a3/2g/2!fermata!f=c' | 
+[V:4] F/2G/2 A/2A,/2!fermata!_B,A, | 
+[V:1] bagf/2g/2 | 
+[V:2] g=c/2d/2ed | 
+[V:3] d'/2e'/2f'c'/2b/2a- | 
+[V:4] G,A,/2B,/2CD | 
+[V:1] ae!fermata!da | 
+[V:2] d^c!fermata!df | 
+[V:3] a3/2g/2!fermata!fd' | 
+[V:4] F,/2G,/2A,!fermata!D,D | 
+[V:1] agf/2e/2d/2e/2 | 
+[V:2] e/2d/2 e/2^c/2A2 | 
+[V:3] aed/2e/2f/2g/2 | 
+[V:4] ^C/2=B,/2C/2A,/2D2- | 
+[V:1] ffgg | 
+[V:2] ddd/2f/2e/2d/2 | 
+[V:3] aab/2d'/2^c'/2d'/2 | 
+[V:4] D/2E/2F/2D/2 _B,/2A,/2B, | 
+[V:1] !fermata!a3 |] 
+[V:2] !fermata!e3 |] 
+[V:3] !fermata!^c'3 |] 
+[V:4] !fermata!A,3 |]

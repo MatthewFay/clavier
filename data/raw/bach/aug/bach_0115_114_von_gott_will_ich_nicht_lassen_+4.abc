@@ -1,0 +1,77 @@
+X:114
+T:114. Von Gott will ich nicht lassen
+N:Derived from chor114.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4010903645
+%%humdrum-veritas-data 2493760595
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] C/2B,/2 | 
+[V:1] cdef | 
+[V:2] AABc | 
+[V:3] efBf | 
+[V:4] A,G,/2F,/2G,^A, | 
+[V:1] d3/2c/2!fermata!BB | 
+[V:2] B^A!fermata!GG | 
+[V:3] f/2g/2^a!fermata!dd | 
+[V:4] B,^^F,!fermata!G,G,/2^F,/2 | 
+[V:1] ccdd | 
+[V:2] GF/2G/2=AG/2F/2- | 
+[V:3] ccc^B | 
+[V:4] E,=A,/2G,/2F,G, | 
+[V:1] !fermata!G3 :| 
+[V:2] F/2E/4D/4!fermata!E2 :| 
+[V:3] !fermata!c3 :| 
+[V:4] !fermata!C3 :| 
+[V:1] g [I:setbarnb 5]| 
+[V:2] G/2^A/2 | 
+[V:3] B/2c/2 | 
+[V:4] C, | 
+[V:1] fedc | 
+[V:2] ^Bc/2=B/2=AG/2^A/2 | 
+[V:3] dg/2e/2 f/2d/2e | 
+[V:4] D,/2D/2C^B,C | 
+[V:1] !fermata!d3d | 
+[V:2] !fermata!^B3B | 
+[V:3] !fermata!d3g | 
+[V:4] !fermata!G,3G, | 
+[V:1] efgg | 
+[V:2] cde/2d/2 c/2=B/2 | 
+[V:3] ga=be/2d/2 | 
+[V:4] C=B,/2A,/2EG, | 
+[V:1] f2!fermata!df | 
+[V:2] c/2B/2^A!fermata!B=A | 
+[V:3] cf!fermata!fd | 
+[V:4] ^A,G,/2F,/2!fermata!B,^B, | 
+[V:1] edcc | 
+[V:2] G/2cB/2 B/2A/4G/4A | 
+[V:3] c/2g/2gg/2f/4^e/4 f/2e/2 | 
+[V:4] CG,A,3/2G,/2 | 
+[V:1] d3/2c/2!fermata!BA | 
+[V:2] ^A/2^^F/2 G/2A/2!fermata!DD | 
+[V:3] d/2c/2 B/2^A/2!fermata!GA | 
+[V:4] ^^F,/2D,/2 ^E,/2^^F,/2!fermata!G,^F, | 
+[V:1] Gc/2d/2ed | 
+[V:2] EE/2^F/2GG/2F/2 | 
+[V:3] Bcc^B | 
+[V:4] E,A,G,/2F,/2G, | 
+[V:1] !fermata!c3 |] 
+[V:2] !fermata!E3 |] 
+[V:3] !fermata!c3 |] 
+[V:4] !fermata!C,3 |]

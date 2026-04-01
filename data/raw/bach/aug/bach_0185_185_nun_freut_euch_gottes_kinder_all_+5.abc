@@ -1,0 +1,57 @@
+X:184
+T:185. Nun freut euch, Gottes Kinder all
+N:Derived from chor185.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2176287902
+%%humdrum-veritas-data 3591153697
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] G [I:setbarnb 1]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] G,/2A,/2 | 
+[V:1] GFBc | 
+[V:2] D/2E/2FGA | 
+[V:3] Bcd/2B/2f- | 
+[V:4] B,-B,/2A,/2G,F,/2E,/2 | 
+[V:1] d3/2^c/2!fermata!de | 
+[V:2] AA!fermata!Ac | 
+[V:3] f/2e/4d/4 e/2g/2!fermata!fg | 
+[V:4] D,A,!fermata!D,C/2B,/2 | 
+[V:1] fefd | 
+[V:2] ccc-c/2B/4A/4 | 
+[V:3] ab/2g/2ff/2g/4f/4 | 
+[V:4] A,/2F,/2G,/2B,/2 A,/2F,/2B,/2G,/2 | 
+[V:1] e/2g^f/2!fermata!gg | 
+[V:2] GA!fermata!=Bc/2_B/2 | 
+[V:3] e/2d/2c/2d/2!fermata!dg | 
+[V:4] C/2B,/2A,/2D/2!fermata!G,E, | 
+[V:1] =fdBG | 
+[V:2] AFF_E- | 
+[V:3] c-c/2B/2BB | 
+[V:4] F,/2A,/2B,D,/2B,,/2_E,/2D,/2 | 
+[V:1] AG!fermata!^FA | 
+[V:2] E/2D/2=E!fermata!D^F | 
+[V:3] cB/2A/2!fermata!Ad | 
+[V:4] C,^C,!fermata!D,D, | 
+[V:1] c/2B/2ABG | 
+[V:2] GDD_E- | 
+[V:3] c3/2c/2BB | 
+[V:4] =E,^F,G,/2=F,/2_E,/2D,/2 | 
+[V:1] A3/2A/2!fermata!G |] 
+[V:2] E/2G^F/2!fermata!D |] 
+[V:3] c/2_e/2 d3/4c/4!fermata!=B |] 
+[V:4] C,D,!fermata!G,, |]

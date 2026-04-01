@@ -1,0 +1,73 @@
+X:49
+T:49. Mit Fried' und Freud' fahr' ich dahin
+N:Derived from chor049.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2960127907
+%%humdrum-veritas-data 4278799947
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] c2 [I:setbarnb 1]| 
+[V:2] G2 | 
+[V:3] ef | 
+[V:4] CD | 
+[V:1] g2g2f2c'2 | 
+[V:2] c2e2d2^e^^f | 
+[V:3] g2c'ba2ga | 
+[V:4] ED EC DC B,A, | 
+[V:1] b2a2!fermata!g2b2 | 
+[V:2] g3^^f!fermata!d2g2- | 
+[V:3] bc'/2d'/2 =e'd'!fermata!b2d'2 | 
+[V:4] G,B, CD!fermata!G,2G2 | 
+[V:1] a2g2a4 | 
+[V:2] g^^fg2e2dc | 
+[V:3] e'd'/2c'/2 b/2a/2g- gc'/2a/2^^f2 | 
+[V:4] CD ED CA,D2 | 
+[V:1] !fermata!g6a2 | 
+[V:2] !fermata!B6^f2 | 
+[V:3] !fermata!g6c'2 | 
+[V:4] !fermata!G,6^FE | 
+[V:1] b2a2b2g2 | 
+[V:2] f2f2f2e2 | 
+[V:3] d'2c'2b3c' | 
+[V:4] DE FE DB, EC | 
+[V:1] fed2!fermata!c2g2- | 
+[V:2] dc^B2!fermata!G2dc | 
+[V:3] ^bc' gf!fermata!e2g2 | 
+[V:4] =AFG2!fermata!C2^B,A, | 
+[V:1] g2f2edc2 | 
+[V:2] d^B cdG2=A2 | 
+[V:3] fe- ede4 | 
+[V:4] ^B,G,A,B, C=B,CD | 
+[V:1] !fermata!B4g2e2 | 
+[V:2] !fermata!G4d2c2 | 
+[V:3] !fermata!e4g2g2 | 
+[V:4] !fermata!E4^B,2C2 | 
+[V:1] b2g2fef2 | 
+[V:2] Bf2e dc ^Bc | 
+[V:3] f2bc' d'e' d'c' | 
+[V:4] D2E2FG=A2 | 
+[V:1] !fermata!g2f2edc2 | 
+[V:2] !fermata!d2d2c=B^A2 | 
+[V:3] !fermata!^b2g2gfe2 | 
+[V:4] !fermata!G2^B,2C2^^F,2 | 
+[V:1] B2e2dc2^B | 
+[V:2] GA ^Bc def2- | 
+[V:3] d2g6 | 
+[V:4] G,3A, ^B,CG,2 | 
+[V:1] !fermata!c8 |] 
+[V:2] f2^ed!fermata!e4 |] 
+[V:3] =a2gf!fermata!g4 |] 
+[V:4] !fermata!C,8 |]

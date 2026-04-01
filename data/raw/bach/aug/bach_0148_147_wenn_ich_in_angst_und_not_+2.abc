@@ -1,0 +1,81 @@
+X:147
+T:147. Wenn ich in Angst und Not
+N:Derived from chor147.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2662251477
+%%humdrum-veritas-data 1352846579
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] F [I:setbarnb 1]| 
+[V:2] C | 
+[V:3] A/2B/2 | 
+[V:4] F,/2G,/2 | 
+[V:1] ccd=e | 
+[V:2] FFFG | 
+[V:3] c/2d/2_ed/2c/2B | 
+[V:4] A,A,B,/2A,/2G, | 
+[V:1] !fermata!f2ze | 
+[V:2] !fermata!A2xG | 
+[V:3] !fermata!c2xc- | 
+[V:4] !fermata!F,2zC, | 
+[V:1] fedd | 
+[V:2] dc/2E/2AG/2F/2 | 
+[V:3] c/2=B/2c-c=B | 
+[V:4] D,A,F,G, | 
+[V:1] !fermata!c2zc | 
+[V:2] !fermata!E2xF | 
+[V:3] !fermata!G2xc | 
+[V:4] !fermata!C,2zA,, | 
+[V:1] dcBA | 
+[V:2] FEF/2C/2C | 
+[V:3] c/2B/2- B/2A/2- A/2G/2- G/2F/2 | 
+[V:4] B,,C,D,/2E,/2F, | 
+[V:1] !fermata!G2zA | 
+[V:2] !fermata!C2xE- | 
+[V:3] !fermata!E2xA | 
+[V:4] !fermata!C,2z^C, | 
+[V:1] FGA/2B/2c | 
+[V:2] E/2D/2- D/2=C/2CF | 
+[V:3] AGFc | 
+[V:4] D,E,F,A,, | 
+[V:1] B2!fermata!Ae | 
+[V:2] F/2G/4F/4E!fermata!FG | 
+[V:3] dc!fermata!ce | 
+[V:4] G,,C,!fermata!F,,C- | 
+[V:1] fedd | 
+[V:2] A/2G/2GAG/2F/2 | 
+[V:3] dcc=B | 
+[V:4] C/2=B,/2CF,G, | 
+[V:1] !fermata!c2zf | 
+[V:2] !fermata!E2xA | 
+[V:3] !fermata!G2xd- | 
+[V:4] !fermata!C,2zD, | 
+[V:1] edcd | 
+[V:2] AFFF | 
+[V:3] d/2c/2- c/2B/2- B/2A/2A | 
+[V:4] A,B,F,D, | 
+[V:1] cBA/2B/2c | 
+[V:2] G/2A/2- A/2G/2- G/2=F/2F | 
+[V:3] e/2d/2ddc | 
+[V:4] E,/2^F,/2G,D,A,, | 
+[V:1] BAG2 | 
+[V:2] F2FE | 
+[V:3] =F/2G/2A/2F/2dc/2B/2 | 
+[V:4] D,C,B,,C, | 
+[V:1] !fermata!F3 |] 
+[V:2] !fermata!C3 |] 
+[V:3] !fermata!A3 |] 
+[V:4] !fermata!F,,3 |]

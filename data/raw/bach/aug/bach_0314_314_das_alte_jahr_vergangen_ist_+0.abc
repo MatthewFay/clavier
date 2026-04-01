@@ -1,0 +1,73 @@
+X: 313
+T: 314. Das alte Jahr vergangen ist
+N: Derived from chor314.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2218608155
+%%humdrum-veritas-data 1313090041
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] B [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] ^d | 
+[V:4] B,/A,/ | 
+[V:1] BA/G/FB | 
+[V:2] GE=DG | 
+[V:3] eAAd | 
+[V:4] G,/E,/^C,D,B,,/G,,/ | 
+[V:1] A/G/F!fermata!GB | 
+[V:2] FF!fermata!E^G | 
+[V:3] dc/B/!fermata!Be | 
+[V:4] D,^D,!fermata!E,E,/=D,/ | 
+[V:1] BA/=G/FB | 
+[V:2] E2-E/D/D | 
+[V:3] eAA=F | 
+[V:4] C,^C,D,^G,, | 
+[V:1] A/=G/F!fermata!GB | 
+[V:2] ^C=C/B,/!fermata!B,G | 
+[V:3] E^F!fermata!EB | 
+[V:4] A,,^D,,!fermata!E,,E, | 
+[V:1] ^c^deB/c/ | 
+[V:2] GFEE | 
+[V:3] ABBB | 
+[V:4] A,,A,^G,=G, | 
+[V:1] =d^c!fermata!Bc | 
+[V:2] FF!fermata!FF | 
+[V:3] B^A/e/!fermata!d^c- | 
+[V:4] F,/E,/F,!fermata!B,,^A,, | 
+[V:1] d^cBB | 
+[V:2] FF-F/D/ G/F/ | 
+[V:3] c/B/- B/A/BB | 
+[V:4] B,,F,G,/F,/ E,/D,/ | 
+[V:1] A/G/F!fermata!GA | 
+[V:2] ED/C/!fermata!B,E | 
+[V:3] =c/B/A!fermata!GG | 
+[V:4] C,D,!fermata!G,,^C, | 
+[V:1] ABA/G/F | 
+[V:2] DD^C^D | 
+[V:3] FG/F/EB | 
+[V:4] D,G,,A,,B,, | 
+[V:1] GG!fermata!F^c | 
+[V:2] EE-E/!fermata!^D/F | 
+[V:3] BB!fermata!B^c | 
+[V:4] E,,/F,,/G,,/A,,/!fermata!B,,^A,, | 
+[V:1] d^cBF | 
+[V:2] FGFF | 
+[V:3] B^AB/^c/ d/^c/ | 
+[V:4] B,,E,D,/^C,/ B,,/A,,/ | 
+[V:1] BB!fermata!^A |]  
+[V:2] F^E!fermata!F |]  
+[V:3] B^c!fermata!^c |]  
+[V:4] ^G,,^C,!fermata!F,, |]

@@ -1,0 +1,73 @@
+X:140
+T:140. In allen meinen Taten
+N:Derived from chor140.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3157639422
+%%humdrum-veritas-data 2728900727
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] f | 
+[V:4] F, | 
+[V:1] ffgg | 
+[V:2] A/2B/2cdc | 
+[V:3] fffe | 
+[V:4] F,/2G,/2A,B,C | 
+[V:1] a2!fermata!gg | 
+[V:2] c2!fermata!cc- | 
+[V:3] f2!fermata!ee | 
+[V:4] F,/2G,/2A,/2B,/2!fermata!CC, | 
+[V:1] fedd | 
+[V:2] c/2=B/2ccB | 
+[V:3] fgag | 
+[V:4] D,E,F,G, | 
+[V:1] e2!fermata!ec | 
+[V:2] c2!fermata!cG | 
+[V:3] g2!fermata!ge | 
+[V:4] C2!fermata!C,C/2_B,/2 | 
+[V:1] ccff | 
+[V:2] AAdd | 
+[V:3] ff/2g/2aa | 
+[V:4] A,/2G,/2F,/2E,/2 D,/2E,/2F,/2G,/2 | 
+[V:1] !fermata!e2ze | 
+[V:2] !fermata!^c2x=c | 
+[V:3] !fermata!a2xa- | 
+[V:4] !fermata!A,2zA,/2G,/2 | 
+[V:1] aaff | 
+[V:2] ccBB | 
+[V:3] a/2g/2f/2e/2 d/2e/2f/2d/2 | 
+[V:4] F,/2G,/2A,/2F,/2 B,/2C/2D/2B,/2 | 
+[V:1] g2!fermata!ee | 
+[V:2] =B/2c/2d/2B/2!fermata!cc | 
+[V:3] dg!fermata!gg | 
+[V:4] G,/2A,/2=B,/2G,/2!fermata!CC, | 
+[V:1] ffdd | 
+[V:2] cc=BB | 
+[V:3] aaag | 
+[V:4] F,/2G,/2A,/2F,/2 G,/2A,/2=B,/2G,/2 | 
+[V:1] e2!fermata!cc | 
+[V:2] =BE!fermata!EE | 
+[V:3] ^g/2a/2=b/2^g/2!fermata!ag | 
+[V:4] E,/2^F,/2^G,/2E,/2!fermata!A,C/2B,/2 | 
+[V:1] =fgag | 
+[V:2] =FBA/2B/2c/2B/2 | 
+[V:3] cefe | 
+[V:4] A,/2B,/2A,/2G,/2F,C | 
+[V:1] !fermata!f3 |] 
+[V:2] !fermata!A3 |] 
+[V:3] !fermata!c3 |] 
+[V:4] !fermata!F,3 |]

@@ -1,0 +1,69 @@
+X:189
+T:190. Herr, nun la\ss in Friede
+N:Derived from chor190.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 243377042
+%%humdrum-veritas-data 1364888985
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bbmaj
+[V:1] d2d2=e2^f2 | 
+[V:2] A2B2c2c2 | 
+[V:3] f2g^fg2a2 | 
+[V:4] DCB,2-B,CB,A, | 
+[V:1] g4!fermata!^f4 | 
+[V:2] d2c2!fermata!d4 | 
+[V:3] b2ag!fermata!a4 | 
+[V:4] G,F,E,2!fermata!D,4 | 
+[V:1] ^f2f2g2a2 | 
+[V:2] d2d2d=e^f2 | 
+[V:3] a2a2b2c'2 | 
+[V:4] CEDC B,CB,A, | 
+[V:1] b4!fermata!a4 | 
+[V:2] g4g2!fermata!^f2 | 
+[V:3] d'4!fermata!d'4 | 
+[V:4] G,A, B,C!fermata!D4 | 
+[V:1] b2b2a2a2 | 
+[V:2] =f=efgf2_e2 | 
+[V:3] d'3c'c'2c'2- | 
+[V:4] DCD=E FEF^F | 
+[V:1] g4!fermata!^f4 | 
+[V:2] d2=e2!fermata!d4 | 
+[V:3] c'b- ba!fermata!a4 | 
+[V:4] G2^C2!fermata!D4 | 
+[V:1] g2g2=f2f2 | 
+[V:2] B2_ed cBcd | 
+[V:3] gfe2f2cg | 
+[V:4] ED=CB, A,G,A,=B, | 
+[V:1] e4!fermata!d4 | 
+[V:2] c4!fermata!B4 | 
+[V:3] g2f2!fermata!f4 | 
+[V:4] C_B,A,F,!fermata!B,4 | 
+[V:1] d'2d'2c'2c'2 | 
+[V:2] f2f2f2fe | 
+[V:3] b2b2-b2a2- | 
+[V:4] B,CDE FGAF | 
+[V:1] b4!fermata!a4 | 
+[V:2] d4!fermata!d4 | 
+[V:3] a2g2-g2!fermata!^f2 | 
+[V:4] G,A,B,C!fermata!D4 | 
+[V:1] g2g2f2f2 | 
+[V:2] B2e2e2d2- | 
+[V:3] gab2b2b_a | 
+[V:4] E,=F,G,A, B,CDB, | 
+[V:1] e4!fermata!d4 |] 
+[V:2] d2cB!fermata!A4 |] 
+[V:3] gb=ag!fermata!^f4 |] 
+[V:4] C4!fermata!D4 |]

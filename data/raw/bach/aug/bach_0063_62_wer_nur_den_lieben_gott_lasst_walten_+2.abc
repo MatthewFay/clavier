@@ -1,0 +1,65 @@
+X:62
+T:62. Wer nur den lieben Gott l\"a\sst walten
+N:Derived from chor062.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1886231091
+%%humdrum-veritas-data 1702932896
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] G [I:setbarnb 1]| 
+[V:2] E/2F/2 | 
+[V:3] c/2d/2 | 
+[V:4] C, | 
+[V:1] cded | 
+[V:2] GGGG/2F/2 | 
+[V:3] edc^B | 
+[V:4] C^B,CG, | 
+[V:1] cd/2c/2^B!fermata!G | 
+[V:2] EAG!fermata!D | 
+[V:3] cf/2e/2d!fermata!^B | 
+[V:4] A,/2G,/2F,G,!fermata!G,, | 
+[V:1] z=BB=A | 
+[V:2] xGGF | 
+[V:3] xde=B | 
+[V:4] zG,C,D, | 
+[V:1] Gcc^B | 
+[V:2] F/2E/2EAG | 
+[V:3] Bcd/2e/2f | 
+[V:4] E,A,/2G,/2F,G, | 
+[V:1] !fermata!c3 :| 
+[V:2] !fermata!G3 :| 
+[V:3] !fermata!e3 :| 
+[V:4] !fermata!C,3 :| 
+[V:1] d [I:setbarnb 6]| 
+[V:2] G | 
+[V:3] ^B | 
+[V:4] G, | 
+[V:1] efgg | 
+[V:2] GBBB | 
+[V:3] cdee | 
+[V:4] C=B,/2A,/2 G,/2F,/2E, | 
+[V:1] f3/2e/2!fermata!eg | 
+[V:2] cB!fermata!BB/2c/2 | 
+[V:3] ed!fermata!ge | 
+[V:4] A,B,!fermata!E,E, | 
+[V:1] fedc/2d/2 | 
+[V:2] dGA/2G/2 G/2F/2 | 
+[V:3] ^Bcc/2^B/2c | 
+[V:4] D,C,F,/2G,/2A, | 
+[V:1] ed!fermata!c |] 
+[V:2] GG/2F/2!fermata!^E |] 
+[V:3] c^B!fermata!G |] 
+[V:4] G,/2F,/2G,!fermata!C, |]

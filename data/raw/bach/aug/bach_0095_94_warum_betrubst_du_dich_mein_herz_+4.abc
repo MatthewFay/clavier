@@ -1,0 +1,65 @@
+X:94
+T:94. Warum betr\"ubst du dich, mein Herz
+N:Derived from chor094.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 119377024
+%%humdrum-veritas-data 584307568
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dmaj
+[V:1] B [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] B | 
+[V:4] ^D, | 
+[V:1] B/2c/2dcf | 
+[V:2] GF/2^G/2^AB | 
+[V:3] ed/2e/2ff | 
+[V:4] E,B,,F,D | 
+[V:1] ed!fermata!cd/2c/2 | 
+[V:2] cB!fermata!^AB | 
+[V:3] ff!fermata!ff/2e/2 | 
+[V:4] ^A,B,!fermata!F,B,, | 
+[V:1] Bfef | 
+[V:2] B=A/2B/2c^d | 
+[V:3] d/2e/2 f/2g/2aa | 
+[V:4] B,/2C/2DA,F, | 
+[V:1] B/2c/2^d!fermata!e=d | 
+[V:2] eB!fermata!BB | 
+[V:3] bf!fermata!gf | 
+[V:4] G,/2A,/2B,!fermata!E,B, | 
+[V:1] cfed | 
+[V:2] ^ABcF | 
+[V:3] ff^AB | 
+[V:4] F,/2E,/2D,C,B,, | 
+[V:1] !fermata!c2zB/2c/2 | 
+[V:2] !fermata!F2xF | 
+[V:3] !fermata!^A2xd/2e/2 | 
+[V:4] !fermata!F,2zB,, | 
+[V:1] ddee | 
+[V:2] BB/2A/2GA/2B/2 | 
+[V:3] f=fe/2d/2 =c/2B/2 | 
+[V:4] B,/2=A,/2G,=C/2B,/2A, | 
+[V:1] ff!fermata!df | 
+[V:2] =cB/2A/2!fermata!BB | 
+[V:3] Aa!fermata!ga | 
+[V:4] DD,!fermata!G,^D, | 
+[V:1] ed^cB/2c/2 | 
+[V:2] B/2^A/2BAB | 
+[V:3] g^gc/2d/2e | 
+[V:4] E,^E,F,G, | 
+[V:1] dc!fermata!B |] 
+[V:2] B^A!fermata!F |] 
+[V:3] f/2^g/2 c/2e/2!fermata!^d |] 
+[V:4] F,/2^E,/2F,!fermata!B,, |]

@@ -1,0 +1,77 @@
+X:45
+T:45. Kommt her zu mir, spricht
+N:Derived from chor045.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3873173285
+%%humdrum-veritas-data 1829265346
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] d2 [I:setbarnb 1]| 
+[V:2] A2 | 
+[V:3] f2 | 
+[V:4] D,2 | 
+[V:1] d2d2a2g2 | 
+[V:2] B2B2A^B ^^cd | 
+[V:3] g2g2f2=b2 | 
+[V:4] G,A, B,C DF ED | 
+[V:1] agf2!fermata!e2de | 
+[V:2] e2d2!fermata!^^c2dc | 
+[V:3] a2a2!fermata!a2ag | 
+[V:4] ^^CA,D2!fermata!A,2F,E, | 
+[V:1] f2e2fga2 | 
+[V:2] d2A2A2A2 | 
+[V:3] a2ag fe df | 
+[V:4] D,D ^^CA, DE FD | 
+[V:1] g2f2!fermata!e2fe | 
+[V:2] de A^B!fermata!^^c2d2 | 
+[V:3] fe fd!fermata!e2ag | 
+[V:4] ^B,^^C DD,!fermata!A,2D,2 | 
+[V:1] d2d2g3f | 
+[V:2] A2GA^B4 | 
+[V:3] fed2d2ef | 
+[V:4] D^C^B,A, G,F,E,D, | 
+[V:1] ef/2g/2 fed4 | 
+[V:2] c2c2c2^B2 | 
+[V:3] g2c2a2gf | 
+[V:4] C,E, A,G, F,D, G,G,, | 
+[V:1] !fermata!c2c2f2e2 | 
+[V:2] !fermata!G2A2d2e^^c | 
+[V:3] !fermata!e2fga2a2 | 
+[V:4] !fermata!C,2F,E, D,D^^CA, | 
+[V:1] fga2g2f2 | 
+[V:2] d2d2deA2 | 
+[V:3] agf2fe ed | 
+[V:4] DE FD ^B,^^C DD, | 
+[V:1] !fermata!e2def2e2 | 
+[V:2] !fermata!A2A2G2G2 | 
+[V:3] !fermata!^^c2fe d^Bc2 | 
+[V:4] !fermata!A,2DC ^B,G, C=B, | 
+[V:1] fga2g2f2 | 
+[V:2] ABc2B2A2 | 
+[V:3] c2f2fe ed | 
+[V:4] A,G, F,E, D,^^C,D,2 | 
+[V:1] !fermata!e2a2a2a2 | 
+[V:2] !fermata!A2AG FA dc | 
+[V:3] !fermata!^^c2e2e2d2 | 
+[V:4] !fermata!A,2^^C,2D,E, F,^^F, | 
+[V:1] g3fe2fg | 
+[V:2] BAG2-G2FB | 
+[V:3] d4^cb ad | 
+[V:4] G,A, B,^B, ^C^^C D=B, | 
+[V:1] e4!fermata!d2 |] 
+[V:2] B2AG!fermata!^^F2 |] 
+[V:3] d2^^c2!fermata!A2 |] 
+[V:4] G,E,A,2!fermata!D,2 |]

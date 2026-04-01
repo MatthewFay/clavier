@@ -1,0 +1,69 @@
+X:248
+T:249. Allein Gott in der H\"oh sei Ehr
+N:Derived from chor249.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3215965518
+%%humdrum-veritas-data 103160004
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] AB [I:setbarnb 1]| 
+[V:2] E2 | 
+[V:3] cd | 
+[V:4] A,,2 | 
+[V:1] c2d2e2d2 | 
+[V:2] A2A2G2FG | 
+[V:3] e2fA Bc de | 
+[V:4] A,G,F,2E,2B,,2 | 
+[V:1] c2B2!fermata!c2c2 | 
+[V:2] AGF2!fermata!=E2F2 | 
+[V:3] fcd2!fermata!G2AB | 
+[V:4] F,E,D,2!fermata!C,2F,G, | 
+[V:1] c2Bc dcB2 | 
+[V:2] _EFG2A3G | 
+[V:3] cde2f3e/2d/2 | 
+[V:4] A,2G,2F,E, D,B,, | 
+[V:1] AFG2!fermata!A2 :| 
+[V:2] A2E2!fermata!E2 :| 
+[V:3] ed/2c/2B2!fermata!c2 :| 
+[V:4] C,D,E,2!fermata!A,,2 :| 
+[V:1] A2 [I:setbarnb 5]| 
+[V:2] EF | 
+[V:3] c2 | 
+[V:4] A,2 | 
+[V:1] B2c2d2c2 | 
+[V:2] G2=A2BB, EF | 
+[V:3] B2e2f_g _gf | 
+[V:4] E,E DCB,2A,2 | 
+[V:1] B3/2c/2c2!fermata!B2B2 | 
+[V:2] B,B2=A!fermata!F2E2 | 
+[V:3] f/2e/2f _gf/2e/2!fermata!d2B2 | 
+[V:4] _G,D, E,F,!fermata!B,,2=G,2 | 
+[V:1] c2d2e2d2 | 
+[V:2] E2_A2G=AB2 | 
+[V:3] A2ABc2F2 | 
+[V:4] A,G,F,2C,2D,E, | 
+[V:1] c2B2!fermata!c2A2 | 
+[V:2] _AGF2!fermata!=E2C=D | 
+[V:3] fcd2!fermata!G2A2 | 
+[V:4] F,E,D,2!fermata!C,2F,2 | 
+[V:1] B2c2dcB2 | 
+[V:2] _EFG2F3E/2D/2 | 
+[V:3] G2cBA3G | 
+[V:4] E,2=E,2F,_E, D,B,, | 
+[V:1] AFG2!fermata!A2 |] 
+[V:2] A2E2!fermata!E2 |] 
+[V:3] ed/2c/2B2!fermata!c2 |] 
+[V:4] C,D,E,2!fermata!A,,2 |]

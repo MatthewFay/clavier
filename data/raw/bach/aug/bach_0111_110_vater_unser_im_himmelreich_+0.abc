@@ -1,0 +1,73 @@
+X: 110
+T: 110. Vater unser im Himmelreich
+N: Derived from chor110.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 314408143
+%%humdrum-veritas-data 2952422896
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Bb
+[V:1] G [I:setbarnb 1]| 
+[V:2] E | 
+[V:3] c | 
+[V:4] C, | 
+[V:1] GEFG/F/ | 
+[V:2] DCC/D/ E/D/ | 
+[V:3] GGcc/_A/ | 
+[V:4] =B,,C,_A,E,/F,/ | 
+[V:1] ED!fermata!CG | 
+[V:2] C=B,!fermata!G,E | 
+[V:3] GG/F/!fermata!Ec | 
+[V:4] G,G,,!fermata!C,C | 
+[V:1] GFBG/F/ | 
+[V:2] ED/E/FE/D/ | 
+[V:3] _BBBB | 
+[V:4] G,/_A,/B,D,E, | 
+[V:1] EF!fermata!GG/=A/ | 
+[V:2] C/=B,/ C/D/!fermata!B,E | 
+[V:3] c_A!fermata!Dc | 
+[V:4] _A,_A,,!fermata!G,,C, | 
+[V:1] Bc/d/ed | 
+[V:2] DE/F/GF | 
+[V:3] B_AGA/=B/ | 
+[V:4] G,F,E,F,/G,/ | 
+[V:1] c=B!fermata!cc | 
+[V:2] E/F/G!fermata!GF | 
+[V:3] cd!fermata!eA | 
+[V:4] _A,G,!fermata!C,F, | 
+[V:1] dc_BA | 
+[V:2] F^FGG/^F/ | 
+[V:3] _Bcde/d/ | 
+[V:4] _B,A,G,C,/D,/ | 
+[V:1] GA!fermata!Gc | 
+[V:2] G^F!fermata!D=F | 
+[V:3] d/c/ c/=B/!fermata!=BA | 
+[V:4] E,D,!fermata!G,,F,/E,/ | 
+[V:1] BAB/_A/G | 
+[V:2] FEDE/D/ | 
+[V:3] _BcFE | 
+[V:4] D,C,B,,C,/B,,/ | 
+[V:1] GF!fermata!EG | 
+[V:2] CD!fermata!B,C | 
+[V:3] EB/_A/!fermata!Gc | 
+[V:4] _A,,B,,!fermata!E,=E, | 
+[V:1] _AG/F/_EF | 
+[V:2] FE/D/CD/C/ | 
+[V:3] c=Bc/B/_A | 
+[V:4] F,G,_A,/G,/F, | 
+[V:1] ED!fermata!C |]  
+[V:2] =B,/C/ C/B,/!fermata!G, |]  
+[V:3] GG/F/!fermata!=E |]  
+[V:4] G,G,,!fermata!C, |]

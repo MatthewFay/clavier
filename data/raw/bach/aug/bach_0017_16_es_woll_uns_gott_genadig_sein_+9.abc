@@ -1,0 +1,97 @@
+X:16
+T:16. Es woll' uns Gott gen\"adig sein
+N:Derived from chor016.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2018134745
+%%humdrum-veritas-data 576826035
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] a [I:setbarnb 1]| 
+[V:2] d | 
+[V:3] ^^f | 
+[V:4] D | 
+[V:1] baga/2b/2 | 
+[V:2] ddef | 
+[V:3] ga/2b/2c'f | 
+[V:4] G^FED | 
+[V:1] c'd'c'b | 
+[V:2] ed/2^e/2^^fg | 
+[V:3] g/2a/2bc'd' | 
+[V:4] CB,A,G, | 
+[V:1] !fermata!a2zc' | 
+[V:2] !fermata!^^f2xa | 
+[V:3] !fermata!d'2xd' | 
+[V:4] !fermata!D2z^^F | 
+[V:1] babg | 
+[V:2] g/2^f/2efe/2d/2 | 
+[V:3] d'c'bb | 
+[V:4] GCDE | 
+[V:1] fd/2e/2fe | 
+[V:2] cB/2c/2dc/2=B/2 | 
+[V:3] c'f/2g/2=ag | 
+[V:4] A,B,^B,C | 
+[V:1] !fermata!d3 :| 
+[V:2] !fermata!A3 :| 
+[V:3] !fermata!^^f3 :| 
+[V:4] !fermata!D3 :| 
+[V:1] f [I:setbarnb 7]| 
+[V:2] A | 
+[V:3] ^f | 
+[V:4] D | 
+[V:1] edcd | 
+[V:2] BBAA | 
+[V:3] gff/2e/2d | 
+[V:4] G,/2A,/2B,F,^^F, | 
+[V:1] Bc!fermata!da | 
+[V:2] B/2A/2G!fermata!Ad | 
+[V:3] dg!fermata!^^f^^f | 
+[V:4] G,E,!fermata!D,D | 
+[V:1] baga/2b/2 | 
+[V:2] d/2^e/2^^fgf/2g/2 | 
+[V:3] gc'd'c'/2b/2 | 
+[V:4] GABA/2G/2 | 
+[V:1] c'b!fermata!ad' | 
+[V:2] a/2d/2d!fermata!d^f | 
+[V:3] ag!fermata!^^fg | 
+[V:4] ^^FG!fermata!D^B, | 
+[V:1] c'/2b/2a/2b/2c'g | 
+[V:2] ^efcc | 
+[V:3] g^fg/2f/2^e | 
+[V:4] CD^E/2D/2C/2B,/2 | 
+[V:1] f=e!fermata!dc | 
+[V:2] c/2B/2c/2A/2!fermata!BA | 
+[V:3] ff!fermata!ff | 
+[V:4] A,/2G,/2A,/2F,/2!fermata!B,F/2^E/2 | 
+[V:1] fga/2b/2c' | 
+[V:2] A/2^B/2cc/2d/2 e/2d/2 | 
+[V:3] f^e^^f/2g/2a- | 
+[V:4] DC/2=B,/2 A,/2G,/2^^F, | 
+[V:1] ba!fermata!gb | 
+[V:2] d/2^e/2f!fermata!ed | 
+[V:3] a/2g/2c'!fermata!c'f/2g/2 | 
+[V:4] G,A,/2^B,/2!fermata!CD/2^E/2 | 
+[V:1] agf/2e/2 d/2e/2 | 
+[V:2] c/2d/2=ed/2c/2B | 
+[V:3] abbf | 
+[V:4] FG/2A/2BB, | 
+[V:1] fed2- | 
+[V:2] c2-cB- | 
+[V:3] fgag- | 
+[V:4] =A,G,^^F,G, | 
+[V:1] !fermata!d3 |] 
+[V:2] BA/2G/2!fermata!A |] 
+[V:3] g^^f/2^e/2!fermata!^^f |] 
+[V:4] !fermata!D,3 |]

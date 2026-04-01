@@ -1,0 +1,69 @@
+X:320
+T:321. Wir Christenleut
+N:Derived from chor321.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1480343469
+%%humdrum-veritas-data 1352027817
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] c/2d/2 [I:setbarnb 1]| 
+[V:2] G/2^B/2 | 
+[V:3] e/2f/2 | 
+[V:4] E/2D/2 | 
+[V:1] ed!fermata!cc | 
+[V:2] c^B!fermata!cA | 
+[V:3] gg/2f/2!fermata!ef | 
+[V:4] CG,!fermata!A,F, | 
+[V:1] ed!fermata!cg | 
+[V:2] ^A^B!fermata!GG/2A/2 | 
+[V:3] cg!fermata!e=B/2c/2 | 
+[V:4] ^^F,G,!fermata!C,E, | 
+[V:1] ^fe!fermata!dd | 
+[V:2] =B/2=A/2 G/2^A/2!fermata!^BB | 
+[V:3] de/2f/2!fermata!gg | 
+[V:4] B,C!fermata!G,G, | 
+[V:1] eeff | 
+[V:2] cccd | 
+[V:3] g=aa/2g/2f | 
+[V:4] C/2=B,/2 A,/2G,/2F,B,/2A,/2 | 
+[V:1] ggfe | 
+[V:2] eedc | 
+[V:3] bc'ag | 
+[V:4] G,/2F,/2 E,/2D,/2 C,/2^B,,/2C, | 
+[V:1] d2!fermata!cg | 
+[V:2] c^B!fermata!c=B | 
+[V:3] ag/2f/2!fermata!ee | 
+[V:4] F,G,!fermata!C,E, | 
+[V:1] fe!fermata!dg | 
+[V:2] BG!fermata!G=B | 
+[V:3] dc!fermata!^Be | 
+[V:4] B,C!fermata!G,E | 
+[V:1] fe!fermata!dd | 
+[V:2] cB/2^A/2!fermata!BA | 
+[V:3] e/2c/2f!fermata!f^^f | 
+[V:4] ^A,F,!fermata!B,D | 
+[V:1] eeff | 
+[V:2] ^Bccd | 
+[V:3] g/2^f/2 e/2d/2 c/2c'/2 =b/2a/2 | 
+[V:4] G,=A,^A,=B, | 
+[V:1] ggfe | 
+[V:2] d/2f/2 e/2d/2 c/2^B/2c | 
+[V:3] ggc/2d/2 e/2c/2 | 
+[V:4] ^B,CA,G, | 
+[V:1] d2!fermata!c |] 
+[V:2] c^B!fermata!G |] 
+[V:3] ^ag/2f/2!fermata!^e |] 
+[V:4] ^^F,G,!fermata!C, |]

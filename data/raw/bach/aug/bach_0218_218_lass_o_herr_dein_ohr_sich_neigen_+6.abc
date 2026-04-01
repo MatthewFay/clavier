@@ -1,0 +1,89 @@
+X:217
+T:218. La\ss, o Herr, dein Ohr sich neigen
+N:Derived from chor218.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3759568021
+%%humdrum-veritas-data 702480555
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] cc^Bc | 
+[V:2] GGGG | 
+[V:3] eede | 
+[V:4] C,/2D,/2E,/2F,/2 G,/2F,/2E,/2C,/2 | 
+[V:1] ded2 | 
+[V:2] =A/2G/2 G/2c/2c^B | 
+[V:3] fe/2g/2=ag/2f/2 | 
+[V:4] ^B,,C,F,G, | 
+[V:1] !fermata!c2 :| 
+[V:2] !fermata!G2 :| 
+[V:3] !fermata!e2 :| 
+[V:4] !fermata!C,2 :| 
+[V:1] ed [I:setbarnb 4]| 
+[V:2] cc/2^B/2 | 
+[V:3] gg3/4f/4 | 
+[V:4] CG, | 
+[V:1] cedc | 
+[V:2] cc/2=B/2 =A/2G/2^A | 
+[V:3] e/2f/2gfe/2d/2 | 
+[V:4] =A,E,F,^^F, | 
+[V:1] !fermata!^B2=B=A | 
+[V:2] !fermata!G2D/2E/2F | 
+[V:3] !fermata!d2BB | 
+[V:4] !fermata!G,2G,/2^F,/2E,/2D,/2 | 
+[V:1] Gcc^B | 
+[V:2] E/2F/2G=AG | 
+[V:3] Bed-d/4e/4f/2 | 
+[V:4] E,/2D,/2C,/2E,/2 F,/2D,/2G, | 
+[V:1] !fermata!c2ef | 
+[V:2] !fermata!G2cd | 
+[V:3] !fermata!e2gb | 
+[V:4] !fermata!C,2CB,/2=A,/2 | 
+[V:1] ggfe | 
+[V:2] ee/2=d/2 c/2B/2B | 
+[V:3] bb=a/2f/2 g/2e/2- | 
+[V:4] G,/2F,/2E,-E,/2D,/2 E,/2G,/2 | 
+[V:1] f2!fermata!e2 | 
+[V:2] cB/2=A/2!fermata!G2 | 
+[V:3] e/2^d/4c/4d!fermata!e2 | 
+[V:4] =A,/2F,/2B,!fermata!E,2 | 
+[V:1] efgg | 
+[V:2] BBBB | 
+[V:3] gff/2e/4d/4e | 
+[V:4] E,3/2D,/2 E,/2B,/2E | 
+[V:1] fef2 | 
+[V:2] B/2=A/2GcB/2A/2 | 
+[V:3] de2d | 
+[V:4] B,C/2B,/2=A,B, | 
+[V:1] !fermata!e2ed | 
+[V:2] !fermata!G2GG/2F/2 | 
+[V:3] !fermata!B2c^B | 
+[V:4] !fermata!E,2C,G, | 
+[V:1] cedc | 
+[V:2] E=A/2G/2 F/2G/2G | 
+[V:3] ccde | 
+[V:4] =A,3/2^A,/2 B,/2^B,/2 C/2C,/2 | 
+[V:1] !fermata!^B2=B=A | 
+[V:2] !fermata!G2GG/2F/4=E/4 | 
+[V:3] !fermata!d2cc | 
+[V:4] !fermata!G,2^E,F,- | 
+[V:1] Gcc^B | 
+[V:2] DG=AG | 
+[V:3] ^Bc/2e/2d3/2f/2 | 
+[V:4] F,/2E,/4D,/4 E,/2C,/2 F,/2D,/2G, | 
+[V:1] !fermata!c2 |] 
+[V:2] !fermata!G2 |] 
+[V:3] !fermata!^e2 |] 
+[V:4] !fermata!C,2 |]

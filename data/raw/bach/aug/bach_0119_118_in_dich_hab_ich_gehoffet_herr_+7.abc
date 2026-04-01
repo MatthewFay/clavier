@@ -1,0 +1,69 @@
+X:118
+T:118. In dich hab ich gehoffet, Herr
+N:Derived from chor118.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3205737247
+%%humdrum-veritas-data 990689269
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] c | 
+[V:3] a | 
+[V:4] F/2E/2 | 
+[V:1] fc'c'b/2a/2 | 
+[V:2] de/2f/2gf/2e/2 | 
+[V:3] a/2b/2c'c'd'/2c'/2 | 
+[V:4] DA,EF- | 
+[V:1] gab/2a/2g | 
+[V:2] dcfe | 
+[V:3] bc'fc'/2b/2 | 
+[V:4] F_ED/2B,/2C | 
+[V:1] !fermata!ffga | 
+[V:2] !fermata!cd^c=c | 
+[V:3] !fermata!abba | 
+[V:4] !fermata!F,B,E,^F, | 
+[V:1] bgc'd' | 
+[V:2] B/2c/2dc3/2=B/2 | 
+[V:3] dd/2e/2 f/2g/2 a/2g/2 | 
+[V:4] G,/2A,/2B,A,/2G,/2 =F,/2G,/2 | 
+[V:1] !fermata!c'aa/2_b/2c' | 
+[V:2] !fermata!eedc | 
+[V:3] !fermata!ggf/2g/2 a/2_b/2 | 
+[V:4] !fermata!C^CD_E | 
+[V:1] ba/2g/2 f/2g/2a/2g/2 | 
+[V:2] gfAd | 
+[V:3] c'c'd'f | 
+[V:4] =EF/2E/2 D/2C/2=B, | 
+[V:1] !fermata!gaf/2g/2a | 
+[V:2] !fermata!ccd/2e/2^f | 
+[V:3] !fermata!ef/2e/2dc | 
+[V:4] !fermata!CF,_B,A, | 
+[V:1] !fermata!baga | 
+[V:2] !fermata!g=ff_e | 
+[V:3] !fermata!dd'/2c'/2bc' | 
+[V:4] !fermata!G,D_E/2D/2C | 
+[V:1] !fermata!bagf | 
+[V:2] !fermata!dcc/2B/2 A/2B/2 | 
+[V:3] !fermata!ff=ef | 
+[V:4] !fermata!B,F,CD | 
+[V:1] c'3/2b/2ab/2a/2 | 
+[V:2] c/2d/2e2d | 
+[V:3] g3f | 
+[V:4] E/2D/2C^CD/2=C/2 | 
+[V:1] g2!fermata!f |] 
+[V:2] dc/2_B/2!fermata!A |] 
+[V:3] fe!fermata!c |] 
+[V:4] =B,C!fermata!F, |]

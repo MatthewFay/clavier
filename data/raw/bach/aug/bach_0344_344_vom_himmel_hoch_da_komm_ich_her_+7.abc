@@ -1,0 +1,57 @@
+X:343
+T:344. Vom Himmel hoch, da komm ich her
+N:Derived from chor344.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 435986658
+%%humdrum-veritas-data 3793405687
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dmaj
+[V:1] d'2 [I:setbarnb 1]| 
+[V:2] f2 | 
+[V:3] a2 | 
+[V:4] D2 | 
+[V:1] c'2b2c'2a2 | 
+[V:2] e2fee2d2 | 
+[V:3] a2a^g ag gf | 
+[V:4] A2DEA,2D2 | 
+[V:1] b2c'2!fermata!d'2d'2 | 
+[V:2] dg fe!fermata!f2f2 | 
+[V:3] fea2!fermata!a2a2 | 
+[V:4] G,2A,2!fermata!D,2DC | 
+[V:1] d'2a2ag fg | 
+[V:2] f2f2e2d2 | 
+[V:3] b2c'd'a3b | 
+[V:4] B,2F2C2DB, | 
+[V:1] a2g2!fermata!f2f2 | 
+[V:2] eB B=d/2c/2!fermata!d2d2 | 
+[V:3] ef gb/2^a/2!fermata!b2b2 | 
+[V:4] C^DE2!fermata!B,2B,A, | 
+[V:1] b2b2abc'2 | 
+[V:2] d2de fe ef | 
+[V:3] bag2f^ga2 | 
+[V:4] G,A, B,G,=D2CF | 
+[V:1] d'c'b2!fermata!a2d'2 | 
+[V:2] fe fe!fermata!e2f2 | 
+[V:3] da2^g!fermata!c'2b2 | 
+[V:4] B,C DE!fermata!A,2B,D | 
+[V:1] c'2b2a2ba | 
+[V:2] =gf- fe- edd2 | 
+[V:3] ba- a=g- gf gf | 
+[V:4] EF DE CD G,A, | 
+[V:1] gfe2!fermata!d2 |] 
+[V:2] d3c!fermata!A2 |] 
+[V:3] ga ba!fermata!f2 |] 
+[V:4] B,A, G,A,!fermata!D,2 |]

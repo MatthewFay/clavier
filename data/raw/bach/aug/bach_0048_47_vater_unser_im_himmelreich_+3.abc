@@ -1,0 +1,73 @@
+X:47
+T:47. Vater unser im Himmelreich
+N:Derived from chor047.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 882585912
+%%humdrum-veritas-data 22264508
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] f | 
+[V:4] F, | 
+[V:1] cABc | 
+[V:2] GF=EF/2G/2 | 
+[V:3] ccBf | 
+[V:4] =E,F,G,A,/2B,/2 | 
+[V:1] AG!fermata!Fc | 
+[V:2] A=E!fermata!CA | 
+[V:3] fc!fermata!Af | 
+[V:4] CC,!fermata!F,F, | 
+[V:1] cBec | 
+[V:2] GFGA | 
+[V:3] cdee | 
+[V:4] E,D,C,/2E,/2A, | 
+[V:1] AB!fermata!cc/2=d/2 | 
+[V:2] AG/2F/2!fermata!GG | 
+[V:3] f/2=e/2f!fermata!=ee | 
+[V:4] DD!fermata!CC/2B,/2 | 
+[V:1] ef/2g/2ag | 
+[V:2] cBAB | 
+[V:3] e/2c/2 =d/2=e/2 f/2e/2d | 
+[V:4] A,3/2G,/2F,B, | 
+[V:1] f=e!fermata!ff | 
+[V:2] A/2G/2G!fermata!AA | 
+[V:3] =dc!fermata!c=d | 
+[V:4] =B,C!fermata!F,_B, | 
+[V:1] gfe=d | 
+[V:2] G=dGG/2F/2 | 
+[V:3] =d/2c/2 c/2=B/2c=B | 
+[V:4] E,=D,C,G, | 
+[V:1] c=B!fermata!cf | 
+[V:2] E/2F/2G!fermata!GB | 
+[V:3] c=d!fermata!e=d | 
+[V:4] A,G,!fermata!C,_B,/2A,/2 | 
+[V:1] e=dec | 
+[V:2] BABA | 
+[V:3] efgf | 
+[V:4] G,F,E,F,/2E,/2 | 
+[V:1] cB!fermata!Ac | 
+[V:2] AG!fermata!EF | 
+[V:3] f/2e/2_d!fermata!cc | 
+[V:4] _D,E,!fermata!A,=A, | 
+[V:1] dc/2B/2AB | 
+[V:2] FGFF | 
+[V:3] B/2_A/2GcB/2c/2 | 
+[V:4] B,=E,F,/2_E,/2D,/2C,/2 | 
+[V:1] AG!fermata!F |] 
+[V:2] F=E!fermata!C |] 
+[V:3] =dG/2A/4B/4!fermata!=A |] 
+[V:4] =B,,C,!fermata!F, |]

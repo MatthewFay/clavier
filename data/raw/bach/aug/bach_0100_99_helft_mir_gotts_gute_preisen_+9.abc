@@ -1,0 +1,77 @@
+X:99
+T:99. Helft mir Gotts G\"ute preisen
+N:Derived from chor099.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3347702636
+%%humdrum-veritas-data 2404053687
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] c | 
+[V:3] a | 
+[V:4] F/2E/2 | 
+[V:1] fgab | 
+[V:2] ddef | 
+[V:3] abeb | 
+[V:4] DC/2B,/2C^D | 
+[V:1] g3/2a/2!fermata!bc' | 
+[V:2] e2!fermata!fc | 
+[V:3] bc'!fermata!bg | 
+[V:4] E^D/2C/2!fermata!D^E | 
+[V:1] afgg | 
+[V:2] cff^e | 
+[V:3] a/2b/2c'=d'c'/2b/2 | 
+[V:4] F/2G/2 A/2F/2B,C | 
+[V:1] !fermata!f3 :| 
+[V:2] !fermata!c3 :| 
+[V:3] !fermata!a3 :| 
+[V:4] !fermata!F,3 :| 
+[V:1] c' [I:setbarnb 5]| 
+[V:2] c/2^d/2 | 
+[V:3] =e/2f/2 | 
+[V:4] A, | 
+[V:1] bagf | 
+[V:2] ^ef/2=e/2=dc/2^d/2 | 
+[V:3] gc'/2a/2 b/2g/2a | 
+[V:4] G,/2G/2F^EF | 
+[V:1] !fermata!g3g | 
+[V:2] !fermata!^e3e | 
+[V:3] !fermata!g3c' | 
+[V:4] !fermata!C3C | 
+[V:1] abc'c' | 
+[V:2] fga/2g/2 f/2=e/2 | 
+[V:3] c'd'e'a/2g/2 | 
+[V:4] F=E/2D/2AC | 
+[V:1] b2!fermata!gg | 
+[V:2] f/2e/2^d!fermata!ee | 
+[V:3] fb!fermata!bb | 
+[V:4] ^DC/2B,/2!fermata!EE/2=D/2 | 
+[V:1] abc'c' | 
+[V:2] ee/2=d/2 c/2d/2e | 
+[V:3] ef=gf/2e/2 | 
+[V:4] CB,^A,B,/2C/2 | 
+[V:1] b3/2a/2!fermata!gc' | 
+[V:2] d/2e/2f!fermata!^eg | 
+[V:3] f2!fermata!c'c' | 
+[V:4] DC/2B,/2!fermata!C^E, | 
+[V:1] b/2a/2 g/2f/2gg | 
+[V:2] fcdc/2B/2 | 
+[V:3] cff^e | 
+[V:4] F,A,B,C | 
+[V:1] !fermata!f3 |] 
+[V:2] !fermata!^A3 |] 
+[V:3] !fermata!c3 |] 
+[V:4] !fermata!F,3 |]

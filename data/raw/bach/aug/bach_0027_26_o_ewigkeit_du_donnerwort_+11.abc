@@ -1,0 +1,69 @@
+X:26
+T:26. O Ewigkeit, du Donnerwort
+N:Derived from chor026.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1300497390
+%%humdrum-veritas-data 1371306546
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] e/2f/2 [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] g/2a/2 | 
+[V:4] E | 
+[V:1] gabb | 
+[V:2] edeg | 
+[V:3] bag/2b/2e' | 
+[V:4] EFGE | 
+[V:1] c'd'!fermata!e'e/2f/2 | 
+[V:2] a/2g/2f!fermata!gB | 
+[V:3] e'b!fermata!bg | 
+[V:4] AB!fermata!EE/2D/2 | 
+[V:1] gabb | 
+[V:2] ef-fe- | 
+[V:3] c'c'b/2a/2g | 
+[V:4] CB,/2A,/2G,C | 
+[V:1] ag!fermata!fg | 
+[V:2] e/2d/2e!fermata!dd- | 
+[V:3] ab!fermata!bg | 
+[V:4] F,G,/2A,/2!fermata!B,^B, | 
+[V:1] eeag | 
+[V:2] dcc/2d/2e- | 
+[V:3] ggfg | 
+[V:4] C/2D/2E/2C/2FC/2=B,/2 | 
+[V:1] f2!fermata!e :| 
+[V:2] ed!fermata!B :| 
+[V:3] c'b/2a/2!fermata!g :| 
+[V:4] A,B,!fermata!E, :| 
+[V:1] b [I:setbarnb 7]| 
+[V:2] e | 
+[V:3] g | 
+[V:4] E | 
+[V:1] fgaa | 
+[V:2] ff^ef- | 
+[V:3] abc'd' | 
+[V:4] D=DC^B, | 
+[V:1] gg!fermata!fb | 
+[V:2] f^e!fermata!c=e | 
+[V:3] g/2a/2b!fermata!ab | 
+[V:4] CC!fermata!F,G, | 
+[V:1] c'd'e'g | 
+[V:2] eb/2a/2 g/2f/2e- | 
+[V:3] a/2g/2fe/2f/2g/2a/2 | 
+[V:4] A,B,C/2D/2E | 
+[V:1] ff!fermata!e |] 
+[V:2] ed!fermata!B |] 
+[V:3] b/2f/2 b/2a/2!fermata!g |] 
+[V:4] B,B,!fermata!E, |]

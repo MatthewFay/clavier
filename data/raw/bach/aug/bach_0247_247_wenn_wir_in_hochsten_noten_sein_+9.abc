@@ -1,0 +1,57 @@
+X:246
+T:247. Wenn wir in h\"ochsten N\"oten sein
+N:Derived from chor247.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2306473694
+%%humdrum-veritas-data 2548973286
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] e2 [I:setbarnb 1]| 
+[V:2] B2 | 
+[V:3] g2 | 
+[V:4] ED | 
+[V:1] e2f2g2fg | 
+[V:2] c3B Bcd2 | 
+[V:3] g2fde2f2 | 
+[V:4] CB, A,B,E,2B,2 | 
+[V:1] agf2!fermata!e2g2 | 
+[V:2] ce/2d/2 cd!fermata!B2e2 | 
+[V:3] fb ag/2f/2!fermata!g2b2 | 
+[V:4] F,G, A,B,!fermata!E,2ED | 
+[V:1] a2g2f2e2 | 
+[V:2] ef- fe dc/2^B/2c2 | 
+[V:3] c'^b- bc'a2g2 | 
+[V:4] C2C2C3B, | 
+[V:1] de e3/2d/4e/4!fermata!f2b2 | 
+[V:2] =B2B2!fermata!B2d2 | 
+[V:3] f2g2!fermata!d2gf | 
+[V:4] A,G, F,E,!fermata!B,2G,2 | 
+[V:1] a2g2f2ed | 
+[V:2] c2B^A/2B/2 cd/2c/2B2 | 
+[V:3] efg2^a2g2 | 
+[V:4] CDE3DGF | 
+[V:1] c3/2d/4e/4c2!fermata!B2g2 | 
+[V:2] B2^A2!fermata!B2d2 | 
+[V:3] gef2!fermata!d2d2 | 
+[V:4] ECF2!fermata!B,2^B,2 | 
+[V:1] a2g2f2ef | 
+[V:2] c2=B2cde2 | 
+[V:3] efg2cg2a | 
+[V:4] CDE2^A,^B, C=B,/2=A,/2 | 
+[V:1] g2f2!fermata!e2 |] 
+[V:2] e2d2!fermata!B2 |] 
+[V:3] b2a/2g/2a!fermata!g2 |] 
+[V:4] G,A,B,2!fermata!E,2 |]

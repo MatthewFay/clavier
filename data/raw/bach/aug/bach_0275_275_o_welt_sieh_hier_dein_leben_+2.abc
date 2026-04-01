@@ -1,0 +1,73 @@
+X:274
+T:275. O Welt, sieh hier dein Leben
+N:Derived from chor275.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 4072487776
+%%humdrum-veritas-data 2836663274
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] d [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] d | 
+[V:4] ^^F, | 
+[V:1] Bcd/2e/2f | 
+[V:2] G^FFF | 
+[V:3] dcBB | 
+[V:4] G,A,B,D, | 
+[V:1] e2!fermata!dd/2e/2 | 
+[V:2] GF!fermata!FB | 
+[V:3] BA!fermata!Bf | 
+[V:4] C,F,!fermata!B,,B, | 
+[V:1] ffcd | 
+[V:2] B/2A/2BA/2G/2- G/2F/2 | 
+[V:3] fffA | 
+[V:4] D,D,/2E,/2F,D, | 
+[V:1] B2!fermata!AF | 
+[V:2] F^E!fermata!FF/2=E/2 | 
+[V:3] G/2A/2B!fermata!cA | 
+[V:4] G,2!fermata!F,F, | 
+[V:1] Bcd/2e/4f/4 e/2d/2 | 
+[V:2] DFFB | 
+[V:3] dcBg | 
+[V:4] G,A,B,E, | 
+[V:1] !fermata!c3d | 
+[V:2] !fermata!A3A- | 
+[V:3] !fermata!c3A | 
+[V:4] !fermata!F,3^^F, | 
+[V:1] Bcd/2e/2f | 
+[V:2] A/2G^F/2FG | 
+[V:3] dcB/2c/2d | 
+[V:4] G,A,B,^B, | 
+[V:1] e2!fermata!dd/2e/2 | 
+[V:2] G2!fermata!GF | 
+[V:3] dc!fermata!^BB | 
+[V:4] C2!fermata!G,B, | 
+[V:1] ffcd | 
+[V:2] F/2G/2AGF | 
+[V:3] ccc/2B/2A | 
+[V:4] A,G,/2F,/2^E,F, | 
+[V:1] B2!fermata!AF | 
+[V:2] G2!fermata!FD | 
+[V:3] dc!fermata!cA/2G/2 | 
+[V:4] F,^E,!fermata!F,F,/2=E,/2 | 
+[V:1] Bcde | 
+[V:2] FG/2A/2BA/2G/2 | 
+[V:3] FEF/2G/2A | 
+[V:4] D,C,B,,C, | 
+[V:1] dc!fermata!B2 |] 
+[V:2] FF/2E/2!fermata!D2 |] 
+[V:3] BA!fermata!F2 |] 
+[V:4] D,/2E,/2F,!fermata!B,,2 |]

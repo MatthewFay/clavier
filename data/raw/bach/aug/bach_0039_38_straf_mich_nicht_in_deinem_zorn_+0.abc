@@ -1,0 +1,61 @@
+X: 38
+T: 38. Straf mich nicht in deinem Zorn
+N: Derived from chor038.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 290870149
+%%humdrum-veritas-data 474949283
+%%
+%%barnumbers 0
+L: 1/8
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Eb
+[V:1] G2A2B2B2 | 
+[V:2] E2E2FED2 | 
+[V:3] B2c2F2G2 | 
+[V:4] E,D,C,E, D,C,B,,D, | 
+[V:1] E2F2!fermata!G4 | 
+[V:2] E2ED!fermata!E4 | 
+[V:3] G2cB!fermata!B4 | 
+[V:4] C,B,,A,,B,,!fermata!E,,4 | 
+[V:1] c2d2e2G2 | 
+[V:2] E2F2EDE2 | 
+[V:3] A2A2B2B2 | 
+[V:4] A,,G,,F,,A,, G,,F,,E,,G,, | 
+[V:1] F4!fermata!E4 :|]  
+[V:2] E2D2!fermata!B,4 :|]  
+[V:3] c2BA!fermata!G4 :|]  
+[V:4] A,,F,,B,,2!fermata!E,,4 :|]  
+[V:1] B2F2!fermata!G4 | 
+[V:2] FE DF!fermata!E4 | 
+[V:3] B2B2!fermata!B4 | 
+[V:4] D,C,B,,D,!fermata!E,4 | 
+[V:1] c3B!fermata!=A4 | 
+[V:2] C2C2!fermata!C4 | 
+[V:3] GF=EG!fermata!F4 | 
+[V:4] =E,D,C,E,!fermata!F,4 | 
+[V:1] B2F2G=AB2 | 
+[V:2] F2F2FED2 | 
+[V:3] Bcd2dc B=A | 
+[V:4] D,C,B,,D, _E,F,G,F, | 
+[V:1] B2=A2!fermata!B4 | 
+[V:2] C2C2!fermata!D4 | 
+[V:3] G2F2!fermata!F4 | 
+[V:4] E,C,F,2!fermata!B,,4 | 
+[V:1] c2d2e2G2 | 
+[V:2] F2F2E2E2 | 
+[V:3] _A2B2B2B2 | 
+[V:4] F,,G,,A,,F,, G,,A,,B,,G,, | 
+[V:1] F4!fermata!E4 |]  
+[V:2] E2D2!fermata!B,4 |]  
+[V:3] cB/A/ BA!fermata!G4 |]  
+[V:4] A,,F,,B,,2!fermata!E,,4 |]

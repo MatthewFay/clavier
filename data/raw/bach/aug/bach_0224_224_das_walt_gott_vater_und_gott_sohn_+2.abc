@@ -1,0 +1,57 @@
+X:223
+T:224. Das walt Gott Vater und Gott Sohn
+N:Derived from chor224.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2377921916
+%%humdrum-veritas-data 2562069666
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] G [I:setbarnb 1]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] G, | 
+[V:1] BddB | 
+[V:2] GGFF- | 
+[V:3] ddAB | 
+[V:4] G,B,,/2C,/2D,^D, | 
+[V:1] GA!fermata!BG | 
+[V:2] F/2E/2=D!fermata!DD | 
+[V:3] BA!fermata!GB | 
+[V:4] E,F,!fermata!G,G, | 
+[V:1] ddef | 
+[V:2] GAB/2^c/2d | 
+[V:3] Bdgf | 
+[V:4] G,3/2F,/2E,B,/2A,/2 | 
+[V:1] g/2f/2e!fermata!dd | 
+[V:2] d3/2^c/2!fermata!AA- | 
+[V:3] be/2a/4g/4!fermata!fd | 
+[V:4] G,A,!fermata!D,F, | 
+[V:1] Bded | 
+[V:2] A/2G/4F/4GGG | 
+[V:3] dd-d/2c/2- c/2B/2 | 
+[V:4] G,B,,/2G,,/2C,G,- | 
+[V:1] cB!fermata!Ad | 
+[V:2] A/2D/2 D/2G/2- G/2!fermata!F/2A | 
+[V:3] AB3/4c/4!fermata!dd | 
+[V:4] G,/2F,/2G,!fermata!D,F, | 
+[V:1] B/2c/2dcB/2A/2 | 
+[V:2] GGGF | 
+[V:3] dded/2c/2 | 
+[V:4] G,B,,C,D, | 
+[V:1] GA!fermata!G |] 
+[V:2] E/4F/4GF/2!fermata!D |] 
+[V:3] B/2A/4G/4 d3/4c/4!fermata!B |] 
+[V:4] E,D,!fermata!G, |]

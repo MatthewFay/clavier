@@ -1,0 +1,109 @@
+X:70
+T:70. Gott sei gelobet und gebenedeiet
+N:Derived from chor070.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3003716826
+%%humdrum-veritas-data 1272852912
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] B [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] d/2e/2 | 
+[V:4] B,,/2C,/2 | 
+[V:1] BBc2 | 
+[V:2] B/2A/2G-GF | 
+[V:3] fe/2d/2ed/2c/2 | 
+[V:4] D,G,/2F,/2E,A, | 
+[V:1] !fermata!B2ef | 
+[V:2] !fermata!G2BB- | 
+[V:3] !fermata!d2ga | 
+[V:4] !fermata!G,2G,/2F,/2E,/2D,/2 | 
+[V:1] edc2 | 
+[V:2] B/2^A/2BB/2^A/4G/4A | 
+[V:3] gff-f/2e/2 | 
+[V:4] E,B,,F,F,, | 
+[V:1] !fermata!B2c/2d/2e | 
+[V:2] !fermata!F2=A-A/2G/2 | 
+[V:3] !fermata!d2fe | 
+[V:4] !fermata!B,,2F,C, | 
+[V:1] B/2A/2GAG | 
+[V:2] FE-E/2D/2E- | 
+[V:3] fBAB | 
+[V:4] D,E,/2D,/2C,B,, | 
+[V:1] F2!fermata!E :| 
+[V:2] E/2D/4C/4D!fermata!B, :| 
+[V:3] cB/2A/2!fermata!G :| 
+[V:4] A,,B,,!fermata!E,, :| 
+[V:1] B [I:setbarnb 7]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] E, | 
+[V:1] BBc3/2B/2 | 
+[V:2] F/2E/2 F/2A/2 G/2F/4E/4 D/2^E/2 | 
+[V:3] B/2c/2de/2^A/2 B/2c/2 | 
+[V:4] D,/2C,/2B,,E,/2F,/2G, | 
+[V:1] ^A/2B/2c!fermata!B2 || 
+[V:2] F/2B^A/2!fermata!F2 || 
+[V:3] dc/2d/4e/4!fermata!d2 || 
+[V:4] F,F,,!fermata!B,,2 || 
+[V:1] BBcd | 
+[V:2] FG^AB- | 
+[V:3] d-d/2^e/2ff | 
+[V:4] B,/2^A,/2G,F,/2E,/2D, | 
+[V:1] edc2 | 
+[V:2] B/2^A/2BB/2A/4G/4A | 
+[V:3] efg/2e/2 c/2f/4e/4 | 
+[V:4] C,D,/2B,,/2 E,/2C,/2F, | 
+[V:1] !fermata!B2de | 
+[V:2] !fermata!F2BB | 
+[V:3] !fermata!d2fg | 
+[V:4] !fermata!B,,2B,/2=A,/2G, | 
+[V:1] fffc | 
+[V:2] BB-B/2^A/4G/4 A/2=A/2 | 
+[V:3] f/2e/2def/2e/2 | 
+[V:4] D,3/2G,/2C,F, | 
+[V:1] BG!fermata!F2 | 
+[V:2] G/2F/2 F/2^E/2!fermata!C2 | 
+[V:3] =dc3/4B/4!fermata!A2 | 
+[V:4] B,,C,!fermata!F,2 | 
+[V:1] G^AB/2=A/2G | 
+[V:2] =EEFE- | 
+[V:3] BcBB | 
+[V:4] E,/2D,/2C,D,E,/2D,/2 | 
+[V:1] ^A2!fermata!B2 | 
+[V:2] E/2G/2 F/2E/2!fermata!D2 | 
+[V:3] c/2e/2 d/2c/2!fermata!B2 | 
+[V:4] C,F,!fermata!B,,2 | 
+[V:1] F/2G/2=AGF | 
+[V:2] DCB,/2E/2D | 
+[V:3] BE/2F/2 G/2B/2B | 
+[V:4] B,,C,/2D,/2 E,/2G,/2 B,/2A,/2 | 
+[V:1] GF!fermata!E2 | 
+[V:2] E3/2D/2!fermata!B,2 | 
+[V:3] BB3/4A/4!fermata!G2 | 
+[V:4] G,/2E,/2 B,/2B,,/2!fermata!E,2 | 
+[V:1] zBBB | 
+[V:2] xFEB, | 
+[V:3] xB/2A/2GF/2G/2 | 
+[V:4] zD,E,D, | 
+[V:1] c3/2B/2 ^A/2B/2c | 
+[V:2] E/2F/2GF2 | 
+[V:3] Ae/2d/2 c/2B^A/2 | 
+[V:4] C,/2D,/2E,F,2 | 
+[V:1] !fermata!B3 |] 
+[V:2] !fermata!F3 |] 
+[V:3] !fermata!d3 |] 
+[V:4] !fermata!B,,3 |]

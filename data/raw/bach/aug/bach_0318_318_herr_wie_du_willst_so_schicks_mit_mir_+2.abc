@@ -1,0 +1,73 @@
+X:317
+T:318. Herr wie du willst, so schick's mit mir
+N:Derived from chor318.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 689173523
+%%humdrum-veritas-data 1328650604
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] zBAB | 
+[V:2] xFEF | 
+[V:3] xdcB- | 
+[V:4] zB,,C,D, | 
+[V:1] ccBc | 
+[V:2] GDDG | 
+[V:3] BABA/2G/2 | 
+[V:4] ^E,^^F,G,/2^F,/2=E, | 
+[V:1] !fermata!d2ze | 
+[V:2] !fermata!^^F2xG | 
+[V:3] !fermata!A2xB | 
+[V:4] !fermata!D,2zG,/2A,/2 | 
+[V:1] dcBA/2B/2 | 
+[V:2] ^F/2D/2^E/2^^F/2G^F | 
+[V:3] Bcdc/2B/2 | 
+[V:4] B,3/2A,/2 G,/2^F,/2=E,/2D,/2 | 
+[V:1] c2!fermata!B2 :| 
+[V:2] GF/2E/2!fermata!D2 :| 
+[V:3] BA!fermata!F2 :| 
+[V:4] E,/2C,/2F,!fermata!B,,2 :| 
+[V:1] zBc/2d/2e | 
+[V:2] xFG^^F/2G/2 | 
+[V:3] xde/2d/2 c/2B/2 | 
+[V:4] zB,2A,/2G,/2 | 
+[V:1] d/2c/2Bc/2B/2A | 
+[V:2] ADG3/2^^F/2 | 
+[V:3] AB/2A/2Gd/2c/2 | 
+[V:4] ^^F,G,/2^F,/2 E,/2C,/2D, | 
+[V:1] !fermata!G2zA | 
+[V:2] !fermata!D2x^E | 
+[V:3] !fermata!B2xA | 
+[V:4] !fermata!G,,2z^^C, | 
+[V:1] FFcd | 
+[V:2] F/2=ED/2 ^E/2F/2F | 
+[V:3] ABG/2A/2 =A/2G/2- | 
+[V:4] D,/2^C,/2B,,-B,,/2A,,/2^B,, | 
+[V:1] =e/2d/2c!fermata!B2 | 
+[V:2] =E/2G/2=A-A!fermata!G | 
+[V:3] G/2E/2e!fermata!e2 | 
+[V:4] C,3/2D,/2!fermata!E,2 | 
+[V:1] zfdd | 
+[V:2] xc-c/2B/4A/4B- | 
+[V:3] xffd/2e/4f/4 | 
+[V:4] zA,,B,,/2D,/2 G,/2F,/2 | 
+[V:1] cBAB | 
+[V:2] B/2A/4G/4FFF | 
+[V:3] g/2f/2Be/2c/2B- | 
+[V:4] E,3/2D,/2 C,/2F,/2D,/2B,,/2 | 
+[V:1] c2!fermata!B2 |] 
+[V:2] F3/2E/2!fermata!D2 |] 
+[V:3] BA!fermata!F2 |] 
+[V:4] F,F,,!fermata!B,,2 |]

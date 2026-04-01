@@ -1,0 +1,73 @@
+X: 255
+T: 256. Jesu, deine tiefen Wunden
+N: Derived from chor256.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2206706970
+%%humdrum-veritas-data 3388884401
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: Bb
+[V:1] Bcdc | 
+[V:2] FFF3/=E/ | 
+[V:3] dAB/A/G | 
+[V:4] B,F,B,,C, | 
+[V:1] BAG!fermata!F | 
+[V:2] DC/F/ F/=E/!fermata!F | 
+[V:3] F/G/ A3//B// c/G/!fermata!A | 
+[V:4] D,/=E,/F,C/C,/!fermata!F, | 
+[V:1] Bcde | 
+[V:2] DFFF | 
+[V:3] BABc | 
+[V:4] G,F,/_E,/ D,/C,/ B,,/A,,/ | 
+[V:1] dc!fermata!B2 :|]  
+[V:2] FF!fermata!F2 :|]  
+[V:3] c/B/ B/A/!fermata!d2 :|]  
+[V:4] B,,F,,!fermata!B,,2 :|]  
+[V:1] defe | 
+[V:2] BBAG/A/ | 
+[V:3] fgc/d/e | 
+[V:4] B,/A,/G,F,C, | 
+[V:1] dc!fermata!d2 | 
+[V:2] BA!fermata!B2 | 
+[V:3] ff!fermata!f2 | 
+[V:4] D,/E,/F,!fermata!B,,2 | 
+[V:1] ffgf | 
+[V:2] BBBA | 
+[V:3] dddc | 
+[V:4] B,,/C,/ D,/B,,/ E,/D,/ E,/F,/ | 
+[V:1] ed!fermata!c2 | 
+[V:2] GF!fermata!F2 | 
+[V:3] BB!fermata!A2 | 
+[V:4] G,/A,/B,!fermata!F,2 | 
+[V:1] d/e/fed | 
+[V:2] FB/_A/GF | 
+[V:3] B/c/d-d/cB/- | 
+[V:4] B,B,,C,D, | 
+[V:1] Bcd2 | 
+[V:2] G/^F/G-G/F//=E//F | 
+[V:3] B/=A/ G/A/ B/A//G//A | 
+[V:4] E,E,D,2 | 
+[V:1] !fermata!B2df | 
+[V:2] !fermata!D2G_A | 
+[V:3] !fermata!G2BB | 
+[V:4] !fermata!G,2G,/=F,/ E,/D,/ | 
+[V:1] edcd | 
+[V:2] GD/E/FF | 
+[V:3] BB=AB- | 
+[V:4] E,/F,/ G,/F,/ E,/D,/ C,/B,,/ | 
+[V:1] c2!fermata!B2 |]  
+[V:2] F2!fermata!F2 |]  
+[V:3] B/A//G//A!fermata!d2 |]  
+[V:4] F,2!fermata!B,,2 |]

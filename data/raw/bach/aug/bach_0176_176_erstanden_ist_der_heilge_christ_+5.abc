@@ -1,0 +1,89 @@
+X:175
+T:176. Erstanden ist der heil'ge Christ
+N:Derived from chor176.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1739392753
+%%humdrum-veritas-data 1367839373
+%%
+%%barnumbers 0
+L:1/8
+M:3/4
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bbmaj
+[V:1] B2 [I:setbarnb 1]| 
+[V:2] F2 | 
+[V:3] d2 | 
+[V:4] B,,2 | 
+[V:1] B3cde | 
+[V:2] F2GAB2- | 
+[V:3] dedcB2 | 
+[V:4] B,3A,G,2 | 
+[V:1] f4c2 | 
+[V:2] B2ABc2- | 
+[V:3] c4f2 | 
+[V:4] F,3G,A,F, | 
+[V:1] d4=e2 | 
+[V:2] cAB4- | 
+[V:3] f4g2 | 
+[V:4] B,3A,G,2 | 
+[V:1] !fermata!f4_e2 | 
+[V:2] !fermata!B2A2c2- | 
+[V:3] !fermata!c4f2 | 
+[V:4] !fermata!F,4A,2 | 
+[V:1] d3cde | 
+[V:2] c2B4 | 
+[V:3] fdg4 | 
+[V:4] B,3A,G,2 | 
+[V:1] f4e2 | 
+[V:2] cBcd- dc- | 
+[V:3] fga2g2 | 
+[V:4] A,3=B,C2 | 
+[V:1] d4c2 | 
+[V:2] c_B/2A/2B2-BA/2G/2 | 
+[V:3] g2d2G2 | 
+[V:4] G,3F,E,2 | 
+[V:1] !fermata!d4d2 | 
+[V:2] !fermata!^F4G2 | 
+[V:3] !fermata!A4B2 | 
+[V:4] !fermata!D,4G,2 | 
+[V:1] =f4e2 | 
+[V:2] A3Bc2- | 
+[V:3] d2=f4- | 
+[V:4] DD, DCB,A, | 
+[V:1] d4c2 | 
+[V:2] c2B2A2- | 
+[V:3] fdgfe2 | 
+[V:4] B,B,, B,A,G,^F, | 
+[V:1] B4A2 | 
+[V:2] A2G2FE | 
+[V:3] dBedc2 | 
+[V:4] G,2E,2=F,2 | 
+[V:1] !fermata!B4B2 | 
+[V:2] !fermata!D4G2 | 
+[V:3] !fermata!B4d2 | 
+[V:4] !fermata!G,4G,F, | 
+[V:1] cBcde2 | 
+[V:2] G2AB GA | 
+[V:3] c2f2e2 | 
+[V:4] E,3D,C,2 | 
+[V:1] d4c2 | 
+[V:2] B4A2- | 
+[V:3] def2-fe | 
+[V:4] B,,C, D,E,F,2 | 
+[V:1] B4A2 | 
+[V:2] A2G2F2 | 
+[V:3] d2ed ce | 
+[V:4] G,F,E,2F,2 | 
+[V:1] !fermata!B4 |] 
+[V:2] !fermata!F4 |] 
+[V:3] !fermata!d4 |] 
+[V:4] !fermata!B,,4 |]

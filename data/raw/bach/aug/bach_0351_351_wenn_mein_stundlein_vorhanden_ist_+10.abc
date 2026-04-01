@@ -1,0 +1,85 @@
+X:350
+T:351. Wenn mein St\"undlein vorhanden ist
+N:Derived from chor351.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2202537963
+%%humdrum-veritas-data 1859384227
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] g [I:setbarnb 1]| 
+[V:2] B/2c/2 | 
+[V:3] d | 
+[V:4] G,/2A,/2 | 
+[V:1] defg | 
+[V:2] dAAG | 
+[V:3] gf/2e/2bb | 
+[V:4] B,^C^DE | 
+[V:1] ab!fermata!gb/2c'/2 | 
+[V:2] =dd!fermata!cd | 
+[V:3] ag/2=f/2!fermata!eg | 
+[V:4] FG!fermata!=CG/2A/2 | 
+[V:1] d'd'b/2c'/2d' | 
+[V:2] ddde | 
+[V:3] ^f/2g/2ag/2a/2b | 
+[V:4] B/2A/2 G/2F/2G^G | 
+[V:1] c'2!fermata!bb | 
+[V:2] e/2^d/2 e/2f/2!fermata!gg | 
+[V:3] a/2b/2 c'/2=d'/2!fermata!e'd' | 
+[V:4] AA,!fermata!EG- | 
+[V:1] c'bag/2a/2 | 
+[V:2] agfe | 
+[V:3] e'/2d'c'b/2 b/2a/2 | 
+[V:4] G/2FE^D/2 E/2C/2 | 
+[V:1] bb!fermata!gb/2c'/2 | 
+[V:2] e3/2^d/2!fermata!Be | 
+[V:3] gf!fermata!eg | 
+[V:4] G,/2A,/2B,!fermata!E,E | 
+[V:1] d'd'b/2c'/2d' | 
+[V:2] =d/2e/2fg3/2g/2 | 
+[V:3] a/2g/2 a/2d'/2d'3/2d'/2 | 
+[V:4] F/2E/2DGB, | 
+[V:1] c'2!fermata!bb | 
+[V:2] g/2f/4e/4f!fermata!gg | 
+[V:3] e'/2c'/2 a/2d'/2!fermata!d'd' | 
+[V:4] A,D!fermata!G,G- | 
+[V:1] c'bag/2a/2 | 
+[V:2] g/2f/2gd3/2e/4f/4 | 
+[V:3] e'/2a/2 b/2c'/2d'3/2c'/2 | 
+[V:4] G2-G/2F/2 B/2A/2 | 
+[V:1] bb!fermata!ga | 
+[V:2] g=f!fermata!ed | 
+[V:3] d'd'!fermata!c'a | 
+[V:4] G/2G,A,/4B,/4!fermata!C^F, | 
+[V:1] bbef | 
+[V:2] d/2f/2 e/2d/2^cd | 
+[V:3] g/2f/2 g/2b/2aa | 
+[V:4] G,/2D/2G-G/2F/2 E/2D/2 | 
+[V:1] g/2f/2e!fermata!dd | 
+[V:2] e/2d^c/2!fermata!dA | 
+[V:3] ab/2e/2!fermata!ff/2g/4a/4 | 
+[V:4] ^C/2D/2 G/2A/2!fermata!DD/2=C/2 | 
+[V:1] gab3/2a/4b/4 | 
+[V:2] ddd/2=c/4d/4e- | 
+[V:3] dag3/2f/4g/4 | 
+[V:4] B,/2A,/2G,/2F,/2 G,/2A,/4B,/4C- | 
+[V:1] c'ba2 | 
+[V:2] e/2f/2g3/2f/4e/4f | 
+[V:3] a/2a/2 b/2c'/4d'/4 e'/2c'/2 a/2d'/2 | 
+[V:4] C/2B,/4A,/4 E/2D/2 C/2A,/2D | 
+[V:1] !fermata!g3 |] 
+[V:2] !fermata!d3 |] 
+[V:3] !fermata!b3 |] 
+[V:4] !fermata!G,3 |]

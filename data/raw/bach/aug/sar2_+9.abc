@@ -1,0 +1,297 @@
+X:1
+T:from /workspace/data/raw_mid/bach/partitas/sar2.mid
+M:3/2
+L:1/8
+Q:1/4=80
+K:Cmaj% 3 flats
+V:1
+%%MIDI program 51
+z2 
+%%MIDI program 51
+ea bc' dc'2<b2d| \
+ef eb c'd' c'^g2<a2e| \
+fg ^fc' d'e' ^gd' e'=f' ae'| \
+d'c' bc' d'b ^g/2z/2z/2z/2 g^f e2-|
+e2 c'e fg fe2<d2a| \
+bc' bd ef ed2<c2g| \
+a_b ae dc =Ba gf d'2-| \
+d'[fd] [fd]4 [e-c-]6|
+[ec]2 z
+%%MIDI program 11
+a bc' zc' b3z| \
+z3b c'd' c'z4z| \
+z3c' d'e' zd' e'f' ze'| \
+d'c' bc' d'b ^g/2z/2z/2z/2 g^f e2-|
+e2 c'z8a| \
+bc' bz8g| \
+a_b az4a gf d'2-| \
+d'[fd] [fd]4 [e-c-]6|
+[ec]2 
+%%MIDI program 51
+gc'2<e'2a gf gc'| \
+d'e' d'^f'2<g'2e' d'c' d'g| \
+^fg c'b2<a2e' d'c' f'g'| \
+a'3c' ba bd' b^f g2-|
+g3_b ag e'g fe fa| \
+d'e' ^f'_e' d'c' a'c' _ba bd'| \
+g'f' _e'd' ^c'd' _ba ^ga f'=e'| \
+d'^c' d'a _bc' d'g fe d2-|
+d3c' ba bf' gd' e'f| \
+ed cb a^g ae' fc' d'e| \
+dc Ba ^g^f gd' eb c'd| \
+cB Ae _e^f af ^gb =ed'|
+c'b c'e' a^g a4- ac'| \
+fe f4- fa d^c d2-| \
+d3f _ba ^c'd' ^ga _e=e| \
+c'^g ad cB c6-|
+c2 z
+%%MIDI program 11
+g c'e'3 z4| \
+c'd' e'd' ^f'g'3 z4| \
+g^f gc' ba3 z4| \
+z4 c'b ab d'b ^fg-|
+g4 _ba ge' z4| \
+ad' e'^f' z4 c'_b ab| \
+z12| \
+z4 a_b ^c'd' z4|
+z4 c'b ab f'z d'e'| \
+z4 ba ^ga e'z c'd'| \
+z4 a^g ^fg d'z bc'| \
+z4 e_e ^fa f^g b=e|
+d'c' bc' e'a ^ga4-a| \
+c'f ef4-f ad ^cd-| \
+d4 f_b a^c' d'^g a_e| \
+ec' ^ga z3[a-e-]4[a-e-]|
+[ae]3
+V:2
+%%MIDI program 48
+z2 
+%%MIDI program 48
+A,2 A3G FE F2| \
+A,2 ^G,2 E3D CB, C2| \
+E,2 A,,2 A,2 B,2 B,,2 C,2| \
+C2 DE FD E^F ^GA Bd|
+cB A2 A,2 DE FG A2| \
+D2 G2 G,2 CD EF G2| \
+C2 F2 F,2 G,F ED CB,| \
+A,G, CE, F,G, C,2 E,G, C2-|
+C2 A,2 
+%%MIDI program 87
+A3G FE F2| \
+A,2 ^G,2 E3D CB, C2| \
+E,2 A,,2 A,2 B,2 B,,2 C,2| \
+C2 DE FD E^F ^GA Bd|
+cB A2 A,2 DE FG A2| \
+D2 G2 G,2 CD EF G2| \
+C2 F2 F,2 G,F ED CB,| \
+A,G, CE, F,G, C,2 E,G, C2-|
+C2 
+%%MIDI program 48
+CE GB ce2<C2E| \
+DC B,D E^F GB2<B,2D| \
+CB, A,E ^FG FG2<A2C| \
+B,A, G,D E^F GB2<G,2=F|
+ED ^C2 E2 A2 C2 D2| \
+A2 c2 _e2 ^F2 d2 G2| \
+_B2 G2 E2 F2 D2 A2| \
+A,2 D2 D,2 F,2 A,2 D2|
+C2 B,2 D2 G,2 B,2 C,2| \
+B,2 A,2 C2 F,2 A,2 B,,2| \
+A,2 ^G,2 B,2 E,2 G,2 A,,2| \
+^G,2 ^F,2 B,,2 B,2 E,2 E2|
+^G2 A2 B2 ce A=G F2| \
+G2 Ac FE D2 E2 FA| \
+DC _B,2 D2 F,2 _E2 =E2| \
+E,2 A,4- A,C, D,E, A,,2-|
+A,,2 z
+%%MIDI program 87
+C EG Bc e2<C2| \
+ED CB, DE ^FG B2<B,2| \
+DC B,A, E^F GF G2<A2| \
+CB, A,G, DE ^FG B2<G,2|
+FE D^C2E2A2C2D-| \
+DA2c2_e2^F2d2G-| \
+G_B2G2E2F2D2A-| \
+AA,2D2D,2F,2A,2D-|
+DC2B,2D2G,2B,2C,-| \
+C,B,2A,2C2F,2A,2B,,-| \
+B,,A,2^G,2B,2E,2G,2A,,-| \
+A,,^G,2^F,2B,,2B,2E,2E-|
+E^G2A2B2c eA =GF-| \
+FG2A cF ED2E2F| \
+AD C_B,2D2F,2_E2=E-| \
+EE,2A,4-A, C,D, E,A,,-|
+A,,3
+V:3
+%%MIDI program 71
+z2 
+%%MIDI program 71
+e4 d4 z2| \
+z2 e4 c'4 z2| \
+z2 ^f4 ^g4 a2-| \
+a2 z8 z2|
+z12| \
+z12| \
+z12| \
+z[BG] [BG]4 G6-|
+G2 e4 
+%%MIDI program 82
+d4 zd| \
+ef e4 z^g2<a2e| \
+fg ^f4 ^g4 a2-| \
+a2 z8 z2|
+z3e fg fe d3z| \
+z3d ef ed c3z| \
+z3e dc Bz4z| \
+z[BG] [BG]4 G6-|
+G2 z8 z2| \
+z12| \
+z12| \
+z12|
+z12| \
+z12| \
+z12| \
+z12|
+z12| \
+z12| \
+z12| \
+z12|
+z12| \
+z12| \
+z12| \
+z6 
+%%MIDI program 71
+[a-e-]6|
+[ae]2 z6 
+%%MIDI program 82
+ag fg| \
+z8 e'd' c'd'| \
+z8 e'd' c'^f'| \
+g'a'3 z8|
+z8 gf ef| \
+z4 _e'd' c'a' z4| \
+d'g' f'_e' d'^c' d'_b a^g af'| \
+e'd' ^c'd' z4 gf ed-|
+d4 z4 zg3| \
+fe dc z4 zf3| \
+ed cB z4 ze3| \
+dc BA z8|
+z12| \
+z12| \
+z12| \
+z4 dc Bc4-c-|
+c3
+V:4
+%%MIDI program 52
+z2 
+%%MIDI program 52
+ea bc' dc'2<b2d| \
+ef eb c'd' c'^g2<a2e| \
+fg ^fc' d'e' ^gd' e'=f' ae'| \
+d'c' bc' d'b ^g/2z/2z/2z/2 g^f e2-|
+e2 c'e fg fe2<d2a| \
+bc' bd ef ed2<c2g| \
+a_b ae dc =Ba gf d'2-| \
+d'[fd] [fd]4 [e-c-]6|
+[ec]2 z
+%%MIDI program 4
+a bc' zc' b3z| \
+z3b c'd' c'z4z| \
+z3c' d'e' zd' e'f' ze'| \
+d'c' bc' d'b ^g/2z/2z/2z/2 g^f e2-|
+e2 c'z8a| \
+bc' bz8g| \
+a_b az4a gf d'2-| \
+d'[fd] [fd]4 [e-c-]6|
+[ec]2 
+%%MIDI program 52
+gc'2<e'2a gf gc'| \
+d'e' d'^f'2<g'2e' d'c' d'g| \
+^fg c'b2<a2e' d'c' f'g'| \
+a'3c' ba bd' b^f g2-|
+g3_b ag e'g fe fa| \
+d'e' ^f'_e' d'c' a'c' _ba bd'| \
+g'f' _e'd' ^c'd' _ba ^ga f'=e'| \
+d'^c' d'a _bc' d'g fe d2-|
+d3c' ba bf' gd' e'f| \
+ed cb a^g ae' fc' d'e| \
+dc Ba ^g^f gd' eb c'd| \
+cB Ae _e^f af ^gb =ed'|
+c'b c'e' a^g a4- ac'| \
+fe f4- fa d^c d2-| \
+d3f _ba ^c'd' ^ga _e=e| \
+c'^g ad cB c6-|
+c2 z
+%%MIDI program 4
+g c'e'3 z4| \
+c'd' e'd' ^f'g'3 z4| \
+g^f gc' ba3 z4| \
+z4 c'b ab d'b ^fg-|
+g4 _ba ge' z4| \
+ad' e'^f' z4 c'_b ab| \
+z12| \
+z4 a_b ^c'd' z4|
+z4 c'b ab f'z d'e'| \
+z4 ba ^ga e'z c'd'| \
+z4 a^g ^fg d'z bc'| \
+z4 e_e ^fa f^g b=e|
+d'c' bc' e'a ^ga4-a| \
+c'f ef4-f ad ^cd-| \
+d4 f_b a^c' d'^g a_e| \
+ec' ^ga z3[a-e-]4[a-e-]|
+[ae]3
+V:5
+%%MIDI program 46
+z2 e4 d4 z2| \
+z2 e4 c'4 z2| \
+z2 ^f4 ^g4 a2-| \
+a2 z8 z2|
+z12| \
+z12| \
+z12| \
+z[BG] [BG]4 G6-|
+G2 e4 
+%%MIDI program 46
+d4 zd| \
+ef e4 z^g2<a2e| \
+fg ^f4 ^g4 a2-| \
+a2 z8 z2|
+z3e fg fe d3z| \
+z3d ef ed c3z| \
+z3e dc Bz4z| \
+z[BG] [BG]4 G6-|
+G2 z8 z2| \
+z12| \
+z12| \
+z12|
+z12| \
+z12| \
+z12| \
+z12|
+z12| \
+z12| \
+z12| \
+z12|
+z12| \
+z12| \
+z12| \
+z6 [a-e-]6|
+[ae]2 z6 
+%%MIDI program 46
+ag fg| \
+z8 e'd' c'd'| \
+z8 e'd' c'^f'| \
+g'a'3 z8|
+z8 gf ef| \
+z4 _e'd' c'a' z4| \
+d'g' f'_e' d'^c' d'_b a^g af'| \
+e'd' ^c'd' z4 gf ed-|
+d4 z4 zg3| \
+fe dc z4 zf3| \
+ed cB z4 ze3| \
+dc BA z8|
+z12| \
+z12| \
+z12| \
+z4 dc Bc4-c-|
+c3

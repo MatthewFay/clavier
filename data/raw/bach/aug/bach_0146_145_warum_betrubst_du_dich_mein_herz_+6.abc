@@ -1,0 +1,65 @@
+X:145
+T:145. Warum betr\"ubst du dich, mein Herz
+N:Derived from chor145.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 350138870
+%%humdrum-veritas-data 3056491201
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] d2 [I:setbarnb 1]| 
+[V:2] A2 | 
+[V:3] f2 | 
+[V:4] D,2 | 
+[V:1] def2e2a2 | 
+[V:2] A2A2A3^B | 
+[V:3] fed2^^c2d2 | 
+[V:4] D^^CD2A,G,F,2 | 
+[V:1] g2f2!fermata!e2fe | 
+[V:2] ^^c2d2!fermata!c2dc | 
+[V:3] e2fg!fermata!a2ag | 
+[V:4] E,2D,2!fermata!A,2D,2 | 
+[V:1] d2a2g2a2 | 
+[V:2] d2d2d2^c2- | 
+[V:3] fe^^f2gf =ed | 
+[V:4] D2-DC B,A,G,^^F, | 
+[V:1] d^e^^f2!fermata!g2^f2 | 
+[V:2] cBA2!fermata!B2A2 | 
+[V:3] d2d2!fermata!d2d2 | 
+[V:4] G,2D,2!fermata!G,,2D,2 | 
+[V:1] e2a2agf2 | 
+[V:2] A2Ae fe2d | 
+[V:3] ^^c2d^^c defg | 
+[V:4] A,G,F,A, ^B,^^CD2 | 
+[V:1] !fermata!e6de | 
+[V:2] !fermata!^^c6A2 | 
+[V:3] !fermata!a6fe | 
+[V:4] !fermata!A,6D,2 | 
+[V:1] f2f2g2g2 | 
+[V:2] A2B^c dBc2 | 
+[V:3] d2d2de/2f/2e2 | 
+[V:4] D^CB,A, B,G,CB, | 
+[V:1] a2ag!fermata!f2a2 | 
+[V:2] c2c2!fermata!d2cd | 
+[V:3] f2f2!fermata!f2f2 | 
+[V:4] A,G,F,2!fermata!B,2F,E, | 
+[V:1] g2f2e2de | 
+[V:2] e2d2^^c2d2 | 
+[V:3] baa2g2fb | 
+[V:4] D,^^C,D,^C, B,,A,,B,,G,, | 
+[V:1] f2e2!fermata!d2 |] 
+[V:2] d^B^^c2!fermata!A2 |] 
+[V:3] ad eg!fermata!^^f2 |] 
+[V:4] A,,4!fermata!D,2 |]

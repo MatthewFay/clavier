@@ -1,0 +1,69 @@
+X:231
+T:232. Die Sonn hat sich mit ihrem Glanz
+N:Derived from chor232.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3842408295
+%%humdrum-veritas-data 968198113
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dmaj
+[V:1] E [I:setbarnb 1]| 
+[V:2] B, | 
+[V:3] G | 
+[V:4] E, | 
+[V:1] GA!fermata!Be | 
+[V:2] E3/2F/2!fermata!GB | 
+[V:3] B=c!fermata!eg | 
+[V:4] E,A,,!fermata!E,,E, | 
+[V:1] d3/2^c/2 B/2c/2d | 
+[V:2] B^AB/2A/2B | 
+[V:3] ff3/4e/4 d/2e/2 f/2g/2 | 
+[V:4] B,F,G,D,/2E,/2 | 
+[V:1] c2!fermata!Be | 
+[V:2] B/2^A/4^G/4A!fermata!FB | 
+[V:3] c/2fe/2!fermata!^de | 
+[V:4] F,F,,!fermata!B,,G, | 
+[V:1] ee!fermata!^df | 
+[V:2] B/2=A/2^c!fermata!BB/2=A/2 | 
+[V:3] e/2f/2=g!fermata!fB | 
+[V:4] =CB,/2^A,/2!fermata!B,^D, | 
+[V:1] eB=cB/2A/2 | 
+[V:2] GGAG | 
+[V:3] Be-e/2=d/2d | 
+[V:4] E,/2F,/2G,-G,/2F,/2G, | 
+[V:1] A2!fermata!GG | 
+[V:2] G/2F/4E/4F!fermata!DE | 
+[V:3] e/2=c/2 A/2d/4=c/4!fermata!B=c | 
+[V:4] =C,D,!fermata!G,,C, | 
+[V:1] FF!fermata!EB | 
+[V:2] E^D!fermata!B,G- | 
+[V:3] =cB/2A/2!fermata!Ge | 
+[V:4] A,,B,,!fermata!E,,E, | 
+[V:1] =ddA/2B/2=c | 
+[V:2] G/2F/2GFG/2A/2 | 
+[V:3] =ddd/2B/2 e/2d/2 | 
+[V:4] B,,/2A,,/2B,,/2=C,/2D,E,/2F,/2 | 
+[V:1] !fermata!BBde | 
+[V:2] !fermata!GGGG | 
+[V:3] !fermata!ded3/2=c/2 | 
+[V:4] !fermata!G,E,B,,=C, | 
+[V:1] !fermata!BdBA/2G/2 | 
+[V:2] !fermata!GA-A/2G/4F/4E | 
+[V:3] !fermata!ddd=c- | 
+[V:4] !fermata!G,,F,,G,,=C, | 
+[V:1] F3/2E/2!fermata!E2 |] 
+[V:2] E^D!fermata!B,2 |] 
+[V:3] c/2A/2 F/2B/4A/4!fermata!^G2 |] 
+[V:4] A,,B,,!fermata!E,,2 |]

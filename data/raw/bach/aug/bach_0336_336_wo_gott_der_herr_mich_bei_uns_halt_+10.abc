@@ -1,0 +1,69 @@
+X:335
+T:336. Wo Gott, der Herr, mich bei uns h\"alt
+N:Derived from chor336.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 454991565
+%%humdrum-veritas-data 2397122520
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] c' [I:setbarnb 1]| 
+[V:2] e/2f/2 | 
+[V:3] c' | 
+[V:4] A | 
+[V:1] c'a/2b/2 c'/2d'/2e' | 
+[V:2] gfgg | 
+[V:3] c'c'c'c' | 
+[V:4] EFE/2D/2C | 
+[V:1] d'd'!fermata!c'c' | 
+[V:2] ag/2=f/2!fermata!e^f | 
+[V:3] c'b!fermata!ga | 
+[V:4] ^FG!fermata!CA, | 
+[V:1] ba/2b/2c'd'/2c'/2 | 
+[V:2] g=fed/2e/2 | 
+[V:3] d'd'c'/2b/2a | 
+[V:4] G,DA/2G/2 F/2E/2 | 
+[V:1] b2!fermata!a :| 
+[V:2] fe!fermata!e :| 
+[V:3] a^g/2d'/2!fermata!c' :| 
+[V:4] DE!fermata!A, :| 
+[V:1] d' [I:setbarnb 5]| 
+[V:2] g | 
+[V:3] =g | 
+[V:4] B, | 
+[V:1] e'e'b/2c'/2d' | 
+[V:2] ggd/2e/2f | 
+[V:3] gg/2a/2bb | 
+[V:4] C/2D/2 E/2F/2G^G | 
+[V:1] c'c'!fermata!bc' | 
+[V:2] e^f!fermata!^ga | 
+[V:3] c'/2b/2a!fermata!e'e' | 
+[V:4] A^D!fermata!EA/2=G/2 | 
+[V:1] d'a/2b/2c'b | 
+[V:2] a/2=g/2^fed | 
+[V:3] ad'g/2a/2b | 
+[V:4] ^F/2E/2DE/2F/2G | 
+[V:1] aa!fermata!gc' | 
+[V:2] g^f!fermata!df | 
+[V:3] e'd'/2c'/2!fermata!bc' | 
+[V:4] ^CD!fermata!G,A, | 
+[V:1] ba/2b/2c'd'/2c'/2 | 
+[V:2] g^f/2^g/2aa/2e/2 | 
+[V:3] d'd'e'a | 
+[V:4] B,/2=C/2DA/2=G/2 =F/2E/2 | 
+[V:1] b2!fermata!a |] 
+[V:2] =fe/2d/2!fermata!c |] 
+[V:3] a^g!fermata!e |] 
+[V:4] DE!fermata!A, |]

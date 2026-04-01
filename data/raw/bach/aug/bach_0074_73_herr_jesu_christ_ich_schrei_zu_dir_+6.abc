@@ -1,0 +1,73 @@
+X:73
+T:73. Herr Jesu Christ, ich schrei zu dir
+N:Derived from chor073.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 518500323
+%%humdrum-veritas-data 919102834
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] C | 
+[V:1] c^Bcd | 
+[V:2] AG/2F/2EA | 
+[V:3] ddcf | 
+[V:4] F,G,A,G,/2F,/2 | 
+[V:1] ed!fermata!cc | 
+[V:2] GG!fermata!GG | 
+[V:3] ^B/2c^B/2!fermata!ee | 
+[V:4] G,G,!fermata!C,C | 
+[V:1] ddgf | 
+[V:2] AGGc/2^B/2 | 
+[V:3] ff^ef | 
+[V:4] C^B,=B,A, | 
+[V:1] e2!fermata!d :| 
+[V:2] c2!fermata!^B :| 
+[V:3] g^a/2c/2!fermata!g :| 
+[V:4] G,^^F,!fermata!G, :| 
+[V:1] g [I:setbarnb 5]| 
+[V:2] c | 
+[V:3] g | 
+[V:4] E | 
+[V:1] fed/2e/2f | 
+[V:2] c/2=B/2 B/2A/2 A/2G/2 F/2d/2 | 
+[V:3] =a/2b/2 c'/2e/2 f/2g/2 c/2f/2 | 
+[V:4] E/2D/2C3/2B,/2A, | 
+[V:1] ed!fermata!ce | 
+[V:2] ^B/2cB/2!fermata!Gc/2=B/2 | 
+[V:3] g/2a/2 d/2g/2!fermata!eg | 
+[V:4] G,/2F,/2G,!fermata!C,C | 
+[V:1] dcB/2^A/2 G/2A/2 | 
+[V:2] ^A/2G/2 G/2^^F/2 G/2^A/2 B/2^^F/2 | 
+[V:3] ^^f/2g/2^ad3/2c/2 | 
+[V:4] C/2B,/2^A,G,2- | 
+[V:1] Bc!fermata!dd | 
+[V:2] G/2B^A/2!fermata!BB | 
+[V:3] d/2f/2 g/2f/2!fermata!ff | 
+[V:4] G,/2D,/2 E,/2F,/2!fermata!B,,B,/2=A,/2 | 
+[V:1] efg3/2f/2 | 
+[V:2] B/2c/2ddG- | 
+[V:3] gab^b | 
+[V:4] G,/2A,/2 G,/2F,/2 E,/2F,/2 E,/2D,/2 | 
+[V:1] ef/2e/2d2 | 
+[V:2] GF/2G/2AG/2F/2 | 
+[V:3] c'cc^B | 
+[V:4] C,/2E,/2 A,/2G,/2 F,/2D,/2G, | 
+[V:1] !fermata!c3 |] 
+[V:2] !fermata!^E3 |] 
+[V:3] !fermata!G3 |] 
+[V:4] !fermata!C,3 |]

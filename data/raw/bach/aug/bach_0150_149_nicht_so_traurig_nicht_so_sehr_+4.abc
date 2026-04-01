@@ -1,0 +1,61 @@
+X:149
+T:149. Nicht so traurig, nicht so sehr
+N:Derived from chor149.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3625856601
+%%humdrum-veritas-data 3702032510
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] gf/2e/2 [I:setbarnb 1]| 
+[V:2] BA | 
+[V:3] e^d | 
+[V:4] E,F, | 
+[V:1] ba/2g/2fg/2a/2 | 
+[V:2] G/2A/2BcB/2A/2 | 
+[V:3] eee^d/2e/2 | 
+[V:4] G,E,A,B,/2C/2 | 
+[V:1] !fermata!^d2e/2f/2g | 
+[V:2] !fermata!B2BB | 
+[V:3] !fermata!f2ee | 
+[V:4] !fermata!B,2G,/2F,/2E, | 
+[V:1] cBA=d | 
+[V:2] A=DDA | 
+[V:3] e/2f/2ggf | 
+[V:4] A,B,/2C/2DD, | 
+[V:1] !fermata!B2 :| 
+[V:2] !fermata!G2 :| 
+[V:3] !fermata!d2 :| 
+[V:4] !fermata!G,2 :| 
+[V:1] bd [I:setbarnb 5]| 
+[V:2] GG | 
+[V:3] dd | 
+[V:4] G,B, | 
+[V:1] ^cdgf/2e/2 | 
+[V:2] AABA | 
+[V:3] edd^c | 
+[V:4] A,/2G,/2F,E,A, | 
+[V:1] !fermata!f2fg/2a/2 | 
+[V:2] !fermata!A2AA | 
+[V:3] !fermata!d2de | 
+[V:4] !fermata!D,2D=C | 
+[V:1] ^dbgf3/4e/4 | 
+[V:2] BBBA3/4^G/4 | 
+[V:3] fee3/2^d/2 | 
+[V:4] B,/2A,/2G,/2A,/2B,B,, | 
+[V:1] !fermata!e2 |] 
+[V:2] !fermata!^G2 |] 
+[V:3] !fermata!B2 |] 
+[V:4] !fermata!E,2 |]

@@ -1,0 +1,69 @@
+X: 312
+T: 313. Allein Gott in der H\"oh sei Ehr / Cantata, BWV 112: Der Herr ist mein getreuer Hirt
+N: Derived from chor313.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 573464109
+%%humdrum-veritas-data 1023325710
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] G/A/ [I:setbarnb 1]| 
+[V:2] D/F/ | 
+[V:3] B/c/ | 
+[V:4] G,, | 
+[V:1] Bcdc | 
+[V:2] GGFE/F/ | 
+[V:3] deAA | 
+[V:4] G,/F,/E,D,A,, | 
+[V:1] BA!fermata!BB | 
+[V:2] G3/F/!fermata!GG | 
+[V:3] dd!fermata!de | 
+[V:4] B,,/C,/D,!fermata!G,,E, | 
+[V:1] BA/B/ c/B/A | 
+[V:2] GF/G/ A/G/F | 
+[V:3] dde/d/ d/c/ | 
+[V:4] B,,/C,/D,A,,/B,,/ C,/D,/ | 
+[V:1] G3//A//A!fermata!G :|]  
+[V:2] GG/F/!fermata!D :|]  
+[V:3] Be/d//c//!fermata!B :|]  
+[V:4] E,/D,/ C,/D,/!fermata!G,, :|]  
+[V:1] G [I:setbarnb 5]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] G, | 
+[V:1] ABcB | 
+[V:2] DDEE | 
+[V:3] AGG^G | 
+[V:4] F,=F,E,D, | 
+[V:1] A3/^G/!fermata!AA | 
+[V:2] E/C/ =F/E/!fermata!E^F | 
+[V:3] Ad!fermata!cA | 
+[V:4] C,/=F,/ D,/E,/!fermata!A,,D,/C,/ | 
+[V:1] Bcdc | 
+[V:2] =G=FEE/^F/ | 
+[V:3] dcBc/d/ | 
+[V:4] B,,A,,^G,,A,, | 
+[V:1] BA!fermata!BB | 
+[V:2] =G3/F//E//!fermata!^DE | 
+[V:3] eE!fermata!FG/A/ | 
+[V:4] E,/D,/C,!fermata!B,,E,/F,/ | 
+[V:1] BA/B/ c/B/A | 
+[V:2] =D/E/ F/G/ A/G/- G/F/ | 
+[V:3] B/c/ d/G/ F/G/ E/F/ | 
+[V:4] G,F,/E,/ ^D,/E,/ ^C,/D,/ | 
+[V:1] G3//A//A!fermata!G |]  
+[V:2] E/D/ E/D/!fermata!D |]  
+[V:3] G3/F/!fermata!B |]  
+[V:4] E,/B,,/ =C,/=D,/!fermata!G,, |]

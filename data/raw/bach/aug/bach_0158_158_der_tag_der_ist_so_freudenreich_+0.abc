@@ -1,0 +1,93 @@
+X: 157
+T: 158. Der Tag, der ist so freudenreich
+N: Derived from chor158.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2059576139
+%%humdrum-veritas-data 2089292076
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] G [I:setbarnb 1]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] G,/F,/ | 
+[V:1] GGAB | 
+[V:2] EE3/F/G | 
+[V:3] Bccd/=f/ | 
+[V:4] E,/D,/C,/B,,/A,,G,, | 
+[V:1] c/B/A!fermata!G2 | 
+[V:2] G3/^F/!fermata!D2 | 
+[V:3] eA/d//c//!fermata!B2 | 
+[V:4] C,D,!fermata!G,,2 | 
+[V:1] AAEF | 
+[V:2] FE/D/E-E/D//C// | 
+[V:3] dc/B/- B/A/- A/B//A// | 
+[V:4] D,A,,/B,,/C,D, | 
+[V:1] GA!fermata!G :|]  
+[V:2] B,/G,/D!fermata!D :|]  
+[V:3] G3/F/!fermata!B :|]  
+[V:4] E,D,!fermata!G,, :|]  
+[V:1] G [I:setbarnb 5]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] G, | 
+[V:1] dded/c/ | 
+[V:2] DG/A/ B/c/ B/A/ | 
+[V:3] A/c/B/A/Gd | 
+[V:4] F,G,/F,/E,F, | 
+[V:1] B^c!fermata!dd | 
+[V:2] GG!fermata!AA | 
+[V:3] de!fermata!fd/=c/ | 
+[V:4] G,/F,/E,!fermata!D,F, | 
+[V:1] dded/c/ | 
+[V:2] GGGA- | 
+[V:3] B/c/d/B/ c/B/A/d/ | 
+[V:4] G,/A,/B,/G,/CF, | 
+[V:1] BA!fermata!G2 | 
+[V:2] A/GF/!fermata!D2 | 
+[V:3] dd3//c//!fermata!B2 | 
+[V:4] G,D,!fermata!G,,2 | 
+[V:1] EFGE | 
+[V:2] CCD/B,A,/ | 
+[V:3] GAD/GF//E// | 
+[V:4] C,/B,,/A,,B,,^C, | 
+[V:1] D^C!fermata!D2 | 
+[V:2] A,/B,/A,!fermata!A,2 | 
+[V:3] FE/F//G//!fermata!F2 | 
+[V:4] D,A,,!fermata!D,,2 | 
+[V:1] GGAB | 
+[V:2] EEE/F/G | 
+[V:3] B=ccd/=f/ | 
+[V:4] E,/D,/C,/B,,/A,,G,, | 
+[V:1] c/B/A!fermata!G2 | 
+[V:2] G3/^F/!fermata!D2 | 
+[V:3] eA/d//c//!fermata!B2 | 
+[V:4] C,D,!fermata!G,,2 | 
+[V:1] AAEF | 
+[V:2] DD^CD | 
+[V:3] F/G/AAA | 
+[V:4] D,,/E,,/F,,/G,,/ A,,/G,,/F,, | 
+[V:1] G/F/E!fermata!D=F | 
+[V:2] D^C!fermata!A,D | 
+[V:3] BE/A//G//!fermata!FG | 
+[V:4] E,,A,,!fermata!D,B,, | 
+[V:1] ECE^F | 
+[V:2] =CG,CD | 
+[V:3] GEAA | 
+[V:4] C,3/B,,/A,,D,/C,/ | 
+[V:1] GA!fermata!G |]  
+[V:2] D3/C/!fermata!B, |]  
+[V:3] GF!fermata!G |]  
+[V:4] B,,/G,,/D,!fermata!G,, |]

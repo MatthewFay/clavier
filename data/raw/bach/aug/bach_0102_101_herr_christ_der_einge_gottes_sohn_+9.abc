@@ -1,0 +1,69 @@
+X:101
+T:101. Herr Christ, der ein'ge Gottes Sohn
+N:Derived from chor101.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 159110666
+%%humdrum-veritas-data 790846701
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] g [I:setbarnb 1]| 
+[V:2] d | 
+[V:3] b | 
+[V:4] G | 
+[V:1] g/2a/2bag | 
+[V:2] e/2f/2gfe | 
+[V:3] c'd'd'/2c'/2b | 
+[V:4] CG,DE | 
+[V:1] f2!fermata!eb | 
+[V:2] e^d!fermata!ee | 
+[V:3] c'b/2a/2!fermata!gg | 
+[V:4] A,B,!fermata!CE | 
+[V:1] c'aba | 
+[V:2] e=ddd | 
+[V:3] gfgg/2f/2 | 
+[V:4] A,D/2C/2 B,/2C/2D | 
+[V:1] !fermata!g3 :| 
+[V:2] !fermata!d3 :| 
+[V:3] !fermata!b3 :| 
+[V:4] !fermata!G,3 :| 
+[V:1] g/2a/2 [I:setbarnb 5]| 
+[V:2] d | 
+[V:3] b/2c'/2 | 
+[V:4] G, | 
+[V:1] bbc'c' | 
+[V:2] gg/2f/2ee | 
+[V:3] d'e'e'/2d'/2 c'/2b/2 | 
+[V:4] G/2F/2E/2D/2 C/2B,/2 A,/2G,/2 | 
+[V:1] d'c'/2b/2!fermata!ad' | 
+[V:2] d2!fermata!dd | 
+[V:3] ag!fermata!fa | 
+[V:4] F,G,!fermata!D,F, | 
+[V:1] bbag | 
+[V:2] ddd/2c/2B | 
+[V:3] ggff/2e/2 | 
+[V:4] G,/2A,/2B,/2C/2 D/2^D/2 E/2G,/2 | 
+[V:1] f2!fermata!eb | 
+[V:2] c/2A/2B!fermata!Be | 
+[V:3] e^d!fermata!g^g | 
+[V:4] A,/2F,/2B,!fermata!E,E | 
+[V:1] c'aba | 
+[V:2] e=dd/2e/2f | 
+[V:3] a/2b/2 c'/2f/2gd'/2c'/2 | 
+[V:4] A/2=G/2 F/2D/2 G/2C/2 D/2D,/2 | 
+[V:1] !fermata!g3 |] 
+[V:2] !fermata!d3 |] 
+[V:3] !fermata!b3 |] 
+[V:4] !fermata!G,3 |]

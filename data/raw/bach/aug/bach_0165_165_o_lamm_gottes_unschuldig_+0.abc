@@ -1,0 +1,73 @@
+X: 164
+T: 165. O Lamm Gottes, unschuldig
+N: Derived from chor165.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 340387653
+%%humdrum-veritas-data 1566357825
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: F
+[V:1] F [I:setbarnb 1]| 
+[V:2] C | 
+[V:3] A/B/ | 
+[V:4] F,,/G,,/ | 
+[V:1] FFcc | 
+[V:2] C//D//_E/ E/D/ =E/C/ F/E/ | 
+[V:3] c-c/B//A//Gc- | 
+[V:4] A,,B,,2A,,/G,,/ | 
+[V:1] d2!fermata!cc | 
+[V:2] AG/F/!fermata!EE- | 
+[V:3] c=B!fermata!GA | 
+[V:4] F,,G,,!fermata!C,A,, | 
+[V:1] FGAB | 
+[V:2] E/D/- D/C/ C/D//E//F- | 
+[V:3] AGF-F/d/ | 
+[V:4] D,E,F,/E,/D,/B,,/ | 
+[V:1] AG/F/!fermata!F :|]  
+[V:2] F/E//D//E!fermata!C :|]  
+[V:3] cc3//B//!fermata!A :|]  
+[V:4] C,C,,!fermata!F, :|]  
+[V:1] A [I:setbarnb 5]| 
+[V:2] F | 
+[V:3] c | 
+[V:4] F,- | 
+[V:1] AAGA | 
+[V:2] FFFE | 
+[V:3] cddA | 
+[V:4] F,/E,/D,/C,/=B,,^C, | 
+[V:1] F/E/D!fermata!Cc | 
+[V:2] D/C/- C/=B,/!fermata!G,_E | 
+[V:3] A/G/ A/G//F//!fermata!EF | 
+[V:4] D,/E,/F,/G,/!fermata!C,A,, | 
+[V:1] dccA/_B/ | 
+[V:2] D/=E/ F/G//A//GF | 
+[V:3] F/G/ A/B/c-c/d/ | 
+[V:4] B,,F,-F,/E,/F,- | 
+[V:1] cB!fermata!Ad | 
+[V:2] A-A/G!fermata!^F/G | 
+[V:3] _ed!fermata!dd/f/ | 
+[V:4] F,/^F,/ G,/G,,/!fermata!D,B,,/=B,,/ | 
+[V:1] c/B/AGA | 
+[V:2] G=FG-G/F//E// | 
+[V:3] e-e/d/- d/c/c | 
+[V:4] C,D,E,=F, | 
+[V:1] cAG2 | 
+[V:2] FF2E | 
+[V:3] c/A/F/A/dc/B/ | 
+[V:4] A,,/B,,//C,// D,/C,/B,,C, | 
+[V:1] !fermata!F3 |]  
+[V:2] !fermata!C3 |]  
+[V:3] !fermata!A3 |]  
+[V:4] !fermata!F,,3 |]

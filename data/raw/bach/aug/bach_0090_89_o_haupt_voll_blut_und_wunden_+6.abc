@@ -1,0 +1,77 @@
+X:89
+T:89. O Haupt voll Blut und Wunden
+N:Derived from chor089.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2129695646
+%%humdrum-veritas-data 3221306226
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] f | 
+[V:4] F/2E/2 | 
+[V:1] fedc | 
+[V:2] A/2B/2cF/2G/2A | 
+[V:3] f/2g/2abe | 
+[V:4] DCB,A, | 
+[V:1] B2!fermata!cg | 
+[V:2] AG!fermata!Ac | 
+[V:3] fe!fermata!eg | 
+[V:4] =D,E,!fermata!A,=E, | 
+[V:1] ag/2a/4b/4ag/2f/2 | 
+[V:2] c_dcB/2A/2 | 
+[V:3] fff=e | 
+[V:4] F,B,CC, | 
+[V:1] !fermata!f3 :| 
+[V:2] !fermata!A3 :| 
+[V:3] !fermata!c3 :| 
+[V:4] !fermata!F,3 :| 
+[V:1] a [I:setbarnb 5]| 
+[V:2] c | 
+[V:3] f/2e/2 | 
+[V:4] F | 
+[V:1] g/2f/2efg | 
+[V:2] =dc_dd | 
+[V:3] =dgab | 
+[V:4] =B,C_C_B, | 
+[V:1] a2!fermata!ae | 
+[V:2] ed!fermata!cc | 
+[V:3] a/2_g_f/2!fermata!ea/2_g/2 | 
+[V:4] =C_D!fermata!A,A, | 
+[V:1] fef/2e/2d | 
+[V:2] c/2B/2 =A/2B/2c-c/2B/2 | 
+[V:3] =f_gff | 
+[V:4] DC/2B,/2=A,B, | 
+[V:1] !fermata!c3a | 
+[V:2] B!fermata!=A2f | 
+[V:3] !fermata!f3b | 
+[V:4] !fermata!F,3=D | 
+[V:1] g/2a/2bag | 
+[V:2] eee/2f/2 g/2e/2 | 
+[V:3] bb/2c'/4d'/4c'b | 
+[V:4] E/2F/2GC/2=D/2E | 
+[V:1] f2!fermata!gc | 
+[V:2] e=d!fermata!eA | 
+[V:3] c'b!fermata!be | 
+[V:4] =A,B,!fermata!E,_A, | 
+[V:1] _dcBe/2d/2 | 
+[V:2] BABc/2B/2 | 
+[V:3] eee/2f/2_g | 
+[V:4] G,A,_G,/2F,/2E, | 
+[V:1] c2-!fermata!c |] 
+[V:2] BA!fermata!G |] 
+[V:3] =gf!fermata!=e |] 
+[V:4] =E,F,!fermata!C, |]

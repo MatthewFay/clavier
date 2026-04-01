@@ -1,0 +1,73 @@
+X:365
+T:366. O Welt, sieh hier dein Leben
+N:Derived from chor366.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3567499990
+%%humdrum-veritas-data 117705636
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] ba [I:setbarnb 1]| 
+[V:2] gf | 
+[V:3] d'2 | 
+[V:4] G2 | 
+[V:1] g2a2bc'd'2 | 
+[V:2] e3fg3d | 
+[V:3] e'd'c'2d'2g2 | 
+[V:4] cBA2G2B,2 | 
+[V:1] c'4!fermata!b2bc' | 
+[V:2] e2d2!fermata!d2g2 | 
+[V:3] g2f2!fermata!g2d'2 | 
+[V:4] A,2D2!fermata!G,2GA | 
+[V:1] d'2d'2a2ba | 
+[V:2] gf ga fed2 | 
+[V:3] d'2d'2d'c'b2 | 
+[V:4] B2B,CD2GF | 
+[V:1] g4!fermata!f2d2 | 
+[V:2] d2^c2!fermata!d2A2 | 
+[V:3] b2a2!fermata!a2f2 | 
+[V:4] E2A,2!fermata!D2D=C | 
+[V:1] g2a2ba bc' | 
+[V:2] def2gf ga | 
+[V:3] g2c'2d'c' d'e' | 
+[V:4] B,C B,A,G,2GC | 
+[V:1] !fermata!a4z2ba | 
+[V:2] !fermata!f4x2f2 | 
+[V:3] !fermata!d'4x2^d'2 | 
+[V:4] !fermata!D4z2B,2 | 
+[V:1] g2a2bc'd'2 | 
+[V:2] e2=d2dcB2 | 
+[V:3] bc' bag2g2 | 
+[V:4] E2F2GA GF | 
+[V:1] c'4!fermata!b2bc' | 
+[V:2] BA/2G/2A2!fermata!G2g2 | 
+[V:3] ge'2d'!fermata!d'2e'2 | 
+[V:4] E2F2!fermata!G2E2 | 
+[V:1] d'2d'2a2ba | 
+[V:2] ab ag fef2 | 
+[V:3] d'2a2ag fe | 
+[V:4] FG FE DE D^C | 
+[V:1] g4!fermata!f2d2 | 
+[V:2] fe/2d/2e2!fermata!d2d=c | 
+[V:3] db2a!fermata!a2ba | 
+[V:4] B,2^C2!fermata!D2B,2 | 
+[V:1] g2a2bc' d'c' | 
+[V:2] Bc BAG2g2 | 
+[V:3] g2fed3e | 
+[V:4] E2D=C B,A, B,C | 
+[V:1] b2a2!fermata!g2 |] 
+[V:2] de Ad!fermata!B2 |] 
+[V:3] fg2f!fermata!d2 |] 
+[V:4] DCD2!fermata!G,2 |]

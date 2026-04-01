@@ -1,0 +1,69 @@
+X:220
+T:221. Herr, straf mich nicht in deinem Zorn
+N:Derived from chor221.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3933252416
+%%humdrum-veritas-data 580489905
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] e [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] g | 
+[V:4] E, | 
+[V:1] gfee | 
+[V:2] ee/2d/2cc- | 
+[V:3] bb3/4a/4ga- | 
+[V:4] EB,C/2B,/2A,/2G,/2 | 
+[V:1] dc!fermata!BB | 
+[V:2] c/2B/2- B/2A/2!fermata!^GB | 
+[V:3] a/2e/2e!fermata!ee | 
+[V:4] F,/2^G,/2A,!fermata!E,=G,- | 
+[V:1] ^c^deg | 
+[V:2] A3/4B/4 c/2B/2 B/2^c/4^d/4e | 
+[V:3] ea/2g/4f/4 g/2a/2b | 
+[V:4] G,/2A,/4G,/4 F,/2B,/2 G,/2F,/2 E,/2G,/2 | 
+[V:1] f2!fermata!e :| 
+[V:2] e^d!fermata!B :| 
+[V:3] =c'/2a/2 f/2b/4a/4!fermata!g :| 
+[V:4] A,/2F,/2B,!fermata!E, :| 
+[V:1] f [I:setbarnb 5]| 
+[V:2] =d | 
+[V:3] b | 
+[V:4] B, | 
+[V:1] fffd | 
+[V:2] ^cdc3/2B/2- | 
+[V:3] ^abff/2g/2- | 
+[V:4] F/2E/2D/2^C/2 B,/2^A,/2B, | 
+[V:1] ef!fermata!gf | 
+[V:2] B/2=A/2- A/2B/2!fermata!BB | 
+[V:3] g/2=a/4g/4 f/4e/4f/2!fermata!ed | 
+[V:4] ^C^D!fermata!EB, | 
+[V:1] ffgf | 
+[V:2] ^c/4d/4e^d/2e3/2=d/2- | 
+[V:3] fbbb3/4a/4 | 
+[V:4] ^A,=A,G,/2A,/2B, | 
+[V:1] ee!fermata!^dd | 
+[V:2] d/2=c/4B/4A!fermata!BB | 
+[V:3] gf/2e/2!fermata!ff | 
+[V:4] C/2B,/2C!fermata!B,B,/2A,/2 | 
+[V:1] efga | 
+[V:2] BB-B/2e/4^d/4e- | 
+[V:3] gfe-e/2c'/2 | 
+[V:4] G,/2F,/2E,/2^D,/2E,C/2A,/2 | 
+[V:1] f2!fermata!e |] 
+[V:2] e/2^d/4^c/4d!fermata!B |] 
+[V:3] b/2f/2 b/2a/2!fermata!^g |] 
+[V:4] B,2!fermata!E, |]

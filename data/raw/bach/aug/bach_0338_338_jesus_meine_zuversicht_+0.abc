@@ -1,0 +1,53 @@
+X: 337
+T: 338. Jesus, meine Zuversicht
+N: Derived from chor338.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2411112847
+%%humdrum-veritas-data 997969797
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: D
+[V:1] AG/F/Bc | 
+[V:2] FE/D/ D/EF/ | 
+[V:3] AA3/GA//G// | 
+[V:4] D,D,G,,A,, | 
+[V:1] dd!fermata!c2 | 
+[V:2] F3/E/!fermata!E2 | 
+[V:3] F/B/ A/^G/!fermata!A2 | 
+[V:4] B,,E,!fermata!A,,2 | 
+[V:1] B/c/dA/G/F | 
+[V:2] EDED | 
+[V:3] BAAA | 
+[V:4] =G,F,C,D,/=C,/ | 
+[V:1] GFE!fermata!D :|]  
+[V:2] DDD/C/!fermata!A, :|]  
+[V:3] GA/B/ B/A//G//!fermata!F :|]  
+[V:4] B,,/_B,,/ A,,/^G,,/A,,!fermata!D, :|]  
+[V:1] F^G^AB/c/ | 
+[V:2] B,/FE/FF/E/ | 
+[V:3] BBcB | 
+[V:4] ^D,E,-E,/=D,/G, | 
+[V:1] dc!fermata!B2 | 
+[V:2] FF!fermata!F2 | 
+[V:3] B^A/e/!fermata!d2 | 
+[V:4] F,/E,/F,!fermata!B,,2 | 
+[V:1] cdef | 
+[V:2] GAAA | 
+[V:3] efed | 
+[V:4] E,D,D,/C,/D, | 
+[V:1] ee!fermata!d2 |]  
+[V:2] BA/G/!fermata!F2 |]  
+[V:3] dc!fermata!A2 |]  
+[V:4] G,A,!fermata!D,2 |]

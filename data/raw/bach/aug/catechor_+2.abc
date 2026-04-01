@@ -1,0 +1,71 @@
+X:1
+T:from /workspace/data/raw_mid/bach/organ/catechor.mid
+M:4/4
+L:1/8
+Q:1/4=55
+% Last note suggests minor mode tune
+K:Cmaj% 2 flats
+V:1
+%%MIDI program 68
+z2 A2 B2 c2| \
+c2 d2 c2 B2| \
+B2 c2 d2 e2| \
+c2 f2 e2 d2-|
+d2 c4 e2| \
+e2 e2 e2 d2| \
+c2 d2 d2 d2| \
+e2 f2 f2 e2|
+d2 e4 d2-| \
+d2 A2 B2 c2| \
+c2 d2 d2 e2| \
+e2 e2 e2 f2|
+e2 d2 c2 B2-| \
+B2 A6-|A4 
+V:2
+%%MIDI program 48
+z2 E2 E2 E2| \
+AG F2 E_E =E2| \
+E2 E^F G2 G2| \
+FG AB c4|
+B2 GA GF G2| \
+_A2 =A2 A3G-| \
+G^F G2 G2 G2| \
+G2 FG2<A2G|
+F2 _B2 AG2F/2E/2| \
+F2 ^F2 _A2 =A2| \
+E2 A2 G2 G2| \
+G2 A2 A2 AB|
+c3B2A2_A/2^F/2| \
+_A2 E6-|E4 
+V:3
+%%MIDI program 70
+z2 C2 B,2 A,2| \
+A,3_A,2<=A,2_A,/2^F,/2| \
+_A,2 =A,C B,2 C_B,| \
+A,2 D2 G,2 GA|
+GF EF ED C2| \
+D2 C2 C3B,| \
+C3B,/2A,/2 B,2 B,2| \
+B,^C D2 D2 C2|
+D4 ^C2 D2| \
+A,2 D2 D2 ED| \
+C2 C3B, C2| \
+C2 C2 ^C2 D2|
+E2 F2 E2 E2-| \
+ED3 ^CB, C2-|^C4 
+V:4
+%%MIDI program 43
+z2 A,3_A, =A,G,| \
+F,E, D,2 A,,2 E,2| \
+E,2 A,,A, G,F, E,C,| \
+F,E, D,2 E,F, G,2-|
+G,2 C,4 CD| \
+CB, A,B, A,G, ^F,G,| \
+A,2 G,2 G,2 G,F,| \
+E,2 D,E, F,G, A,2|
+_B,A, G,E, A,2 D,2-| \
+D,2 D,D CB, A,B,| \
+A,G, F,D, G,2 C,D,| \
+C,B,, A,,G, F,E, D,C,|
+B,,A,, _A,,2 =A,,2 E,,2-| \
+E,,2 A,,6-|A,,4 

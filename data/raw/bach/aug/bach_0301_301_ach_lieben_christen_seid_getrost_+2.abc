@@ -1,0 +1,69 @@
+X:300
+T:301. Ach lieben Christen, seid getrost
+N:Derived from chor301.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3340765244
+%%humdrum-veritas-data 4106946277
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] e | 
+[V:4] A, | 
+[V:1] cA/2B/2 c/2d/2e | 
+[V:2] GFEE | 
+[V:3] e/2d/2ccG | 
+[V:4] E,F,/2G,/2 A,/2B,/2C | 
+[V:1] dd!fermata!cc | 
+[V:2] FF/4E/4F/2!fermata!EE | 
+[V:3] AB!fermata!GA | 
+[V:4] F,G,!fermata!C,A,, | 
+[V:1] BA/2B/2cd/2c/2 | 
+[V:2] E/2d/2 c/2B/2AA/2G/2 | 
+[V:3] ^G/2f/2 e/2d/2 c/2B/2A | 
+[V:4] E,^F,/2^G,/2 A,/2=G,/2=F,/2E,/2 | 
+[V:1] B2!fermata!A :| 
+[V:2] FE/2D/2!fermata!C :| 
+[V:3] A^G!fermata!A :| 
+[V:4] D,E,!fermata!A,, :| 
+[V:1] d [I:setbarnb 5]| 
+[V:2] G | 
+[V:3] =G | 
+[V:4] B,, | 
+[V:1] eeB/2c/2d | 
+[V:2] GGD3/2B/2 | 
+[V:3] ccg^g/2B/2 | 
+[V:4] C,/2D,/2 E,/2F,/2 G,/2A,/2 B,/2^G,/2 | 
+[V:1] cc!fermata!Bc | 
+[V:2] B/2A/4^G/4A!fermata!GA | 
+[V:3] c/2d/2e!fermata!ee | 
+[V:4] A,/2B,/2 C/2D/2!fermata!EA,/2=G,/2 | 
+[V:1] dA/2B/2cB | 
+[V:2] A/2=G/2FE/2^F/2G | 
+[V:3] Adcd | 
+[V:4] F,/2E,/2D,A,,B,,/2C,/2 | 
+[V:1] AA!fermata!Gc | 
+[V:2] G^F!fermata!DE | 
+[V:3] d/2A/2 d/2c/2!fermata!BG/2A/2 | 
+[V:4] D,/2C,/2D,!fermata!G,,E,/2^F,/2 | 
+[V:1] BA/2B/2cd/2c/2 | 
+[V:2] D/2E/2 ^F/2^G/2AA | 
+[V:3] B/2c/2ded/2e/2 | 
+[V:4] G,D,A,/2=G,/2 F,/2E,/2 | 
+[V:1] B2!fermata!A |] 
+[V:2] A^G!fermata!E |] 
+[V:3] =f/2B/2e/2d/2!fermata!^c |] 
+[V:4] D,E,!fermata!A,, |]

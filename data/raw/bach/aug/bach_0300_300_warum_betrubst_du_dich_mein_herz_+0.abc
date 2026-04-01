@@ -1,0 +1,65 @@
+X: 299
+T: 300. Warum betr\"ubst du dich, mein Herz
+N: Derived from chor300.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1339612051
+%%humdrum-veritas-data 1339371660
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] A [I:setbarnb 1]| 
+[V:2] E | 
+[V:3] c/d/ | 
+[V:4] A,,/B,,/ | 
+[V:1] A/B/cBe | 
+[V:2] E3/A/ A/^G/=G | 
+[V:3] eAB_B | 
+[V:4] C,A,,E,^C, | 
+[V:1] dc!fermata!Bc/B/ | 
+[V:2] F^F!fermata!B,E | 
+[V:3] AA!fermata!^GA | 
+[V:4] D,^D,!fermata!E,A,, | 
+[V:1] Aede | 
+[V:2] =F=GGG | 
+[V:3] Ac-c/B//A// B/^c/ | 
+[V:4] =D,C,G,E, | 
+[V:1] A/B/^c!fermata!d=c | 
+[V:2] FE!fermata!FE | 
+[V:3] dA!fermata!AA | 
+[V:4] F,/G,/A,!fermata!D,A,, | 
+[V:1] Bedc | 
+[V:2] EE/^F/^GA | 
+[V:3] ^GABc/d/ | 
+[V:4] E,C,B,,A,, | 
+[V:1] !fermata!B3A/B/ | 
+[V:2] !fermata!^G3A/G/ | 
+[V:3] !fermata!e3e/d/ | 
+[V:4] !fermata!E,3C/B,/ | 
+[V:1] ccdd | 
+[V:2] AA/=G/F_B | 
+[V:3] c_edg | 
+[V:4] A,/G,/F,_B,/A,/G, | 
+[V:1] =ee!fermata!ce | 
+[V:2] _BA/G/!fermata!Ac | 
+[V:3] gf/e/!fermata!fg | 
+[V:4] CC,!fermata!F,C, | 
+[V:1] dcBA/B/ | 
+[V:2] =BA/G/ ^F/^G/A | 
+[V:3] g/f/edc/d/ | 
+[V:4] G,A,D,/E,/=F, | 
+[V:1] cB!fermata!A |]  
+[V:2] A^G!fermata!E |]  
+[V:3] e3/d/!fermata!^c |]  
+[V:4] C,/D,/E,!fermata!A,, |]

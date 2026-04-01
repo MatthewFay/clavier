@@ -1,0 +1,85 @@
+X:321
+T:322. Wenn mein St\"undlein vorhanden ist
+N:Derived from chor322.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3795021382
+%%humdrum-veritas-data 882353035
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bmaj
+[V:1] B [I:setbarnb 1]| 
+[V:2] F | 
+[V:3] d/2c/2 | 
+[V:4] B,,/2C,/2 | 
+[V:1] FGAB | 
+[V:2] FEEF | 
+[V:3] BBcd | 
+[V:4] D,=D,C,B,, | 
+[V:1] cd!fermata!Bd/2e/2 | 
+[V:2] FF!fermata!GF | 
+[V:3] ed!fermata!ed | 
+[V:4] A,,B,,!fermata!E,B, | 
+[V:1] ffd/2e/2f | 
+[V:2] F/2G/2AB=A | 
+[V:3] ccB/2c/2d- | 
+[V:4] A,/2G,/2F,G,D, | 
+[V:1] e2!fermata!dd | 
+[V:2] G^A!fermata!FF | 
+[V:3] dc!fermata!Bd | 
+[V:4] E,F,!fermata!B,,B, | 
+[V:1] edcB/2c/2 | 
+[V:2] F3/2G/2AB/2A/2 | 
+[V:3] cddd | 
+[V:4] A,B,^^F,G,/2A,/2 | 
+[V:1] dd/2c/2!fermata!Bd/2e/2 | 
+[V:2] G^^F!fermata!GG | 
+[V:3] dd!fermata!dB | 
+[V:4] B,/2C/2D!fermata!G,G, | 
+[V:1] ffdf | 
+[V:2] ^FcBd- | 
+[V:3] c/2d/2 e/2f/2 f/2g/2=a | 
+[V:4] =A,^A,B,^B, | 
+[V:1] e2!fermata!dd | 
+[V:2] dc!fermata!BB | 
+[V:3] g^a!fermata!ff | 
+[V:4] CF,!fermata!=B,B,/2A,/2 | 
+[V:1] edcB/2c/2 | 
+[V:2] BBA/2G/2F | 
+[V:3] efff/2e/2 | 
+[V:4] G,F,E,D,/2C,/2 | 
+[V:1] dd!fermata!Bc | 
+[V:2] FF!fermata!GG/2A/2- | 
+[V:3] d/2c/2B!fermata!ee | 
+[V:4] B,,/2C,/2D,!fermata!E,C | 
+[V:1] ddGA | 
+[V:2] A/2G/4A/4 B/2A/2G-G/2F/2 | 
+[V:3] dd-d/2c/2 c/2d/4e/4 | 
+[V:4] B,/2A,/2 G,/2F,/2^E,F, | 
+[V:1] B/2A/2G!fermata!FF | 
+[V:2] F-F/2^E/2!fermata!CF | 
+[V:3] d/2c/2B!fermata!AA/2c/2 | 
+[V:4] B,,C,!fermata!F,F,/2=E,/2 | 
+[V:1] Bcdc/2d/2 | 
+[V:2] FFBB | 
+[V:3] dcBg/2f/2 | 
+[V:4] D,/2C,/2 B,,/2A,,/2 G,,/2F,/2 E,/2D,/2 | 
+[V:1] edc2 | 
+[V:2] A/2c/2- c/2B/2BA | 
+[V:3] e/2f/2fgf/2e/2 | 
+[V:4] C,/2A,,/2 B,,/2D,/2 E,/2C,/2 F,/2F,,/2 | 
+[V:1] !fermata!B3 |] 
+[V:2] !fermata!F3 |] 
+[V:3] !fermata!d3 |] 
+[V:4] !fermata!B,,3 |]

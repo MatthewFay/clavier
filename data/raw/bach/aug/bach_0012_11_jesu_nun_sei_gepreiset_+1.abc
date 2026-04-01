@@ -1,0 +1,165 @@
+X:11
+T:11. Jesu, nun sei gepreiset
+N:Derived from chor011.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2131216906
+%%humdrum-veritas-data 1782843234
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dbmaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] d | 
+[V:4] D, | 
+[V:1] fdef | 
+[V:2] AAAA | 
+[V:3] d/2e/2fed | 
+[V:4] D,DC_C | 
+[V:1] g2!fermata!ee | 
+[V:2] G/2A/2B!fermata!_cB | 
+[V:3] dg!fermata!gB | 
+[V:4] B,A,/2G,/2!fermata!_C=G, | 
+[V:1] eddc | 
+[V:2] AABA | 
+[V:3] =cdg/2f/2e | 
+[V:4] A,/2_G,/2F,G,A, | 
+[V:1] !fermata!d2ze | 
+[V:2] !fermata!A2xA/2=G/2 | 
+[V:3] !fermata!f2xc/2B/2 | 
+[V:4] !fermata!D,2zA,, | 
+[V:1] eeef | 
+[V:2] A3/2=G/2AA | 
+[V:3] c/2B/2c/2d/2ed/2_c/2 | 
+[V:4] A,/2=G,/2A,/2B,/2 C/2A,/2D | 
+[V:1] d2!fermata!dd | 
+[V:2] A_G/2F/2!fermata!GA | 
+[V:3] _cB/2A/2!fermata!Bf | 
+[V:4] G,2!fermata!G,F,/2G,/2 | 
+[V:1] cdee | 
+[V:2] A/2G/2FBA/2G/2 | 
+[V:3] eddc | 
+[V:4] A,B,/2A,/2G,A,/2A,,/2 | 
+[V:1] !fermata!d3 :| 
+[V:2] !fermata!F3 :| 
+[V:3] !fermata!A3 :| 
+[V:4] !fermata!D,3 :| 
+[V:1] c [I:setbarnb 9]| 
+[V:2] A | 
+[V:3] e | 
+[V:4] A,, | 
+[V:1] cccc | 
+[V:2] ABA=A | 
+[V:3] e/2f/2=gff | 
+[V:4] A,/2=G,/2F,/2=E,/2 F,/2_E,/2D,/2C,/2 | 
+[V:1] d2!fermata!dc | 
+[V:2] B2!fermata!BB | 
+[V:3] f2!fermata!f_g | 
+[V:4] B,,2!fermata!B,,E, | 
+[V:1] cccc | 
+[V:2] BAEA | 
+[V:3] ff/2g/2ag- | 
+[V:4] F,/2G,/2A,/2B,/2 A,/2G,/2F,/2E,/2 | 
+[V:1] d2!fermata!d || 
+[V:2] A2!fermata!A || 
+[V:3] gf/2e/2!fermata!f || 
+[V:4] D,2!fermata!D, || 
+[V:1] [M:3/4]f [I:setbarnb 13]| 
+[V:2] [M:3/4]A | 
+[V:3] [M:3/4]d | 
+[V:4] [M:3/4]D, | 
+[V:1] fed | 
+[V:2] A2A | 
+[V:3] def | 
+[V:4] DCB, | 
+[V:1] e2f | 
+[V:2] ABc | 
+[V:3] e2a | 
+[V:4] CB,A, | 
+[V:1] g3 | 
+[V:2] dcB | 
+[V:3] d2e | 
+[V:4] B,2C | 
+[V:1] !fermata!f2f | 
+[V:2] !fermata!A2d | 
+[V:3] !fermata!f2a | 
+[V:4] !fermata!D2D, | 
+[V:1] e2e | 
+[V:2] cBA | 
+[V:3] agf | 
+[V:4] A,B,_C | 
+[V:1] =d2d | 
+[V:2] B_cA | 
+[V:3] gf2 | 
+[V:4] B,A,B, | 
+[V:1] e3- | 
+[V:2] G2_c | 
+[V:3] e2f | 
+[V:4] _CB,A, | 
+[V:1] !fermata!e2f | 
+[V:2] !fermata!B2B | 
+[V:3] !fermata!g2d | 
+[V:4] !fermata!E,2B, | 
+[V:1] fed | 
+[V:2] c2B | 
+[V:3] cff | 
+[V:4] =A,2B, | 
+[V:1] e2f | 
+[V:2] B2_A | 
+[V:3] Bcd- | 
+[V:4] G,2F, | 
+[V:1] g3 | 
+[V:2] B2A | 
+[V:3] dc/2B/2c | 
+[V:4] E,2A, | 
+[V:1] !fermata!f2f | 
+[V:2] !fermata!A2A | 
+[V:3] !fermata!d2B | 
+[V:4] !fermata!D,2=D, | 
+[V:1] e2e | 
+[V:2] GAB | 
+[V:3] B2e | 
+[V:4] E,F,G, | 
+[V:1] =d2d | 
+[V:2] AB_c | 
+[V:3] f2f | 
+[V:4] F,G,A, | 
+[V:1] e3- | 
+[V:2] B_cA | 
+[V:3] Be_c | 
+[V:4] =G,A,A,, | 
+[V:1] !fermata!e2 || 
+[V:2] !fermata!=G2 || 
+[V:3] !fermata!B2 || 
+[V:4] !fermata!E,2 || 
+[V:1] [M:C]f [I:setbarnb 29]| 
+[V:2] [M:C]B | 
+[V:3] [M:C]d | 
+[V:4] [M:C]B,,/2C,/2 | 
+[V:1] fdef | 
+[V:2] AAAA | 
+[V:3] ddcd | 
+[V:4] D,/2E,/2F,/2D,/2 G,/2A,/2G,/2F,/2 | 
+[V:1] g2!fermata!ee | 
+[V:2] B2!fermata!AA | 
+[V:3] d/2f/2e/2d/2!fermata!cc | 
+[V:4] E,/2F,/2G,/2E,/2 !fermata!A,/2B,/2A,/2G,/2 | 
+[V:1] eddc | 
+[V:2] AAA/2B/2 A/2G/2 | 
+[V:3] cd/2e/2fe/2A/2 | 
+[V:4] F,/2E,/2F,/2G,/2 A,/2G,/2A,/2A,,/2 | 
+[V:1] !fermata!d3 |] 
+[V:2] !fermata!F3 |] 
+[V:3] !fermata!A3 |] 
+[V:4] !fermata!D,3 |]

@@ -1,0 +1,61 @@
+X:48
+T:Ach wie fl\"uchtig, ach wie nichtig / 48. Ach wie fl\"uchtig, ach wie nichtig / Cantata, BWV 26: Ach wie fl\"uhtig, ach wie nichtig
+N:Derived from chor048.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 80477508
+%%humdrum-veritas-data 796613217
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] fga!fermata!a | 
+[V:2] ccc!fermata!c | 
+[V:3] agf!fermata!f | 
+[V:4] F=EF!fermata!F, | 
+[V:1] abc'!fermata!c' | 
+[V:2] cee!fermata!e | 
+[V:3] fga!fermata!a | 
+[V:4] F_EA!fermata!A, | 
+[V:1] c'c'ba | 
+[V:2] ea-a/2gf/2 | 
+[V:3] a/2b/2a/2g/2 f/2g/2a/2c'/2 | 
+[V:4] A/2G/2F/2E/2 =D/2=E/2F | 
+[V:1] g3/2f/2!fermata!f2 | 
+[V:2] f=e!fermata!c2 | 
+[V:3] _d'c'/2b/2!fermata!=a2 | 
+[V:4] B,C!fermata!F,2 | 
+[V:1] c'c'd'd' | 
+[V:2] fff_g | 
+[V:3] =a/2b/2c'/2=a/2bb | 
+[V:4] F,/2G,/2=A,/2F,/2 B,/2_A,/2 _G,/2F,/2 | 
+[V:1] c'c'b!fermata!b | 
+[V:2] _gf/2e/2 e/2c/2!fermata!=d | 
+[V:3] b=ab!fermata!f | 
+[V:4] E,/2C,/2F,B,!fermata!B,, | 
+[V:1] bbc'c' | 
+[V:2] eeef | 
+[V:3] g/2_a/2b/2g/2aa | 
+[V:4] E,/2F,/2G,/2E,/2 A,/2G,/2F,/2E,/2 | 
+[V:1] bba!fermata!a | 
+[V:2] fe/2d/2 d/2B/2!fermata!c | 
+[V:3] aga!fermata!e | 
+[V:4] D,/2B,,/2E,A,!fermata!A,, | 
+[V:1] abc'b/2a/2 | 
+[V:2] ddcc | 
+[V:3] ffgf | 
+[V:4] DC/2B,/2 =E,/2=E/2F | 
+[V:1] ggf!fermata!f |] 
+[V:2] =dc/2_B/2 B/2G/2!fermata!=A |] 
+[V:3] f=ef!fermata!c |] 
+[V:4] =B,CF!fermata!F, |]

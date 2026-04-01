@@ -1,0 +1,81 @@
+X:199
+T:200. Christus ist erstanden, hat \"uberwunden
+N:Derived from chor200.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1877751818
+%%humdrum-veritas-data 4082881923
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Fmaj
+[V:1] fcde | 
+[V:2] cc-c/2=B/2c | 
+[V:3] agfg | 
+[V:4] FEDC/2B,/2 | 
+[V:1] f2!fermata!fc | 
+[V:2] c3/2_B/2- B/2!fermata!A/2A- | 
+[V:3] f/2_e/2d!fermata!cf | 
+[V:4] A,B,!fermata!F,F/2_E/2 | 
+[V:1] f_ed2 | 
+[V:2] A/2=B/2ccB | 
+[V:3] fg_ag/2f/2 | 
+[V:4] DCF,G, | 
+[V:1] !fermata!c2cd | 
+[V:2] !fermata!G2G/2_AG/2- | 
+[V:3] !fermata!_e2_ef | 
+[V:4] !fermata!C,2C=B, | 
+[V:1] _efed | 
+[V:2] G/2_e/2 d/2c/2 =B/2cB/2 | 
+[V:3] _e/2c/2_ag-g3/4f/4 | 
+[V:4] CF,G,G,, | 
+[V:1] !fermata!c2cf | 
+[V:2] !fermata!G2=A/2_B/2c | 
+[V:3] !fermata!_e2f-f/2g/2 | 
+[V:4] !fermata!C,2F,/2G,/2A,/2B,/2 | 
+[V:1] fe!fermata!f2 | 
+[V:2] cc!fermata!c2 | 
+[V:3] a/2g/4f/4 g/2b/2- b/2a/4g/4!fermata!a | 
+[V:4] CC,!fermata!F,2 | 
+[V:1] ffgg | 
+[V:2] dd/2c/2 B/2c/2d- | 
+[V:3] bbb/2a/2 g/2a/2 | 
+[V:4] B,/2C/2B,/2A,/2 G,/2A,/2B,/2C/2 | 
+[V:1] f_e!fermata!d2 | 
+[V:2] d_e/2c/2!fermata!B2 | 
+[V:3] b-b/2a/2!fermata!f2 | 
+[V:4] D/2B,/2C/2F,/2!fermata!B,2 | 
+[V:1] cd_ed | 
+[V:2] AA/2=B/2c3/2B/2 | 
+[V:3] ffg_a/2g/4f/4 | 
+[V:4] F/2_E/2DC/2_E,/2 F,/2G,/2 | 
+[V:1] !fermata!c2_ef | 
+[V:2] !fermata!c2G/2_e/2- e/2d/2 | 
+[V:3] !fermata!_e2_e/2g/2b | 
+[V:4] !fermata!_A,2CB, | 
+[V:1] g_a/2g/2f2 | 
+[V:2] _e2ed | 
+[V:3] b_a/2b/2 c'/2_a/2 f/2b/2 | 
+[V:4] _E/2D/2C/2B,/2 _A,/2F,/2B, | 
+[V:1] !fermata!g2gf | 
+[V:2] !fermata!_e2e3/2d/2 | 
+[V:3] !fermata!b2bb | 
+[V:4] !fermata!_E,2_EB, | 
+[V:1] gf_ec | 
+[V:2] _edc=A | 
+[V:3] b_a/2g/2gf | 
+[V:4] _E/2D/2C/2=B,/2 C/2D/2E/2F/2 | 
+[V:1] d=e!fermata!f2 |] 
+[V:2] B/2A/2G/2B/2!fermata!A2 |] 
+[V:3] fc!fermata!c2 |] 
+[V:4] _B,C!fermata!F,2 |]

@@ -1,0 +1,57 @@
+X: 294
+T: 295. Herr Jesu Christ, mein's Lebens Licht
+N: Derived from chor295.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1032232803
+%%humdrum-veritas-data 1452978604
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: G
+[V:1] B [I:setbarnb 1]| 
+[V:2] ^D | 
+[V:3] F | 
+[V:4] B,, | 
+[V:1] BABG | 
+[V:2] EEFE | 
+[V:3] GA/G/FB | 
+[V:4] E,C^D,E, | 
+[V:1] F/G//A//F!fermata!EE/F/ | 
+[V:2] E^D!fermata!B,B, | 
+[V:3] cB/A/!fermata!GG/A/ | 
+[V:4] A,,B,,!fermata!E,E, | 
+[V:1] GABA | 
+[V:2] E=DDD/E/ | 
+[V:3] BAGF | 
+[V:4] E,F,G,D,/^C,/ | 
+[V:1] d^c!fermata!BB | 
+[V:2] FF/E/!fermata!DE | 
+[V:3] B3/^A/!fermata!FG | 
+[V:4] B,,F,!fermata!B,,E,/D,/ | 
+[V:1] efeB | 
+[V:2] EDE^E | 
+[V:3] AA/B/^cd | 
+[V:4] ^C,D,A,^G, | 
+[V:1] ^cB!fermata!AA/B/ | 
+[V:2] FF/^E/!fermata!FF/^G/ | 
+[V:3] ^c^G/^c/!fermata!^cd | 
+[V:4] A,/B,/^C!fermata!F,D, | 
+[V:1] ^c^de=d | 
+[V:2] AAB/^c/ c/B/ | 
+[V:3] =efe/^c/ d/f/ | 
+[V:4] A,^G,/F,/ G,/^A,/B, | 
+[V:1] ^c/d//e//c!fermata!B |]  
+[V:2] B/^A//^G//A!fermata!F |]  
+[V:3] =g/^c/ f/e/!fermata!^d |]  
+[V:4] E,F,!fermata!B,, |]

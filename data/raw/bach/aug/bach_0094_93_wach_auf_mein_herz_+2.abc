@@ -1,0 +1,89 @@
+X:93
+T:93. Wach auf, mein Herz
+N:Derived from chor093.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1798625079
+%%humdrum-veritas-data 2312283722
+%%
+%%barnumbers 0
+L:1/4
+M:3/4
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] c [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] C | 
+[V:1] c2B | 
+[V:2] A2G | 
+[V:3] e2e/2d/2 | 
+[V:4] A,2E, | 
+[V:1] ABc | 
+[V:2] FGG | 
+[V:3] cdc | 
+[V:4] F,2E, | 
+[V:1] d3 | 
+[V:2] A=G2 | 
+[V:3] c2B | 
+[V:4] F,G,2 | 
+[V:1] !fermata!c2c | 
+[V:2] !fermata!G2G | 
+[V:3] !fermata!e2e | 
+[V:4] !fermata!C,2C | 
+[V:1] c2d | 
+[V:2] G2A | 
+[V:3] e2d | 
+[V:4] E,2^F, | 
+[V:1] BAG | 
+[V:2] G2G | 
+[V:3] d2d | 
+[V:4] G,A,B, | 
+[V:1] c3 | 
+[V:2] G^F/2E/2F | 
+[V:3] edc | 
+[V:4] A,3 | 
+[V:1] !fermata!B2B | 
+[V:2] !fermata!G2^G | 
+[V:3] !fermata!d2e | 
+[V:4] !fermata!G,2E, | 
+[V:1] c2c | 
+[V:2] A2A | 
+[V:3] e2f | 
+[V:4] A,2F, | 
+[V:1] d2e | 
+[V:2] F2E | 
+[V:3] B2c | 
+[V:4] D,2C, | 
+[V:1] d3 | 
+[V:2] ^FG/2F/2A/2G/2 | 
+[V:3] cB/2A/2c/2B/2 | 
+[V:4] D,3 | 
+[V:1] !fermata!d2e | 
+[V:2] !fermata!G2B | 
+[V:3] !fermata!B2e | 
+[V:4] !fermata!G,2^G, | 
+[V:1] f2e | 
+[V:2] cdG | 
+[V:3] edc | 
+[V:4] A,B,C | 
+[V:1] de/2d/2c- | 
+[V:2] ABE/2=F/2 | 
+[V:3] cBc | 
+[V:4] ^F,^G,A, | 
+[V:1] c/2d/2d3/2c/2 | 
+[V:2] =GAG | 
+[V:3] c2B | 
+[V:4] E,F,G, | 
+[V:1] !fermata!c3 |] 
+[V:2] !fermata!G3 |] 
+[V:3] !fermata!e3 |] 
+[V:4] !fermata!C,3 |]

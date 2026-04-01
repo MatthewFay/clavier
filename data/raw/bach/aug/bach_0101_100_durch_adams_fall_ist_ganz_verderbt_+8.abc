@@ -1,0 +1,81 @@
+X:100
+T:100. Durch Adams Fall ist ganz verderbt
+N:Derived from chor100.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 666167197
+%%humdrum-veritas-data 2327252999
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] d [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] d | 
+[V:4] ^^F, | 
+[V:1] ddcd | 
+[V:2] BBBA | 
+[V:3] gggd | 
+[V:4] G,/2A,/2B,E,^^F, | 
+[V:1] BA!fermata!Gd/2e/2 | 
+[V:2] A/2G/2 G/2^^F/2!fermata!GB | 
+[V:3] dd/2c/2!fermata!Bg | 
+[V:4] G,D,!fermata!G,G, | 
+[V:1] ^^fgde | 
+[V:2] AG/2A/2BB | 
+[V:3] ^^f/2e/2dgg | 
+[V:4] D/2C/2 B,/2A,/2 G,/2F,/2 E,/2D,/2 | 
+[V:1] fe!fermata!d :| 
+[V:2] AG!fermata!^^F :| 
+[V:3] ^^c/2d^^c/2!fermata!d :| 
+[V:4] A,2!fermata!D, :| 
+[V:1] ^f [I:setbarnb 5]| 
+[V:2] d | 
+[V:3] a | 
+[V:4] D | 
+[V:1] ff/2=e/2 d/2c/2 B/2c/2 | 
+[V:2] c/2B/2 A/2G/2FG/2A/2 | 
+[V:3] fcdd/2=e/2 | 
+[V:4] A,/2G,/2F,B,/2A,/2G, | 
+[V:1] dc!fermata!Bd | 
+[V:2] BA!fermata!BF/2G/2 | 
+[V:3] f3/2=e/2!fermata!dd | 
+[V:4] D,/2=E,/2F,!fermata!B,,B, | 
+[V:1] ddcB/2A/2 | 
+[V:2] AGGG | 
+[V:3] d/2c/2Bc/2d/2=e | 
+[V:4] ^^F,G,/2^F,/2 =E,/2D,/2C, | 
+[V:1] A2!fermata!Gd | 
+[V:2] G^^F!fermata!GA | 
+[V:3] d3/2c/2!fermata!Bd | 
+[V:4] D,2!fermata!G,^^F, | 
+[V:1] dcd^e | 
+[V:2] BB/2A/2 B/2d/2 c/2B/2 | 
+[V:3] g/2^f/2=efg | 
+[V:4] G,CB,/2A,/2G, | 
+[V:1] f/2e/2d!fermata!cg | 
+[V:2] A/2G/2F!fermata!Ec | 
+[V:3] c3/2^B/2!fermata!ce | 
+[V:4] F,G,!fermata!C,C | 
+[V:1] agd/2e/2f | 
+[V:2] cB/2A/2GA | 
+[V:3] f/2e/2 d/2^^c/2dd | 
+[V:4] F,G,/2A,/2B,F,/2G,/2 | 
+[V:1] ede2 | 
+[V:2] A/2G/2FBA/2G/2 | 
+[V:3] ^^cd2^^c | 
+[V:4] A,B,/2A,/2G,A, | 
+[V:1] !fermata!d3 |] 
+[V:2] !fermata!^^F3 |] 
+[V:3] !fermata!d3 |] 
+[V:4] !fermata!D,3 |]

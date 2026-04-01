@@ -1,0 +1,85 @@
+X:41
+T:41. Was mein Gott will, das g'scheh allzeit
+N:Derived from chor041.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1965333937
+%%humdrum-veritas-data 1560215304
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dbmaj
+[V:1] F [I:setbarnb 1]| 
+[V:2] D | 
+[V:3] B | 
+[V:4] B,, | 
+[V:1] ABAd | 
+[V:2] F/2E/2 D/2E/2 F/2G/2A | 
+[V:3] cB/2c/2dd/2e/2 | 
+[V:4] F,G,D,/2E,/2 F,/2G,/2 | 
+[V:1] dc!fermata!dd | 
+[V:2] AA!fermata!AA | 
+[V:3] f/2e/4d/4e!fermata!ff | 
+[V:4] A,A,,!fermata!D,D, | 
+[V:1] cBe3/2d/2 | 
+[V:2] AG/2A/2B2 | 
+[V:3] eeBf- | 
+[V:4] A,E,/2F,/2 G,/2A,/2B, | 
+[V:1] cdc2 | 
+[V:2] =AB2A | 
+[V:3] fff3/2e/2 | 
+[V:4] F,/2E,/2D,/2B,,/2F,2 | 
+[V:1] !fermata!B3 :| 
+[V:2] !fermata!F3 :| 
+[V:3] !fermata!d3 :| 
+[V:4] !fermata!B,,3 :| 
+[V:1] B [I:setbarnb 6]| 
+[V:2] F | 
+[V:3] d/2c/2 | 
+[V:4] B,/2A,/2 | 
+[V:1] BBc3/2B/2 | 
+[V:2] E/2F/2=GA3/2B/2 | 
+[V:3] Bee3/2=e/2 | 
+[V:4] =G,F,/2E,/2 A,/2E,/2A,/2G,/2 | 
+[V:1] cAA=G | 
+[V:2] AFFE | 
+[V:3] fcBB | 
+[V:4] F,/2C,/2F,/2_E,/2 D,/2B,,/2E, | 
+[V:1] !fermata!AABc | 
+[V:2] !fermata!EF=G_G | 
+[V:3] !fermata!cdBe | 
+[V:4] !fermata!A,,D,D/2C/2 B,/2=A,/2 | 
+[V:1] dcB2 | 
+[V:2] F/2=G/2=AB3/2=E/2 | 
+[V:3] d/2e/2ff/2e/2d/2=G/2 | 
+[V:4] B,F,/2E,/2 D,/2C,/2B,, | 
+[V:1] !fermata!cF/2=G/2_AB | 
+[V:2] !fermata!FCF=G | 
+[V:3] !fermata!=AA/2B/2cd | 
+[V:4] !fermata!F,F,F,=E, | 
+[V:1] Addc | 
+[V:2] FFBA | 
+[V:3] cdee | 
+[V:4] F,B,/2A,/2=G,A, | 
+[V:1] !fermata!ddcB | 
+[V:2] !fermata!ABB/2A/2 A/2G/2 | 
+[V:3] !fermata!ffg/2f/2 f/2e/2 | 
+[V:4] !fermata!D,B,,E,/2F,/2G, | 
+[V:1] e3/2d/2cd | 
+[V:2] G3/2F/2ED/2E/2 | 
+[V:3] e/2d/2c/2B/2f2- | 
+[V:4] C,/2D,/2E,=A,,/2F,/2D,/2B,,/2 | 
+[V:1] c2!fermata!B |] 
+[V:2] F2!fermata!F |] 
+[V:3] f/2B/2=A!fermata!=d |] 
+[V:4] F,2!fermata!B,, |]

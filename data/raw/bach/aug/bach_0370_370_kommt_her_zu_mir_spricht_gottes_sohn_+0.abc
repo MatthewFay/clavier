@@ -1,0 +1,77 @@
+X: 369
+T: 370. Kommt her zu mir, spricht Gottes Sohn
+N: Derived from chor370.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 448702583
+%%humdrum-veritas-data 1699232233
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] A [I:setbarnb 1]| 
+[V:2] E/F/ | 
+[V:3] c/d/ | 
+[V:4] A,, | 
+[V:1] AAed | 
+[V:2] EE/D/EF | 
+[V:3] c/B/AA/c/ B/A/ | 
+[V:4] A,F,C,D, | 
+[V:1] ec!fermata!BA/B/ | 
+[V:2] EE!fermata!EE | 
+[V:3] BA!fermata!^GA | 
+[V:4] ^G,,A,,!fermata!E,C,/B,,/ | 
+[V:1] cBc/d/e | 
+[V:2] A^GA=G/A/ | 
+[V:3] eeee | 
+[V:4] A,,E,A,/B,/C | 
+[V:1] dc!fermata!Bc/B/ | 
+[V:2] BA!fermata!^GA | 
+[V:3] fe!fermata!ee | 
+[V:4] ^G,A,!fermata!E,A,/=G,/ | 
+[V:1] AAd/c/ B/c/ | 
+[V:2] D/E/^FF=G | 
+[V:3] Adde | 
+[V:4] ^F,/E,/ D,/C,/B,,E,/C,/ | 
+[V:1] A2!fermata!GG | 
+[V:2] G^F!fermata!DE/=F/ | 
+[V:3] d/c//B//c!fermata!Bc | 
+[V:4] D,2!fermata!G,,C,/D,/ | 
+[V:1] cBc/d/e | 
+[V:2] GDE/F/G | 
+[V:3] G/A/ B/A/Gc | 
+[V:4] E,/F,/ G,/F,/E,D,/C,/ | 
+[V:1] dc!fermata!BA/B/ | 
+[V:2] ^GA!fermata!GE | 
+[V:3] de!fermata!ec/B/ | 
+[V:4] B,,A,,!fermata!E,A,/=G,/ | 
+[V:1] cBc/d/e | 
+[V:2] DDE/F/=G | 
+[V:3] AB/A/Gc | 
+[V:4] ^F,/D,/ G,/=F,/ E,/D,/ C,/B,,/ | 
+[V:1] dc!fermata!Be | 
+[V:2] FE!fermata!E^G | 
+[V:3] c/B/ B/A/!fermata!^GB | 
+[V:4] A,,/^G,,/A,,!fermata!E,E, | 
+[V:1] eed/=c/ B/c/ | 
+[V:2] A=GF3/E/ | 
+[V:3] c^cd3/e/ | 
+[V:4] A,/=G,/ F,/E,/ F,/E,/ D,/C,/ | 
+[V:1] B/^G/ A/B/B2 | 
+[V:2] FE/F/ E/F/ E/D/ | 
+[V:3] dc/A/ ^G/A^G/ | 
+[V:4] D,/B,,/ C,/D,/ E,/D,/E, | 
+[V:1] !fermata!A3 |]  
+[V:2] !fermata!^C3 |]  
+[V:3] !fermata!E3 |]  
+[V:4] !fermata!A,,3 |]

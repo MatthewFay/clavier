@@ -1,0 +1,73 @@
+X: 63
+T: 63. Nun ruhen alle W\"alder
+N: Derived from chor063.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 569208795
+%%humdrum-veritas-data 3748761577
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: A
+[V:1] c [I:setbarnb 1]| 
+[V:2] A | 
+[V:3] e | 
+[V:4] A, | 
+[V:1] ABc/d/e | 
+[V:2] FGA/B/c | 
+[V:3] ddeA | 
+[V:4] DC/B,/A,3/=G,/ | 
+[V:1] d2!fermata!cc | 
+[V:2] cB/A/!fermata!^GA | 
+[V:3] AB!fermata!cf | 
+[V:4] F,2!fermata!^E,F, | 
+[V:1] eeBd/c/ | 
+[V:2] AAGB/A/ | 
+[V:3] eeee | 
+[V:4] C,/B,,/C,/D,/E,A,, | 
+[V:1] A2!fermata!GE | 
+[V:2] F2!fermata!EB, | 
+[V:3] e^d!fermata!GG | 
+[V:4] B,,^B,,!fermata!C,D, | 
+[V:1] ABc/d//e// d/c/ | 
+[V:2] EF/G/ A/B//c// B/A/ | 
+[V:3] A=de/A/G/A/ | 
+[V:4] C,=B,,A,,D, | 
+[V:1] !fermata!B3c | 
+[V:2] !fermata!G3G | 
+[V:3] !fermata!e3c | 
+[V:4] !fermata!E,3^E, | 
+[V:1] ABc/d/e | 
+[V:2] F=EEF | 
+[V:3] cBA/B/c | 
+[V:4] F,G,A,^A, | 
+[V:1] d2!fermata!cc/d/ | 
+[V:2] F^E!fermata!FF | 
+[V:3] BG!fermata!^AA | 
+[V:4] B,2!fermata!F,F, | 
+[V:1] eeBc | 
+[V:2] =EA/G/FE/D//C// | 
+[V:3] AAAG | 
+[V:4] C,/B,,/C,^D,E, | 
+[V:1] A2!fermata!GE | 
+[V:2] F2!fermata!EE | 
+[V:3] cB!fermata!Bc | 
+[V:4] E,^D,!fermata!E,C, | 
+[V:1] ABc/d/ e/d/ | 
+[V:2] E=DC/E/A | 
+[V:3] cBe3/f/ | 
+[V:4] F,/E,/F,/G,/A,C,/D,/ | 
+[V:1] cB!fermata!A |]  
+[V:2] AG!fermata!E |]  
+[V:3] ed!fermata!c |]  
+[V:4] E,E,!fermata!A,, |]

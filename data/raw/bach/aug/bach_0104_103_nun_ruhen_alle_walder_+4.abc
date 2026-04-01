@@ -1,0 +1,73 @@
+X:103
+T:103. Nun ruhen alle W\"alder
+N:Derived from chor103.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1618872072
+%%humdrum-veritas-data 323742391
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Dmaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] d | 
+[V:3] a | 
+[V:4] D, | 
+[V:1] def/2g/2a | 
+[V:2] BcdA | 
+[V:3] ggae | 
+[V:4] G,/2F,/2E,D,C, | 
+[V:1] g2!fermata!ff/2g/2 | 
+[V:2] BA!fermata!AA/2G/2 | 
+[V:3] de!fermata!dd | 
+[V:4] B,,C,!fermata!D,D,/2E,/2 | 
+[V:1] aaef | 
+[V:2] F/2G/2A/2B/2cc | 
+[V:3] ddaa | 
+[V:4] F,/2E,/2F,/2G,/2A,F, | 
+[V:1] d2!fermata!eA | 
+[V:2] B2!fermata!EF | 
+[V:3] a^g!fermata!cc | 
+[V:4] B,2!fermata!A,F, | 
+[V:1] deff/2g/2 | 
+[V:2] FAAA | 
+[V:3] dcdd | 
+[V:4] B,A,/2=G,/2 F,/2E,/2D, | 
+[V:1] !fermata!e3f | 
+[V:2] !fermata!A3c | 
+[V:3] !fermata!c3f | 
+[V:4] !fermata!A,3^A, | 
+[V:1] def/2g/2a | 
+[V:2] BAAB | 
+[V:3] fed/2e/2f | 
+[V:4] B,CD^D | 
+[V:1] g2!fermata!ff/2g/2 | 
+[V:2] B2!fermata!BA | 
+[V:3] fe!fermata!^dd | 
+[V:4] EE,!fermata!B,D | 
+[V:1] aaef | 
+[V:2] A/2B/2 c/2d/2 e/2d/2 c/2B/2 | 
+[V:3] e/2d/2 c/2B/2 A/2B/2c | 
+[V:4] C/2B,/2 A,/2B,/2CA, | 
+[V:1] d2!fermata!cA | 
+[V:2] AB!fermata!AE | 
+[V:3] fe!fermata!ec | 
+[V:4] F,^G,!fermata!A,=G, | 
+[V:1] defg | 
+[V:2] AB/2c/2dc/2B/2 | 
+[V:3] dGA/2B/2c | 
+[V:4] F,E,D,E, | 
+[V:1] fe!fermata!d |] 
+[V:2] AA/2G/2!fermata!F |] 
+[V:3] dc!fermata!A |] 
+[V:4] F,/2G,/2A,!fermata!D, |]

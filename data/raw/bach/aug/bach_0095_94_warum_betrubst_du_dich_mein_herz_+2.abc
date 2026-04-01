@@ -1,0 +1,65 @@
+X:94
+T:94. Warum betr\"ubst du dich, mein Herz
+N:Derived from chor094.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 119377024
+%%humdrum-veritas-data 584307568
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] A [I:setbarnb 1]| 
+[V:2] E | 
+[V:3] A | 
+[V:4] ^C, | 
+[V:1] A/2B/2cBe | 
+[V:2] FE/2^F/2^GA | 
+[V:3] dc/2d/2ee | 
+[V:4] D,A,,E,C | 
+[V:1] dc!fermata!Bc/2B/2 | 
+[V:2] BA!fermata!^GA | 
+[V:3] ee!fermata!ee/2d/2 | 
+[V:4] ^G,A,!fermata!E,A,, | 
+[V:1] Aede | 
+[V:2] A=G/2A/2B^c | 
+[V:3] c/2d/2 e/2f/2gg | 
+[V:4] A,/2B,/2CG,E, | 
+[V:1] A/2B/2^c!fermata!d=c | 
+[V:2] dA!fermata!AA | 
+[V:3] ae!fermata!fe | 
+[V:4] F,/2G,/2A,!fermata!D,A, | 
+[V:1] Bedc | 
+[V:2] ^GABE | 
+[V:3] ee^GA | 
+[V:4] E,/2D,/2C,B,,A,, | 
+[V:1] !fermata!B2zA/2B/2 | 
+[V:2] !fermata!E2xE | 
+[V:3] !fermata!^G2xc/2d/2 | 
+[V:4] !fermata!E,2zA,, | 
+[V:1] ccdd | 
+[V:2] AA/2G/2FG/2A/2 | 
+[V:3] e_ed/2c/2 _B/2A/2 | 
+[V:4] A,/2=G,/2F,_B,/2A,/2G, | 
+[V:1] ee!fermata!ce | 
+[V:2] _BA/2G/2!fermata!AA | 
+[V:3] Gg!fermata!fg | 
+[V:4] CC,!fermata!F,^C, | 
+[V:1] dc=BA/2B/2 | 
+[V:2] A/2^G/2AGA | 
+[V:3] f^fB/2c/2d | 
+[V:4] D,^D,E,F, | 
+[V:1] cB!fermata!A |] 
+[V:2] A^G!fermata!E |] 
+[V:3] e/2^f/2 B/2d/2!fermata!^c |] 
+[V:4] E,/2^D,/2E,!fermata!A,, |]

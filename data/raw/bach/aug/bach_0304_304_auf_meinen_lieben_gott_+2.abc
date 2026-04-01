@@ -1,0 +1,73 @@
+X:303
+T:304. Auf meinen lieben Gott
+N:Derived from chor304.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 505151723
+%%humdrum-veritas-data 3267244616
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] A [I:setbarnb 1]| 
+[V:2] E | 
+[V:3] c | 
+[V:4] A, | 
+[V:1] ABcd | 
+[V:2] F^F/2^G/2AA | 
+[V:3] dde=f | 
+[V:4] D/2C/2B,A,/2=G,/2=F, | 
+[V:1] !fermata!e3e | 
+[V:2] !fermata!^G3G | 
+[V:3] !fermata!B3B | 
+[V:4] !fermata!E,3D, | 
+[V:1] edcd | 
+[V:2] AA/2^G/2AB | 
+[V:3] cdef | 
+[V:4] C,B,,A,,D, | 
+[V:1] !fermata!B3B | 
+[V:2] !fermata!^G3G | 
+[V:3] !fermata!e3e | 
+[V:4] !fermata!E,3E, | 
+[V:1] cdee | 
+[V:2] ABcc | 
+[V:3] efgg | 
+[V:4] A,=G,/2F,/2 E,/2D,/2C, | 
+[V:1] d2!fermata!ee | 
+[V:2] cB/2A/2!fermata!B^G | 
+[V:3] ag/2f/2!fermata!eB | 
+[V:4] F,G,!fermata!^G,E, | 
+[V:1] cdee | 
+[V:2] EDGA | 
+[V:3] c=g/2f/2 e/2d/2c | 
+[V:4] A,B,C/2B,/2 A,/2G,/2 | 
+[V:1] d2!fermata!ce | 
+[V:2] AG/2F/2!fermata!EG | 
+[V:3] cB!fermata!Gc | 
+[V:4] F,G,!fermata!C,C | 
+[V:1] geee | 
+[V:2] GG/2A/2BA | 
+[V:3] dee/2d/2c | 
+[V:4] B,C^G,A,/2=G,/2 | 
+[V:1] d2!fermata!dd | 
+[V:2] A/2G/2A/2^F/2!fermata!GG/2=F/2 | 
+[V:3] c/2B/2c/2A/2!fermata!BB | 
+[V:4] ^F,D,!fermata!G,G, | 
+[V:1] edcd | 
+[V:2] E^F/2^G/2AA | 
+[V:3] cBA/2c/2f | 
+[V:4] C,D,/2E,/2=F,E,/2D,/2 | 
+[V:1] B2!fermata!A |] 
+[V:2] A^G!fermata!E |] 
+[V:3] e/2d/4c/4d!fermata!^c |] 
+[V:4] E,2!fermata!A,, |]

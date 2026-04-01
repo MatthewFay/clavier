@@ -1,0 +1,125 @@
+X:240
+T:241. Was willst du dich, o meine Seele
+N:Derived from chor241.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 938226671
+%%humdrum-veritas-data 767966376
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] c2 [I:setbarnb 1]| 
+[V:2] C2 | 
+[V:3] AB | 
+[V:4] F,G, | 
+[V:1] F3GA2B2 | 
+[V:2] C2D^E FA2G | 
+[V:3] c2B2c2=e2 | 
+[V:4] A,B,A,G,F,2E,2 | 
+[V:1] cd=e2d2c2 | 
+[V:2] AB Bc BAG2 | 
+[V:3] efg2f3e | 
+[V:4] A,2G,^A, B,^B, CE, | 
+[V:1] c2^B2!fermata!c2c2 | 
+[V:2] A2G2!fermata!G2G=A- | 
+[V:3] d3f!fermata!e2e2 | 
+[V:4] F,D,G,2!fermata!C,2C,2 | 
+[V:1] =B2B2e2c2 | 
+[V:2] AG/2F/2 GA BGA2 | 
+[V:3] fBe2e2e2 | 
+[V:4] D,2E,F, G,E,A,=G, | 
+[V:1] =dcBAB3A | 
+[V:2] A2^GA- AG/2F/2G2 | 
+[V:3] fce2f=d Be/2=d/2 | 
+[V:4] F,E,=D,C, D,B,,E,2 | 
+[V:1] !fermata!A4z2c2 | 
+[V:2] !fermata!E4x2F2- | 
+[V:3] !fermata!c4x2AB | 
+[V:4] !fermata!A,,4z2F,G, | 
+[V:1] F2G2A2B2 | 
+[V:2] FC =DC- CF- F^E | 
+[V:3] c2B2A=d-d2 | 
+[V:4] A,2^E,2F,2G,2 | 
+[V:1] cd=e2d3c | 
+[V:2] F2BA- AF DG/2F/2 | 
+[V:3] cB Bc- c^B/2^A/2^B2 | 
+[V:4] A,B,/2A,/2 G,A,/2G,/2 F,^D,G,2 | 
+[V:1] !fermata!c4z2c2 | 
+[V:2] !fermata!E4x2=A2- | 
+[V:3] !fermata!G4x2e2 | 
+[V:4] !fermata!C,4z2C,2 | 
+[V:1] B2B2e2c2 | 
+[V:2] AG/2F/2 GA BG Ac | 
+[V:3] fBe2e2ea | 
+[V:4] D,2E,F, G,E, A,F, | 
+[V:1] =dcBAG3F | 
+[V:2] BA GF F^E/2D/2E2 | 
+[V:3] f^e- ef =dB- Bc/2B/2 | 
+[V:4] B,C =DC B,G, CC, | 
+[V:1] !fermata!F4z2c2 | 
+[V:2] !fermata!C4x2A2 | 
+[V:3] !fermata!A4x2f=e | 
+[V:4] !fermata!F,4z2F,2- | 
+[V:1] Bc ABG3F | 
+[V:2] G2F2-F^E/2D/2E2 | 
+[V:3] =dc cB/2c/2 =dB Gc/2B/2 | 
+[V:4] F,^E, F,=D, B,,G,,C,2 | 
+[V:1] !fermata!F4z2c2 | 
+[V:2] !fermata!F4x2=E2 | 
+[V:3] !fermata!A4x2AB | 
+[V:4] !fermata!=D,4z2A,2 | 
+[V:1] c2d2e2e2 | 
+[V:2] EF/2G/2 AG/2F/2 BA/2B/2c2 | 
+[V:3] c^d/2e/2 fd Be/2d/2 ce | 
+[V:4] A,G, F,B, G,C/2B,/2 A,G, | 
+[V:1] d4!fermata!c2c2 | 
+[V:2] c^B/2^A/2B2!fermata!G2=A2 | 
+[V:3] af dg/2f/2!fermata!^e2f2- | 
+[V:4] F,D,G,2!fermata!C,2F,E, | 
+[V:1] B2B2e2c2 | 
+[V:2] =A2-AG/2F/2G2A2 | 
+[V:3] f=e/2d/2e2e2-ef/2e/2 | 
+[V:4] D,B,, E,=D, C,B,,A,,2 | 
+[V:1] =dcBAB3A | 
+[V:2] A/2G/2A GA- AG/2F/2G2 | 
+[V:3] =de e/2=d/2c B/2c/2=d2e/2=d/2 | 
+[V:4] B,,C,/2=D,/2 E,F, D,B,, E,E,, | 
+[V:1] !fermata!A4z2c2 | 
+[V:2] !fermata!E4x2E2 | 
+[V:3] !fermata!c4x2A2 | 
+[V:4] !fermata!A,,4z2A,2- | 
+[V:1] F2G2ABc2 | 
+[V:2] D2^E2F2E2 | 
+[V:3] B3A/2B/2c3B | 
+[V:4] A,2G,2F,2C,2 | 
+[V:1] !fermata!F4z2G2 | 
+[V:2] !fermata!F4x2^E2 | 
+[V:3] !fermata!A4x2c2 | 
+[V:4] !fermata!=D,4z2C,2 | 
+[V:1] A2G2A2B2 | 
+[V:2] F2^E2F=E =DE | 
+[V:3] c2c2c2fe/2=d/2 | 
+[V:4] F,A, CB,A,3G, | 
+[V:1] c2d2edc2 | 
+[V:2] EF/2G/2 AG/2F/2 GA/2B/2 cB | 
+[V:3] c^d/2e/2 fd Bfe2- | 
+[V:4] A,G, F,B, E,F,/2G,/2 A,G, | 
+[V:1] f2e2=dc BA | 
+[V:2] ^AB cAF2GF- | 
+[V:3] e=d cf- fe=dd | 
+[V:4] F,G, ^A,F,B,3^B, | 
+[V:1] G3F!fermata!F4 |] 
+[V:2] F^E/2^D/2E2!fermata!C4 |] 
+[V:3] G2-G/2A/2B!fermata!^A4 |] 
+[V:4] C2C,2!fermata!F,4 |]

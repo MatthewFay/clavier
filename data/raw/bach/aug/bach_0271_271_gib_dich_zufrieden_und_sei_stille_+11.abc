@@ -1,0 +1,77 @@
+X:270
+T:271. Gib dich zufrieden und sei stille
+N:Derived from chor271.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1859908692
+%%humdrum-veritas-data 92549580
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] a2 [I:setbarnb 1]| 
+[V:2] d2 | 
+[V:3] f2 | 
+[V:4] D2 | 
+[V:1] f2ga/2b/2a3g | 
+[V:2] d2ef/2g/2 f^^c de | 
+[V:3] a2be fg ab | 
+[V:4] D^^C DC DE FG | 
+[V:1] f2ef/2g/2f3e | 
+[V:2] ed d^^cd3c | 
+[V:3] a2a2afg2 | 
+[V:4] A2A,2D4 | 
+[V:1] !fermata!d4b2a2 | 
+[V:2] !fermata!d4f3e | 
+[V:3] !fermata!f4fga2 | 
+[V:4] !fermata!D4D3C | 
+[V:1] d'2c'2eb ag | 
+[V:2] de efe2f2 | 
+[V:3] ag gab2c'2 | 
+[V:4] B,B2AG2F2 | 
+[V:1] g4!fermata!f2 :| 
+[V:2] f2e2!fermata!c2 :| 
+[V:3] d'2c'b!fermata!a2 :| 
+[V:4] B,2C2!fermata!F,2 :| 
+[V:1] a2 [I:setbarnb 6]| 
+[V:2] f2 | 
+[V:3] c'2 | 
+[V:4] F2 | 
+[V:1] g2afg2a=b | 
+[V:2] ge fde2d2 | 
+[V:3] c'2c'^bc'2^^fg | 
+[V:4] ECF2CD CB, | 
+[V:1] c'2ba ba!fermata!g2 | 
+[V:2] c2d2dc!fermata!d2 | 
+[V:3] ga^^f2ga!fermata!b2 | 
+[V:4] A,2D2G2!fermata!G,2 | 
+[V:1] z2b2e2d'^^c' | 
+[V:2] x2d2^^cde2 | 
+[V:3] x2b2a3b | 
+[V:4] z2G2AB AG | 
+[V:1] d'^c' ba gf' e'd' | 
+[V:2] de f=ed2ga/2b/2 | 
+[V:3] ag f^^f gab2 | 
+[V:4] FE DC B,A,G,2 | 
+[V:1] ^^c'^b!fermata!a2z2d'2 | 
+[V:2] ^ed!fermata!^^c2x2d2 | 
+[V:3] a2!fermata!e2x2a2 | 
+[V:4] A,2!fermata!A,2z2^^F2 | 
+[V:1] ^c'=b ag a^^c dg | 
+[V:2] d3e ^^ce dd | 
+[V:3] gab2eg ag | 
+[V:4] GG,G2-GE ^FB, | 
+[V:1] f2ed!fermata!d2 |] 
+[V:2] d2^^c2!fermata!A2 |] 
+[V:3] a2gf!fermata!f2 |] 
+[V:4] A,G,A,2!fermata!D2 |]

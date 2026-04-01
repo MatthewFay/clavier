@@ -1,0 +1,73 @@
+X:263
+T:264. Jesu meines Herzens Freud
+N:Derived from chor264.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 963634326
+%%humdrum-veritas-data 2778041200
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] c'2c'd' e'd'c'2 | 
+[V:2] e2f2e2ag | 
+[V:3] a2ab c'ba2 | 
+[V:4] AGF2C2FE | 
+[V:1] b3b!fermata!b4 | 
+[V:2] f2e=d!fermata!e4 | 
+[V:3] a2gf!fermata!g4 | 
+[V:4] =DCB,2!fermata!E4 | 
+[V:1] c'2_d'c'b3a | 
+[V:2] e2_def2e/2d/2c/2d/2 | 
+[V:3] a2a2a2g2 | 
+[V:4] AG FE_D2E2 | 
+[V:1] !fermata!a4gf ga | 
+[V:2] !fermata!c4B2e2 | 
+[V:3] !fermata!e4e2b2 | 
+[V:4] !fermata!A,4E=D EF | 
+[V:1] bag2f3f | 
+[V:2] e2e2e=dc2 | 
+[V:3] b2b2b2b=a | 
+[V:4] GF GAB2F2 | 
+[V:1] !fermata!f4g2_ag | 
+[V:2] !fermata!=d4d2c2 | 
+[V:3] !fermata!b4gfe2 | 
+[V:4] !fermata!B,4=B,2C_B, | 
+[V:1] f3e!fermata!e4 | 
+[V:2] c2B2!fermata!B4 | 
+[V:3] e2=d2!fermata!g4 | 
+[V:4] A,2B,2!fermata!E4 | 
+[V:1] c'2c'_d'e'2d'c' | 
+[V:2] B2A2B2e2 | 
+[V:3] g'2f'2e'2a2 | 
+[V:4] =E2F2G2A2 | 
+[V:1] b3b!fermata!b4 | 
+[V:2] fef2!fermata!e4 | 
+[V:3] d'3d'!fermata!d'4 | 
+[V:4] AG AF!fermata!G4 | 
+[V:1] c'2d'c'b3a | 
+[V:2] e2def2g2 | 
+[V:3] c'ba2a2gc' | 
+[V:4] AG FE=D2=E2 | 
+[V:1] !fermata!a4_d'c' d'e' | 
+[V:2] !fermata!f4f2_e2 | 
+[V:3] !fermata!c'4b2b2 | 
+[V:4] !fermata!F4BA G_E | 
+[V:1] c'b c'd'b3a | 
+[V:2] e2a2a2g2 | 
+[V:3] b2a2f'2e'd' | 
+[V:4] AG FED2E2 | 
+[V:1] !fermata!a8 |] 
+[V:2] !fermata!e8 |] 
+[V:3] !fermata!c'8 |] 
+[V:4] !fermata!A,8 |]

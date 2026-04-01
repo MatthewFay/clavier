@@ -1,0 +1,89 @@
+X:234
+T:235. Heilig, heilig
+N:Derived from chor235.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1413157999
+%%humdrum-veritas-data 1782499222
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Bbmaj
+[V:1] f2d2c4 | 
+[V:2] B2B3A/2G/2A2 | 
+[V:3] def3c fe | 
+[V:4] B,,C,D,E,F,4 | 
+[V:1] !fermata!B4f2g2 | 
+[V:2] !fermata!F4c2c2 | 
+[V:3] !fermata!d4f3=e | 
+[V:4] !fermata!B,,4A,F, CC, | 
+[V:1] !fermata!f4b2b2 | 
+[V:2] !fermata!c4B2c2 | 
+[V:3] !fermata!a4d2g2- | 
+[V:4] !fermata!F,4G,F, =E,C, | 
+[V:1] a2a2g3f | 
+[V:2] c2AB/2c/2d2-dc/2B/2 | 
+[V:3] gf/2=e/2f3=e/2d/2=e2 | 
+[V:4] F,A, DC B,G, CC, | 
+[V:1] !fermata!f4f2g2 | 
+[V:2] !fermata!A4B2B2 | 
+[V:3] !fermata!c4d2_ed | 
+[V:4] !fermata!F,4B,2_E,2 | 
+[V:1] f2e2!fermata!d4 | 
+[V:2] A2GF!fermata!F4 | 
+[V:3] c2Bc!fermata!d4 | 
+[V:4] F,2G,A,!fermata!B,4 | 
+[V:1] z2c2d=ef2 | 
+[V:2] x2AcB2A2 | 
+[V:3] x2f2f2f2 | 
+[V:4] z2F,A, B,C DC | 
+[V:1] f2=e2!fermata!f4 | 
+[V:2] dc/2B/2c2!fermata!c4 | 
+[V:3] g2-ga/2b/2!fermata!a4 | 
+[V:4] B,G, CC,!fermata!F,4 | 
+[V:1] f2g2_e2e2 | 
+[V:2] d2d3c/2B/2c2- | 
+[V:3] b2b2g2f2 | 
+[V:4] B,A,G,B, CB,A,F, | 
+[V:1] d2e2d2c2 | 
+[V:2] cB/2A/2B3A/2G/2A2 | 
+[V:3] f2egf3e | 
+[V:4] B,A,G,E,F,2F,,2 | 
+[V:1] !fermata!B4z2d2 | 
+[V:2] !fermata!F4x2B2- | 
+[V:3] !fermata!d4x2f2- | 
+[V:4] !fermata!B,,4z2B,2 | 
+[V:1] c4!fermata!B2f2 | 
+[V:2] B2A2!fermata!G2c2 | 
+[V:3] f3e!fermata!d2c2 | 
+[V:4] F,4!fermata!G,2A,2 | 
+[V:1] f2=e2!fermata!f2b2 | 
+[V:2] d2cB!fermata!A2B2 | 
+[V:3] g2g2!fermata!f2f2 | 
+[V:4] B,2C2!fermata!D2D2 | 
+[V:1] b2a2g4 | 
+[V:2] c2c2d2cB | 
+[V:3] g3f- f=e/2d/2=e2 | 
+[V:4] =E2F2B,2C2 | 
+[V:1] !fermata!f4f2gf | 
+[V:2] !fermata!A4B2BA | 
+[V:3] !fermata!c4d2d2 | 
+[V:4] !fermata!F,4B,A,G,B, | 
+[V:1] e2e2d2ed | 
+[V:2] G2F2FG/2A/2B2- | 
+[V:3] edc2Bdg2- | 
+[V:4] CB, A,F, B,A, G,F, | 
+[V:1] c4!fermata!B4 |] 
+[V:2] BA/2G/2A2!fermata!F4 |] 
+[V:3] ge cf/2e/2!fermata!d4 |] 
+[V:4] E,C,F,2!fermata!B,,4 |]

@@ -1,0 +1,77 @@
+X:32
+T:32. Nun danket alle Gott
+N:Derived from chor032.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1803799901
+%%humdrum-veritas-data 2068953899
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Abmaj
+[V:1] e' [I:setbarnb 1]| 
+[V:2] a | 
+[V:3] c' | 
+[V:4] A, | 
+[V:1] e'e'f'f' | 
+[V:2] aaaa | 
+[V:3] c'c'd'd' | 
+[V:4] A/2B/2 c/2A/2 D/2E/2 F/2D/2 | 
+[V:1] !fermata!e'2zc' | 
+[V:2] !fermata!a2xa | 
+[V:3] !fermata!c'2xf' | 
+[V:4] !fermata!A2zA | 
+[V:1] d'c'bc'/2d'/2 | 
+[V:2] baga | 
+[V:3] e'e'e'e' | 
+[V:4] GAE/2D/2 C/2A,/2 | 
+[V:1] b2!fermata!a :| 
+[V:2] a/2f/2g!fermata!e :| 
+[V:3] e'/2d'/4c'/4d'!fermata!c' :| 
+[V:4] E2!fermata!A, :| 
+[V:1] b [I:setbarnb 5]| 
+[V:2] g/2f/2 | 
+[V:3] b/2a/2 | 
+[V:4] E | 
+[V:1] bbc'c' | 
+[V:2] eeee | 
+[V:3] g/2a/2b3/2a/4g/4a | 
+[V:4] E/2F/2 G/2E/2 A,/2B,/2 C/2A,/2 | 
+[V:1] !fermata!b2zb | 
+[V:2] !fermata!e2xg | 
+[V:3] !fermata!g2xe' | 
+[V:4] !fermata!E,2zE | 
+[V:1] c'/2=d'/2e'e'd' | 
+[V:2] agff | 
+[V:3] e'e'/2b/2c'b | 
+[V:4] A/2B/2 c/2G/2 A/2F/2 B/2B,/2 | 
+[V:1] !fermata!e'2ze' | 
+[V:2] !fermata!g2xa | 
+[V:3] !fermata!b2xc' | 
+[V:4] !fermata!E2zA | 
+[V:1] f'e'd'c' | 
+[V:2] a/2b/2c'c'/2b/2 b/2=a/2 | 
+[V:3] d'c'f'_g'/2f'/2 | 
+[V:4] d/2c/2B/2=A/2 B/2D/2E/2F/2 | 
+[V:1] !fermata!d'2zc' | 
+[V:2] !fermata!b2x_a | 
+[V:3] !fermata!f'2xe' | 
+[V:4] !fermata!B,2zC/2D/2 | 
+[V:1] bc'/2d'/2b3/2a/2 | 
+[V:2] gaag | 
+[V:3] e'e'/2f'/2 f'/2d'/2 b/2e'/2 | 
+[V:4] EA/2F/2 D/2B,/2 E/2E,/2 | 
+[V:1] !fermata!a3 |] 
+[V:2] !fermata!e3 |] 
+[V:3] !fermata!c'3 |] 
+[V:4] !fermata!A,3 |]

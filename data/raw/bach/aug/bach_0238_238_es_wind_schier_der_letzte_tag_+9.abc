@@ -1,0 +1,61 @@
+X:237
+T:238. Es wind schier der letzte Tag
+N:Derived from chor238.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 2669279070
+%%humdrum-veritas-data 1073962541
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] c2c2g2ga | 
+[V:2] G2G2cde2 | 
+[V:3] e2efg2c'2 | 
+[V:4] C3DE2C2 | 
+[V:1] b2g2e2fg | 
+[V:2] fd edc2de- | 
+[V:3] b2b2a3b | 
+[V:4] DB,E2AGFE | 
+[V:1] a4!fermata!g4 | 
+[V:2] ed/2c/2d2!fermata!e4 | 
+[V:3] ab/2c'/2b2!fermata!b4 | 
+[V:4] F2B,2!fermata!E4 | 
+[V:1] f2f2e2f2 | 
+[V:2] e2-ed- dc Bf | 
+[V:3] c'2b3/2a/2g2b2 | 
+[V:4] ^A,2B,2C2D2 | 
+[V:1] g2f2e2d2 | 
+[V:2] fe- edc2FB | 
+[V:3] b2b2-b^a bf | 
+[V:4] E2B,2C2D2 | 
+[V:1] c4!fermata!B4 | 
+[V:2] B^A/2G/2A2!fermata!F4 | 
+[V:3] ge cf/2e/2!fermata!d4 | 
+[V:4] EC FF,!fermata!B,4 | 
+[V:1] e2d2efg2 | 
+[V:2] c2d2c2c2 | 
+[V:3] g2g2g2g2 | 
+[V:4] C3^B,C2E,2 | 
+[V:1] fed2!fermata!c4 | 
+[V:2] c2^B2!fermata!c4 | 
+[V:3] a2-ag/2f/2!fermata!e4 | 
+[V:4] F,2G,2!fermata!A,4 | 
+[V:1] d2cde2d2 | 
+[V:2] ^B2cBc3B | 
+[V:3] g3fg2-g3/2f/2 | 
+[V:4] G,F,E,D,C,2G,2 | 
+[V:1] !fermata!c8 |] 
+[V:2] !fermata!G8 |] 
+[V:3] !fermata!^e8 |] 
+[V:4] !fermata!C8 |]

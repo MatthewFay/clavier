@@ -1,0 +1,73 @@
+X:265
+T:266. Herr Jesu Christ, du h\"ochstes Gut
+N:Derived from chor266.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3325173714
+%%humdrum-veritas-data 2055310194
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Amaj
+[V:1] f [I:setbarnb 1]| 
+[V:2] c | 
+[V:3] a | 
+[V:4] F | 
+[V:1] f^efg | 
+[V:2] dccB | 
+[V:3] ggfc' | 
+[V:4] B,C^D^E | 
+[V:1] ag!fermata!ff | 
+[V:2] A/2B/2 c/2B/2!fermata!Ac/2^d/2 | 
+[V:3] c'/2^d'/2^e'!fermata!f'a | 
+[V:4] FC!fermata!F,F | 
+[V:1] ggc'b | 
+[V:2] =eea3/2g/2 | 
+[V:3] bc'/2d'/2e'b/2c'/2 | 
+[V:4] =E/2=D/2 C/2B,/2 A,/2C/2 ^D/2^E/2 | 
+[V:1] a2!fermata!g :| 
+[V:2] g/2f/4^e/4f!fermata!e :| 
+[V:3] f/2c/2c'!fermata!c' :| 
+[V:4] F/2G/2A/2B/2!fermata!c :| 
+[V:1] c' [I:setbarnb 5]| 
+[V:2] c/2d/2 | 
+[V:3] =e/2f/2 | 
+[V:4] A | 
+[V:1] bagb | 
+[V:2] =e3/2^d/2ef | 
+[V:3] gabb | 
+[V:4] GFE=D | 
+[V:1] ag!fermata!fa | 
+[V:2] f^e!fermata!c^d | 
+[V:3] c'c'/2b/2!fermata!ab | 
+[V:4] C/2B,/2C!fermata!F,B, | 
+[V:1] gfe/2^d/2 c/2d/2 | 
+[V:2] =e^d/2c/2^Bc | 
+[V:3] bag/2f/2e | 
+[V:4] E,F,G,A,/2=B,/2 | 
+[V:1] ef!fermata!gf/2g/2 | 
+[V:2] c=B!fermata!BB | 
+[V:3] ag/2f/2!fermata!ef | 
+[V:4] C^D!fermata!E=D | 
+[V:1] abc'3/2b/2 | 
+[V:2] cdc/2^e/2 f/2g/2 | 
+[V:3] ef/2g/2a3/2g/2 | 
+[V:4] CB,A,/2C/2 ^D/2^E/2 | 
+[V:1] ab/2a/2g2 | 
+[V:2] a/2g/2f2^e | 
+[V:3] c'b/2c'/2d'c'/2b/2 | 
+[V:4] F/2=E/2D/2C/2B,C | 
+[V:1] !fermata!f3 |] 
+[V:2] !fermata!c3 |] 
+[V:3] !fermata!^a3 |] 
+[V:4] !fermata!F,3 |]

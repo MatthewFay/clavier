@@ -1,0 +1,69 @@
+X:124
+T:124. Auf, auf, mein Herz, und du mein ganzer Sinn
+N:Derived from chor124.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 214721799
+%%humdrum-veritas-data 199598271
+%%
+%%barnumbers 0
+L:1/8
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Cmaj
+[V:1] e2 [I:setbarnb 1]| 
+[V:2] c2 | 
+[V:3] g2 | 
+[V:4] CB, | 
+[V:1] e2e2!fermata!e2a2 | 
+[V:2] cA ed!fermata!c2dc | 
+[V:3] gab2!fermata!a2a2 | 
+[V:4] C2^G,2!fermata!A,2F,2 | 
+[V:1] =g2g2f2f2 | 
+[V:2] BAB^cd2AB | 
+[V:3] dcde fed2 | 
+[V:4] F,3E, D,C,D,2 | 
+[V:1] !fermata!e2c2d2d2 | 
+[V:2] !fermata!=c2G2GA BA | 
+[V:3] !fermata!g2e2d2gf | 
+[V:4] !fermata!C,2C2B,A,G,2 | 
+[V:1] e2f2gfe2 | 
+[V:2] G2cA Bdc2- | 
+[V:3] edc2dB ce | 
+[V:4] CB,A,2G,2A,G, | 
+[V:1] d2d2!fermata!c2d2 | 
+[V:2] cB/2A/2B2!fermata!G2A2 | 
+[V:3] af dg/2f/2!fermata!e2^f2 | 
+[V:4] F,D,G,2!fermata!C,2C2 | 
+[V:1] d2d2!fermata!d2ed | 
+[V:2] BcBA!fermata!B2B2- | 
+[V:3] g^fga!fermata!g2e2 | 
+[V:4] B,A,G,^F,!fermata!G,2^G,2 | 
+[V:1] c2c2d2c2 | 
+[V:2] B2A2-AB EA- | 
+[V:3] e2e2dBc2 | 
+[V:4] A,B,CA, ^F,^G,A,=F, | 
+[V:1] B4!fermata!B2B2 | 
+[V:2] A^G A^F!fermata!^G2E2 | 
+[V:3] f2^f2!fermata!e2ed | 
+[V:4] D,2^D,2!fermata!E,2^G,2 | 
+[V:1] c2c2d2d2 | 
+[V:2] E2A=G AB/2c/2 dB | 
+[V:3] cBce=f2-fg/2f/2 | 
+[V:4] A,=G,F,E, =D,C,B,,G,, | 
+[V:1] e2f2gfe2 | 
+[V:2] GA/2B/2 cB/2A/2 Bd2c | 
+[V:3] e2-ed/2c/2 db ga | 
+[V:4] C,C A,D B,G, CA, | 
+[V:1] d4!fermata!c2 |] 
+[V:2] c2B2!fermata!G2 |] 
+[V:3] af dg/2f/2!fermata!e2 |] 
+[V:4] F,D,G,2!fermata!C,2 |]

@@ -1,0 +1,73 @@
+X: 253
+T: 254. Weg, mein Herz, mit den Gedanken
+N: Derived from chor254.krn
+C: Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3979318787
+%%humdrum-veritas-data 4052672216
+%%
+%%barnumbers 0
+L: 1/4
+M: C
+%%staves [1 2 3 4]
+V: 1 clef=treble
+V: 2 clef=treble
+V: 3 clef=treble-8
+V: 4 clef=bass
+K: C
+[V:1] cded | 
+[V:2] GGGG | 
+[V:3] eBcd | 
+[V:4] C,G,CB, | 
+[V:1] cBA!fermata!G | 
+[V:2] ADD!fermata!D | 
+[V:3] e/^f/gg/^f/!fermata!B | 
+[V:4] A,G,D,!fermata!G, | 
+[V:1] cded/e//f// | 
+[V:2] GA/B/ c/G/G | 
+[V:3] c=fg/c/d- | 
+[V:4] E,D,C,B,, | 
+[V:1] ed3//c//!fermata!c2 :|]  
+[V:2] GG!fermata!G2 :|]  
+[V:3] d/c/ c/B/!fermata!e2 :|]  
+[V:4] C,G,,!fermata!C,2 :|]  
+[V:1] efgf | 
+[V:2] GA/_B//c//BA | 
+[V:3] cccc/d/ | 
+[V:4] CA,E,F, | 
+[V:1] ed!fermata!e2 | 
+[V:2] GF/A//^G//!fermata!A2 | 
+[V:3] e/A/ A/B/!fermata!^c2 | 
+[V:4] ^C,D,!fermata!A,,2 | 
+[V:1] ggag | 
+[V:2] =GccB | 
+[V:3] =c/d/ef/e/d | 
+[V:4] E,C,F,G, | 
+[V:1] fe!fermata!d2 | 
+[V:2] AG/^F/!fermata!G2 | 
+[V:3] cc!fermata!B2 | 
+[V:4] A,/B,/C!fermata!G,2 | 
+[V:1] eg=fe/d/ | 
+[V:2] Gc/B/ A/B/c | 
+[V:3] c/d/e=fg/G/ | 
+[V:4] CC,D,E, | 
+[V:1] cde2 | 
+[V:2] AABE | 
+[V:3] A/e/ d/c/B2 | 
+[V:4] F,^F,G,^G, | 
+[V:1] !fermata!c2eg | 
+[V:2] !fermata!E2G/A/_B | 
+[V:3] !fermata!A2_BE | 
+[V:4] !fermata!A,2=G,C, | 
+[V:1] fedc | 
+[V:2] A/=B/cGG | 
+[V:3] FG/A/=Bc | 
+[V:4] D,E,/F,/ G,/F,/ E,/C,/ | 
+[V:1] d2!fermata!c2 |]  
+[V:2] G2!fermata!G2 |]  
+[V:3] cB!fermata!e2 |]  
+[V:4] G,,2!fermata!C,2 |]

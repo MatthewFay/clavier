@@ -1,0 +1,81 @@
+X:230
+T:231. Die Nacht ist kommen
+N:Derived from chor231.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:19
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3066272800
+%%humdrum-veritas-data 4281973809
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] c [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] e | 
+[V:4] C | 
+[V:1] def2 | 
+[V:2] GGAG | 
+[V:3] dccd | 
+[V:4] ^B,=B,A,^B, | 
+[V:1] !fermata!e2dd | 
+[V:2] !fermata!G2AG/2^F/2 | 
+[V:3] !fermata!c2c=B/2A/2 | 
+[V:4] !fermata!C2^^F,G,- | 
+[V:1] ^^cde2 | 
+[V:2] EABA/2G/2 | 
+[V:3] AA/2d/2d^^c | 
+[V:4] G,F,G,A, | 
+[V:1] !fermata!d2zf | 
+[V:2] !fermata!F2xd | 
+[V:3] !fermata!d2xa | 
+[V:4] !fermata!D,2zD | 
+[V:1] ff/2e/2d2 | 
+[V:2] c/2B/2c-c/2B/4A/4 B/2c/2 | 
+[V:3] a/2g/2af/2^^f/2 g/2a/2 | 
+[V:4] A,F,B,/2C/2B,/2A,/2 | 
+[V:1] !fermata!g2ze | 
+[V:2] !fermata!d2xc | 
+[V:3] !fermata!b2xg | 
+[V:4] !fermata!G,2zC/2B,/2 | 
+[V:1] fded | 
+[V:2] cd-d/2c^B/2 | 
+[V:3] agg3/2f/2 | 
+[V:4] A,^B,CG, | 
+[V:1] !fermata!c2zg | 
+[V:2] !fermata!G2xc | 
+[V:3] !fermata!e2xe | 
+[V:4] !fermata!C,2zC | 
+[V:1] ggf2 | 
+[V:2] d/2G/2c-c/2B/2c/2A/2 | 
+[V:3] def2 | 
+[V:4] ^B,C/2=B,/2 A,/2G,/2A,/2F,/2 | 
+[V:1] !fermata!d2zf | 
+[V:2] !fermata!B2xc | 
+[V:3] !fermata!f2xa | 
+[V:4] !fermata!B,2zA, | 
+[V:1] fef/2e/2d | 
+[V:2] d3/2c/2cc | 
+[V:3] gga/2g/2a | 
+[V:4] ^B,CF,^^F, | 
+[V:1] !fermata!d2zg | 
+[V:2] !fermata!^B2xc- | 
+[V:3] !fermata!g2xG | 
+[V:4] !fermata!G,2zE, | 
+[V:1] fed2 | 
+[V:2] c/2^B/2ccB | 
+[V:3] c/2d/2 e/2a/2 d/2gf/2 | 
+[V:4] A,G,/2F,/2G,G,, | 
+[V:1] !fermata!c4 |] 
+[V:2] !fermata!G4 |] 
+[V:3] !fermata!e4 |] 
+[V:4] !fermata!C,4 |]

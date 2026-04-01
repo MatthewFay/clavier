@@ -1,0 +1,69 @@
+X:27
+T:27. Es spricht der Unweisen Mund
+N:Derived from chor027.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3869873725
+%%humdrum-veritas-data 1202890760
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Emaj
+[V:1] e [I:setbarnb 1]| 
+[V:2] B | 
+[V:3] g | 
+[V:4] E, | 
+[V:1] ed/2c/2Be | 
+[V:2] BAGG | 
+[V:3] gf-f/2e/2e- | 
+[V:4] E,F,G,C | 
+[V:1] fg!fermata!eB | 
+[V:2] AB!fermata!AF | 
+[V:3] e/2d/2 e/2=d/2!fermata!cd | 
+[V:4] B,E,!fermata!A,A, | 
+[V:1] efga | 
+[V:2] BBBc | 
+[V:3] eag/2f/2e- | 
+[V:4] G,D,E,A, | 
+[V:1] f/2e/2f!fermata!e :| 
+[V:2] B2!fermata!B :| 
+[V:3] e/2d/4c/4d!fermata!g :| 
+[V:4] B,2!fermata!E, :| 
+[V:1] e [I:setbarnb 5]| 
+[V:2] B | 
+[V:3] g | 
+[V:4] E,- | 
+[V:1] cde/2d/2c | 
+[V:2] ^AB-BA/2G/2 | 
+[V:3] ffgc/2d/4e/4 | 
+[V:4] E,D,C,F,/2E,/2 | 
+[V:1] B^A!fermata!BB | 
+[V:2] FF!fermata!FF | 
+[V:3] f/2e/4d/4 c/2d/4e/4!fermata!dd | 
+[V:4] D,/2E,/2F,!fermata!B,,B,/2=A,/2 | 
+[V:1] efga | 
+[V:2] B/2c/2def- | 
+[V:3] eabc'/2b/2 | 
+[V:4] G,/2A,/2 G,/2F,/2 E,/2ED/2 | 
+[V:1] gf!fermata!gf | 
+[V:2] f/2ed/2!fermata!eB | 
+[V:3] bb!fermata!bb/2a/2 | 
+[V:4] EB,!fermata!E,D | 
+[V:1] gab/2a/2g | 
+[V:2] BcdB | 
+[V:3] g/2f/2ef-f/2e/2- | 
+[V:4] E/2D/2CB,E | 
+[V:1] f/2e/2f!fermata!e |] 
+[V:2] B2!fermata!B |] 
+[V:3] e/2d/4c/4d!fermata!g |] 
+[V:4] B,2!fermata!E, |]

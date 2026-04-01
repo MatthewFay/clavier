@@ -1,0 +1,73 @@
+X:50
+T:50. In allen meinen Taten
+N:Derived from chor050.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:17
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 3846172423
+%%humdrum-veritas-data 3692882580
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:Gmaj
+[V:1] B [I:setbarnb 1]| 
+[V:2] G | 
+[V:3] d | 
+[V:4] G, | 
+[V:1] GAB/2c/2d | 
+[V:2] EFG/2A/2B | 
+[V:3] ed/2c/2B3/2A/2 | 
+[V:4] CB,/2A,/2G,3/2F,/2 | 
+[V:1] c2!fermata!BB/2c/2 | 
+[V:2] BA!fermata!GG | 
+[V:3] Gd!fermata!dd | 
+[V:4] E,F,!fermata!G,G,/2A,/2 | 
+[V:1] ddAB/2A/2 | 
+[V:2] G/2F/2 G/2A/2 F/2E/2D | 
+[V:3] dddd/2^c/2 | 
+[V:4] B,B,,/2C,/2D,B,, | 
+[V:1] G2!fermata!FD | 
+[V:2] D^C!fermata!DF | 
+[V:3] B/2A/2G!fermata!A=c | 
+[V:4] E,2!fermata!D,D, | 
+[V:1] GAB/2c/4d/4 c/2B/2 | 
+[V:2] EDDE | 
+[V:3] BAGG | 
+[V:4] E,F,G,C, | 
+[V:1] !fermata!A3B | 
+[V:2] !fermata!F3F | 
+[V:3] !fermata!d3B | 
+[V:4] !fermata!D,3^D, | 
+[V:1] GAB/2c/2d | 
+[V:2] EDDE | 
+[V:3] BAG/2A/2B | 
+[V:4] E,F,G,^G, | 
+[V:1] c2!fermata!BB/2c/2 | 
+[V:2] EA!fermata!^G=G | 
+[V:3] A/2B/2 c/2d/2!fermata!ee | 
+[V:4] A,A,,!fermata!E,E | 
+[V:1] ddAB/2A/2 | 
+[V:2] GGF/2E/2D | 
+[V:3] d/2c/2d/2e/2fg | 
+[V:4] B,/2A,/2B,/2C/2DG,/2F,/2 | 
+[V:1] G2!fermata!FD | 
+[V:2] D^C!fermata!DA, | 
+[V:3] G/2B/2 A/2G/2!fermata!AF | 
+[V:4] E,/2D,/2E,!fermata!D,=C, | 
+[V:1] GABA/2B/4c/4 | 
+[V:2] D=CB,/2D/2G | 
+[V:3] G/2d/2 e/2f/2 g/2d/2 c/2G/2 | 
+[V:4] B,,A,,G,,E, | 
+[V:1] BA!fermata!G |] 
+[V:2] GF!fermata!D |] 
+[V:3] d3/2c/2!fermata!B |] 
+[V:4] D,/2C,/2D,!fermata!G,, |]

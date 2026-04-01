@@ -1,0 +1,57 @@
+X:188
+T:189. Herr Jesu Christ, wahr Mensch und Gott
+N:Derived from chor189.krn
+C:Johann Sebastian Bach
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2019/03/11 17:28:18
+%%abc-edited-by Craig Stuart Sapp
+%%humdrum-veritas 1171871203
+%%humdrum-veritas-data 3995723487
+%%
+%%barnumbers 0
+L:1/4
+M:C
+%%staves [1 2 3 4]
+V:1 clef=treble
+V:2 clef=treble
+V:3 clef=treble-8
+V:4 clef=bass
+K:F#maj
+[V:1] f [I:setbarnb 1]| 
+[V:2] c | 
+[V:3] a/2b/2 | 
+[V:4] F,/2G,/2 | 
+[V:1] ffdg | 
+[V:2] c/2B/2 A/2G/2Fd/2e/2- | 
+[V:3] c'c'b^b | 
+[V:4] A,/2G,/2F,B,/2A,/2G, | 
+[V:1] ff!fermata!ea | 
+[V:2] e/2d/4c/4d!fermata!cc | 
+[V:3] c'g!fermata!gf | 
+[V:4] A,^B,!fermata!CF- | 
+[V:1] aad'c' | 
+[V:2] fffe | 
+[V:3] c'd'gg | 
+[V:4] F/2E/2 D/2C/2^B,C/2D/2 | 
+[V:1] c'^b!fermata!c'a | 
+[V:2] ed/2f/2 f/2!fermata!e/2e | 
+[V:3] gg!fermata!ga/2g/2 | 
+[V:4] E/2F/2G!fermata!C^^C | 
+[V:1] aa=ba | 
+[V:2] dcd=e | 
+[V:3] f/2e/2^^f-f/2g/2- g/2^^f/2 | 
+[V:4] D=ED^C | 
+[V:1] g^^f!fermata!ga | 
+[V:2] d/2=e/2 d/2c/2- c/2!fermata!B/2f | 
+[V:3] g/2c'/2a!fermata!gc' | 
+[V:4] B,/2C/2D!fermata!G,F, | 
+[V:1] aagf | 
+[V:2] ff-f/2e/2- e/2d/2 | 
+[V:3] c'd'd'/2a/2a | 
+[V:4] F/2E/2D/2C/2 ^B,/2^^C/2D | 
+[V:1] fe!fermata!f |] 
+[V:2] ^c/2d/2- d/2c/2!fermata!c |] 
+[V:3] a/2g/2 g/2a/4b/4!fermata!a |] 
+[V:4] A,/2=B,/2^C!fermata!F, |]
