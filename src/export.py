@@ -21,22 +21,46 @@ def abc_to_audio_and_sheet(abc_file_path: str | Path) -> None:
 
     # 1. Convert ABC to MIDI using abc2midi
     print(" -> Generating MIDI audio...")
-    midi_cmd = ["abc2midi", str(abc_path), "-o", str(mid_path)]
-    subprocess.run(
-        midi_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True
-    )
+    try:
+        subprocess.run(
+            ["abc2midi", str(abc_path), "-o", str(mid_path)],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except subprocess.CalledProcessError as e:
+        print(f"\n⚠️ Warning: abc2midi had issues:\n{e.stderr}")
 
     # 2. Convert ABC to PostScript using abcm2ps
     print(" -> Generating Sheet Music (PostScript)...")
-    ps_cmd = ["abcm2ps", str(abc_path), "-O", str(ps_path)]
-    subprocess.run(
-        ps_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True
-    )
+    try:
+        subprocess.run(
+            ["abcm2ps", str(abc_path), "-O", str(ps_path)],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except subprocess.CalledProcessError as e:
+        print("\n❌ abcm2ps failed to compile the sheet music. Error log:")
+        print("--------------------------------------------------")
+        print(e.stderr)
+        print("--------------------------------------------------")
+        print("This usually means the AI generated slightly invalid ABC syntax.")
+        print("Open the .abc file and check the line number mentioned above!")
+        return
 
     # 3. Convert PostScript to PDF using ps2pdf (Ghostscript)
     print(" -> Compiling to PDF...")
-    pdf_cmd = ["ps2pdf", str(ps_path), str(pdf_path)]
-    subprocess.run(pdf_cmd, check=True)
+    try:
+        subprocess.run(
+            ["ps2pdf", str(ps_path), str(pdf_path)],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except subprocess.CalledProcessError as e:
+        print(f"\n❌ ps2pdf failed:\n{e.stderr}")
+        return
 
     # Cleanup the temporary PostScript file
     if ps_path.exists():
@@ -56,8 +80,6 @@ def main() -> None:
         abc_to_audio_and_sheet(args.file)
     except Exception as e:
         print(f"Error during export: {e}")
-        print("Ensure you have installed the required system tools:")
-        print("sudo apt-get install abcmidi abcm2ps ghostscript")
 
 
 if __name__ == "__main__":

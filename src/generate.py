@@ -1,4 +1,5 @@
 import argparse
+import re
 from pathlib import Path
 from typing import Any, cast
 
@@ -11,7 +12,7 @@ from model import Clavier
 # --- Path Configuration ---
 SRC_DIR = Path(__file__).parent.resolve()
 PROJECT_ROOT = SRC_DIR.parent
-CHECKPOINT_PATH = Path("/content/drive/MyDrive/clavier_checkpoints/clavier_best.pt")
+CHECKPOINT_PATH = PROJECT_ROOT / "models" / "clavier_bach.pt"
 OUTPUT_DIR = PROJECT_ROOT / "generated"
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -19,7 +20,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 def generate_music(
     model: Clavier,
-    tokenizer: Any,  # Use Any here to bypass strict checking on the Rust object
+    tokenizer: Any,  # Use Any to bypass strict checking on the Rust object
     composer: str = "bach",
     max_new_tokens: int = 1024,
     temperature: float = 1.0,
@@ -28,6 +29,9 @@ def generate_music(
     """Generates an ABC music sequence autoregressively."""
     model.eval()
 
+    # Get the exact ID for the End of Sequence token safely
+    eos_id = int(cast(int, tokenizer.token_to_id("<|eos|>")))
+
     # 1. Setup the prompt
     prompt = f"<|bos|><|{composer}|>"
 
@@ -35,14 +39,14 @@ def generate_music(
     prompt_ids = cast(list[int], encoded.ids)
 
     # Context window tensor (Shape: [1, Sequence Length])
-    idx: torch.Tensor = torch.tensor([prompt_ids], dtype=torch.long, device=device)
+    idx = torch.tensor([prompt_ids], dtype=torch.long, device=device)
 
     print(f"Generating with temperature {temperature} and top_k {top_k}...")
 
     block_size = int(model.block_size)
 
     with torch.no_grad():
-        for _ in range(max_new_tokens):
+        for step in range(max_new_tokens):
             # Crop to block size if we exceed the model's context window
             idx_cond = idx if idx.size(1) <= block_size else idx[:, -block_size:]
 
@@ -66,11 +70,8 @@ def generate_music(
             idx = torch.cat((idx, next_token), dim=1)
 
             # Stop if the model naturally predicts the End of Sequence token
-            next_token_id = int(next_token.item())
-
-            # Cast the return of decode to a string
-            token_str = str(cast(str, tokenizer.decode([next_token_id])))
-            if "<|eos|>" in token_str:
+            if int(next_token.item()) == eos_id:
+                print(f"Model naturally finished the composition after {step} tokens!")
                 break
 
     # 2. Decode the final sequence
@@ -86,8 +87,25 @@ def generate_music(
         raw_text.replace("<|bos|>", "")
         .replace(f"<|{composer}|>", "")
         .replace("<|eos|>", "")
-        .strip()
     )
+
+    # Strip the artificial spaces added by the Tokenizer
+    clean_text = clean_text.replace(" ", "")
+
+    # Inject newlines so abcm2ps doesn't buffer-overflow on massive single lines
+    clean_text = clean_text.replace("][", "]\n[")  # Separate headers
+    clean_text = clean_text.replace("[V:", "\n[V:")  # Put voices on new lines
+    clean_text = clean_text.replace("|[", "|\n[")  # Break lines at measures
+
+    # Clean up any double newlines created by the replacements
+    while "\n\n" in clean_text:
+        clean_text = clean_text.replace("\n\n", "\n")
+
+    clean_text = clean_text.strip()
+
+    # THE HEADER FIX: Strip brackets from standalone global tags (like [K:F] -> K:F)
+    # This prevents the "Unexpected EOF in header definition" crash in abcm2ps
+    clean_text = re.sub(r"^\[([A-Z]:[^\]]+)\]$", r"\1", clean_text, flags=re.MULTILINE)
 
     # Add an ABC header if the model didn't generate one (helps with rendering)
     if not clean_text.startswith("X:1"):
