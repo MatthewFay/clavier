@@ -440,6 +440,8 @@ tokenizers==0.22.2
     #   transformers
 torch==2.11.0
     # via -r requirements.in
+torchinfo==1.8.0
+    # via -r requirements.in
 tornado==6.5.5
     # via
     #   ipykernel
